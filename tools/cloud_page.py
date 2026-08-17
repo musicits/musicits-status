@@ -144,7 +144,8 @@ def article(idx, item, titles):
                e(item.get("source")), e(item.get("date_kst"))))
 
 
-def render(label, items, digest):
+def render(label, items, digest, first=False):
+    """회차 하나. 맨 위(가장 최근) 회차는 펼쳐서 내보낸다."""
     titles = digest.get("titles") or {}
     if not items:
         inner = '<p class="empty">새 소식이 없었습니다.</p>'
@@ -170,15 +171,16 @@ def render(label, items, digest):
     meta = "%d건" % len(items)
     if titles:
         meta = "%d건 · 번역됨" % len(items)
-    return ('<details><summary><span>%s</span>'
+    return ('<details%s><summary><span>%s</span>'
             '<span class="meta">%s</span></summary>'
             '<div class="body">%s</div></details>'
-            % (e(label), e(meta), inner))
+            % (" open" if first else "", e(label), e(meta), inner))
 
 
 def main():
     rs = runs()
-    body = ("".join(render(l, i, d) for l, i, d in rs) or
+    body = ("".join(render(l, i, d, first=(n == 0))
+                for n, (l, i, d) in enumerate(rs)) or
             '<p class="empty">아직 휴대폰에서 돌린 기록이 없습니다.</p>')
     page = PAGE % (HEAD_JS, CSS,
                    datetime.now(KST).strftime("%Y-%m-%d %H:%M"), len(rs), body)
