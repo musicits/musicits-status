@@ -36,10 +36,57 @@ a{color:var(--acc);word-break:break-all}
 .empty{color:var(--mut);font-size:13.5px}
 .note{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);
  border-radius:9px;padding:11px 13px;margin:0 0 16px}
+.tiles{display:flex;flex-wrap:wrap;gap:14px;margin:2px 0 4px}
+.tile{min-width:70px}
+.tv{display:block;font-size:19px;font-weight:700;letter-spacing:-.3px}
+.tl{display:block;font-size:11.5px;color:var(--mut);margin-top:1px}
+.scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--mut);font-weight:600;font-size:11.5px}
+
+.vh{margin:20px 0 9px;font-size:13.5px;color:var(--mut);font-weight:700}
+.vh:first-child{margin-top:6px}
+.vrow{padding:11px 0;border-bottom:1px solid var(--line)}
+.vrow.tight{padding:8px 0}
+.vrow:last-child{border-bottom:0}
+.vcard{border:1px solid var(--line);border-radius:12px;padding:13px 14px;margin:0 0 12px}
+.vhead{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.vname{font-size:14px;font-weight:600;word-break:break-word}
+a.vname{color:var(--acc);text-decoration:none}
+.vnum{font-size:13px;font-weight:700;white-space:nowrap;color:var(--mut)}
+.vnum.big{font-size:22px;color:var(--acc)}
+.vtitle{margin:7px 0 9px;font-size:14px;word-break:break-word}
+.vsub{margin:9px 0 4px;font-size:12.5px;color:var(--mut)}
+.vsub.dim{margin-top:6px}
+.bar{height:6px;border-radius:99px;background:var(--line);overflow:hidden;margin:6px 0 0}
+.bar i{display:block;height:100%;border-radius:99px;background:var(--acc)}
+.bar.up i{background:#1a9d4d}
+.bar.warn i{background:#c98a00}
+.bar.down i{background:#c8503f}
+.vmeta{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.chip{display:inline-block;font-size:11.5px;font-weight:600;padding:2px 8px;
+ border-radius:99px;background:var(--bg);border:1px solid var(--line);color:var(--mut)}
+.chip.up{color:#1a7f3c;border-color:#a6dcbb}
+.chip.down{color:#a52222;border-color:#e7b4b4}
+.chip.ai{color:var(--acc);border-color:var(--acc)}
+.chip.muted{opacity:.65}
+.axis{margin:11px 0 0}
+.aname{font-size:12.5px;font-weight:600}
+.anum{font-size:12px;color:var(--mut);white-space:nowrap}
+.awhy{margin:5px 0 0;font-size:12.5px;color:var(--mut);word-break:break-word}
+.sug{display:flex;justify-content:space-between;gap:10px;padding:8px 0;
+ border-bottom:1px solid var(--line);font-size:13.5px}
+.sug:last-child{border-bottom:0}
+.slen{color:var(--mut);font-size:12px;white-space:nowrap}
+td.rk{font-weight:700;white-space:nowrap}
+td.dim{color:var(--mut)}
+.raw{margin-top:18px}
+.raw summary{padding:11px 0;font-size:13px;color:var(--mut);min-height:0}
 </style></head><body><div class="wrap">
 <a class="back" href="../../">← 전체 현황으로</a>
 <h1>휴대폰 블로그 도구 결과</h1>
-<p class="sub">2026-08-17 23:45 기준</p>
+<p class="sub">2026-08-18 00:13 기준</p>
 <p class="note">여기 쌓이는 것은 <b>깃허브에서 돌린</b> 결과입니다. PC 에서 돌린 것과는
 회차가 따로 관리되고, 성과 추적의 '지난 회차 대비' 비교도 각자 자기 기록을 봅니다.
 엑셀 파일은 만들지 않습니다.</p>

@@ -7,6 +7,7 @@
 계산하지 않는다 — 두 벌로 두면 한쪽이 낡는다.
 """
 import html as H
+import json
 import os
 import re
 import sys
@@ -16,6 +17,9 @@ try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 except AttributeError:
     pass
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import blogview  # noqa: E402  (PC 메인 페이지와 같은 화면을 쓴다)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -76,7 +80,15 @@ a{color:var(--acc);word-break:break-all}
 .empty{color:var(--mut);font-size:13.5px}
 .note{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);
  border-radius:9px;padding:11px 13px;margin:0 0 16px}
-""".replace("__DARK__", DARK_CSS)
+.tiles{display:flex;flex-wrap:wrap;gap:14px;margin:2px 0 4px}
+.tile{min-width:70px}
+.tv{display:block;font-size:19px;font-weight:700;letter-spacing:-.3px}
+.tl{display:block;font-size:11.5px;color:var(--mut);margin-top:1px}
+.scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--mut);font-weight:600;font-size:11.5px}
+""".replace("__DARK__", DARK_CSS) + blogview.CSS
 
 PAGE = """<!doctype html>
 <html lang="ko"><head>
@@ -131,6 +143,14 @@ def read(path):
         return ""
 
 
+def read_json(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return None
+
+
 def main():
     blocks, total = [], 0
     for tool in TOOLS:
@@ -142,8 +162,14 @@ def main():
             continue
         for when, path in found:
             report = read(os.path.join(path, "리포트.txt"))
-            inner = ('<pre>%s</pre>' % linkify(e(report)) if report
-                     else '<p class="empty">리포트가 만들어지지 않았습니다.</p>')
+            data = read_json(os.path.join(path, "데이터.json"))
+            if not report and data is None:
+                inner = '<p class="empty">결과가 만들어지지 않았습니다.</p>'
+            else:
+                inner = blogview.render(tool, data)
+                if report:
+                    inner += ('<details class="raw"><summary>원문 리포트 보기</summary>'
+                              '<pre>%s</pre></details>' % linkify(e(report)))
             blocks.append('<details><summary><span>%s</span>'
                           '<span class="meta">%s</span></summary>'
                           '<div class="body">%s</div></details>'
