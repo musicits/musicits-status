@@ -1,0 +1,286 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-18 00:03 (KST)
+확인 범위: 최근 24시간(첫 실행) 이후 → 2026-08-17 00:03 (KST) 이후 기사
+새 기사: 54건
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 3건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 1건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 13건 생략)
+
+■ [IT 공식발표] 2건
+----------------------------------------
+· 삼성, 국제올림피아드 수상자에게 장학금… 이공계 인재 육성에 기여
+  출처: Samsung Newsroom Korea / 2026-08-17 21:57
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1-%ea%b5%ad%ec%a0%9c%ec%98%ac%eb%a6%bc%ed%94%bc%ec%95%84%eb%93%9c-%ec%88%98%ec%83%81%ec%9e%90%ec%97%90%ea%b2%8c-%ec%9e%a5%ed%95%99%ea%b8%88-%ec%9d%b4%ea%b3%b5%ea%b3%84
+  피드 요약: 삼성전자∙삼성바이오, 국제올림피아드 수상자 15명에 장학금 수여… 이공계 인재 육성에 기여 삼성전자와 삼성바이오로직스∙삼성바이오에피스는 지난 7월 열린 국제올림피아드 수학∙물리∙생물 대회에서 우수한 성적으로 메달을 획득한 한국 대표 15명과 학부모들을 각 사업장에 초청해 장학금을 수여하고 격려하는 행사를 진행했다. 삼성전자 DX부문은 이달 11일 수원캠퍼스에서 국제수학올림피아드 수상자 6명(금메달 3명, 은메달 2명, 장려상 1명)에게 장학금을 수여했다. 노태문 DX부문장(사장)이 직접 장학금을 수여하고 수상자들을 […]
+
+· 삼성전자, 액티비전 블리자드와 ‘콜 오브 듀티: 모던 워페어 4’ 파트너십 체결
+  출처: Samsung Newsroom Korea / 2026-08-17 17:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%95%a1%ed%8b%b0%eb%b9%84%ec%a0%84-%eb%b8%94%eb%a6%ac%ec%9e%90%eb%93%9c%ec%99%80-%ec%bd%9c-%ec%98%a4%eb%b8%8c-%eb%93%80%ed%8b%b0-%eb%aa%a8%eb%8d%98-%ec%9b%8c
+  피드 요약: 삼성전자가 글로벌 게임 개발사 액티비전 블리자드(Activision Blizzard)와 대표 1인칭 슈팅 게임(FPS) 신작 ‘콜 오브 듀티®: 모던 워페어 4(Call of Duty®: Modern Warfare® 4)’의 공식 파트너십을 체결했다. 삼성전자는 ‘콜 오브 듀티®: 모던 워페어 4’의 개발 단계부터 참여해 TV, 모니터, 사운드바, Wi-Fi 스피커 등 주요 게이밍 제품을 게임 플레이에 최적화 했으며, 양사 간 파트너십을 기반으로 글로벌 마케팅을 […]
+
+■ [IT 루머] 37건
+----------------------------------------
+· Apple Wallet Driver's License Feature to Launch in Four More U.S. States
+  출처: MacRumors / 2026-08-17 23:53
+  링크: https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/
+  피드 요약: In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. According to a new report and evidence within Apple's code, th
+
+· iOS 27 Finally Fixes Replying to Android Texts
+  출처: MacRumors / 2026-08-17 23:28
+  링크: https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/
+  피드 요약: When iOS 27 arrives next month, you'll be able to reply to a specific green chat bubble (aka an Android message) in a Messages conversation on your iPhone. All you need to do is press and hold the message, tap Reply, then type your response. It will be received by the recipient as a real threaded re
+
+· AirPods Max 2 Discounted by $120 Across Amazon and Best Buy
+  출처: MacRumors / 2026-08-17 21:36
+  링크: https://www.macrumors.com/2026/08/17/airpods-max-2-drop-to-low/
+  피드 요약: Apple's AirPods Max 2 have hit $429.00 on Amazon this week, down from $549.00. This sale is available in two colors on Amazon, while Best Buy has all five models in stock at this low price. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase,
+
+· Apple's macOS Screen Sharing Flaw Is Being Exploited in the Wild
+  출처: MacRumors / 2026-08-17 21:20
+  링크: https://www.macrumors.com/2026/08/17/macos-screen-sharing-flaw-exploited/
+  피드 요약: The screen sharing flaw that Apple rushed out a fix for earlier this month has already been exploited in the wild, according to the Netherlands' National Cyber Security Center (NCSC-NL). On August 6, Apple released macOS Tahoe 26.6.1 , an update to the ‌macOS Tahoe‌ operating system that came out la
+
+· Job Listing Suggests Apple Fitness+ Could Get Live Content
+  출처: MacRumors / 2026-08-17 17:02
+  링크: https://www.macrumors.com/2026/08/17/apple-fitness-could-get-live-content/
+  피드 요약: Apple is hiring a Studio Producer for its Fitness+ service with a background in live production, in what could be a hint at the future of the service. The job listing was posted last month, detailing an in-person role at Apple's Santa Monica studio. It calls for someone with a "strong foundation in 
+
+· Galaxy Z Fold 8 gets a $200 no trade-in credit, here’s what you can use it for
+  출처: SamMobile / 2026-08-17 23:55
+  링크: https://www.sammobile.com/news/galaxy-z-fold-8-gets-a-200-no-trade-in-credit-heres-what-you-can-use-it-for/
+  피드 요약: For a limited time only, Samsung is offering customers who buy the Galaxy Z Fold 8 through its online store in the United States a $200 trade-in credit if they don't have a device to trade-in. This is different from the instant discounts that Samsung has offered in the past on other devices, meaning
+
+· Set up your Galaxy Z Fold 8 with Smart Switch? Your zoom level may be wrong
+  출처: SamMobile / 2026-08-17 23:19
+  링크: https://www.sammobile.com/news/set-up-your-galaxy-z-fold-8-with-smart-switch-your-zoom-level-may-be-wrong/
+  피드 요약: If you've upgraded your Galaxy phone before and transferred your settings from your old phone to the new one using Smart Switch, you know how convenient it is. It may be one of the best things about Samsung Smart Switch, but it can also backfire. Here's the perfect example. If you've just bought a n
+
+· A new competitor emerges to challenge Samsung in the smartwatch segment
+  출처: SamMobile / 2026-08-17 22:09
+  링크: https://www.sammobile.com/news/garmin-challenges-samsung-smartwatch-market-share-q2-2026/
+  피드 요약: Apple and Samsung have long been the world's two biggest smartwatch brands, but a new competitor has emerged to challenge Samsung's position. Garmin gained ground in the second quarter of this year (Q2 2026), driven by enthusiasts and professional athletes. The latest report from the market research
+
+· Samsung could launch a second wide-format foldable alongside Galaxy Z Fold 9
+  출처: SamMobile / 2026-08-17 19:50
+  링크: https://www.sammobile.com/news/samsung-could-launch-second-wide-format-foldable-alongside-galaxy-z-fold-9/
+  피드 요약: Samsung’s first smartphone with a 4:3 aspect ratio book-style foldable display, the Galaxy Z Fold 8, has been a huge hit globally, with the brand reportedly struggling to keep up with demand. As such, there was little doubt that the company would continue the lineup with a successor. However, the su
+
+· Why the iPhone Ultra might not drastically affect Galaxy Z Fold 8 sales at launch
+  출처: SamMobile / 2026-08-17 18:06
+  링크: https://www.sammobile.com/news/iphone-ultra-launch-wont-drastically-affect-galaxy-z-fold-8-sales/
+  피드 요약: Apple is expected to unveil its first foldable iPhone later this year, seven years after Samsung unveiled the original Galaxy Fold. This upcoming iPhone is widely being called the iPhone Ultra, and it will rival the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra this year. Since Apple has an undeniab
+
+· Massive One UI 9.5 leak reveals smoother animations, new fingerprint design, and more
+  출처: SamMobile / 2026-08-17 16:09
+  링크: https://www.sammobile.com/news/massive-one-ui-9-5-leak-smoother-animations-fingerprint-design-camera-ui/
+  피드 요약: While most Galaxy users are still waiting for the stable One UI 9.0 update, tidbits related to One UI 9.5 are already leaking out. After it was revealed last week that One UI 9.5 will bring App Lock and glass-like UI design tweaks, a new leak has uncovered even more information. One UI 9.5 brings […
+
+· Call of Duty: Modern Warfare 4 uses Samsung’s HDR10+ GAMING format
+  출처: SamMobile / 2026-08-17 15:11
+  링크: https://www.sammobile.com/news/call-of-duty-modern-warfare-4-hdr10-gaming-samsung/
+  피드 요약: The upcoming Call of Duty game will use Samsung's HDR10+ GAMING format for a more immersive gaming experience. Activision and Samsung have announced a wide-ranging partnership to improve the gameplay experience of Call of Duty: Modern Warfare 4 across Samsung TVs, monitors, soundbars, and Wi-Fi spea
+
+· How to use digital IDs in Apple Wallet & where they are supported
+  출처: AppleInsider / 2026-08-17 23:34
+  링크: https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss
+  피드 요약: In a growing number of states, you can add your ID to Apple Wallet . Here's how to add them, how they work, where they are, what the limitations are, and what they can do. A digital driver's license in the Apple Wallet app We're moving closer and closer to a world where you can ditch your physical w
+
+· AirPods Max 2 just dropped to $429, save $120
+  출처: AppleInsider / 2026-08-17 23:19
+  링크: https://appleinsider.com/articles/26/08/17/airpods-max-2-just-dropped-to-429-save-120?utm_source=rss
+  피드 요약: Amazon's $120 AirPods Max 2 discount is the steepest seen since Prime Day 2026. Save $120 on AirPods Max 2, lowest price of the season - Image credit: Apple You can pick up AirPods Max 2 at a $120 discount at Amazon in your choice of Starlight or Purple. Buy AirPods Max 2 for $429 Continue Reading o
+
+· Natural language robot cues, Apple Intelligence limits, & Mophie 4-in-1 review on Smart Home Insider
+  출처: AppleInsider / 2026-08-17 22:37
+  링크: https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss
+  피드 요약: On this week's episode of the Smart Home Insider podcast, we get into some impressive home robotics, new Apple Intelligence limits, and more! Smart Home Insider Podcast Kicking off the news for the week, the latest beta of iOS 27 confirmed limits on Apple Intelligence summaries for Apple Home camera
+
+· The best Apple-related books in AppleInsider's video studio
+  출처: AppleInsider / 2026-08-17 22:05
+  링크: https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss
+  피드 요약: I'm doing a redesign of the AppleInsider video studio, so it's a perfect time to answer a question that I get a lot. Here's what's on my shelves, and the big omission that I still regret not buying when I could. Some of the random tech books in my studio as of late I'm as tech-forward as they come, 
+
+· Michigan women sue Apple over AirTag anti-stalking protection failures
+  출처: AppleInsider / 2026-08-17 21:09
+  링크: https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss
+  피드 요약: Apple has been dragged into another lawsuit about AirTag , after two women in Detroit allege they were tracked by their former partners using the accessory, but weren't alerted to being tracked. An AirTag attached to a bag A lawsuit, filed on August 10 at the U.S. District Court for the Eastern Dist
+
+· How German regulators are cracking down on App Tracking Transparency
+  출처: AppleInsider / 2026-08-17 21:01
+  링크: https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss
+  피드 요약: Having rejected Apple's initial compromise proposals for App Tracking Transparency in the App Store , Germany says it has made a final agreement that will make the system fair to all developers. App Tracking Transparency Germany's federal cartel office, the Bundeskartellamt, has been challenging App
+
+· Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared
+  출처: AppleInsider / 2026-08-17 20:10
+  링크: https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss
+  피드 요약: Google's new smartwatch is gunning for the Apple Watch , and it's closely matched on price. Here's how the Apple Watch Series 11 compares against the Pixel Watch 5. Apple Watch Series 11 [left], Google Pixel Watch 5 [right] Google's fresh batch of Pixel device launches included more than just smartp
+
+· Jony Ive-designed Ferrari Luce sells for $40M at auction
+  출처: AppleInsider / 2026-08-17 05:04
+  링크: https://appleinsider.com/articles/26/08/16/jony-ive-designed-ferrari-luce-sells-for-40m-at-auction?utm_source=rss
+  피드 요약: The first Ferrari Luce off the production line has sold for big money, with the Jony Ive -connected vehicle fetching a staggering $40 million at auction. The Ferrari Luce offers good aerodynamics, but it looks nothing like a Ferrari. Image Credit: Ferrari. The car company's first production electric
+
+· Apple Wallet driver’s license is coming to new US state soon
+  출처: 9to5Mac / 2026-08-17 23:16
+  링크: https://9to5mac.com/2026/08/17/apple-wallet-drivers-license-is-coming-to-new-us-state-soon/
+  피드 요약: Apple Wallet’s support for digital driver’s licenses keeps expanding, with North Carolina the latest state to announce that it’s launching soon. Here are the details.
+
+· This iPad keyboard case is the perfect addition to our Back to School tech roundup
+  출처: 9to5Mac / 2026-08-17 23:07
+  링크: https://9to5mac.com/2026/08/17/this-ipad-keyboard-case-is-the-perfect-addition-to-our-back-to-school-tech-roundup/
+  피드 요약: If you have kids returning to school or college, the back to school sales are great timing to equip them with tech that can help them carry out their study assignments. Apple last month launched its own back to school promotion , offering a $150 gift card with qualifying Mac and iPad purchases, and 
+
+· Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU
+  출처: 9to5Mac / 2026-08-17 22:58
+  링크: https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/
+  피드 요약: App Tracking Transparency (ATT) is an Apple privacy initiative intended to allow iPhone owners greater control over how developers collect and use their data. However, the company was accused of treating its own apps more favourably than third-party ones. The company has now agreed to apply new rule
+
+· New iPhone Ultra leaks cover release timing, availability, and name
+  출처: 9to5Mac / 2026-08-17 22:47
+  링크: https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/
+  피드 요약: Apple’s foldable iPhone Ultra will be unveiled in just a few weeks , and new leaks cover what to expect from release timing, availability, and the product’s name.
+
+· AI-generated text should be detectable, but Apple needs to avoid Anthropic’s huge error
+  출처: 9to5Mac / 2026-08-17 22:30
+  링크: https://9to5mac.com/2026/08/17/ai-generated-text-should-be-detectable-but-apple-needs-to-avoid-anthropics-huge-error/
+  피드 요약: As someone who writes for a living, you would correctly guess that I’m wholeheartedly in favour of allowing AI -generated text to be detectable and marked as such. There’s just a ridiculous amount of AI slop out there, and an “AI content” label means I don’t need to waste my time reading any of it. 
+
+· Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more
+  출처: 9to5Mac / 2026-08-17 21:05
+  링크: https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/
+  피드 요약: The late summer AirPods deals are really flying now, folks. While we might be in for a next-gen and potentially next-gen price come next month, AirPods Pro 3 are sitting at some of the best prices ever, AirPods 4 with ANC just hit the lowest rate in nearly half a year, and the 2026 AirPods Max 2 jus
+
+· A serious Mac screen sharing vulnerability is being actively exploited
+  출처: 9to5Mac / 2026-08-17 20:36
+  링크: https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/
+  피드 요약: Apple recently released updates to three versions of macOS, stating that they fixed a serious screen sharing vulnerability in macOS Tahoe, Sequoia, and Sonoma. At the time, there was no indication that the security flaw was being exploited in the wild, but now there is, so if you haven’t yet updated
+
+· Apple Fitness+ could be getting live sessions, but probably not
+  출처: 9to5Mac / 2026-08-17 20:10
+  링크: https://9to5mac.com/2026/08/17/apple-fitness-could-be-getting-live-sessions-but-probably-not/
+  피드 요약: An Apple job listing appears to be suggesting that the company might be planning some live Apple Fitness+ sessions. However, my strong suspicion is that all is not quite as it seems. The job opening is for a studio producer, and Apple is specifically seeking someone with a strong background in live 
+
+· Need a budget 5G phone for reading? The TCL 60 XE NXTPAPER 5G is 20% off
+  출처: Android Authority / 2026-08-17 23:58
+  링크: https://www.androidauthority.com/tcl-60-xe-nxtpaper-5g-amazon-deal-3699381/
+  피드 요약: TCL’s NXTPAPER 5G phone drops to $199.99, with a paper-like display, 120Hz screen, 128GB storage, and 5G support.
+
+· Google’s new deal will put the Pixel 11 and Gemini in front of millions
+  출처: Android Authority / 2026-08-17 22:27
+  링크: https://www.androidauthority.com/google-pixel-11-european-soccer-3699292/
+  피드 요약: Five elite soccer clubs will turn Pixel 11 phones and Gemini into part of matchday.
+
+· Android’s Ultra flagship era may be coming to an end
+  출처: Android Authority / 2026-08-17 22:21
+  링크: https://www.androidauthority.com/android-ultra-flagship-era-ending-3699314/
+  피드 요약: Rising RAM prices are reportedly forcing major OEMs to cancel or scale back global releases for their top-tier Ultra phones.
+
+· This new Xbox 360 emulator for Android runs much better than I expected
+  출처: Android Authority / 2026-08-17 21:31
+  링크: https://www.androidauthority.com/xendroid-xbox-360-emulator-android-3699252/
+  피드 요약: Not bad at all for a project that's been out for less than a month.
+
+· PSA: Android 17 QPR2 Beta 3 may mess up your home screen
+  출처: Android Authority / 2026-08-17 21:04
+  링크: https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/
+  피드 요약: Android 17 QPR2 Beta 3 can break common home screen features, including widgets, while also jumbling your app drawer.
+
+· The Galaxy S22 just got a new shot at Android 17, thanks to LineageOS
+  출처: Android Authority / 2026-08-17 20:52
+  링크: https://www.androidauthority.com/samsung-galaxy-s22-android-17-lineageos-3699270/
+  피드 요약: LineageOS 23 arrives on Galaxy S22, opening doors to an unofficial Android 17 update.
+
+· Survey shows a slim minority would consider renting their next Android phone
+  출처: Android Authority / 2026-08-17 19:43
+  링크: https://www.androidauthority.com/renting-android-phones-poll-results-3699217/
+  피드 요약: Not everyone is against a version of Apple Upgrade for Android makers.
+
+· 5 Android phones you should buy instead of the Google Pixel 11
+  출처: Android Authority / 2026-08-17 19:30
+  링크: https://www.androidauthority.com/google-pixel-11-alternatives-3697717/
+  피드 요약: The Pixel 11 is tempting, but these alternatives might still be better.
+
+· 애플 아이폰 폴드, 문제 없이 양산중 (*단계적 출시도 없음)
+  출처: 란즈크 블로그 / 2026-08-17 08:33
+  링크: https://blog.naver.com/yeux1122/224380877549?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 폴드 모델 출시와 관련된 추가 내용이 나왔습니다. (*대만 경제일보 및 웨이보 & 공급망 소스 종합) 최근 아이폰 울트라 프로젝트가 양산 난이도로 지역별 단계적 출시 루머가 나왔는데 사실과 다름 현재 아무 문제 없이 양산중 없이 진행중 출시 이후 다른 아이폰 처럼 동일한 예약 및 일정을 가짐 특히 단계적 출시는 2018년부터 폴더블폰을 출시해 온 삼성 등 다른 회사들에 비해 큰 불리함이 될 수 있고 자체적으로 매우 중요한 프로젝트이기에 무리해서(*공급망) 미리 힘들게 해서 양산 목표 및 기술적 난제를 이미 해결해 둔 상
+
+■ [오디오] 9건
+----------------------------------------
+· Beware: these vinyl albums are actually worse than their streaming versions
+  출처: What Hi-Fi? / 2026-08-17 23:01
+  링크: https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions
+  피드 요약: Some are lacking entire tracks – and fans are understandably miffed
+
+· I did not expect this Award-winning 4K projector to drop by £4500
+  출처: What Hi-Fi? / 2026-08-17 21:55
+  링크: https://www.whathifi.com/tv-home-cinema/projectors/i-did-not-expect-this-award-winning-4k-projector-to-drop-by-gbp4500
+  피드 요약: Nearly 30 per cent off this five-star home cinema projector
+
+· Sony and Bose beware! Reports suggest Samsung is working on a pair of wireless over-ear headphones
+  출처: What Hi-Fi? / 2026-08-17 21:15
+  링크: https://www.whathifi.com/headphones/wireless-headphones/is-samsung-about-to-take-on-sony-bose-and-apple-with-its-first-over-ear-headphones-in-11-years
+  피드 요약: Recent reports would suggest so...
+
+· Monitor Audio updates its popular Silver range of speakers to “set a new benchmark for high-fidelity performance at its price”
+  출처: What Hi-Fi? / 2026-08-17 17:00
+  링크: https://www.whathifi.com/speakers/hi-fi-speakers/monitor-audio-updates-its-popular-silver-range-of-speakers-to-set-a-new-benchmark-for-high-fidelity-performance-at-its-price
+  피드 요약: The Silver Series 8G consists of seven models for hi-fi and home cinema systems
+
+· Goldmund’s most advanced amp yet, something new from Sonos, 21st Century boombox reviewed and more
+  출처: What Hi-Fi? / 2026-08-17 16:00
+  링크: https://www.whathifi.com/av/goldmunds-most-advanced-amp-yet-something-new-from-sonos-21st-century-boombox-reviewed-and-more
+  피드 요약: All the biggest hi-fi and home cinema news, explained by our experts
+
+· The Music Studio 7 represents ‘a new breed of Samsung hi-fi’ – and it’s now 40% off for a limited time
+  출처: What Hi-Fi? / 2026-08-17 14:31
+  링크: https://www.whathifi.com/speakers/wireless-speakers/the-music-studio-7-represents-a-new-breed-of-samsung-hi-fi-and-its-now-40-percent-off-for-a-limited-time
+  피드 요약: The Music Studio 7 was developed in the same Audio Lab as the company's top-rated Dolby Atmos soundbars. We think that experience shows, and it's now discounted for a very limited time.
+
+· SHOKZ OpenDots 2 deal cuts $30 off the new clip-on open-ear earbuds
+  출처: SoundGuys / 2026-08-17 23:46
+  링크: https://www.soundguys.com/shokz-opendots-2-deal-161538/
+  피드 요약: SHOKZ OpenDots 2 hit a record-low $169.95 on Amazon, with 15% off these premium open-ear earbuds.
+
+· Four years after its untimely demise, Spotify Car Thing is back, for free, and with absolutely no help from the streaming giant itself
+  출처: TechRadar 오디오 / 2026-08-17 19:15
+  링크: https://www.techradar.com/audio/four-years-after-its-untimely-demise-spotify-car-thing-is-back-for-free-and-with-absolutely-no-help-from-the-streaming-giant-itself
+  피드 요약: Spotify Car Thing was discontinued in 2022 and killed off in 2024, but fans have brought it back (in sort).
+
+· 4 of the most detailed and sonically stellar elite hi-fi speakers I heard Audio at Audio Advice Live
+  출처: TechRadar 오디오 / 2026-08-17 04:00
+  링크: https://www.techradar.com/audio/speakers/4-of-the-most-detailed-and-sonically-stellar-elite-hi-fi-speakers-i-heard-audio-at-audio-advice-live
+  피드 요약: This year's Audio Advice Live has brought with it some of the best new stereo speakers from Bowers & Wilkins, Focal, Klipsch, and JBL, redefining what a great HiFi speaker is.
+
+■ [카메라] 6건
+----------------------------------------
+· We got the Sony A7rVI, RX10V and FX5: Is the A7sIV, A6900 or something else coming next?
+  출처: Sony Alpha Rumors / 2026-08-17 22:21
+  링크: https://www.sonyalpharumors.com/we-got-the-sony-a7rvi-rx10v-and-fx5-is-the-a7siv-a6900-or-something-else-coming-next/
+  피드 요약: This first half of the year we got already three camera models: Sony A7rVI at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK Sony RX10V at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, C
+
+· New Sony FX5 reviews
+  출처: Sony Alpha Rumors / 2026-08-17 18:25
+  링크: https://www.sonyalpharumors.com/new-sony-fx5-reviews/
+  피드 요약: Preorders: Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK Sony DVF-EL1 Electronic Viewfinder at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK Sony XLR-H2 XLR Handle Unit at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clif
+
+· Sony Tidbits…
+  출처: Sony Alpha Rumors / 2026-08-17 15:07
+  링크: https://www.sonyalpharumors.com/sony-tidbits-1913/
+  피드 요약: Small Lenses, BIG Fun – Viltrox 26mm f/2.8 EVO & 28mm f/4.5 Today deals at Amazon, BHphoto, Adorama, Amazon DE, Amazon UK, Amazon FR, Amazon IT, FotoErhardt DE, FotoKoch DE. A Good Wedding Photography Contract Protects Everyone: What to Include and What’s at Stake Without One (42West). I Took the Vi
+
+· Canon Continues VCM Prime Lens Technology Development
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-17 16:51
+  링크: https://www.canonrumors.com/canon-continues-vcm-prime-lens-technology-development/
+  피드 요약: In Canon's latest patent P2026-130227, it looks like they are continuing their research and development into fast VCM prime lenses. This latest patent is related to the VCM lenses that already exist, but Canon is obviously going to continue to evolve these types of lens designs. As with most optical
+
+· Weekly Nikon news flash #899
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-17 04:14
+  링크: https://nikonrumors.com/2026/08/16/weekly-nikon-news-flash-899.aspx/
+  피드 요약: → The Peak Design modular field L-bracket system Kickstarter is ending in 4 days (additional information). → Save $350.89 on the Adobe Creative Cloud Pro (12-month subscription). → The latest new and upcoming lenses from Meike, Viltrox, 7Artisans, TTartisan, Laowa, Sirui, and SG-image. → Many memory
+
+· FUJIFILM PRICES ARE GOING UP — 5 Cameras to Buy Before September 1
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-17 00:12
+  링크: https://www.fujirumors.com/fujifilm-prices-are-going-up-5-cameras-to-buy-before-september-1/
+  피드 요약: Back in July, German retailer Fuji-Store briefly published a list of Fujifilm cameras set to receive a price increase on September 1. I can confirm that the increase will extend beyond Europe to other markets as well. Fujifilm has pointed to the reason in its latest fiscal report: soaring memory com
