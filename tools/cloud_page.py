@@ -65,9 +65,14 @@ summary .meta{font-weight:400;font-size:12px;color:var(--mut);white-space:nowrap
 .cat{display:inline-block;font-size:11.5px;font-weight:700;color:var(--acc);
  background:var(--bg);border:1px solid var(--line);border-radius:5px;
  padding:2px 8px;margin:14px 0 8px}
+.cat.pick{color:#fff;background:var(--acc);border-color:var(--acc)}
+.rule{border-top:1px solid var(--line);margin:18px 0 4px}
 .item{margin:0 0 12px}
 .item .t{font-size:14px;font-weight:600;display:block;color:var(--fg);text-decoration:none}
+.item .o{display:block;font-size:12px;color:var(--mut);margin:2px 0 1px}
 .item .s{font-size:12px;color:var(--mut)}
+.why{margin:-8px 0 14px;font-size:13px;padding-left:9px;
+ border-left:2px solid var(--acc);color:var(--fg)}
 .empty{color:var(--mut);font-size:13.5px}
 .note{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);
  border-radius:9px;padding:11px 13px;margin:0 0 16px}
@@ -94,6 +99,15 @@ PC 에서 보고서를 만들 때 다시 나옵니다.</p>
 """
 
 
+def read_json(path):
+    """없거나 깨졌으면 None. 번역이 없어도 목록은 나와야 한다."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return None
+
+
 def runs():
     if not os.path.isdir(RUNS):
         return []
@@ -114,33 +128,57 @@ def runs():
     return out[:KEEP]
 
 
-def render(label, items):
+def article(idx, item, titles):
+    """기사 한 줄. 번역이 있으면 한국어를 앞에 놓고 원문을 아래에 남긴다.
+
+    원문 제목을 지우지 않는 이유: 번역이 어색하거나 제품명을 잘못 옮겼을 때
+    바로 확인할 데가 있어야 한다.
+    """
+    ko = titles.get(str(idx))
+    head = e(ko) if ko else e(item.get("title"))
+    orig = ('<span class="o">%s</span>' % e(item.get("title"))) if ko else ""
+    return ('<div class="item">'
+            '<a class="t" href="%s" target="_blank" rel="noopener">%s</a>%s'
+            '<span class="s">%s · %s</span></div>'
+            % (e(item.get("link")), head, orig,
+               e(item.get("source")), e(item.get("date_kst"))))
+
+
+def render(label, items, digest):
+    titles = digest.get("titles") or {}
     if not items:
         inner = '<p class="empty">새 소식이 없었습니다.</p>'
     else:
         blocks = []
+        picks = [h for h in digest.get("highlights") or []
+                 if isinstance(h.get("no"), int) and 0 <= h["no"] < len(items)]
+        if picks:
+            blocks.append('<div class="cat pick">주요 이슈</div>')
+            for h in picks:
+                blocks.append(article(h["no"], items[h["no"]], titles))
+                blocks.append('<p class="why">%s</p>' % e(h.get("why")))
+            blocks.append('<div class="rule"></div>')
         for cat in CATEGORY_ORDER:
-            group = [i for i in items if i.get("category") == cat]
+            group = [(i, it) for i, it in enumerate(items)
+                     if it.get("category") == cat]
             if not group:
                 continue
             blocks.append('<div class="cat">%s</div>' % e(cat))
-            for i in group:
-                blocks.append(
-                    '<div class="item">'
-                    '<a class="t" href="%s" target="_blank" rel="noopener">%s</a>'
-                    '<span class="s">%s · %s</span></div>'
-                    % (e(i.get("link")), e(i.get("title")),
-                       e(i.get("source")), e(i.get("date_kst"))))
+            for i, it in group:
+                blocks.append(article(i, it, titles))
         inner = "".join(blocks)
-    return ('<details%s><summary><span>%s</span>'
-            '<span class="meta">%d건</span></summary>'
+    meta = "%d건" % len(items)
+    if titles:
+        meta = "%d건 · 번역됨" % len(items)
+    return ('<details><summary><span>%s</span>'
+            '<span class="meta">%s</span></summary>'
             '<div class="body">%s</div></details>'
-            % ("", e(label), len(items), inner))
+            % (e(label), e(meta), inner))
 
 
 def main():
     rs = runs()
-    body = ("".join(render(l, i) for l, i in rs) or
+    body = ("".join(render(l, i, d) for l, i, d in rs) or
             '<p class="empty">아직 휴대폰에서 돌린 기록이 없습니다.</p>')
     page = PAGE % (HEAD_JS, CSS,
                    datetime.now(KST).strftime("%Y-%m-%d %H:%M"), len(rs), body)
