@@ -33,9 +33,9 @@ REPO = os.path.dirname(HERE)
 RUNS = os.path.join(REPO, "cloud", "runs")
 
 # 쓸 모델. 바꾸려면 이 줄만 고치면 된다.
-#   gemini-3.5-flash-lite  기본. 가장 빠르고 싸다. 제목 번역에는 충분하다
-#   gemini-3.7-flash       번역 품질이나 중요도 판단이 아쉬우면 이쪽으로
-MODEL = "gemini-3.5-flash-lite"
+#   gemini-3.7-flash       현재 설정. 번역 품질과 중요도 판단을 우선한다
+#   gemini-3.5-flash-lite  더 빠르고 싸다. 무료 한도가 모자랄 때 이쪽으로
+MODEL = "gemini-3.7-flash"
 
 HIGHLIGHTS = 8            # 주요 이슈로 고를 개수
 FEED_SUMMARY_CHARS = 300  # 모델에게 넘길 피드 요약 길이
