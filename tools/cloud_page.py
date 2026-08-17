@@ -109,7 +109,8 @@ def runs():
             continue
         m = re.match(r"(\d{4}-\d{2}-\d{2})_(\d{2})(\d{2})$", name)
         label = "%s %s:%s" % m.groups() if m else name
-        out.append((label, items if isinstance(items, list) else []))
+        out.append((label, items if isinstance(items, list) else [],
+                    read_json(os.path.join(RUNS, name, "요약.json")) or {}))
     return out[:KEEP]
 
 
