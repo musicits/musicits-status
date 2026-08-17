@@ -82,5 +82,7 @@ jobs:
             echo "바뀐 내용이 없어 커밋하지 않습니다."
           else
             git commit -m "휴대폰 블로그 도구 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            # PC 에서 올리는 중이면 원격이 앞서 있다. 받아서 얹은 뒤 올린다.
+            git pull --rebase
             git push
           fi
