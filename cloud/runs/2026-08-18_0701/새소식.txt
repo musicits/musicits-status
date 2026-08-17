@@ -1,0 +1,214 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-18 07:01 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-18 00:32 (KST) 이후 기사
+새 기사: 40건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 4건 생략)
+
+■ [IT 루머] 35건
+----------------------------------------
+· Apple Adds More New Wallpapers in macOS Golden Gate
+  출처: MacRumors / 2026-08-18 05:37
+  링크: https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/
+  피드 요약: Apple today added two new Golden Gate-themed wallpaper options in the sixth beta of macOS 27. There are new Golden Gate Day and Golden Gate Evening wallpaper options that join the Golden Gate Sunset and Golden Gate Night wallpapers that Apple introduced in earlier betas. macOS 27 also includes abstr
+
+· iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities
+  출처: MacRumors / 2026-08-18 04:25
+  링크: https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/
+  피드 요약: The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document . This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can
+
+· Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year
+  출처: MacRumors / 2026-08-18 04:04
+  링크: https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/
+  피드 요약: In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Apple's settlement received preliminary approval last month, but final approval is not expected until next year, according to a ne
+
+· Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More
+  출처: MacRumors / 2026-08-18 03:58
+  링크: https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/
+  피드 요약: Best Buy is hosting its big 60th Anniversary sale this week, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. This event is set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see most of the deals. Note: MacRumors i
+
+· iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears
+  출처: MacRumors / 2026-08-18 03:46
+  링크: https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/
+  피드 요약: "iPhone Ultra" supply will be very limited when the foldable device is first released later this year, according to Fixed Focus Digital , a known leaker on the Chinese social media platform Weibo. The account also claimed that the iPhone 18 Pro's A20 Pro chip will be up to 18% faster and up to 30% m
+
+· Apple Releases iOS 26.6.1, macOS 26.6.2, and More
+  출처: MacRumors / 2026-08-18 03:36
+  링크: https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/
+  피드 요약: Apple today released iOS 26.6.1, iPadOS 26.6.1, visionOS 26.6.1, and macOS 26.6.2, with all of the updates containing security fixes. Apple also released iOS 18.7.10 and iPadOS 18.7.10 with security fixes. All of the iOS and iPadOS updates released today deliver security fixes that were first made a
+
+· Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers
+  출처: MacRumors / 2026-08-18 03:20
+  링크: https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/
+  피드 요약: Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas. Registered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting 
+
+· Apple Releases macOS Golden Gate Beta 6
+  출처: MacRumors / 2026-08-18 02:18
+  링크: https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/
+  피드 요약: Apple today provided developers with the sixth beta of macOS Golden Gate , with the update coming a week after Apple seeded the fifth beta. Developers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer 
+
+· One UI 9 gives you one more use for Motion Photos
+  출처: SamMobile / 2026-08-18 01:56
+  링크: https://www.sammobile.com/news/one-ui-9-gives-you-one-more-use-for-motion-photos/
+  피드 요약: One UI 9, which debuted with the Galaxy Z Flip 8 and the Galaxy Z Fold 8 series, is not a major update compared to One UI 8.5. However, it still introduces some useful features, including a new way to use Motion Photos on Galaxy phones and tablets. Devices running One UI 9.0 can now […]
+
+· Samsung doubles down on OLED production as foldables gain traction
+  출처: SamMobile / 2026-08-18 01:49
+  링크: https://www.sammobile.com/news/samsung-doubles-down-on-oled-production-as-foldables-gain-traction/
+  피드 요약: Samsung Display is one of the world's top display makers. It's also a leader in flexible OLED panel production, which puts the company in a league of its own as a supplier for foldable smartphones. With foldables now gaining even more traction, thanks in part to the Galaxy Z Fold 8 and the hype surr
+
+· More signs about the Galaxy Tab S12 series launching soon appear
+  출처: SamMobile / 2026-08-18 01:30
+  링크: https://www.sammobile.com/news/more-signs-about-the-galaxy-tab-s12-series-launching-soon-appear/
+  피드 요약: Samsung is almost done with its flagship product launches of this year, with the new high-end tablets now being the only ones awaited. Additional signs have now emerged that Samsung is getting its ducks in a row ahead of the impending launch of the Galaxy Tab S12 series. Samsung's already confirmed 
+
+· Epic doesn't believe in compromise unless it is with Google
+  출처: AppleInsider / 2026-08-18 06:42
+  링크: https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss
+  피드 요약: The vendetta Epic Games holds against Apple seemingly won't let it accept any settlement beyond complete surrender, but it wants to participate "in good faith." Epic settled with Google by paying for a promotional campaign Apple shared its latest proposed commission rates in an attempt to satisfy an
+
+· Amazon joins the list of companies destroying rare books to feed to the AI machine
+  출처: AppleInsider / 2026-08-18 05:15
+  링크: https://appleinsider.com/articles/26/08/17/amazon-joins-the-list-of-companies-destroying-rare-books-to-feed-to-the-ai-machine?utm_source=rss
+  피드 요약: An AirTag hidden in a rare book followed its journey to a Las Vegas warehouse, where it was likely destroyed in an effort to supply fresh data to hungry LLMs. Amazon is destroying rare books to train AI | Image credit: jarmoluk at Pixabay I don't know if you've noticed, but everything is becoming in
+
+· Latest macOS Golden Gate beta adds unique dynamic wallpapers
+  출처: AppleInsider / 2026-08-18 04:26
+  링크: https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss
+  피드 요약: Apple's macOS Golden Gate has reached its sixth developer beta, which includes new dynamic wallpapers and updated traffic light window control icons. macOS 27 beta 6 adds two new dynamic wallpapers. On Monday, a week after the fifth developer beta arrived, Apple made macOS 27 beta 6 available for do
+
+· App Store review is broken in a time where it is needed the most
+  출처: AppleInsider / 2026-08-18 04:23
+  링크: https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss
+  피드 요약: Apple doesn't even seem to be trying with App Store Review. Users should not be the ones who find problem apps, but over and over, that is what is happening. The App Store could soon feature Ai-generated summaries of application reviews. No question, Apple has the resources to protect us from bad ap
+
+· iPhone 18 Pro's A20 will be faster, power efficient, cost a lot
+  출처: AppleInsider / 2026-08-18 03:55
+  링크: https://appleinsider.com/articles/26/08/17/iphone-18-pros-a20-will-be-faster-power-efficient-cost-a-lot?utm_source=rss
+  피드 요약: The A20 and A20 Pro chips in the iPhone 18 Pro will benefit hugely from TSMC's 2-nanometer process, but Apple will pay dearly for the performance and power consumption improvements. The A20 is on the way for the iPhone 18 generation, starting with the A20 Pro Apple is widely expected to use TSMC's 2
+
+· Apple has shipped iOS 26.6.1, and you should install it soon
+  출처: AppleInsider / 2026-08-18 03:09
+  링크: https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss
+  피드 요약: Apple has released an update for iOS 26.6.1 for all users, with the usual inclusion of security fixes, making it a must-install for your iPhone . iOS 26 is the current generation for iOS. While Apple is constantly beta-testing its 27-generation operating systems, it's still shipping updates to its e
+
+· Apple's sixth 27-gen developer betas arrive as the fall release draws closer
+  출처: AppleInsider / 2026-08-18 02:30
+  링크: https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss
+  피드 요약: Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27 , iPadOS 27, tvOS 27, watchOS 27, visionOS 27, and macOS 27. An earlier iOS 27 beta screen The Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, wa
+
+· Save $100 to $150 on Apple's M4 iPad Air after Amazon issues steeper markdowns
+  출처: AppleInsider / 2026-08-18 00:36
+  링크: https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss
+  피드 요약: Amazon's triple-digit discounts on the current M4 iPad Air range deliver the lowest prices of the season. Save up to $150 on Apple's iPad Air M4 at Amazon. Steeper markdowns are in effect across Apple's M4 iPad Air range this week, with Amazon knocking $100 to $150 off 11-inch and 13-inch models. Sa
+
+· Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks
+  출처: 9to5Mac / 2026-08-18 06:00
+  링크: https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/
+  피드 요약: Spotify today announced an expansion of its recently released User Notes feature. While User Notes are limited to songs, the new Playlist Notes also let users add context to podcast episodes and audiobooks in their playlists. Here are the details.
+
+· Epic responds to Apple’s bid for settlement talks in App Store case
+  출처: 9to5Mac / 2026-08-18 05:10
+  링크: https://9to5mac.com/2026/08/17/epic-responds-to-apples-bid-for-settlement-talks-in-app-store-case/
+  피드 요약: Epic Games has filed its response to Apple’s request for the court to order settlement talks in the long-running App Store lawsuit. Here are the details.
+
+· Apple official refurb store: Save a ton of cash with our top picks of the week
+  출처: 9to5Mac / 2026-08-18 05:00
+  링크: https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/
+  피드 요약: We are back again with another series of top picks from the official Apple Certified Refurbished Store . An increasingly notable source of savings on iPhone, MacBook, Studio Display, and Apple TV, we aren’t talking about iPhones some guy’s cousin pieced back together to resell here – Apple’s “rigoro
+
+· Leaker details A20 Pro chip’s new speed gains
+  출처: 9to5Mac / 2026-08-18 04:13
+  링크: https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/
+  피드 요약: iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.
+
+· Here’s what’s new with iOS and macOS 27 beta 6
+  출처: 9to5Mac / 2026-08-18 04:00
+  링크: https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/
+  피드 요약: Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now. iOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of qual
+
+· MagSafe Monday: The Urban Fit is my favorite budget alternative to Apple’s wallet
+  출처: 9to5Mac / 2026-08-18 03:58
+  링크: https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/
+  피드 요약: Apple’s MagSafe wallet is likely the default option for most people looking to carry a driver’s license, a credit card, and a little cash on the back of their iPhone. Apple’s Find My integration is nice, but that convenience comes at a price, literally, since it costs about double what most third-pa
+
+· iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here
+  출처: 9to5Mac / 2026-08-18 03:29
+  링크: https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/
+  피드 요약: Apple released iOS 26.6.1 today , a new software update for iPhone that includes fixes for 20+ security issues. Here are the details.
+
+· macOS 27 Golden Gate beta 6 features redesigned traffic light window controls
+  출처: 9to5Mac / 2026-08-18 03:05
+  링크: https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/
+  피드 요약: macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls. The new look resembles older Mac OS X systems with more detail in each button.
+
+· Android 17 QPR 1 Beta 9 shares its fixes as Google puts on the finishing touches
+  출처: Android Authority / 2026-08-18 05:52
+  링크: https://www.androidauthority.com/android-17-qpr-1-beta-9-3699552/
+  피드 요약: There's not a lot of time left ahead of the planned September release.
+
+· Google Messages preps a whole new UI to go with new pinning limits
+  출처: Android Authority / 2026-08-18 05:35
+  링크: https://www.androidauthority.com/google-messages-pin-3699506/
+  피드 요약: Those upcoming pinning changes in Google Messages are starting to make a lot more sense.
+
+· Over 10,000 readers told us that the Pixel 11 series missed the mark
+  출처: Android Authority / 2026-08-18 05:18
+  링크: https://www.androidauthority.com/pixel-11-series-hot-or-not-poll-results-3699451/
+  피드 요약: Our reader survey reveals a pretty brutal verdict on Google's latest flagship.
+
+· Your YouTube views are about to go up, but there’s a catch
+  출처: Android Authority / 2026-08-18 04:50
+  링크: https://www.androidauthority.com/youtube-view-count-change-3699493/
+  피드 요약: Don't expect this change to make it easier to join YouTube Partner Program.
+
+· Survey says Pixel users want Google to stop wasting all that space
+  출처: Android Authority / 2026-08-18 04:23
+  링크: https://www.androidauthority.com/pixel-11-hardware-survey-fix-overheating-battery-life-3699458/
+  피드 요약: Make the bulk worthwhile.
+
+· Gboard is cooking up a speedy new way to add content to messages
+  출처: Android Authority / 2026-08-18 04:07
+  링크: https://www.androidauthority.com/gboard-quick-insert-3699442/
+  피드 요약: Google's working on a streamlined Android keyboard upgrade.
+
+· One UI 9 gives your wallpaper a little life with this new feature
+  출처: Android Authority / 2026-08-18 03:43
+  링크: https://www.androidauthority.com/one-ui-9-motion-photo-wallpaper-3699446/
+  피드 요약: However, the feature hasn't been spotted in the beta yet.
+
+· CMF Buds 3? Nothing offshoot teases new mystery product
+  출처: Android Authority / 2026-08-18 02:20
+  링크: https://www.androidauthority.com/cmf-buds-3-teaser-3699434/
+  피드 요약: CMF just dropped a teaser for its next device.
+
+■ [오디오] 3건
+----------------------------------------
+· Dali Sonik 1
+  출처: What Hi-Fi? / 2026-08-18 01:31
+  링크: https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1
+  피드 요약: The smallest standmount speakers in Dali’s entry level range, the Sonik 1, punch well above their weight.
+
+· CMF earbud teaser could signal a Buds 2 successor
+  출처: SoundGuys / 2026-08-18 05:48
+  링크: https://www.soundguys.com/cmf-buds-3-teaser-161554/
+  피드 요약: CMF is staying quiet on the details.
+
+· This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 low
+  출처: SoundGuys / 2026-08-18 00:39
+  링크: https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/
+  피드 요약: Need a tiny outdoor speaker? The 4.6-star Ultimate Ears Miniroll drops to $49.99 with 38% off and IP67 water resistance.
+
+■ [카메라] 2건
+----------------------------------------
+· BHphoto will ship out your Sony FX5 preorder on September 4
+  출처: Sony Alpha Rumors / 2026-08-18 03:52
+  링크: https://www.sonyalpharumors.com/bhphoto-will-ship-out-your-sony-fx5-preorder-on-september-4/
+  피드 요약: Readers got notified by BHphoto that their Sony FX5 will ship out on September 4. Meantime Amazon US stopped preorders on the Sony FX5 body only and on the Sony FX5 with XLR handle kit. Preorders: Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, FotoLeistenscheider, Calumet, Clifton, Wex
+
+· Canon USA Restocks Refurbished Gear Including R5 Mark II, RF 200-800 and more
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-18 00:36
+  링크: https://www.canonrumors.com/canon-usa-restocks-refurbished-gear-including-r5-mark-ii-rf-200-800-and-more/
+  피드 요약: Canon USA has restocked their refurbished inventory of some pretty popular cameras and lenses that don't appear very often. If you're in the market for the Canon RF 100-400mm f/5.6-8 IS USM or Canon RF 200-800mm f/6.3-9 IS USM, now is probably a good time because those lenses don't usually last very

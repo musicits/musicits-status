@@ -1,0 +1,402 @@
+[
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Adds More New Wallpapers in macOS Golden Gate",
+  "link": "https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/",
+  "date_kst": "2026-08-18 05:37",
+  "summary": "Apple today added two new Golden Gate-themed wallpaper options in the sixth beta of macOS 27. There are new Golden Gate Day and Golden Gate Evening wallpaper options that join the Golden Gate Sunset and Golden Gate Night wallpapers that Apple introduced in earlier betas. macOS 27 also includes abstract Golden Gate wallpaper options for those who don't prefer scenery. Golden Gate Day and Golden Gate Evening animate when you unlock your Mac, and can be set as a screen saver. When used as screen saver, both wallpapers feature cars slowly driving across the bridge. Apple also tweaked the look of t"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+  "link": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+  "date_kst": "2026-08-18 04:25",
+  "summary": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document . This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can absorb. Apple says the software includes security fixes that were previously added to the iOS 27 , iPadOS 27 , and macOS Golden Gate betas. There are fixes for an audio vulnerability that could allow an app to leak sensitive user information, an image vulnerability that could allow for arbitrary co"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
+  "link": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
+  "date_kst": "2026-08-18 04:04",
+  "summary": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Apple's settlement received preliminary approval last month, but final approval is not expected until next year, according to a new court document . The judge presiding over the case last week set the final approval hearing for February 24, 2027, and payments will not begin for several months beyond that date. For now, no action is required from customers, as the settlement website with a claims form has yet to go live. We wil"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
+  "link": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
+  "date_kst": "2026-08-18 03:58",
+  "summary": "Best Buy is hosting its big 60th Anniversary sale this week, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. This event is set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see most of the deals. Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. In terms of Apple devices , you can find solid deals on AirPods Pro 3, iPhone Air, Beats accessories, and MacBook Pro. You can get the AirPods Pro 3 "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
+  "link": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+  "date_kst": "2026-08-18 03:46",
+  "summary": "\"iPhone Ultra\" supply will be very limited when the foldable device is first released later this year, according to Fixed Focus Digital , a known leaker on the Chinese social media platform Weibo. The account also claimed that the iPhone 18 Pro's A20 Pro chip will be up to 18% faster and up to 30% more power efficient compared to the iPhone 17 Pro's A19 Pro chip. The A20 Pro chip will be the first iPhone chip manufactured with TSMC's 2nm process, rather than the current 3nm process. Apple's annual iPhone event is likely less than a month away. Related Roundups: iPhone 18 Pro , iPhone Fold Tags"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+  "link": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+  "date_kst": "2026-08-18 03:36",
+  "summary": "Apple today released iOS 26.6.1, iPadOS 26.6.1, visionOS 26.6.1, and macOS 26.6.2, with all of the updates containing security fixes. Apple also released iOS 18.7.10 and iPadOS 18.7.10 with security fixes. All of the iOS and iPadOS updates released today deliver security fixes that were first made available in the iOS 27 and iPadOS 27 betas, according to an Apple support document , which provides more specific details. Likewise, macOS 26.6.2 delivers security fixes that were first made available in the macOS Golden Gate 27 beta. Apple says visionOS 26.6.1 security fix details are coming soon. "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+  "link": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+  "date_kst": "2026-08-18 03:20",
+  "summary": "Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas. Registered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update. ‌iOS 27‌ introduces Apple's smarter version of Siri , ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you. There are new A"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Releases macOS Golden Gate Beta 6",
+  "link": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+  "date_kst": "2026-08-18 02:18",
+  "summary": "Apple today provided developers with the sixth beta of macOS Golden Gate , with the update coming a week after Apple seeded the fifth beta. Developers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required. ‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform t"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "One UI 9 gives you one more use for Motion Photos",
+  "link": "https://www.sammobile.com/news/one-ui-9-gives-you-one-more-use-for-motion-photos/",
+  "date_kst": "2026-08-18 01:56",
+  "summary": "One UI 9, which debuted with the Galaxy Z Flip 8 and the Galaxy Z Fold 8 series, is not a major update compared to One UI 8.5. However, it still introduces some useful features, including a new way to use Motion Photos on Galaxy phones and tablets. Devices running One UI 9.0 can now […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung doubles down on OLED production as foldables gain traction",
+  "link": "https://www.sammobile.com/news/samsung-doubles-down-on-oled-production-as-foldables-gain-traction/",
+  "date_kst": "2026-08-18 01:49",
+  "summary": "Samsung Display is one of the world's top display makers. It's also a leader in flexible OLED panel production, which puts the company in a league of its own as a supplier for foldable smartphones. With foldables now gaining even more traction, thanks in part to the Galaxy Z Fold 8 and the hype surrounding […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "More signs about the Galaxy Tab S12 series launching soon appear",
+  "link": "https://www.sammobile.com/news/more-signs-about-the-galaxy-tab-s12-series-launching-soon-appear/",
+  "date_kst": "2026-08-18 01:30",
+  "summary": "Samsung is almost done with its flagship product launches of this year, with the new high-end tablets now being the only ones awaited. Additional signs have now emerged that Samsung is getting its ducks in a row ahead of the impending launch of the Galaxy Tab S12 series. Samsung's already confirmed H2 2026 launch Just […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Epic doesn't believe in compromise unless it is with Google",
+  "link": "https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss",
+  "date_kst": "2026-08-18 06:42",
+  "summary": "The vendetta Epic Games holds against Apple seemingly won't let it accept any settlement beyond complete surrender, but it wants to participate \"in good faith.\" Epic settled with Google by paying for a promotional campaign Apple shared its latest proposed commission rates in an attempt to satisfy an ongoing lawsuit with Epic Games, but they were instantly dismissed by the company. In that filing, Apple suggested that a settlement conference should take place. Epic filed its response on Monday, and very briefly implied that Apple wasn't being serious in its filings. However, if the court ordere"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Amazon joins the list of companies destroying rare books to feed to the AI machine",
+  "link": "https://appleinsider.com/articles/26/08/17/amazon-joins-the-list-of-companies-destroying-rare-books-to-feed-to-the-ai-machine?utm_source=rss",
+  "date_kst": "2026-08-18 05:15",
+  "summary": "An AirTag hidden in a rare book followed its journey to a Las Vegas warehouse, where it was likely destroyed in an effort to supply fresh data to hungry LLMs. Amazon is destroying rare books to train AI | Image credit: jarmoluk at Pixabay I don't know if you've noticed, but everything is becoming increasingly AI-generated. Whether it's news, music, or social media, AI has seemingly stuck all of its nasty little fingers into any pie it can find. Experts have long warned that eventually we'd get to the point where AI was training itself on data that AI had created, and we're pretty sure that poi"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Latest macOS Golden Gate beta adds unique dynamic wallpapers",
+  "link": "https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss",
+  "date_kst": "2026-08-18 04:26",
+  "summary": "Apple's macOS Golden Gate has reached its sixth developer beta, which includes new dynamic wallpapers and updated traffic light window control icons. macOS 27 beta 6 adds two new dynamic wallpapers. On Monday, a week after the fifth developer beta arrived, Apple made macOS 27 beta 6 available for download. Though the update is a relatively light release, it delivers key visual enhancements. With the latest developer beta, Apple added two dynamic wallpapers, both featuring the Golden Gate Bridge. They're effectively video files: one offering a daytime view of the bridge, and the other showing i"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "App Store review is broken in a time where it is needed the most",
+  "link": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
+  "date_kst": "2026-08-18 04:23",
+  "summary": "Apple doesn't even seem to be trying with App Store Review. Users should not be the ones who find problem apps, but over and over, that is what is happening. The App Store could soon feature Ai-generated summaries of application reviews. No question, Apple has the resources to protect us from bad apps, and, no question, it keeps telling regulators that it has. As regulators around the world press for third-party firms to run iPhone App Stores, Apple consistently protests that only it can do a good job of keeping bad apps at bay. It is absolutely true that if, or when, the door is open to rival"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "iPhone 18 Pro's A20 will be faster, power efficient, cost a lot",
+  "link": "https://appleinsider.com/articles/26/08/17/iphone-18-pros-a20-will-be-faster-power-efficient-cost-a-lot?utm_source=rss",
+  "date_kst": "2026-08-18 03:55",
+  "summary": "The A20 and A20 Pro chips in the iPhone 18 Pro will benefit hugely from TSMC's 2-nanometer process, but Apple will pay dearly for the performance and power consumption improvements. The A20 is on the way for the iPhone 18 generation, starting with the A20 Pro Apple is widely expected to use TSMC's 2-nanometer process to produce its next generation of chips. This includes the inbound A20 and A20 Pro arriving in the iPhone 18 Pro and Pro Max, as well as the iPhone Ultra. There is also always an expectation of performance improvements with Apple's chips, and especially so for a die shrink. If a l"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple has shipped iOS 26.6.1, and you should install it soon",
+  "link": "https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss",
+  "date_kst": "2026-08-18 03:09",
+  "summary": "Apple has released an update for iOS 26.6.1 for all users, with the usual inclusion of security fixes, making it a must-install for your iPhone . iOS 26 is the current generation for iOS. While Apple is constantly beta-testing its 27-generation operating systems, it's still shipping updates to its earlier releases. That includes the current-gen versions. On Monday, as part of its swathe of releases, Apple issued its update for iOS 26.6.1 . The update, which it rolled out as a release candidate on August 10 , can be downloaded to an iPhone running iOS 26.6 or earlier. Continue Reading on AppleI"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
+  "link": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
+  "date_kst": "2026-08-18 02:30",
+  "summary": "Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27 , iPadOS 27, tvOS 27, watchOS 27, visionOS 27, and macOS 27. An earlier iOS 27 beta screen The Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27. The sixth appears after the fifth, which Apple brought out on August 10 . Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Save $100 to $150 on Apple's M4 iPad Air after Amazon issues steeper markdowns",
+  "link": "https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss",
+  "date_kst": "2026-08-18 00:36",
+  "summary": "Amazon's triple-digit discounts on the current M4 iPad Air range deliver the lowest prices of the season. Save up to $150 on Apple's iPad Air M4 at Amazon. Steeper markdowns are in effect across Apple's M4 iPad Air range this week, with Amazon knocking $100 to $150 off 11-inch and 13-inch models. Save up to $150 on M4 iPad Air Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
+  "link": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
+  "date_kst": "2026-08-18 06:00",
+  "summary": "Spotify today announced an expansion of its recently released User Notes feature. While User Notes are limited to songs, the new Playlist Notes also let users add context to podcast episodes and audiobooks in their playlists. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Epic responds to Apple’s bid for settlement talks in App Store case",
+  "link": "https://9to5mac.com/2026/08/17/epic-responds-to-apples-bid-for-settlement-talks-in-app-store-case/",
+  "date_kst": "2026-08-18 05:10",
+  "summary": "Epic Games has filed its response to Apple’s request for the court to order settlement talks in the long-running App Store lawsuit. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple official refurb store: Save a ton of cash with our top picks of the week",
+  "link": "https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/",
+  "date_kst": "2026-08-18 05:00",
+  "summary": "We are back again with another series of top picks from the official Apple Certified Refurbished Store . An increasingly notable source of savings on iPhone, MacBook, Studio Display, and Apple TV, we aren’t talking about iPhones some guy’s cousin pieced back together to resell here – Apple’s “rigorous refurbishment process” is in fully in place alongside a proper 1-year Apple warranty too. Hit the jump for a closer look at this week’s top picks we have sitting in our carts – iPhone, MacBook, Studio Displays, and more."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Leaker details A20 Pro chip’s new speed gains",
+  "link": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
+  "date_kst": "2026-08-18 04:13",
+  "summary": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Here’s what’s new with iOS and macOS 27 beta 6",
+  "link": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
+  "date_kst": "2026-08-18 04:00",
+  "summary": "Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now. iOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 6."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "MagSafe Monday: The Urban Fit is my favorite budget alternative to Apple’s wallet",
+  "link": "https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/",
+  "date_kst": "2026-08-18 03:58",
+  "summary": "Apple’s MagSafe wallet is likely the default option for most people looking to carry a driver’s license, a credit card, and a little cash on the back of their iPhone. Apple’s Find My integration is nice, but that convenience comes at a price, literally, since it costs about double what most third-party MagSafe wallets cost. Some people also hate the material choice as well. The Urban Fit remains one of my favorite alternatives to Apple’s own wallet. At roughly half the cost, it holds up to three cards and still works great as a MagSafe wallet."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
+  "link": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+  "date_kst": "2026-08-18 03:29",
+  "summary": "Apple released iOS 26.6.1 today , a new software update for iPhone that includes fixes for 20+ security issues. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
+  "link": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
+  "date_kst": "2026-08-18 03:05",
+  "summary": "macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls. The new look resembles older Mac OS X systems with more detail in each button."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Android 17 QPR 1 Beta 9 shares its fixes as Google puts on the finishing touches",
+  "link": "https://www.androidauthority.com/android-17-qpr-1-beta-9-3699552/",
+  "date_kst": "2026-08-18 05:52",
+  "summary": "There's not a lot of time left ahead of the planned September release."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google Messages preps a whole new UI to go with new pinning limits",
+  "link": "https://www.androidauthority.com/google-messages-pin-3699506/",
+  "date_kst": "2026-08-18 05:35",
+  "summary": "Those upcoming pinning changes in Google Messages are starting to make a lot more sense."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Over 10,000 readers told us that the Pixel 11 series missed the mark",
+  "link": "https://www.androidauthority.com/pixel-11-series-hot-or-not-poll-results-3699451/",
+  "date_kst": "2026-08-18 05:18",
+  "summary": "Our reader survey reveals a pretty brutal verdict on Google's latest flagship."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Your YouTube views are about to go up, but there’s a catch",
+  "link": "https://www.androidauthority.com/youtube-view-count-change-3699493/",
+  "date_kst": "2026-08-18 04:50",
+  "summary": "Don't expect this change to make it easier to join YouTube Partner Program."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Survey says Pixel users want Google to stop wasting all that space",
+  "link": "https://www.androidauthority.com/pixel-11-hardware-survey-fix-overheating-battery-life-3699458/",
+  "date_kst": "2026-08-18 04:23",
+  "summary": "Make the bulk worthwhile."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Gboard is cooking up a speedy new way to add content to messages",
+  "link": "https://www.androidauthority.com/gboard-quick-insert-3699442/",
+  "date_kst": "2026-08-18 04:07",
+  "summary": "Google's working on a streamlined Android keyboard upgrade."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "One UI 9 gives your wallpaper a little life with this new feature",
+  "link": "https://www.androidauthority.com/one-ui-9-motion-photo-wallpaper-3699446/",
+  "date_kst": "2026-08-18 03:43",
+  "summary": "However, the feature hasn't been spotted in the beta yet."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "CMF Buds 3? Nothing offshoot teases new mystery product",
+  "link": "https://www.androidauthority.com/cmf-buds-3-teaser-3699434/",
+  "date_kst": "2026-08-18 02:20",
+  "summary": "CMF just dropped a teaser for its next device."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Dali Sonik 1",
+  "link": "https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1",
+  "date_kst": "2026-08-18 01:31",
+  "summary": "The smallest standmount speakers in Dali’s entry level range, the Sonik 1, punch well above their weight."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "CMF earbud teaser could signal a Buds 2 successor",
+  "link": "https://www.soundguys.com/cmf-buds-3-teaser-161554/",
+  "date_kst": "2026-08-18 05:48",
+  "summary": "CMF is staying quiet on the details."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "This 4.6-star Ultimate Ears Miniroll speaker is back to its $49.99 low",
+  "link": "https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/",
+  "date_kst": "2026-08-18 00:39",
+  "summary": "Need a tiny outdoor speaker? The 4.6-star Ultimate Ears Miniroll drops to $49.99 with 38% off and IP67 water resistance."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "BHphoto will ship out your Sony FX5 preorder on September 4",
+  "link": "https://www.sonyalpharumors.com/bhphoto-will-ship-out-your-sony-fx5-preorder-on-september-4/",
+  "date_kst": "2026-08-18 03:52",
+  "summary": "Readers got notified by BHphoto that their Sony FX5 will ship out on September 4. Meantime Amazon US stopped preorders on the Sony FX5 body only and on the Sony FX5 with XLR handle kit. Preorders: Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, FotoLeistenscheider, Calumet, Clifton, WexUK Sony DVF-EL1 Electronic Viewfinder at BHphoto, Amazon,… The post BHphoto will ship out your Sony FX5 preorder on September 4 first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Canon USA Restocks Refurbished Gear Including R5 Mark II, RF 200-800 and more",
+  "link": "https://www.canonrumors.com/canon-usa-restocks-refurbished-gear-including-r5-mark-ii-rf-200-800-and-more/",
+  "date_kst": "2026-08-18 00:36",
+  "summary": "Canon USA has restocked their refurbished inventory of some pretty popular cameras and lenses that don't appear very often. If you're in the market for the Canon RF 100-400mm f/5.6-8 IS USM or Canon RF 200-800mm f/6.3-9 IS USM, now is probably a good time because those lenses don't usually last very long. As always, […]"
+ }
+]
