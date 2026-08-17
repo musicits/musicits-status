@@ -1,0 +1,86 @@
+name: 블로그 도구 실행
+
+# 휴대폰에서 이 화면의 "Run workflow" 를 누르면 돌아간다.
+# 도구 코드는 PC 것을 그대로 복사해온 것이고, 여기서 고치지 않는다.
+on:
+  workflow_dispatch:
+    inputs:
+      tool:
+        description: '돌릴 도구'
+        type: choice
+        default: all
+        options:
+          - all
+          - keywords
+          - titles
+          - track
+          - neighbors
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    # 네 개를 다 돌리면 PC 에서 10~20분 걸린다. 넉넉히 잡되 무한정 물고 있지는 않게.
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 인증키 준비
+        env:
+          SEARCH_KEY_ID: ${{ secrets.SEARCH_KEY_ID }}
+          SEARCH_KEY: ${{ secrets.SEARCH_KEY }}
+          TREND_KEY_ID: ${{ secrets.TREND_KEY_ID }}
+          TREND_KEY: ${{ secrets.TREND_KEY }}
+        run: |
+          if [ -z "$SEARCH_KEY_ID" ] || [ -z "$SEARCH_KEY" ]; then
+            echo "::error::저장소 Settings > Secrets and variables > Actions 에"
+            echo "::error::SEARCH_KEY_ID / SEARCH_KEY / TREND_KEY_ID / TREND_KEY 를 넣어주세요."
+            exit 1
+          fi
+          # runner.py 가 이 파일에서 키를 읽어 도구에게 환경변수로 넘긴다.
+          # .gitignore 가 막고 있어서 저장소에는 올라가지 않는다.
+          mkdir -p "tools/blog/3_설정"
+          {
+            echo "SEARCH_KEY_ID=$SEARCH_KEY_ID"
+            echo "SEARCH_KEY=$SEARCH_KEY"
+            echo "TREND_KEY_ID=$TREND_KEY_ID"
+            echo "TREND_KEY=$TREND_KEY"
+          } > "tools/blog/3_설정/api_key.txt"
+
+      - name: 도구 실행
+        env:
+          TOOL: ${{ inputs.tool }}
+          PYTHONIOENCODING: utf-8
+        working-directory: tools/blog/4_건드리지마세요
+        run: python run.py "$TOOL"
+
+      - name: 결과 페이지 만들기
+        if: always()
+        run: python tools/blog_page.py
+
+      - name: 인증키 지우기
+        if: always()
+        run: rm -f "tools/blog/3_설정/api_key.txt"
+
+      - name: 결과 저장
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "바뀐 내용이 없어 커밋하지 않습니다."
+          else
+            git commit -m "휴대폰 블로그 도구 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

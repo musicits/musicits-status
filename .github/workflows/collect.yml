@@ -1,0 +1,44 @@
+name: IT 뉴스 수집
+
+# 휴대폰에서 이 화면의 "Run workflow" 를 누르면 돌아간다.
+# 정해진 시각에 자동으로 돌리지는 않는다 — PC 쪽 예약 실행과 확인 기록이
+# 따로 관리돼서, 양쪽이 다 돌면 같은 기사를 두 번 보게 되기 때문이다.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 두 번 연달아 누르면 앞의 것은 취소한다. 동시에 돌면 서로 push 를 밀어낸다.
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 새 기사 수집
+        run: |
+          STAMP=$(TZ=Asia/Seoul date +%Y-%m-%d_%H%M)
+          echo "수집 폴더: cloud/runs/$STAMP"
+          python tools/collect.py --out "cloud/runs/$STAMP"
+          python tools/cloud_page.py
+
+      - name: 결과 저장
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "바뀐 내용이 없어 커밋하지 않습니다."
+          else
+            git commit -m "휴대폰 수집 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

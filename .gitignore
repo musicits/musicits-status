@@ -1,0 +1,16 @@
+# 비밀값이 실수로도 들어오지 않도록 막아둔다.
+# (이 저장소는 결과물만 담으므로 원래 들어올 일이 없다. 이중 잠금이다.)
+api_key.txt
+*api_key*
+*.env
+.env*
+secrets*
+
+# 파이썬 찌꺼기
+__pycache__/
+*.pyc
+
+# 편집기·OS 찌꺼기
+.DS_Store
+Thumbs.db
+desktop.ini
