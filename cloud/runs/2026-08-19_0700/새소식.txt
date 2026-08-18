@@ -1,0 +1,338 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-19 07:00 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-18 12:20 (KST) 이후 기사
+새 기사: 64건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 19건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 32건 생략)
+
+■ [IT 공식발표] 2건
+----------------------------------------
+· Apple announces changes for apps in the European Union
+  출처: Apple Newsroom US / 2026-08-19 00:59
+  링크: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
+  피드 요약: Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.
+
+· Apple, 유럽연합 내 앱 관련 변경 사항 발표
+  출처: Apple Newsroom KR / 2026-08-19 01:01
+  링크: https://www.apple.com/kr/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
+  피드 요약: 오늘 Apple은 유럽연합 집행위원회와의 긴밀한 협업을 바탕으로 유럽연합 내 앱에 적용되는 비즈니스 약관을 변경했다고 발표했다.
+
+■ [IT 루머] 41건
+----------------------------------------
+· iCloud, Photos, Find My and More Experiencing Issues
+  출처: MacRumors / 2026-08-19 05:56
+  링크: https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/
+  피드 요약: Several iCloud services are experiencing issues, according to Apple's system status page . Find My , Game Center, Photos , ‌iCloud‌ Calendar, ‌iCloud‌ Mail, ‌iCloud‌ Contacts, ‌iCloud‌ Web Apps, and iWork for ‌iCloud‌ are all experiencing service interruptions. Apple says only some users may run int
+
+· Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support
+  출처: MacRumors / 2026-08-19 04:56
+  링크: https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/
+  피드 요약: Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen. Mentions of the Widget Gallery were found in macOS Tahoe 26.7, an update t
+
+· National Parks Apple Watch Activity Challenge Launching August 23
+  출처: MacRumors / 2026-08-19 04:09
+  링크: https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/
+  피드 요약: Apple will launch its annual National Parks Apple Watch activity challenge on Sunday, August 23 to celebrate national parks across the United States. Apple Watch owners can earn an Apple Watch activity award by doing a hike, walk, run, or wheelchair push that lasts for 20 minutes or more on August 2
+
+· Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'
+  출처: MacRumors / 2026-08-19 03:01
+  링크: https://www.macrumors.com/2026/08/18/camera-airpods-naming/
+  피드 요약: The camera-equipped AirPods that we've confirmed Apple is working on are likely going to be part of the AirPods Pro lineup rather than separate "AirPods Ultra." A macOS Tahoe 26.7 file that references the new AirPods is labeled "AirPods Pro," hinting at the new name. It's possible that's a placehold
+
+· Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute
+  출처: MacRumors / 2026-08-19 02:02
+  링크: https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/
+  피드 요약: Apple today announced changes to its App Store policies and fees in the European Union to comply with the Digital Markets Act. Apple says the changes were made after "close collaboration" with the European Commission, and the updates simplify the fee structure and "resolve Apple's disagreements with
+
+· Apple Card Offering 5% Cash Back on Select Purchases for Limited Time
+  출처: MacRumors / 2026-08-19 01:28
+  링크: https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/
+  피드 요약: Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete 
+
+· OpenAI Announces ChatGPT for Teens With Built-In Safeguards and Learning Prompts
+  출처: MacRumors / 2026-08-19 00:04
+  링크: https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/
+  피드 요약: OpenAI is adding a ChatGPT mode for teenagers that includes parental controls, enhanced content safeguards, and a focus on learning. ChatGPT for Teens is "designed to help teens learn, think critically, deepen understanding, and use AI with confidence," said the company in a blog post announcing the
+
+· Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes
+  출처: MacRumors / 2026-08-18 23:35
+  링크: https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/
+  피드 요약: Amazon and Best Buy this week have multiple discounts on the M4 iPad Air , providing $100 off these 2026 models. These are the best prices we've seen in the wake of Apple's summer price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may rece
+
+· Spotify Running Mode for Android now available on your Galaxy device
+  출처: SamMobile / 2026-08-19 03:31
+  링크: https://www.sammobile.com/news/spotify-running-mode-for-android-now-available-on-your-galaxy-device/
+  피드 요약: The Spotify Running Mode was recently introduced. It transforms your playlists into a highly personalized session that's tailored to your run. This feature was previously limited to the iOS app only. The company has announced today that Spotify Running Mode for Android is now available. Eligible dev
+
+· Samsung employees can no longer post secretly on its internal message boards
+  출처: SamMobile / 2026-08-19 03:21
+  링크: https://www.sammobile.com/news/samsung-employees-can-no-longer-post-secretly-on-its-internal-message-boards/
+  피드 요약: Samsung Electronics' internal message boards allowed employees to post anonymously for more than a decade. This allowed them to be frank and open, since they could post secretly without revealing their true identities. Reports suggest that Samsung has removed this feature, and employees must now use
+
+· Latest leak reveals almost all Galaxy S26 FE details before launch
+  출처: SamMobile / 2026-08-19 03:09
+  링크: https://www.sammobile.com/news/latest-leak-reveals-almost-all-galaxy-s26-fe-details-before-launch/
+  피드 요약: The steady stream of leaks over the past couple of weeks have made it clear that the Galaxy S26 FE launch isn't that far off. A new leak today has revealed almost all details about the Galaxy S26 FE ahead of its launch, leaving little to the imagination. There goes the element of surprise Posted […]
+
+· New Galaxy S26 FE leak suggests its launch is near
+  출처: SamMobile / 2026-08-19 01:32
+  링크: https://www.sammobile.com/news/new-galaxy-s26-fe-leak-suggests-launch-near/
+  피드 요약: Earlier this month, Samsung announced that it will soon launch a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE, which will succeed the Galaxy S25 FE. Even before the brand officially confirmed the phone, there had already been plenty of reports about it. Reports about the device have reveal
+
+· A second wide foldable in 2027 may do Samsung more harm than good
+  출처: SamMobile / 2026-08-19 01:00
+  링크: https://www.sammobile.com/opinion/second-wide-samsung-foldable-2027-more-harm-than-good/
+  피드 요약: The Galaxy Z Fold 8 is Samsung's first passport-style foldable with a wider form factor compared to the tried and tested book-style Galaxy Z Fold 8 Ultra form factor. The new device is performing very well in the market, with some reports suggesting that Samsung has bumped up production by an additi
+
+· Samsung raises Galaxy phone prices in India for the ninth time
+  출처: SamMobile / 2026-08-19 00:30
+  링크: https://www.sammobile.com/news/samsung-raises-galaxy-phone-prices-india-ninth-time/
+  피드 요약: Back in January, Samsung hiked the prices of its smartphones in India, marking the first such increase in a very long time. The move was believed to be driven by rising memory chip prices. Since then, the company has raised smartphone prices in the country multiple times, with surging memory prices 
+
+· Should you use this Galaxy Z8 fingerprint setting to speed up phone unlocks?
+  출처: SamMobile / 2026-08-19 00:21
+  링크: https://www.sammobile.com/news/should-you-use-galaxy-z8-fingerprint-setting-faster-phone-unlocks/
+  피드 요약: If you've been using non-foldable Galaxy phones for the past five or so years, chances are you haven't touched a side-mounted fingerprint sensor for at least that long. But if you just bought your first foldable, your experience is about to change. Foldable phones, including the Galaxy Z Fold 8, Fol
+
+· One UI 9 makes it easier to check your Galaxy device’s warranty details
+  출처: SamMobile / 2026-08-18 20:21
+  링크: https://www.sammobile.com/news/one-ui-9-easier-check-warranty-details/
+  피드 요약: One UI 9.0, which debuted with the Galaxy Z Flip 8 and Galaxy Z Fold 8 series last month, introduces a major change to the Settings menu: a dedicated Warranty and care section that makes it easier to check warranty status, run diagnostics, and resolve device issues. The Warranty and care section is 
+
+· Apple services outage hits iCloud, Game Center, Find My, and more
+  출처: AppleInsider / 2026-08-19 06:47
+  링크: https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss
+  피드 요약: Syncing your data with iCloud might not work right now, as an outage has affected multiple Apple services, causing issues for developers and users alike. iCloud and other Apple services were hit by an outage on Tuesday. Virtually everything on an iPhone or iPad can be uploaded to iCloud and synced a
+
+· Apple's EU App Store changes are big, and a preview of what's coming in the US
+  출처: AppleInsider / 2026-08-19 04:28
+  링크: https://appleinsider.com/articles/26/08/18/apples-eu-app-store-changes-are-big-and-a-preview-of-whats-coming-in-the-us?utm_source=rss
+  피드 요약: Apple's changes to its terms and fees for developers distributing in the European Union is a premonition of reduced commissions for developers that could soon come to the United States. Apple's attempts to comply with EU rules has led to new app transaction fees - Image Credit: Apple Apple is waging
+
+· New EU App Store terms lower both costs and bar to entry for external payments
+  출처: AppleInsider / 2026-08-19 03:51
+  링크: https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss
+  피드 요약: On Tuesday, after much back-and-forth with the European Union, Apple has rolled out new and simpler terms and fee structures for developers that distribute in the area. An EU flag with the App Store logo The terms are greatly simplified. Core technology fees are mostly exterminated, replaced by perc
+
+· Apple pledges relief after deadly Indonesia earthquake
+  출처: AppleInsider / 2026-08-19 03:25
+  링크: https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss
+  피드 요약: Apple is donating to first responders and relief efforts in Indonesia following the deadly earthquake that has left thousands displaced and triggered more than a 1,000 aftershocks. Apple to donate to Indonesian earthquake relief On August 16, a magnitude-7.7 earthquake struck eastern Indonesia. At t
+
+· There is a good reason to praise AirPods with cameras, and not fear them
+  출처: AppleInsider / 2026-08-19 02:55
+  링크: https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss
+  피드 요약: There's already social media outrage that AirPods Pro are going to get a camera very soon. Like with mockery about the Snuggie, the Clapper, and so forth, most of the drama badly misses the point. AirPods Pro 2 Meta's AI specs are creepy. They have nearly invisible cameras, whose main protection for
+
+· Apple's product identifier leak is a hard mystery to solve
+  출처: AppleInsider / 2026-08-19 01:04
+  링크: https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss
+  피드 요약: Apple itself leaked many mystery products that are coming out relatively soon. The leaked product identifiers proximity to others give some clues, but not many. An example of an Apple product identifier The release candidate for macOS Tahoe 26.7 was a trove of information for unreleased products. Re
+
+· Apple Card users can stack summer savings with 5% Daily Cash travel promotions
+  출처: AppleInsider / 2026-08-19 00:51
+  링크: https://appleinsider.com/articles/26/08/18/apple-card-users-can-stack-summer-savings-with-5-daily-cash-travel-promotions?utm_source=rss
+  피드 요약: Apple Card is making summer road trips more rewarding with 5% Daily Cash on car rentals, hotel stays, gas and EV charging through September 15. Apple Card adds 5% Daily Cash on travel, gas, and more Summer often means travel, and travel often means travel-related expenses. That's why Apple Card has 
+
+· Apple may be considering adding a Camera Control button to a future iPad
+  출처: AppleInsider / 2026-08-19 00:22
+  링크: https://appleinsider.com/articles/26/08/18/apple-may-be-considering-adding-a-camera-control-button-to-a-future-ipad?utm_source=rss
+  피드 요약: A newly-revealed patent details a button that can be swiped as well as pressed. It's the iPhone's Camera Control button, and it may be coming to the iPad . Detail from the patent showing an iPad with Camera Control - image credit: Apple Introduced in 2024 with the iPhone 16 range, the Camera Control
+
+· 9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak
+  출처: 9to5Mac / 2026-08-19 06:56
+  링크: https://9to5mac.com/2026/08/18/daily-august-18-2026/
+  피드 요약: Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co
+
+· Apple Wallet driver’s licenses coming to these states next
+  출처: 9to5Mac / 2026-08-19 05:57
+  링크: https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/
+  피드 요약: At WWDC 2021, Apple announced support for storing your driver’s license in Apple Wallet on iPhone. At the time, Apple touted this as the last step before you can be “fully free of your physical wallet.” Here are the states where support for the Apple Wallet driver’s license feature is coming next …
+
+· Find My, iCloud, and several other Apple services are currently down for some users
+  출처: 9to5Mac / 2026-08-19 05:48
+  링크: https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/
+  피드 요약: Apple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.
+
+· Comcast just turned millions of Xfinity routers into motion sensors
+  출처: 9to5Mac / 2026-08-19 05:33
+  링크: https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/
+  피드 요약: Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details.
+
+· Firefox Smart Window adds AI web search, automatic tab groups, and more
+  출처: 9to5Mac / 2026-08-19 05:23
+  링크: https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/
+  피드 요약: Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details.
+
+· Here’s everything new for Apple Calendar in iOS 27
+  출처: 9to5Mac / 2026-08-19 04:37
+  링크: https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/
+  피드 요약: iOS 27 is packed with new features for Apple Wallet , Messages , Notes , and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.
+
+· Apple pulls AI ‘nudify’ app promoted in Meta ads
+  출처: 9to5Mac / 2026-08-19 04:28
+  링크: https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/
+  피드 요약: WIRED reports that Meta ran ads for a now-pulled App Store app that let users create AI-generated pornographic deepfakes of real people, with one of the ads featuring a woman resembling a prominent US politician. Here are the details.
+
+· Next Apple Watch activity challenge supports national parks
+  출처: 9to5Mac / 2026-08-19 04:00
+  링크: https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/
+  피드 요약: Apple Watch users can mark their calendars for the next activity challenge. The 2026 National Parks Challenge is set for this Sunday, August 23.
+
+· Gmail is making it a little harder for you to ignore political fundraising emails
+  출처: Android Authority / 2026-08-19 06:51
+  링크: https://www.androidauthority.com/gmail-verified-sender-program-for-political-campaigns-3700120/
+  피드 요약: Election season is coming for your inbox.
+
+· Bring your old Spotify Car Thing back to life with this new software
+  출처: Android Authority / 2026-08-19 06:25
+  링크: https://www.androidauthority.com/spotify-car-thing-software-3700098/
+  피드 요약: Kept your Spotify Car Thing? This open source project brings it back from the dead.
+
+· Google Calendar finally lets you ban that co-worker who’s always spamming you with meetings
+  출처: Android Authority / 2026-08-19 06:05
+  링크: https://www.androidauthority.com/google-calendar-user-blocking-3700108/
+  피드 요약: No, Bob, I’m not free at 4:30 PM on a Friday.
+
+· Spotify’s Running Mode is giving Android users another reason to go Premium
+  출처: Android Authority / 2026-08-19 05:41
+  링크: https://www.androidauthority.com/spotify-premium-running-mode-android-3700088/
+  피드 요약: Create custom playlists to match your pace.
+
+· Google begins rolling out Android’s controversial new sideloading flow
+  출처: Android Authority / 2026-08-19 05:26
+  링크: https://www.androidauthority.com/google-android-advanced-flow-sideloading-rollout-begins-3700073/
+  피드 요약: The first version of Android’s advanced flow is gradually arriving, with a restart and 24-hour delay built in.
+
+· Xfinity has a weird new way to help you protect your home
+  출처: Android Authority / 2026-08-19 05:23
+  링크: https://www.androidauthority.com/xfinity-wifi-motion-launch-3700078/
+  피드 요약: Xfinity wants you to let it detect motion in your home with its Wi-Fi.
+
+· Google Home devices should now be up and running again
+  출처: Android Authority / 2026-08-19 04:24
+  링크: https://www.androidauthority.com/google-home-outage-over-3700044/
+  피드 요약: Google Home sounds the all-clear after that big service outage.
+
+· Android users just got one of Chrome’s biggest Gemini upgrades
+  출처: Android Authority / 2026-08-19 04:00
+  링크: https://www.androidauthority.com/gemini-in-chrome-on-android-3699994/
+  피드 요약: Let Gemini wrestle with the web while your thumb relaxes.
+
+· 삼성 아이폰 폴드 및 갤럭시Z 폴드용 수요 대응, 아산 A7 라인 증설 승인
+  출처: 란즈크 블로그 / 2026-08-18 17:54
+  링크: https://blog.naver.com/yeux1122/224382432285?fromRss=true&trackingCode=rss
+  피드 요약: 삼성이 아이폰 폴드 및 갤럭시 폴드 제품 양산 물량아 증가함에 따라 더 빠르게 A7 라인 증설을 결정했다고 합니다. (*국내 기사) 아산에 건설 중인 새로운 A7 공장에 대한 투자를 재개했으며, 완공 목표 시점은 2028년 초 2021년 중단됐던 삼성의 A7 공장 건설 프로젝트가 5년 만에 재개 (*2026년 8월부터 다시.시작, 2027년에 착공해2028년 초 완공을 목표) 폴더블 모바일용과 (애플 아이폰 폴드 & 갤럭시Z폴드 와이드 등 대응) 랩탑용 OLED 패널 양산이 핵심
+
+■ [오디오] 17건
+----------------------------------------
+· Technics is celebrating 55 years of its legendary SL-1200 turntable with a limited-edition design
+  출처: What Hi-Fi? / 2026-08-19 01:00
+  링크: https://www.whathifi.com/hi-fi/turntables/technics-is-celebrating-55-years-of-its-legendary-sl-1200-turntable-with-a-limited-edition-design
+  피드 요약: The SL-1200 55th Anniversary Edition looks as good as gold
+
+· Samsung Z Fold 8 Ultra
+  출처: What Hi-Fi? / 2026-08-18 23:38
+  링크: https://www.whathifi.com/smartphones-tablets/smartphones/samsung-z-fold-8-ultra
+  피드 요약: Samsung’s Ultra foldable wants to be the top option for power users and AV aficionados, and it occasionally comes close.
+
+· Samsung Galaxy Z Fold 8
+  출처: What Hi-Fi? / 2026-08-18 23:36
+  링크: https://www.whathifi.com/smartphones-tablets/smartphones/samsung-galaxy-z-fold-8
+  피드 요약: Samsung has redesigned the Z Fold with a more movie-friendly design, but has it succeeded?
+
+· Apple’s next AirPods just leaked in an official video – here’s how their unique new feature will work
+  출처: What Hi-Fi? / 2026-08-18 23:13
+  링크: https://www.whathifi.com/headphones/wireless-earbuds/apples-next-airpods-just-leaked-in-an-official-video-heres-how-their-unique-new-feature-will-work
+  피드 요약: A dead cert to arrive at the rumoured iPhone launch next month?
+
+· Considering wired headphones? These open-backed Grado pair have won five What Hi-Fi? Awards in a row – and are at their lowest price
+  출처: What Hi-Fi? / 2026-08-18 22:29
+  링크: https://www.whathifi.com/headphones/wired-headphones/considering-wired-headphones-these-open-backed-grado-pair-have-won-five-what-hi-fi-awards-in-a-row-and-are-at-their-lowest-price
+  피드 요약: Under £200 for a pair of What Hi-Fi? legends
+
+· Pro-Ject adds aptX Bluetooth powers to its entry-level, plug-and-play turntable
+  출처: What Hi-Fi? / 2026-08-18 21:34
+  링크: https://www.whathifi.com/hi-fi/turntables/pro-ject-adds-aptx-bluetooth-powers-to-its-entry-level-plug-and-play-turntable
+  피드 요약: The E1.2 BT arrives alongside a ‘Phono’ edition
+
+· How to connect your phone to your TV: a simple guide to casting and mirroring
+  출처: What Hi-Fi? / 2026-08-18 20:16
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/how-to-connect-your-phone-to-your-tv-a-simple-guide-to-casting-and-mirroring
+  피드 요약: From Google Cast to Apple AirPlay, send content from your phone to your television as easily as possible
+
+· Reports suggest that Sonos could launch a major product in September – and it isn't the Ace Ultra headphones
+  출처: What Hi-Fi? / 2026-08-18 18:18
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/reports-suggest-that-sonos-could-launch-a-major-product-in-september-and-it-isnt-the-ace-ultra-headphones
+  피드 요약: Could the Ultra be joined by a new soundbar?
+
+· PlayStation’s Pulse Elevate speakers finally have a release date
+  출처: SoundGuys / 2026-08-19 03:53
+  링크: https://www.soundguys.com/playstation-pulse-elevate-launch-date-161630/
+  피드 요약: Here's when you can finally get your hands on the PlayStation Pulse Elevate speakers.
+
+· Google Pixel Buds Pro 2 get a $50 price cut at Amazon
+  출처: SoundGuys / 2026-08-19 01:16
+  링크: https://www.soundguys.com/pixel-buds-pro-2-amazon-deal-161624/
+  피드 요약: Google Pixel Buds Pro 2 drop to $179 at Amazon, a 22% discount off RRP on Google's flagship ANC earbuds.
+
+· Record price drop: Marshall Stanmore III falls to $199.99 with a 50% Amazon discount
+  출처: SoundGuys / 2026-08-19 00:37
+  링크: https://www.soundguys.com/marshall-stanmore-iii-bluetooth-speaker-deal-161619/
+  피드 요약: This Marshall Bluetooth speaker is down to half price at Amazon, with a 4.6-star rating and classic amp-style design.
+
+· Apple accidentally reveals what its camera-equipped AirPods can do
+  출처: SoundGuys / 2026-08-18 17:42
+  링크: https://www.soundguys.com/apple-camera-airpods-first-video-161609/
+  피드 요약: AirPods with eyes? Apple's wildest earbud upgrade is getting very real.
+
+· A mysterious new Sonos soundbar just surfaced ahead of launch
+  출처: SoundGuys / 2026-08-18 16:05
+  링크: https://www.soundguys.com/new-sonos-soundbar-fcc-listing-161599/
+  피드 요약: Your living room could sound a little more Sonos this September.
+
+· ECHO NANO NEWS FROM FiiO: MP3 PLAYER DEJA VU
+  출처: The Audiophile Man / 2026-08-18 22:32
+  링크: https://theaudiophileman.com/echo-nano-news-from-fiio-mp3-player-deja-vu/
+  피드 요약: A portable, lossless music player, no apps to get in the way, and published under FiiO’s SnowSky imprint, this is an almost nostalgic design that reminds one of older MP3 players of yore This CNC-machined 6-series aluminium-magnesium alloy gadget features a metal scroll wheel providing one-handed na
+
+· Spotify just unveiled a new tool that lets you Bridget Jones-ify your playlists with notes explaining your song choices — and I’m ready to spill
+  출처: TechRadar 오디오 / 2026-08-18 21:18
+  링크: https://www.techradar.com/audio/spotify/spotify-just-unveiled-a-new-tool-that-lets-you-bridget-jones-ify-your-playlists-with-notes-explaining-your-song-choices-and-im-ready-to-spill
+  피드 요약: Spotify's new Playlist Notes let you add context and background to the songs you love the most.
+
+· 'These things aren't meant to take pictures.' As a fresh clip of camera-equipped AirPods leaks, people appear to have already made their minds up — whatever the experts say
+  출처: TechRadar 오디오 / 2026-08-18 18:52
+  링크: https://www.techradar.com/audio/these-things-arent-meant-to-take-pictures-as-a-fresh-clip-of-camera-equipped-airpods-leaks-people-appear-to-have-already-made-their-minds-up-whatever-the-experts-say
+  피드 요약: A leaked video, claimed to be from a late build of MacOS, shows how camera-toting AirPods would work, and it won't assuage your privacy fears.
+
+· I’ve tested more than 60 Bluetooth speakers and this Marshall model may just be the most stylish of them all — but does it sound as good as it looks? Here’s my verdict
+  출처: TechRadar 오디오 / 2026-08-18 15:00
+  링크: https://www.techradar.com/audio/wireless-bluetooth-speakers/marshall-stockwell-iii-review
+  피드 요약: The Marshall Stockwell III almost sounds as luxurious as it looks, and boasts almighty power for its size.
+
+■ [카메라] 4건
+----------------------------------------
+· Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners
+  출처: Sony Alpha Rumors / 2026-08-18 21:40
+  링크: https://www.sonyalpharumors.com/former-sony-vice-chairman-why-sony-rejected-micro-four-thirds-partners/
+  피드 요약: Nikkei Business published an interview with Shigeki Ishizuka, former vice chairman of the Sony Group. The one interesting bit is that he said this: There was already a group ahead of us in the mirrorless camera market, and we received an invitation to collaborate, but after much discussion within th
+
+· Sony Tidbits…
+  출처: Sony Alpha Rumors / 2026-08-18 15:07
+  링크: https://www.sonyalpharumors.com/sony-tidbits-1914/
+  피드 요약: I See the World in 85mm Today deals at Amazon, BHphoto, Adorama, Amazon DE, Amazon UK, Amazon FR, Amazon IT, FotoErhardt DE, FotoKoch DE. Nanlite Announces Soft, Powerful PavoSlim 360C RGBWW LED Panel (Explora). 10 Harsh Photography Truths I Wish I Knew Earlier (42West). My Total Failure Becomes a H
+
+· Fujikina vs Fujifilm X Summit – The Ultimate Guide
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-19 02:01
+  링크: https://www.fujirumors.com/fujikina-vs-fujifilm-x-summit-the-ultimate-guide/
+  피드 요약: After the canceled Fujifilm X-T6 launch in early September, I’ve received many messages from readers pointing to the various Fujikina events Fujifilm has planned for September and October. The hope is that Fujifilm will launch the X-T6 at one of them. And I get why. Wouldn’t Fujikina be the perfect 
+
+· FUJIKINA New York Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-18 22:20
+  링크: https://www.fujirumors.com/fujikina-new-york-2026-oct-16-to-18-get-your-tickets-now-and-celebrate-200-years-of-photography-with-fujifilm/
+  피드 요약: Over the next months, Fujifilm has a couple of Fujikina events planed. Fujikina Paris will kick-off September 4 with a big celebration for the 200 years of photography, and also the event in New York will have the same theme. Fujikina Events: Fujikina Paris – September 4-6 Fujikina Ghent – September

@@ -1,0 +1,642 @@
+[
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom US",
+  "official": true,
+  "major_only": false,
+  "title": "Apple announces changes for apps in the European Union",
+  "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+  "date_kst": "2026-08-19 00:59",
+  "summary": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom KR",
+  "official": true,
+  "major_only": false,
+  "title": "Apple, 유럽연합 내 앱 관련 변경 사항 발표",
+  "link": "https://www.apple.com/kr/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+  "date_kst": "2026-08-19 01:01",
+  "summary": "오늘 Apple은 유럽연합 집행위원회와의 긴밀한 협업을 바탕으로 유럽연합 내 앱에 적용되는 비즈니스 약관을 변경했다고 발표했다."
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "iCloud, Photos, Find My and More Experiencing Issues",
+  "link": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
+  "date_kst": "2026-08-19 05:56",
+  "summary": "Several iCloud services are experiencing issues, according to Apple's system status page . Find My , Game Center, Photos , ‌iCloud‌ Calendar, ‌iCloud‌ Mail, ‌iCloud‌ Contacts, ‌iCloud‌ Web Apps, and iWork for ‌iCloud‌ are all experiencing service interruptions. Apple says only some users may run into problems. The issue started at 3:33 p.m. Eastern Time and is ongoing. Tags: Find My , Photos This article, \" iCloud, Photos, Find My and More Experiencing Issues \" first appeared on MacRumors.com Discuss this article in our forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
+  "link": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+  "date_kst": "2026-08-19 04:56",
+  "summary": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen. Mentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products . The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub. PosterKit is Apple's framework for Lock Screen customization, and the hub's home screen could have many of the same options for icons, widgets, and "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "National Parks Apple Watch Activity Challenge Launching August 23",
+  "link": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
+  "date_kst": "2026-08-19 04:09",
+  "summary": "Apple will launch its annual National Parks Apple Watch activity challenge on Sunday, August 23 to celebrate national parks across the United States. Apple Watch owners can earn an Apple Watch activity award by doing a hike, walk, run, or wheelchair push that lasts for 20 minutes or more on August 23, 2026. Earning this award is a walk in the park. Or a run. Or a hike. Or a wheelchair push. Just record one of these workouts for 20 minutes or more on August 23. Like all of the Apple Watch activity challenges, earning the award will provide users with animated stickers that can be used in the Me"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'",
+  "link": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
+  "date_kst": "2026-08-19 03:01",
+  "summary": "The camera-equipped AirPods that we've confirmed Apple is working on are likely going to be part of the AirPods Pro lineup rather than separate \"AirPods Ultra.\" A macOS Tahoe 26.7 file that references the new AirPods is labeled \"AirPods Pro,\" hinting at the new name. It's possible that's a placeholder name, so AirPods Ultra isn't entirely out of the question, but given Apple put a full video of the new AirPods in the software, there isn't much need for a placeholder. Bloomberg 's Mark Gurman said in March that Apple was considering several devices with the Ultra name, including the foldable iP"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+  "link": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+  "date_kst": "2026-08-19 02:02",
+  "summary": "Apple today announced changes to its App Store policies and fees in the European Union to comply with the Digital Markets Act. Apple says the changes were made after \"close collaboration\" with the European Commission, and the updates simplify the fee structure and \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\" The initial acquisition fee and store services fee are being removed for apps distributed outside of the ‌App Store‌, and Apple will now charge a 5% Core Technology Commission on digital purchases that replaces the prior per-install "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
+  "link": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+  "date_kst": "2026-08-19 01:28",
+  "summary": "Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete details outlined on this page . Ordinarily, the Apple Card offers 3% Daily Cash at these partners, but this limited-time promotion provides an additional 2% Daily Cash on eligible purchases up to the $750 limit. Apple has given the offer an \"August road trip\" theme, as the eligible purchases include"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "OpenAI Announces ChatGPT for Teens With Built-In Safeguards and Learning Prompts",
+  "link": "https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/",
+  "date_kst": "2026-08-19 00:04",
+  "summary": "OpenAI is adding a ChatGPT mode for teenagers that includes parental controls, enhanced content safeguards, and a focus on learning. ChatGPT for Teens is \"designed to help teens learn, think critically, deepen understanding, and use AI with confidence,\" said the company in a blog post announcing the feature. The feature includes learning-focused starter prompts for facilitating studying, practicing skills, or exploring ideas. ChatGPT's Study mode is baked in, as are learning tools (including quizzes when available), and Study hours that let the teen or a linked parent/guardian choose when elig"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
+  "link": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
+  "date_kst": "2026-08-18 23:35",
+  "summary": "Amazon and Best Buy this week have multiple discounts on the M4 iPad Air , providing $100 off these 2026 models. These are the best prices we've seen in the wake of Apple's summer price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. You'll find savings on both the 11-inch and 13-inch models of the M4 iPad Air, with savings mainly focused on 128GB and 256GB Wi-Fi tablets. All of these discounts have been automatically applied and do not require a coupon code or a special"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Spotify Running Mode for Android now available on your Galaxy device",
+  "link": "https://www.sammobile.com/news/spotify-running-mode-for-android-now-available-on-your-galaxy-device/",
+  "date_kst": "2026-08-19 03:31",
+  "summary": "The Spotify Running Mode was recently introduced. It transforms your playlists into a highly personalized session that's tailored to your run. This feature was previously limited to the iOS app only. The company has announced today that Spotify Running Mode for Android is now available. Eligible devices include your Galaxy smartphones as well. The wait […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung employees can no longer post secretly on its internal message boards",
+  "link": "https://www.sammobile.com/news/samsung-employees-can-no-longer-post-secretly-on-its-internal-message-boards/",
+  "date_kst": "2026-08-19 03:21",
+  "summary": "Samsung Electronics' internal message boards allowed employees to post anonymously for more than a decade. This allowed them to be frank and open, since they could post secretly without revealing their true identities. Reports suggest that Samsung has removed this feature, and employees must now use their real names for any and all posts. Employees […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Latest leak reveals almost all Galaxy S26 FE details before launch",
+  "link": "https://www.sammobile.com/news/latest-leak-reveals-almost-all-galaxy-s26-fe-details-before-launch/",
+  "date_kst": "2026-08-19 03:09",
+  "summary": "The steady stream of leaks over the past couple of weeks have made it clear that the Galaxy S26 FE launch isn't that far off. A new leak today has revealed almost all details about the Galaxy S26 FE ahead of its launch, leaving little to the imagination. There goes the element of surprise Posted […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "New Galaxy S26 FE leak suggests its launch is near",
+  "link": "https://www.sammobile.com/news/new-galaxy-s26-fe-leak-suggests-launch-near/",
+  "date_kst": "2026-08-19 01:32",
+  "summary": "Earlier this month, Samsung announced that it will soon launch a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE, which will succeed the Galaxy S25 FE. Even before the brand officially confirmed the phone, there had already been plenty of reports about it. Reports about the device have revealed details about its design, […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "A second wide foldable in 2027 may do Samsung more harm than good",
+  "link": "https://www.sammobile.com/opinion/second-wide-samsung-foldable-2027-more-harm-than-good/",
+  "date_kst": "2026-08-19 01:00",
+  "summary": "The Galaxy Z Fold 8 is Samsung's first passport-style foldable with a wider form factor compared to the tried and tested book-style Galaxy Z Fold 8 Ultra form factor. The new device is performing very well in the market, with some reports suggesting that Samsung has bumped up production by an additional one million units […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung raises Galaxy phone prices in India for the ninth time",
+  "link": "https://www.sammobile.com/news/samsung-raises-galaxy-phone-prices-india-ninth-time/",
+  "date_kst": "2026-08-19 00:30",
+  "summary": "Back in January, Samsung hiked the prices of its smartphones in India, marking the first such increase in a very long time. The move was believed to be driven by rising memory chip prices. Since then, the company has raised smartphone prices in the country multiple times, with surging memory prices once again believed to […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Should you use this Galaxy Z8 fingerprint setting to speed up phone unlocks?",
+  "link": "https://www.sammobile.com/news/should-you-use-galaxy-z8-fingerprint-setting-faster-phone-unlocks/",
+  "date_kst": "2026-08-19 00:21",
+  "summary": "If you've been using non-foldable Galaxy phones for the past five or so years, chances are you haven't touched a side-mounted fingerprint sensor for at least that long. But if you just bought your first foldable, your experience is about to change. Foldable phones, including the Galaxy Z Fold 8, Fold 8 Ultra, and Galaxy […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "One UI 9 makes it easier to check your Galaxy device’s warranty details",
+  "link": "https://www.sammobile.com/news/one-ui-9-easier-check-warranty-details/",
+  "date_kst": "2026-08-18 20:21",
+  "summary": "One UI 9.0, which debuted with the Galaxy Z Flip 8 and Galaxy Z Fold 8 series last month, introduces a major change to the Settings menu: a dedicated Warranty and care section that makes it easier to check warranty status, run diagnostics, and resolve device issues. The Warranty and care section is located directly […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple services outage hits iCloud, Game Center, Find My, and more",
+  "link": "https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss",
+  "date_kst": "2026-08-19 06:47",
+  "summary": "Syncing your data with iCloud might not work right now, as an outage has affected multiple Apple services, causing issues for developers and users alike. iCloud and other Apple services were hit by an outage on Tuesday. Virtually everything on an iPhone or iPad can be uploaded to iCloud and synced across compatible devices. However, the services that power this functionality can sometimes become unresponsive, which is what happened on August 18. According to Apple's System Status page, several Apple Services were affected by an outage. At around 3:30 PM Eastern Time on Tuesday, users began exp"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's EU App Store changes are big, and a preview of what's coming in the US",
+  "link": "https://appleinsider.com/articles/26/08/18/apples-eu-app-store-changes-are-big-and-a-preview-of-whats-coming-in-the-us?utm_source=rss",
+  "date_kst": "2026-08-19 04:28",
+  "summary": "Apple's changes to its terms and fees for developers distributing in the European Union is a premonition of reduced commissions for developers that could soon come to the United States. Apple's attempts to comply with EU rules has led to new app transaction fees - Image Credit: Apple Apple is waging two wars over the App Store , on both sides of the Atlantic. In Europe, it's dealing with the European Commission and the European Union demanding changes to how the App Store earns income, especially for transactions outside the App Store. There has already been massive change, in the form of the "
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "New EU App Store terms lower both costs and bar to entry for external payments",
+  "link": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
+  "date_kst": "2026-08-19 03:51",
+  "summary": "On Tuesday, after much back-and-forth with the European Union, Apple has rolled out new and simpler terms and fee structures for developers that distribute in the area. An EU flag with the App Store logo The terms are greatly simplified. Core technology fees are mostly exterminated, replaced by percentages. For App Store apps using Apple In-App Purchase, the new commission will be 26 percent. For the vast majority of developers, including auto-renewing subscriptions after their first year, that fee is now 15 percent. For App Store apps using alternative payment processing, the commission is be"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple pledges relief after deadly Indonesia earthquake",
+  "link": "https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss",
+  "date_kst": "2026-08-19 03:25",
+  "summary": "Apple is donating to first responders and relief efforts in Indonesia following the deadly earthquake that has left thousands displaced and triggered more than a 1,000 aftershocks. Apple to donate to Indonesian earthquake relief On August 16, a magnitude-7.7 earthquake struck eastern Indonesia. At the time of publication, the death toll is near 70. Over 200 have been injured, and thousands more have been driven from their homes. According to Reuters , nearly 1,000 aftershocks were detected in the 24 hours following the initial strike. Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "There is a good reason to praise AirPods with cameras, and not fear them",
+  "link": "https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss",
+  "date_kst": "2026-08-19 02:55",
+  "summary": "There's already social media outrage that AirPods Pro are going to get a camera very soon. Like with mockery about the Snuggie, the Clapper, and so forth, most of the drama badly misses the point. AirPods Pro 2 Meta's AI specs are creepy. They have nearly invisible cameras, whose main protection for the non-wearer is a light that is easily defeated by a piece of electrical tape. This is just the way that they want it . The \"protections\" that Meta has implemented are pointless by design. Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's product identifier leak is a hard mystery to solve",
+  "link": "https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss",
+  "date_kst": "2026-08-19 01:04",
+  "summary": "Apple itself leaked many mystery products that are coming out relatively soon. The leaked product identifiers proximity to others give some clues, but not many. An example of an Apple product identifier The release candidate for macOS Tahoe 26.7 was a trove of information for unreleased products. References to product identifiers littered the build, including for some known-about items. For example, there was sightings of J490 and J491, believed to be versions of the Home Hub. B525 is expected to be the next-generation HomePod mini , while J229 was a potential security camera. Continue Reading"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Card users can stack summer savings with 5% Daily Cash travel promotions",
+  "link": "https://appleinsider.com/articles/26/08/18/apple-card-users-can-stack-summer-savings-with-5-daily-cash-travel-promotions?utm_source=rss",
+  "date_kst": "2026-08-19 00:51",
+  "summary": "Apple Card is making summer road trips more rewarding with 5% Daily Cash on car rentals, hotel stays, gas and EV charging through September 15. Apple Card adds 5% Daily Cash on travel, gas, and more Summer often means travel, and travel often means travel-related expenses. That's why Apple Card has come up with a panoply of new promotions to help you save the second you hit the road. Apple Card cardholders can score 5% cash back with eligible car rentals through Hertz when they reserve while using Apple Card. You can earn up to $750 in total. Continue Reading on AppleInsider | Discuss on our F"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple may be considering adding a Camera Control button to a future iPad",
+  "link": "https://appleinsider.com/articles/26/08/18/apple-may-be-considering-adding-a-camera-control-button-to-a-future-ipad?utm_source=rss",
+  "date_kst": "2026-08-19 00:22",
+  "summary": "A newly-revealed patent details a button that can be swiped as well as pressed. It's the iPhone's Camera Control button, and it may be coming to the iPad . Detail from the patent showing an iPad with Camera Control - image credit: Apple Introduced in 2024 with the iPhone 16 range, the Camera Control button has been sufficiently divisive that Apple is even rumored to be dropping it entirely . That's unlikely, if not impossible, and now a newly-granted patent suggests that Apple at least used to have big plans for the button. That's big as in the device it would go on. The innocuously-named \"Inp"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
+  "link": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
+  "date_kst": "2026-08-19 06:56",
+  "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily ."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Wallet driver’s licenses coming to these states next",
+  "link": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
+  "date_kst": "2026-08-19 05:57",
+  "summary": "At WWDC 2021, Apple announced support for storing your driver’s license in Apple Wallet on iPhone. At the time, Apple touted this as the last step before you can be “fully free of your physical wallet.” Here are the states where support for the Apple Wallet driver’s license feature is coming next …"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Find My, iCloud, and several other Apple services are currently down for some users",
+  "link": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
+  "date_kst": "2026-08-19 05:48",
+  "summary": "Apple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Comcast just turned millions of Xfinity routers into motion sensors",
+  "link": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
+  "date_kst": "2026-08-19 05:33",
+  "summary": "Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
+  "link": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
+  "date_kst": "2026-08-19 05:23",
+  "summary": "Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Here’s everything new for Apple Calendar in iOS 27",
+  "link": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
+  "date_kst": "2026-08-19 04:37",
+  "summary": "iOS 27 is packed with new features for Apple Wallet , Messages , Notes , and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple pulls AI ‘nudify’ app promoted in Meta ads",
+  "link": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
+  "date_kst": "2026-08-19 04:28",
+  "summary": "WIRED reports that Meta ran ads for a now-pulled App Store app that let users create AI-generated pornographic deepfakes of real people, with one of the ads featuring a woman resembling a prominent US politician. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Next Apple Watch activity challenge supports national parks",
+  "link": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
+  "date_kst": "2026-08-19 04:00",
+  "summary": "Apple Watch users can mark their calendars for the next activity challenge. The 2026 National Parks Challenge is set for this Sunday, August 23."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Gmail is making it a little harder for you to ignore political fundraising emails",
+  "link": "https://www.androidauthority.com/gmail-verified-sender-program-for-political-campaigns-3700120/",
+  "date_kst": "2026-08-19 06:51",
+  "summary": "Election season is coming for your inbox."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Bring your old Spotify Car Thing back to life with this new software",
+  "link": "https://www.androidauthority.com/spotify-car-thing-software-3700098/",
+  "date_kst": "2026-08-19 06:25",
+  "summary": "Kept your Spotify Car Thing? This open source project brings it back from the dead."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google Calendar finally lets you ban that co-worker who’s always spamming you with meetings",
+  "link": "https://www.androidauthority.com/google-calendar-user-blocking-3700108/",
+  "date_kst": "2026-08-19 06:05",
+  "summary": "No, Bob, I’m not free at 4:30 PM on a Friday."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Spotify’s Running Mode is giving Android users another reason to go Premium",
+  "link": "https://www.androidauthority.com/spotify-premium-running-mode-android-3700088/",
+  "date_kst": "2026-08-19 05:41",
+  "summary": "Create custom playlists to match your pace."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google begins rolling out Android’s controversial new sideloading flow",
+  "link": "https://www.androidauthority.com/google-android-advanced-flow-sideloading-rollout-begins-3700073/",
+  "date_kst": "2026-08-19 05:26",
+  "summary": "The first version of Android’s advanced flow is gradually arriving, with a restart and 24-hour delay built in."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Xfinity has a weird new way to help you protect your home",
+  "link": "https://www.androidauthority.com/xfinity-wifi-motion-launch-3700078/",
+  "date_kst": "2026-08-19 05:23",
+  "summary": "Xfinity wants you to let it detect motion in your home with its Wi-Fi."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google Home devices should now be up and running again",
+  "link": "https://www.androidauthority.com/google-home-outage-over-3700044/",
+  "date_kst": "2026-08-19 04:24",
+  "summary": "Google Home sounds the all-clear after that big service outage."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Android users just got one of Chrome’s biggest Gemini upgrades",
+  "link": "https://www.androidauthority.com/gemini-in-chrome-on-android-3699994/",
+  "date_kst": "2026-08-19 04:00",
+  "summary": "Let Gemini wrestle with the web while your thumb relaxes."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "삼성 아이폰 폴드 및 갤럭시Z 폴드용 수요 대응, 아산 A7 라인 증설 승인",
+  "link": "https://blog.naver.com/yeux1122/224382432285?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-18 17:54",
+  "summary": "삼성이 아이폰 폴드 및 갤럭시 폴드 제품 양산 물량아 증가함에 따라 더 빠르게 A7 라인 증설을 결정했다고 합니다. (*국내 기사) 아산에 건설 중인 새로운 A7 공장에 대한 투자를 재개했으며, 완공 목표 시점은 2028년 초 2021년 중단됐던 삼성의 A7 공장 건설 프로젝트가 5년 만에 재개 (*2026년 8월부터 다시.시작, 2027년에 착공해2028년 초 완공을 목표) 폴더블 모바일용과 (애플 아이폰 폴드 & 갤럭시Z폴드 와이드 등 대응) 랩탑용 OLED 패널 양산이 핵심"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Technics is celebrating 55 years of its legendary SL-1200 turntable with a limited-edition design",
+  "link": "https://www.whathifi.com/hi-fi/turntables/technics-is-celebrating-55-years-of-its-legendary-sl-1200-turntable-with-a-limited-edition-design",
+  "date_kst": "2026-08-19 01:00",
+  "summary": "The SL-1200 55th Anniversary Edition looks as good as gold"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung Z Fold 8 Ultra",
+  "link": "https://www.whathifi.com/smartphones-tablets/smartphones/samsung-z-fold-8-ultra",
+  "date_kst": "2026-08-18 23:38",
+  "summary": "Samsung’s Ultra foldable wants to be the top option for power users and AV aficionados, and it occasionally comes close."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung Galaxy Z Fold 8",
+  "link": "https://www.whathifi.com/smartphones-tablets/smartphones/samsung-galaxy-z-fold-8",
+  "date_kst": "2026-08-18 23:36",
+  "summary": "Samsung has redesigned the Z Fold with a more movie-friendly design, but has it succeeded?"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Apple’s next AirPods just leaked in an official video – here’s how their unique new feature will work",
+  "link": "https://www.whathifi.com/headphones/wireless-earbuds/apples-next-airpods-just-leaked-in-an-official-video-heres-how-their-unique-new-feature-will-work",
+  "date_kst": "2026-08-18 23:13",
+  "summary": "A dead cert to arrive at the rumoured iPhone launch next month?"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Considering wired headphones? These open-backed Grado pair have won five What Hi-Fi? Awards in a row – and are at their lowest price",
+  "link": "https://www.whathifi.com/headphones/wired-headphones/considering-wired-headphones-these-open-backed-grado-pair-have-won-five-what-hi-fi-awards-in-a-row-and-are-at-their-lowest-price",
+  "date_kst": "2026-08-18 22:29",
+  "summary": "Under £200 for a pair of What Hi-Fi? legends"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Pro-Ject adds aptX Bluetooth powers to its entry-level, plug-and-play turntable",
+  "link": "https://www.whathifi.com/hi-fi/turntables/pro-ject-adds-aptx-bluetooth-powers-to-its-entry-level-plug-and-play-turntable",
+  "date_kst": "2026-08-18 21:34",
+  "summary": "The E1.2 BT arrives alongside a ‘Phono’ edition"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "How to connect your phone to your TV: a simple guide to casting and mirroring",
+  "link": "https://www.whathifi.com/tv-home-cinema/televisions/how-to-connect-your-phone-to-your-tv-a-simple-guide-to-casting-and-mirroring",
+  "date_kst": "2026-08-18 20:16",
+  "summary": "From Google Cast to Apple AirPlay, send content from your phone to your television as easily as possible"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Reports suggest that Sonos could launch a major product in September – and it isn't the Ace Ultra headphones",
+  "link": "https://www.whathifi.com/tv-home-cinema/soundbars/reports-suggest-that-sonos-could-launch-a-major-product-in-september-and-it-isnt-the-ace-ultra-headphones",
+  "date_kst": "2026-08-18 18:18",
+  "summary": "Could the Ultra be joined by a new soundbar?"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "PlayStation’s Pulse Elevate speakers finally have a release date",
+  "link": "https://www.soundguys.com/playstation-pulse-elevate-launch-date-161630/",
+  "date_kst": "2026-08-19 03:53",
+  "summary": "Here's when you can finally get your hands on the PlayStation Pulse Elevate speakers."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Google Pixel Buds Pro 2 get a $50 price cut at Amazon",
+  "link": "https://www.soundguys.com/pixel-buds-pro-2-amazon-deal-161624/",
+  "date_kst": "2026-08-19 01:16",
+  "summary": "Google Pixel Buds Pro 2 drop to $179 at Amazon, a 22% discount off RRP on Google's flagship ANC earbuds."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Record price drop: Marshall Stanmore III falls to $199.99 with a 50% Amazon discount",
+  "link": "https://www.soundguys.com/marshall-stanmore-iii-bluetooth-speaker-deal-161619/",
+  "date_kst": "2026-08-19 00:37",
+  "summary": "This Marshall Bluetooth speaker is down to half price at Amazon, with a 4.6-star rating and classic amp-style design."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Apple accidentally reveals what its camera-equipped AirPods can do",
+  "link": "https://www.soundguys.com/apple-camera-airpods-first-video-161609/",
+  "date_kst": "2026-08-18 17:42",
+  "summary": "AirPods with eyes? Apple's wildest earbud upgrade is getting very real."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "A mysterious new Sonos soundbar just surfaced ahead of launch",
+  "link": "https://www.soundguys.com/new-sonos-soundbar-fcc-listing-161599/",
+  "date_kst": "2026-08-18 16:05",
+  "summary": "Your living room could sound a little more Sonos this September."
+ },
+ {
+  "category": "오디오",
+  "source": "The Audiophile Man",
+  "official": false,
+  "major_only": false,
+  "title": "ECHO NANO NEWS FROM FiiO: MP3 PLAYER DEJA VU",
+  "link": "https://theaudiophileman.com/echo-nano-news-from-fiio-mp3-player-deja-vu/",
+  "date_kst": "2026-08-18 22:32",
+  "summary": "A portable, lossless music player, no apps to get in the way, and published under FiiO’s SnowSky imprint, this is an almost nostalgic design that reminds one of older MP3 players of yore This CNC-machined 6-series aluminium-magnesium alloy gadget features a metal scroll wheel providing one-handed navigation, while a low-power 0.91-inch OLED display presents... The post ECHO NANO NEWS FROM FiiO: MP3 PLAYER DEJA VU appeared first on The Audiophile Man ."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "Spotify just unveiled a new tool that lets you Bridget Jones-ify your playlists with notes explaining your song choices — and I’m ready to spill",
+  "link": "https://www.techradar.com/audio/spotify/spotify-just-unveiled-a-new-tool-that-lets-you-bridget-jones-ify-your-playlists-with-notes-explaining-your-song-choices-and-im-ready-to-spill",
+  "date_kst": "2026-08-18 21:18",
+  "summary": "Spotify's new Playlist Notes let you add context and background to the songs you love the most."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "'These things aren't meant to take pictures.' As a fresh clip of camera-equipped AirPods leaks, people appear to have already made their minds up — whatever the experts say",
+  "link": "https://www.techradar.com/audio/these-things-arent-meant-to-take-pictures-as-a-fresh-clip-of-camera-equipped-airpods-leaks-people-appear-to-have-already-made-their-minds-up-whatever-the-experts-say",
+  "date_kst": "2026-08-18 18:52",
+  "summary": "A leaked video, claimed to be from a late build of MacOS, shows how camera-toting AirPods would work, and it won't assuage your privacy fears."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "I’ve tested more than 60 Bluetooth speakers and this Marshall model may just be the most stylish of them all — but does it sound as good as it looks? Here’s my verdict",
+  "link": "https://www.techradar.com/audio/wireless-bluetooth-speakers/marshall-stockwell-iii-review",
+  "date_kst": "2026-08-18 15:00",
+  "summary": "The Marshall Stockwell III almost sounds as luxurious as it looks, and boasts almighty power for its size."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners",
+  "link": "https://www.sonyalpharumors.com/former-sony-vice-chairman-why-sony-rejected-micro-four-thirds-partners/",
+  "date_kst": "2026-08-18 21:40",
+  "summary": "Nikkei Business published an interview with Shigeki Ishizuka, former vice chairman of the Sony Group. The one interesting bit is that he said this: There was already a group ahead of us in the mirrorless camera market, and we received an invitation to collaborate, but after much discussion within the company, we declined. We decided… The post Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "Sony Tidbits…",
+  "link": "https://www.sonyalpharumors.com/sony-tidbits-1914/",
+  "date_kst": "2026-08-18 15:07",
+  "summary": "I See the World in 85mm Today deals at Amazon, BHphoto, Adorama, Amazon DE, Amazon UK, Amazon FR, Amazon IT, FotoErhardt DE, FotoKoch DE. Nanlite Announces Soft, Powerful PavoSlim 360C RGBWW LED Panel (Explora). 10 Harsh Photography Truths I Wish I Knew Earlier (42West). My Total Failure Becomes a Humbling Learning Experience – LUMIX, Sigma,… The post Sony Tidbits… first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Fuji Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Fujikina vs Fujifilm X Summit – The Ultimate Guide",
+  "link": "https://www.fujirumors.com/fujikina-vs-fujifilm-x-summit-the-ultimate-guide/",
+  "date_kst": "2026-08-19 02:01",
+  "summary": "After the canceled Fujifilm X-T6 launch in early September, I’ve received many messages from readers pointing to the various Fujikina events Fujifilm has planned for September and October. The hope is that Fujifilm will launch the X-T6 at one of them. And I get why. Wouldn’t Fujikina be the perfect stage for a new product?… The post Fujikina vs Fujifilm X Summit – The Ultimate Guide appeared first on Fuji Rumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Fuji Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "FUJIKINA New York Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm",
+  "link": "https://www.fujirumors.com/fujikina-new-york-2026-oct-16-to-18-get-your-tickets-now-and-celebrate-200-years-of-photography-with-fujifilm/",
+  "date_kst": "2026-08-18 22:20",
+  "summary": "Over the next months, Fujifilm has a couple of Fujikina events planed. Fujikina Paris will kick-off September 4 with a big celebration for the 200 years of photography, and also the event in New York will have the same theme. Fujikina Events: Fujikina Paris – September 4-6 Fujikina Ghent – September 20 Fujikina Köln –… The post FUJIKINA New York Oct. 16 to 18 – Get Your Tickets Now and Celebrate 200 Years of Photography with Fujifilm appeared first on Fuji Rumors ."
+ }
+]
