@@ -1,0 +1,379 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-20 07:45 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-19 07:54 (KST) 이후 기사
+새 기사: 72건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 4건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 6건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 9건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 38건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 4건 생략)
+
+■ [IT 공식발표] 3건
+----------------------------------------
+· [영상] 삼성 AI 어시스턴트, 학습 몰입도와 접근성을 높이는 미래형 교실을 제안하다
+  출처: Samsung Newsroom Korea / 2026-08-19 20:00
+  링크: https://news.samsung.com/kr/%ec%98%81%ec%83%81-%ec%82%bc%ec%84%b1-ai-%ec%96%b4%ec%8b%9c%ec%8a%a4%ed%84%b4%ed%8a%b8-%ed%95%99%ec%8a%b5-%eb%aa%b0%ec%9e%85%eb%8f%84%ec%99%80-%ec%a0%91%ea%b7%bc%ec%84%b1%ec%9d%84-%eb%86%92
+  피드 요약: 교사의 역할은 다양하다. 수업을 진행하는 동시에 학생들의 참여를 이끌고, 학생마다 다른 학습 수준과 필요까지 세심하게 살펴야 한다. 이 모든 과정을 동시에 하다 보면 업무 부담은 늘어날 수밖에 없다. 삼성전자의 ‘삼성 AI 어시스턴트(Samsung AI Assistant)’는 안드로이드 운영체제 기반의 삼성 전자칠판에 탑재된 앱으로, ‘자동 전사(Live Transcript)’, ‘서클 투 서치(Circle to Search)’, ‘AI 퀴즈(AI Quiz)’ 등 다양한 AI […]
+
+· 삼성전자, 광주사업장에 플랙트그룹 신규 HVAC 생산라인 구축
+  출처: Samsung Newsroom Korea / 2026-08-19 18:30
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b4%91%ec%a3%bc%ec%82%ac%ec%97%85%ec%9e%a5%ec%97%90-%ed%94%8c%eb%9e%99%ed%8a%b8%ea%b7%b8%eb%a3%b9-%ec%8b%a0%ea%b7%9c-hvac-%ec%83%9d%ec%82%b0%eb%9d%bc%ec%9d%b8
+  피드 요약: 삼성전자가 빠르게 성장하는 글로벌 냉난방공조(HVAC) 시장에 대응하기 위해 지난해 인수한 플랙트그룹의 HVAC 생산라인을 광주사업장에 새롭게 구축한다. 삼성전자는 약 2,400억원을 투자해 전남광주통합특별시 북구에 위치한 광주사업장 제3 캠퍼스에 축구장 3개 크기에 해당하는 연면적 2만1,800㎡(약 6,600평) 규모의 공조 제품 생산라인을 건립한다. 삼성전자와 플랙트그룹코리아, 전남광주통합특별시는 19일 광주청사에서 투자협약을 체결했다. 이날 협약식에는 민형배 전남광주통합특별시장, 김철기 삼성전자 DA사업부장(부사장), 임성택
+
+· [영상] 폭염 속 근로자의 안전을 지키는, 삼성전자 ‘스마트싱스 프로 기반 열 스트레스 관리 시스템’(feat.갤럭시 워치)
+  출처: Samsung Newsroom Korea / 2026-08-19 17:00
+  링크: https://news.samsung.com/kr/%ec%98%81%ec%83%81-%ed%8f%ad%ec%97%bc-%ec%86%8d-%ea%b7%bc%eb%a1%9c%ec%9e%90%ec%9d%98-%ec%95%88%ec%a0%84%ec%9d%84-%ec%a7%80%ed%82%a4%eb%8a%94-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%8a%a4
+  피드 요약: 무더위가 이어지는 여름, 장시간 야외에서 일하는 근로자들에게는 열사병 등 온열질환에 대한 각별한 주의가 필요하다. 특히 같은 환경에서도 나이나 신체 조건, 활동량 등에 따라 온열질환 위험도가 달라질 수 있어 근로자별 상태를 세심하게 살펴야 한다. 이에 삼성전자는 지난 7월 고용노동부와 협력해 스마트싱스 프로 안전관리 솔루션(SmartThings Pro for Safety) 내 ‘열 스트레스 관리 시스템’을 고도화했다. 이 시스템은 근로자와 […]
+
+■ [IT 루머] 44건
+----------------------------------------
+· Meta AI Launches Mac App With Screen Sharing and Dictation
+  출처: MacRumors / 2026-08-20 07:35
+  링크: https://www.macrumors.com/2026/08/19/meta-ai-mac-app/
+  피드 요약: Meta today launched a new ‌Meta‌ AI app for the Mac, which is available in a beta capacity. The app is primarily meant for businesses and content creators, and it integrates with Facebook and Instagram. It incorporates analytics tools so it can answer questions about performance, and connects with G
+
+· New Apple Store Reportedly Opening in Idaho
+  출처: MacRumors / 2026-08-20 04:46
+  링크: https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/
+  피드 요약: Apple plans to open a new 10,000-square-foot store at The Village at Meridian, an outdoor shopping complex near Boise, Idaho, according to building permits reviewed by BoiseDev . Apple is aiming to open the store in time for the iPhone 18 Pro launch this September, a tipster claimed. The company's o
+
+· College Students Can Get a Free Year of Google AI Pro
+  출처: MacRumors / 2026-08-20 04:00
+  링크: https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/
+  피드 요약: Google today said eligible college students in the United States can get a free year of Google AI Pro. Google AI Pro is normally priced at $19.99 per month, and it includes 4x higher usage limits in Gemini, access to Gemini Spark, Gemini in Google apps like Gmail and Google Docs, and 5TB of storage 
+
+· Beats 360 Over-Ear Headphones Leak in Retail Listings
+  출처: MacRumors / 2026-08-20 03:20
+  링크: https://www.macrumors.com/2026/08/19/beats-360-headphones/
+  피드 요약: One of the Beats codenames MacRumors found in the macOS Tahoe 26.7 update (B518) appears to be for the Beats 360, a new set of over-ear headphones that we could see launch soon. Multiple Reddit users found signs of the Beats 360 on UK websites like Amazon, though those listings have now been removed
+
+· Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off
+  출처: MacRumors / 2026-08-20 02:30
+  링크: https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/
+  피드 요약: Anker and Jackery have introduced big discounts across their most popular portable power stations this week, including up to $1,500 off select models from each company. We're tracking Anker's best deals over at Amazon, while Jackery's discounts can be found on the retailer's own website. Anker SOLIX
+
+· Apple Accidentally Leaked More Than 10 New Products in macOS Update
+  출처: MacRumors / 2026-08-20 00:03
+  링크: https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/
+  피드 요약: Apple on Monday seeded the macOS 26.7 Release Candidate, and the upcoming software update has seemingly leaked more than 10 new Apple products. macOS 26.7's code contains references to AirPods with infrared cameras for Visual Intelligence, the long-rumored foldable iPhone, an all-new Apple smart hom
+
+· Next Apple TV Rumored to Have Five New Features, Including Siri AI
+  출처: MacRumors / 2026-08-19 23:43
+  링크: https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/
+  피드 요약: According to rumors, the next-generation Apple TV 4K will have at least five new features, including an A17 Pro chip or newer, increased RAM, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote. Below, we recap everything rumored for the next Apple TV, along w
+
+· Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos
+  출처: MacRumors / 2026-08-19 23:00
+  링크: https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/
+  피드 요약: Cultured Code today released Things 3.23 , featuring a significant update to the app's handling of repeating to-dos, addressing two of the most requested changes from users. Until now, repeating to-dos in Things lacked some of the flexibility of standard to-dos and today's update closes that gap alo
+
+· Work on the Galaxy A58 has begun alongside Galaxy Xcover FR
+  출처: SamMobile / 2026-08-20 02:50
+  링크: https://www.sammobile.com/news/work-on-the-galaxy-a58-has-begun-alongside-galaxy-xcover-fr/
+  피드 요약: The Galaxy A5x series is one of Samsung's most important lineups, so it's hardly surprising to hear that there's going to be a new one next year. References to the Galaxy A58 have now been spotted alongside those for the Galaxy Xcover FR, which may be a new rugged phone from Samsung. Galaxy A58 may 
+
+· LG makes more profit from appliances than Samsung with similar sales
+  출처: SamMobile / 2026-08-20 02:31
+  링크: https://www.sammobile.com/news/lg-makes-more-profit-from-appliances-than-samsung-with-similar-sales/
+  피드 요약: Consumer electronics and home appliances are a big business for Samsung. It faces tough competition in the segment, including from local rival LG. The latest quarterly results from both companies show that while LG and Samsung's revenues were almost similar, LG was actually profitable. LG's out-earn
+
+· Samsung racing ahead to complete work on its second Texas chip factory
+  출처: SamMobile / 2026-08-20 02:21
+  링크: https://www.sammobile.com/news/samsung-racing-ahead-to-complete-work-on-its-second-texas-chip-factory/
+  피드 요약: Samsung has concentrated its US chipmaking investments in Taylor, Texas. It's ramping up work as demand for advanced chipmaking grows in the country. It has been revealed that a large part of the foundational work for Samsung's second chip fab in Taylor, Texas, has already been completed, ahead of t
+
+· Galaxy S26 Ultra is now available at its lowest-ever price in India
+  출처: SamMobile / 2026-08-19 21:49
+  링크: https://www.sammobile.com/news/galaxy-s26-ultra-now-available-lowest-ever-price-india/
+  피드 요약: Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, is available at its lowest-ever price in India. The brand launched the base variant of the Galaxy S26 Ultra in India, featuring 12GB of RAM and 256GB of storage, at INR 139,999. Now, you can get it for as little as INR 1,11,699
+
+· Galaxy Watch 4, 4 Classic get August 2026 security update
+  출처: SamMobile / 2026-08-19 21:17
+  링크: https://www.sammobile.com/news/galaxy-watch-4-4-classic-get-august-2026-security-update/
+  피드 요약: Samsung has started rolling out the August 2026 security patch to its smartwatches, and the first models to get it are the Galaxy Watch 4 and the Galaxy Watch 4 Classic. Samsung seems to be rolling it out to the two wearables first in its home country, South Korea. The latest updates for the two […]
+
+· Samsung unveils world’s first 300Hz OLED display for laptops
+  출처: SamMobile / 2026-08-19 19:47
+  링크: https://www.sammobile.com/news/samsung-unveils-world-first-300hz-oled-display-laptops/
+  피드 요약: Samsung Display unveiled some groundbreaking new OLED technologies at the ongoing IMID 2026 expo today. Besides its new 7.6-inch foldable OLED panel with a wider viewing angle, the company also showcased a 16-inch OLED panel with a 300Hz refresh rate for laptops. The South Korean firm highlighted a 
+
+· Samsung updates Galaxy XCover 7 with August 2026 security patch
+  출처: SamMobile / 2026-08-19 18:30
+  링크: https://www.sammobile.com/news/samsung-updates-galaxy-xcover-7-august-2026-security-patch/
+  피드 요약: Samsung has released a new software update for the Galaxy XCover 7. It brings the August 2026 security patch, which fixes 56 security issues, making the phone more secure than before. Currently, the brand seems to be rolling it out in a few countries in Asia, including Malaysia, the Philippines, Tha
+
+· Samsung increases Galaxy S25 prices in India
+  출처: SamMobile / 2026-08-19 17:24
+  링크: https://www.sammobile.com/news/samsung-increases-galaxy-s25-prices-india/
+  피드 요약: Due to rising memory chip prices, Samsung has increased the prices of its smartphones and tablets multiple times. Now, it looks like the skyrocketing memory prices are forcing the brand to increase the price of one of its last year’s flagship phones, the Galaxy S25. A document that looks like Samsun
+
+· New Apple Store to open in Meridian, Idaho just outside of Boise
+  출처: AppleInsider / 2026-08-20 05:17
+  링크: https://appleinsider.com/articles/26/08/19/new-apple-store-to-open-in-meridian-idaho-just-outside-of-boise?utm_source=rss
+  피드 요약: Plans for a new Apple Store location have been discovered for a new shopping center just outside of Boise, Idaho in a location called Village at Meridian. An Apple Store is opening in Meridian. Image source: Meridian City Website Apple has retail locations around the world, but it has always been hi
+
+· Ceramic Apple Watch Series 12 is getting more rumor mill traction
+  출처: AppleInsider / 2026-08-20 05:07
+  링크: https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss
+  피드 요약: The possibility of a return to a ceramic Apple Watch body is growing, after a serial leaker posted about its arrival in the Series 12 model. Apple Watch Series 5, in ceramic Apple is anticipated to bring out the Apple Watch Series 12 this fall, but it's not expected to be a major upgrade or redesign
+
+· Beats 360 retail leak spills almost everything about the over-ear headphones
+  출처: AppleInsider / 2026-08-20 03:39
+  링크: https://appleinsider.com/articles/26/08/19/beats-360-retail-leak-spills-almost-everything-about-the-over-ear-headphones?utm_source=rss
+  피드 요약: The Beats 360 have leaked yet again, with retailer listings detailing practically all of the important features of the over-ear headphones. A leaked image of the Beats 360 - Image Credit: Reddit When it comes to product launches from the Apple-owned Beats by Dre , it's usually one that has already b
+
+· Meta brings its personal assistant app to Mac, for better and worse
+  출처: AppleInsider / 2026-08-20 03:26
+  링크: https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss
+  피드 요약: Meta AI has arrived as a beta Mac app, but the company's data collection practices make the privacy tradeoff worth considering before diving straight in. Meta AI comes to Mac in a new desktop app Another AI app is making its way to Mac. This time, it's Meta AI, the progeny of Facebook's parent compa
+
+· What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!
+  출처: AppleInsider / 2026-08-20 02:25
+  링크: https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss
+  피드 요약: It has been a long time in coming, but Apple is preparing at least two big changes to the Apple TV 4K . Here's what we know about the streaming set-top box update set to finally arrive in the fall of 2026. An Apple TV and Siri Remote Previous updates to the Apple TV haven't been that major over the 
+
+· Apple Maps ads will be tasteful and minimal, might even help your local businesses
+  출처: AppleInsider / 2026-08-20 01:27
+  링크: https://appleinsider.com/articles/26/08/19/apple-maps-ads-will-be-tasteful-and-minimal-might-even-help-your-local-businesses?utm_source=rss
+  피드 요약: Search ads in Apple Maps will provide a great incentive system for local businesses to care about the platform, but it appears to be a bridge too far for users. It's a problem of Apple's own creation. Apple Maps is gaining new ways for businesses to care about the platform Advertising isn't inherent
+
+· Predictable as the tides, Epic Games hates the new EU App Store fees
+  출처: AppleInsider / 2026-08-20 00:34
+  링크: https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss
+  피드 요약: Hours after Apple made changes to its EU App Store fees, long-time opponent Epic Games and CEO Tim Sweeney lashed out, complaining that Apple didn't do enough. A Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games. On Tuesday, Apple attempted to appease the European Union by
+
+· The best look into Apple's past comes from this 'MacWeek' archive
+  출처: AppleInsider / 2026-08-20 00:27
+  링크: https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss
+  피드 요약: Long before rumors on Weibo, there was the "MacWeek" journal, an indispensable and utterly beloved read in the '80s and '90s for everyone wondering if the Mac or even Apple itself was going to survive the week. Where it all began: issue 1 of "MacWeek" is now on the Internet Archive. In the 1990s, US
+
+· Report: Smart wearables market set to generate more than $1 trillion through 2032
+  출처: 9to5Mac / 2026-08-20 06:21
+  링크: https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/
+  피드 요약: A new Counterpoint Research report predicts that consumer wearables will generate more than $1 trillion in cumulative revenue through 2032, with smartwatches and wireless earbuds leading the pack. Here is the breakdown.
+
+· macOS Golden Gate adds a new app to your Mac; here’s what it can do
+  출처: 9to5Mac / 2026-08-20 05:56
+  링크: https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/
+  피드 요약: 9to5Mac is brought to you by Memoket : The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 2
+
+· Watch Susan Kare revisit the icons and graphics for the original Mac
+  출처: 9to5Mac / 2026-08-20 05:14
+  링크: https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/
+  피드 요약: Legendary graphic designer Susan Kare spoke recently at the Startup School 2026 event, and the video for her talk is now up on Y Combinator’s YouTube channel. Watch it below.
+
+· iPhone 18 Pro: Three new design updates are coming
+  출처: 9to5Mac / 2026-08-20 05:03
+  링크: https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/
+  피드 요약: iPhone 18 Pro and Pro Max will launch next month , and in addition to packing a variety of new features , there are three design changes reportedly coming. Here’s what rumors say to expect.
+
+· Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more
+  출처: 9to5Mac / 2026-08-20 04:53
+  링크: https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/
+  피드 요약: We are checking in today with a special edition of 9to5Toys Lunch Break – AirPods Pro 3 and AirPods Max 2 at $120 off are some of the best prices ever, but Best Buy has launched a special 1-day-only Apple sale event as part of its giant 60th Anniversary sale . Joining AirTag 2 back at all-time lows,
+
+· Apple Watch Series 12 to bring back beloved design material, says leaker
+  출처: 9to5Mac / 2026-08-20 04:32
+  링크: https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/
+  피드 요약: Apple Watch Series 12 will be unveiled next month , and a reputable leaker just said it will come with a ceramic design option.
+
+· Apple is about to launch best reason yet to wear AirPods all day long
+  출처: 9to5Mac / 2026-08-20 03:17
+  링크: https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/
+  피드 요약: AirPods are one of my favorite Apple products, so much so that I often wear them even when I’m not listening to anything. And soon with iOS 27, Apple will launch new AirPods upgrades that should make that a more common experience.
+
+· Meta AI is now available as a more capable desktop app for Mac
+  출처: 9to5Mac / 2026-08-20 02:29
+  링크: https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/
+  피드 요약: Meta continues to get serious about its AI technology. The latest sign? A dedicated Mac app for Meta AI.
+
+· Survey reveals the toolbox item your phone is most likely to replace
+  출처: Android Authority / 2026-08-20 06:35
+  링크: https://www.androidauthority.com/which-phone-sensors-use-poll-results-3700721/
+  피드 요약: Hint: It isn't the hammer.
+
+· Samsung fixes Instagram One Hand Operation glitch
+  출처: Android Authority / 2026-08-20 05:44
+  링크: https://www.androidauthority.com/samsung-one-hand-operation-instagram-3700713/
+  피드 요약: Samsung recommends updating to use One Hand Operation in Instagram.
+
+· Google built a camera-based tool to estimate body fat more accurately than wearables
+  출처: Android Authority / 2026-08-20 05:30
+  링크: https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/
+  피드 요약: Google’s PhotoScan AI turns simple phone photos into surprisingly accurate body fat readings.
+
+· Pixel 11 can search your whole Google account right from the app drawer
+  출처: Android Authority / 2026-08-20 05:19
+  링크: https://www.androidauthority.com/pixel-11-pixel-search-app-3700707/
+  피드 요약: A new search experience on Pixel and Galaxy Z Fold 8.
+
+· Google takes on ChatGPT with a free year of Gemini Pro and advanced study tools
+  출처: Android Authority / 2026-08-20 04:00
+  링크: https://www.androidauthority.com/gemini-student-study-tools-free-ai-plans-3700520/
+  피드 요약: New Gemini tools can organize your classes, spot knowledge gaps, and more.
+
+· Sony’s WH-1000XM4 revival finally shows its face, with a notable upgrade in tow
+  출처: Android Authority / 2026-08-20 03:52
+  링크: https://www.androidauthority.com/sony-wh-1000xm4c-leak-images-and-upgrade-3700676/
+  피드 요약: Leaked images show the WH-1000XM4C in its new color options, and we get Bluetooth 6.0 for good measure.
+
+· Google’s rolling out an AI-themed visual tweak for paid accounts
+  출처: Android Authority / 2026-08-20 03:36
+  링크: https://www.androidauthority.com/google-account-profile-picture-3700664/
+  피드 요약: Google's new colors are blue and purple.
+
+· Kindle users get blindsided by updates that end a popular ebook loophole and toughen DRM
+  출처: Android Authority / 2026-08-20 02:36
+  링크: https://www.androidauthority.com/kindle-toughens-drm-ends-libby-loophole-3700600/
+  피드 요약: Kindle users are getting an unwelcomed surprise through two updates.
+
+· 구글 새로운 구글북 (AI특화), 발표 이벤트 일정 확인
+  출처: 란즈크 블로그 / 2026-08-20 07:45
+  링크: https://blog.naver.com/yeux1122/224384059669?fromRss=true&trackingCode=rss
+  피드 요약: Google이 AI 노트북 PC Googlebook 신제품 발표 이벤트 관련 내용이 나왔습니다. (@크롬 언박스) 현지 시간 2026년 9월 15일에 개최 (뉴옥) 미디어에 초대장을 송부하기 시작 미디어용 프리뷰에서는 Acer, ASUS, Dell, HP, Lenovo 구글북이 발표예정
+
+· 구글 27년부터 중국에서 모든 픽셀 양산 중단 (*웨어러블 포함)
+  출처: 란즈크 블로그 / 2026-08-19 14:17
+  링크: https://blog.naver.com/yeux1122/224383299652?fromRss=true&trackingCode=rss
+  피드 요약: 구글 픽셀이 탈 중국을 완료하고 내년부터는 실제로 양산을 모두 중국 이외 국가에서 한다고 합니다. (*일본 공급망 및 픽셀 관계자) 구글은 미국과 중국간 여러 이슈 및 내부 정책으로 탈 중국 진행 스마트폰, 스마트워치, 무선 이어폰 등 픽셀 제품 전체 양산을 내년부터 중국외 다른국가에서 진행 구글은 2019년부터 이렇게 하기 위해 착차준비 대안 국가는 인도와 베트남 P.S 참고로 이렇게 되면 삼성에 이어 2번째로 중국 이외 국가에서 스마트폰 양산을 완전 이전시킨 사례가 됩니다.
+
+· 애플 아이폰 18 프맥에만 가변조리개 카메라 탑재 (*비용 수율 이슈)
+  출처: 란즈크 블로그 / 2026-08-19 08:01
+  링크: https://blog.naver.com/yeux1122/224382926519?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 18 프로맥스 카메라와 관련된 내용이 나왔습니다. (*웨이보 & 국내 부품사 종합) 아이폰 18 프로맥스에만 가변조리개 탑재 (* 수율 및 크기 이슈) P.S 참고로 S사의 경우에도 제품 비용 상승과 수율이슈로 연기된 상태임.
+
+· 애플 아이폰 폴드, 최근 목업 실기 이미지
+  출처: 란즈크 블로그 / 2026-08-19 07:59
+  링크: https://blog.naver.com/yeux1122/224382925243?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 폴드 최근 나오고 있는 목업 입니다. P.S 개인적인 의견 페아 없음 카메라 프로 프맥 대비 부족 배터리 용량이 프맥 이하 베이퍼챔버 없음 (*이건 반반) 이런 상황인데 울트라는 아닐것 같다는...
+
+■ [오디오] 18건
+----------------------------------------
+· Sony has released new Bravia TV software, and it’s good news for some (but unfortunately not all)
+  출처: What Hi-Fi? / 2026-08-20 01:26
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/sony-has-released-new-bravia-tv-software-and-its-good-news-for-some-but-unfortunately-not-all
+  피드 요약: Dolby Vision issues are seemingly fixed, but audio problems remain
+
+· How to watch BMW Championship 2026: Live stream from anywhere
+  출처: What Hi-Fi? / 2026-08-20 00:35
+  링크: https://www.whathifi.com/streaming-entertainment/watch-bmw-championship-2026-free
+  피드 요약: All the ways to watch BMW Championship 2026 live streams online from anywhere as the world's best golf players fight it out at Bellerive Country Club.
+
+· Even brighter OLED TVs could be on the way thanks to a new “dream” panel technology – and super-large models might get cheaper
+  출처: What Hi-Fi? / 2026-08-19 22:08
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/even-brighter-oled-tvs-could-be-on-the-way-thanks-to-a-new-dream-panel-technology-and-super-large-models-might-get-cheaper
+  피드 요약: LG Display’s FLiPP tech should also improve durability and reduce power consumption
+
+· Yamaha YH-C3000
+  출처: What Hi-Fi? / 2026-08-19 22:07
+  링크: https://www.whathifi.com/headphones/yamaha-yh-c3000
+  피드 요약: Yamaha follows up its planar magnetic, open-back successes with a dynamic, closed-back model. Can the YH-C3000 garner the same acclaim?
+
+· "Music can only work if it's an intentional creation of one human, experienced by another human" – Qobuz's MD on the future of music streaming
+  출처: What Hi-Fi? / 2026-08-19 21:19
+  링크: https://www.whathifi.com/streaming-entertainment/music-streaming/music-can-only-work-if-its-an-intentional-creation-of-one-human-experienced-by-another-human-qobuzs-md-on-the-future-of-music-streaming
+  피드 요약: Dan Mackta discusses the company's fight against AI music
+
+· From legendary turntables to cutting-edge DACs: 33 debut products that defined hi-fi history
+  출처: What Hi-Fi? / 2026-08-19 21:16
+  링크: https://www.whathifi.com/hi-fi/from-legendary-turntables-to-cutting-edge-dacs-33-debut-products-that-defined-hi-fi-history
+  피드 요약: As What Hi-Fi? turns 50, we take a nostalgic walk down memory lane at some of the great early hi-fi successes that defined generations of products since.
+
+· Heading to university? This affordable Samsung is one of the cheapest TVs we recommend
+  출처: What Hi-Fi? / 2026-08-19 20:50
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/heading-to-university-this-impressive-samsung-is-one-of-the-most-affordable-tvs-we-recommend
+  피드 요약: Currently at its lowest price
+
+· Rotel's first passive speakers in over 25 years tease "exceptional resolution and accuracy"
+  출처: What Hi-Fi? / 2026-08-19 20:09
+  링크: https://www.whathifi.com/speakers/hi-fi-speakers/rotels-first-passive-speakers-in-over-25-years-tease-exceptional-resolution-and-accuracy
+  피드 요약: Rotel reveals the Amora 5
+
+· JBL is quietly switching its Bluetooth speakers to one app
+  출처: SoundGuys / 2026-08-20 06:42
+  링크: https://www.soundguys.com/jbl-is-quietly-switching-its-bluetooth-speakers-to-one-app-161728/
+  피드 요약: Is this the end of the JBL Portable app?
+
+· Sony XM4C leak delivers new images and details how it could differ from the original
+  출처: SoundGuys / 2026-08-20 04:25
+  링크: https://www.soundguys.com/sony-wh-1000xm4c-images-and-details-161705/
+  피드 요약: The WH-1000XM4C appears to keep the classic XM4 formula with one notable upgrade.
+
+· Amazon deal brings Sony INZONE gaming earbuds down to a record-low price
+  출처: SoundGuys / 2026-08-20 01:42
+  링크: https://www.soundguys.com/sony-inzone-gaming-buds-deal-161700/
+  피드 요약: The gaming buds hit a new all-time low at Amazon: $153, down 36% from the $239.99 RRP for PS5 and PC gaming.
+
+· The new SoundPEATS UU2 earbuds are 60% off right after launch
+  출처: SoundGuys / 2026-08-20 00:36
+  링크: https://www.soundguys.com/soundpeats-uu2-earbuds-deal-161695/
+  피드 요약: The new SoundPEATS UU2 just fell to $39.99. You get a clip-on open-ear fit, Bluetooth 6 multipoint, and a 42-hour battery.
+
+· Here’s how I’ve kept my headphones alive for years
+  출처: SoundGuys / 2026-08-19 18:30
+  링크: https://www.soundguys.com/heres-how-ive-kept-my-headphones-alive-for-years-161297/
+  피드 요약: It's not rocket science, just effort.
+
+· I tested the $79 CMF Clip Pro, and my favorite feature is back
+  출처: SoundGuys / 2026-08-19 18:00
+  링크: https://www.soundguys.com/i-tested-the-79-cmf-clip-pro-and-my-favorite-feature-is-back-161502/
+  피드 요약: The Smart Dial makes a return on Nothing's first clip-on open-earbuds.
+
+· NATURE HEADPHONE BY FiiO (NEWS)
+  출처: The Audiophile Man / 2026-08-19 18:18
+  링크: https://theaudiophileman.com/nature-headphone-by-fiio-news/
+  피드 요약: Snowsky by FiiO – sounds very haute couture, doesn’t it? – has announced the Nature pair of over-ear wired headphones There’s a set of newly engineered 50mm dynamic drivers inside. The larger diaphragm reportedly allows the driver to move more air while maintaining precision. This works with a new J
+
+· 6 brilliant, budget-friendly headphones for students — including 5-star earbuds, and Sony cans that deliver 'flagship-level features' for an astoundingly low price
+  출처: TechRadar 오디오 / 2026-08-20 06:00
+  링크: https://www.techradar.com/audio/wireless-headphones/6-brilliant-budget-friendly-headphones-for-students-including-five-star-earbuds-and-sony-cans-that-deliver-flagship-level-features-for-an-astoundingly-low-price
+  피드 요약: You don't have to spend big for great sound — these tried-and-tested headphones start from just $20.
+
+· AirPods with cameras could not arrive at a worse time — and I'll just say no
+  출처: TechRadar 오디오 / 2026-08-20 03:50
+  링크: https://www.techradar.com/audio/earbuds-airpods/airpods-with-cameras-could-not-arrive-at-a-worse-time-and-ill-just-say-no
+  피드 요약: Apple may have accidentally leaked its AirPods with Cameras plans, and it's clear that this is the last thing our ears need.
+
+· Technics' classic SL-1200 turntable is getting a 55th anniversary edition — and the big upgrade is 'lots of gold'
+  출처: TechRadar 오디오 / 2026-08-19 18:40
+  링크: https://www.techradar.com/audio/technics-classic-sl-1200-turntable-is-getting-a-55th-anniversary-edition-and-the-big-upgrade-is-lots-of-gold
+  피드 요약: The Technics SL-1200 is getting a 55th anniversary edition, with lots of gold being the main change over the base model.
+
+■ [카메라] 7건
+----------------------------------------
+· In Japan Sony claims the FX5 shipment got postponed due to “production issues”
+  출처: Sony Alpha Rumors / 2026-08-20 00:49
+  링크: https://www.sonyalpharumors.com/in-japan-sony-claims-the-fx5-shipment-got-postponed-due-to-production-issues/
+  피드 요약: Sony Japan issued the following press release: Thank you for your continued patronage of Sony products. Regarding the professional camcorder “FX5,” which was announced as having a release date of “August 21, 2026 (Friday)” in the press release on July 22, 2026 (Wednesday), we regret to inform you th
+
+· Beyond the Smartphone: How Sony and TSMC’s New Alliance Will Redefine Mirrorless Sensors?
+  출처: Sony Alpha Rumors / 2026-08-19 22:34
+  링크: https://www.sonyalpharumors.com/beyond-the-smartphone-how-sony-and-tsmcs-new-alliance-will-redefine-mirrorless-sensors/
+  피드 요약: Sony and TSMC partnership has now been finalized. This is aimed at strengthening Sony’s mobile image sensor business. Still, whatever technological advancement comes out of this venture could find its way onto larger sensors too. I do expect, for example, that the LYTIA tech might find its way onto 
+
+· Viltrox new 26mm f/2.8 in Silver and Titanium finish
+  출처: Sony Alpha Rumors / 2026-08-19 18:37
+  링크: https://www.sonyalpharumors.com/viltrox-new-26mm-f-2-8-in-silver-and-titanium-finish/
+  피드 요약: At a photography fair in China Viltrox displayed the new Silver and Titanium versions of the popular 26mm f/2.8 FE pancake lens. No info yet about when these will be available for preorder. via Weibo The post Viltrox new 26mm f/2.8 in Silver and Titanium finish first appeared on sonyalpharumors .
+
+· Sony Tidbits…
+  출처: Sony Alpha Rumors / 2026-08-19 15:07
+  링크: https://www.sonyalpharumors.com/sony-tidbits-1915/
+  피드 요약: My Thoughts on the Sony A7V for BIRD & WILDLIFE Photography Today deals at Amazon, BHphoto, Adorama, Amazon DE, Amazon UK, Amazon FR, Amazon IT, FotoErhardt DE, FotoKoch DE. A Beginner’s Guide to Wedding Photography (Explora). Monitor Calibration for Photographers: Tips, Tricks, and Insider Advice (
+
+· Nikon USA rebates for August 2026: new Z6 III trade-in program
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-20 00:45
+  링크: https://nikonrumors.com/2026/08/19/nikon-usa-rebates-for-august-2026-new-z6-iii-trade-in-program.aspx/
+  피드 요약: Nikon USA started a new Z6 III trade-in program that gives you a $200 bonus plus up to $800 in instant savings on a new Z6 III camera. You can trade in any working digital interchangeable-lens camera. This offer is valid through August 30, 2026. Here is the full list of Nikon USA rebates for August:
+
+· Should you buy a used Nikon AF-S Nikkor 500mm f/4G ED VR or go modern with the Nikon Nikkor Z 180-600mm f/5.6-6.3 VR lens: a real‑world comparison
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-19 08:38
+  링크: https://nikonrumors.com/2026/08/18/should-you-buy-a-used-nikon-af-s-nikkor-500mm-f-4g-ed-vr-or-go-modern-with-the-nikon-nikkor-z-180-600mm-f-5-6-6-3-vr-lens-a-real-world-comparison.aspx/
+  피드 요약: The post Should you buy a used Nikon AF-S Nikkor 500mm f/4G ED VR ($1,750) or go modern with the Nikon Nikkor Z 180-600mm f/5.6-6.3 VR lens ($2,096): a real‑world comparison is by Gergely, a wildlife, nature, and sports photographer. You can read more of his gear breakdowns and field tests on his we
+
+· Fujifilm GFX100II IR Extended Spectrum Infrared Camera Available for Pre-Order
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-20 05:31
+  링크: https://www.fujirumors.com/fujifilm-gfx100ii-ir-extended-spectrum-infrared-camera-available-now/
+  피드 요약: The Fujifilm GFX100II IR infrared camera is now available for pre-order at BHphoto here. The GFX100II IR was announced back in 2025 along with the Fujifilm X-H2 IR, but it was not available to general customers for personal use. Now this has evidently changed and you can purchase it at BHphoto here.
