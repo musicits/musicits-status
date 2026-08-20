@@ -1,0 +1,340 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-21 07:55 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-20 18:18 (KST) 이후 기사
+새 기사: 65건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 12건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 22건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+
+■ [IT 루머] 43건
+----------------------------------------
+· Apple Releases New AirPods Beta Firmware With iOS 27 Features
+  출처: MacRumors / 2026-08-21 04:10
+  링크: https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/
+  피드 요약: Apple today released a fifth version of the beta firmware it is testing for the AirPods Pro 2, AirPods Pro 3 , AirPods 4 , and AirPods Max 2 . The firmware is available for developers and public beta testers. It has a build number of 9A5347a. In iOS 27 , iPadOS 27 , and macOS Golden Gate , Apple is 
+
+· Apple, Where is CarPlay Ultra?
+  출처: MacRumors / 2026-08-21 03:25
+  링크: https://www.macrumors.com/2026/08/20/apple-where-is-carplay-ultra/
+  피드 요약: In May 2025, Apple launched CarPlay Ultra , the long-awaited next-generation version of CarPlay that it first previewed in 2022. More than a year later, however, CarPlay Ultra is still limited to select Aston Martin vehicles with six-figure price tags. In a press release last year, Apple said "many"
+
+· Apple Card Turns Seven With Big Change Ahead
+  출처: MacRumors / 2026-08-21 01:19
+  링크: https://www.macrumors.com/2026/08/20/apple-card-turns-seven-with-big-change-ahead/
+  피드 요약: Today marks the seventh anniversary of the Apple Card becoming widely available in the U.S. , following a more limited preview period. Apple's credit card can be managed in the iPhone's Wallet app, with key benefits including color-coded spending summaries, no fees, and Daily Cash cash back paid out
+
+· Apple Watch Alerted Runner to Serious Heart Problem
+  출처: MacRumors / 2026-08-21 00:58
+  링크: https://www.macrumors.com/2026/08/20/apple-watch-alerted-runner-to-heart-problem/
+  피드 요약: In a new ad shared on its YouTube channel today, Apple highlighted how the Apple Watch alerted an athlete named Connor to signs of atrial fibrillation. Apple said doctors later uncovered that Connor had a congenital heart condition, which resulted in him having open-heart surgery, so the Apple Watch
+
+· Apple's New Beats 360 Headphones Keep Leaking
+  출처: MacRumors / 2026-08-21 00:01
+  링크: https://www.macrumors.com/2026/08/20/apple-beats-360-headphones-leak/
+  피드 요약: Apple's upcoming Beats 360 headphones appeared in Brazil's ANATEL regulatory database today, according to a new filing spotted by MacRumors . The filing merely mentions an unnamed product with a model number of A3577, but we know that it is for the Beats 360. The headphones already appeared in the U
+
+· iPhone 18 Pro: Pre-Orders and Release Date
+  출처: MacRumors / 2026-08-21 00:00
+  링크: https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/
+  피드 요약: Apple has yet to reveal when the iPhone 18 Pro and iPhone Ultra will be announced and released, but the dates usually follow a familiar pattern. As usual, the iPhone event is expected to take place in the first half of September . Labor Day falls on September 7 this year. The last time the holiday w
+
+· Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon
+  출처: MacRumors / 2026-08-20 22:52
+  링크: https://www.macrumors.com/2026/08/20/apple-watch-series-11-discount-2/
+  피드 요약: Best Buy this week has low prices on the Apple Watch Series 11 , with $100 discounts across numerous models of the smartwatch. This sale includes a handful of 42mm and 46mm GPS aluminum models, as well as similar discounts on cellular devices. Note: MacRumors is an affiliate partner with Amazon. Whe
+
+· 5 Apple Products to Get OLED Displays
+  출처: MacRumors / 2026-08-20 22:50
+  링크: https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/
+  피드 요약: Apple plans to upgrade several iPads and Macs with OLED displays over the next three years, according to a new DigiTimes report. The following five devices will receive OLED displays between 2026 and 2029, according to the Taiwanese publication's industry sources: iPad mini : 2026 MacBook Pro : Late
+
+· Samsung may boost its shareholder returns by a record $72 billion
+  출처: SamMobile / 2026-08-21 05:44
+  링크: https://www.sammobile.com/news/samsung-may-boost-its-shareholder-returns-by-a-record-72-billion/
+  피드 요약: After sharing its recent record profits with employees of the semiconductor division, who received record bonuses, Samsung might soon make its shareholders very happy. According to reports, the company is expected to announce a new shareholder return policy that may be worth nearly $72 billion. The 
+
+· Google Messages RCS doesn’t seem to work on the Galaxy Z Fold 8
+  출처: SamMobile / 2026-08-21 05:24
+  링크: https://www.sammobile.com/news/google-messages-rcs-doesnt-seem-to-work-on-the-galaxy-z-fold-8/
+  피드 요약: You may have noticed that Google Messages RCS isn't working on the Galaxy Z Fold 8. You'll be happy to know that you're not the only one. Several Galaxy Z Fold 8 owners have shared their frustrations with this online, highlighting that Google Messages RCS appears to be broken on Samsung's latest fol
+
+· Here are some more Galaxy S26 FE leaked renders, because why not
+  출처: SamMobile / 2026-08-21 04:58
+  링크: https://www.sammobile.com/news/here-are-some-more-galaxy-s26-fe-leaked-renders-because-why-not/
+  피드 요약: The Galaxy S26 FE has already been comprehensively leaked and even though the device is expected to be unveiled in the near future, the leaks are still coming in. Several more press renders have now been leaked online, giving us a good look at the color options on offer for Samsung's upcoming device
+
+· Doomscroll smarter: Add SamMobile to your Instagram feed
+  출처: SamMobile / 2026-08-21 04:37
+  링크: https://www.sammobile.com/news/doomscroll-smarter-add-sammobile-to-your-instagram-feed/
+  피드 요약: We're all guilty of doomscrolling these days. Whether we're waiting for our turn at the dentist's office or waiting to fall sleep at night, it's a universal trait. So, if you're going to spend time scrolling through Instagram, might as well make your feed a little more useful. Bring a little more of
+
+· Your Galaxy Z Fold 8 may have a little hinge play, and that can be normal
+  출처: SamMobile / 2026-08-21 03:39
+  링크: https://www.sammobile.com/news/samsung-galaxy-z-fold-8-may-have-little-hinge-play-normal/
+  피드 요약: You may have noticed something slightly odd about your Galaxy Z Fold 8 when it is closed. If you hold the bottom half firmly and push the upper half up or down from one of the outer corners, the two halves can move a tiny amount in opposite directions. That can make it seem like […]
+
+· Galaxy Tab S12+ and Galaxy Tab S12 Ultra US pricing leaks
+  출처: SamMobile / 2026-08-20 19:59
+  링크: https://www.sammobile.com/news/galaxy-tab-s12-plus-ultra-usa-price-leaks/
+  피드 요약: Samsung is expected to launch two new high-end tablets this year. Based on previous leaks and reports, these devices will be the Galaxy Tab S12+ and the Galaxy Tab S12 Ultra. Now, their US pricing has leaked ahead of their official unveiling. Galaxy Tab S12 series pricing could start at $1,200 in th
+
+· Samsung reveals when Galaxy S26 Ultra display red tint fix update will arrive
+  출처: SamMobile / 2026-08-20 18:48
+  링크: https://www.sammobile.com/news/samsung-reveals-when-galaxy-s26-ultra-display-red-tint-fix-update-will-arrive/
+  피드 요약: Last month, Galaxy S26 Ultra users started complaining about a red tint appearing on the phone’s display. Samsung acknowledged the issue, confirmed that it was software-related rather than a hardware fault, and provided a temporary solution that involved having the screen colors calibrated at a serv
+
+· Apple Music's AI disclosure labels will soon be mandatory, rather than optional
+  출처: AppleInsider / 2026-08-21 06:52
+  링크: https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss
+  피드 요약: AI-generated content in the Apple Music app may get easier than ever to spot, as record labels and distributors will be required to label it as such later in 2026. Apple Music's AI disclosure tags will soon become mandatory. Back in March 2026 , Apple introduced Transparency Tags for Apple Music. Th
+
+· Layoffs in Apple's Vision Products Group prove slow progress in spatial computing
+  출처: AppleInsider / 2026-08-21 06:50
+  링크: https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss
+  피드 요약: A source has exclusively revealed to us that Apple has just laid off an entire team dedicated to VR development, which aligns with incoming CEO John Ternus reportedly putting the category "on ice." Apple Vision Pro development will slow as Apple focuses on smart glasses Apple Vision Pro was a necess
+
+· Tested: Amazon's drone delivery service is fast, free, and loud
+  출처: AppleInsider / 2026-08-21 04:51
+  링크: https://appleinsider.com/articles/26/08/20/tested-amazons-drone-delivery-service-is-fast-free-and-loud?utm_source=rss
+  피드 요약: We've got an AppleInsider staffer inside Amazon's new drone delivery range. After trying it out on Thursday, we can tell you that it's effective, and we're going to use it again. Amazon drone delivery, in action to an AppleInsider staffer's front yard Earlier this week, Amazon greatly expanded the s
+
+· CarPlay the driving force deciding the choice between two nearly identical cars
+  출처: AppleInsider / 2026-08-21 04:23
+  링크: https://appleinsider.com/articles/26/08/20/carplay-the-driving-force-deciding-the-choice-between-two-nearly-identical-cars?utm_source=rss
+  피드 요약: GM's decision to drop CarPlay is being put to the test, with a nearly identical CarPlay version outselling its Chevy counterpart by an increasingly wide margin. GM's CarPlay removal puts Chevy EV sales to the test In 2023, General Motors announced it wouldn't include CarPlay in its electric vehicles
+
+· Amazon slashes iPads down to as low as $399 for the weekend
+  출처: AppleInsider / 2026-08-21 02:39
+  링크: https://appleinsider.com/articles/26/08/20/amazon-slashes-ipads-down-to-as-low-as-399-for-the-weekend?utm_source=rss
+  피드 요약: Amazon's $399 iPad deal delivers the lowest iPad price across Apple's tablet lineup, with discounts of up to $150 off iPad Air and iPad Pro models in effect heading into the weekend. Apple's iPad is on sale from $399 at Amazon today. Sale prices are in effect on iPads at Amazon, with month-end deals
+
+· Triathlon runner credits Apple Watch for saving his life
+  출처: AppleInsider / 2026-08-21 01:54
+  링크: https://appleinsider.com/articles/26/08/20/triathlon-runner-credits-apple-watch-for-saving-his-life?utm_source=rss
+  피드 요약: Apple has launched another in its occasional series of Apple Watch "true stories," this time featuring a runner who says the device first alerting him to a cardiac condition was the key to saving his life. It was the ECG in his Apple Watch that alerted Connor to his condition - image credit: Apple. 
+
+· B&H slashes M5 MacBook Pro further, now just $1,669
+  출처: AppleInsider / 2026-08-20 23:50
+  링크: https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss
+  피드 요약: A steeper $350 discount on Apple's M5 MacBook Pro with a 96W USB-C power adapter is in effect now, bringing the price down to just $1,669. Save $350 on Apple's M5 MacBook Pro laptop - Image credit: Apple A steeper discount has landed at B&H on Apple's M5 14-inch MacBook Pro with a 96W USB-C power ad
+
+· Samsung and Apple are now neck and neck in Europe's declining smartphone market
+  출처: AppleInsider / 2026-08-20 20:46
+  링크: https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss
+  피드 요약: European sales of smartphones have reached a new three-year low, but Apple's iPhone has increased its share to now tie with Samsung. Apple's current iPhones. Globally, the most recent figures show that Apple has earned 49% of all smartphone revenue in the second quarter, despite the iPhone only acco
+
+· Apple reportedly lays off 60 Vision employees amid shifting priorities
+  출처: 9to5Mac / 2026-08-21 07:47
+  링크: https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/
+  피드 요약: AppleInsider reports that Apple “has just laid off an entire team dedicated to VR development,” with at least 60 employees reportedly affected. Here are the details.
+
+· Apple bucks downward trend as reports show global smartphone shipment and sales declines
+  출처: 9to5Mac / 2026-08-21 06:45
+  링크: https://9to5mac.com/2026/08/20/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-and-sales-declines/
+  피드 요약: Four Counterpoint Research reports published this week reveal drops in smartphone sales and shipments in India, Latin America, Europe, and China. Here are the reports.
+
+· WhatsApp is working on even more Liquid Glass interface changes on iOS
+  출처: 9to5Mac / 2026-08-21 05:55
+  링크: https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/
+  피드 요약: Following the initial rollout of Liquid Glass on iOS earlier this year, WhatsApp is now working to bring the design to more interface elements. Here are the details.
+
+· Apple Music will soon get visible labels for AI-generated content
+  출처: 9to5Mac / 2026-08-21 05:08
+  링크: https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/
+  피드 요약: Apple has shared more details about the AI labeling requirements it announced for Apple Music back in March. Here are the details.
+
+· AirPods Pro 3 and more just got new firmware release in beta
+  출처: 9to5Mac / 2026-08-21 03:33
+  링크: https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/
+  피드 요약: Apple has released new AirPods beta firmware today for developers and public beta testers. It’s available for AirPods Pro 3 and select other models. Here are the details.
+
+· AirPods 4 vs AirPods Pro 3: Which should you buy in 2026?
+  출처: 9to5Mac / 2026-08-21 03:28
+  링크: https://9to5mac.com/2026/08/20/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026/
+  피드 요약: Choosing between AirPods 4 and AirPods Pro 3 was already mostly a question of fit, features, and price. Apple is also developing camera-equipped AirPods with Visual Intelligence, but they are not expected to arrive until 2027 at the soonest. That could make waiting an awfully long proposition.
+
+· AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases
+  출처: 9to5Mac / 2026-08-21 03:00
+  링크: https://9to5mac.com/2026/08/20/happy-hour-604/
+  피드 요약: Benjamin and Chance talk about the crazy leak by Apple depicting the new AirPods with cameras in a video demo, the changes in iOS 27 beta 6, their latest experiences with Siri AI, whether iPhone 18 Pro will fit iPhone 17 Pro cases, and perhaps some final resolution in the Apple vs EU App Store commi
+
+· ChatGPT update adds Apple Messages integration on Mac
+  출처: 9to5Mac / 2026-08-21 02:59
+  링크: https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/
+  피드 요약: Well, this seems interesting. ChatGPT’s latest update adds a new Mac integration: the ability to work with conversations from Apple’s Messages app. The feature works with iMessage, SMS, and RCS.
+
+· The Galaxy S26 Ultra’s red screen fix saga is finally (almost) over
+  출처: Android Authority / 2026-08-21 06:56
+  링크: https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/
+  피드 요약: What's the point of a software fix if you need to travel to a service center to get it?
+
+· Google Photos users are overwhelmingly asking for better cleanup options
+  출처: Android Authority / 2026-08-21 06:56
+  링크: https://www.androidauthority.com/google-photos-free-up-space-poll-results-3701310/
+  피드 요약: A landslide result in our latest poll suggests the current cleanup tools aren't cutting it for most of you.
+
+· This Galaxy S26 FE leak just exposed the full color palette
+  출처: Android Authority / 2026-08-21 06:13
+  링크: https://www.androidauthority.com/galaxy-s26-fe-colors-and-angles-3701295/
+  피드 요약: The Galaxy S26 FE just got completely exposed by this leak.
+
+· Some Pixel phones have forgotten how to Flip to Shhh
+  출처: Android Authority / 2026-08-21 06:08
+  링크: https://www.androidauthority.com/google-pixel-flip-to-shhh-not-working-fix-3701291/
+  피드 요약: The easiest way to silence notifications on your Pixel might just be broken.
+
+· TSMC could start mass producing 1.6nm chips as soon as late 2026
+  출처: Android Authority / 2026-08-21 05:21
+  링크: https://www.androidauthority.com/tsmc-1-6-nm-process-3701276/
+  피드 요약: TSMC may have already gone beyond 2nm.
+
+· Google’s working with your carrier to fix RCS in Messages
+  출처: Android Authority / 2026-08-21 04:57
+  링크: https://www.androidauthority.com/google-rcs-messages-fix-3701283/
+  피드 요약: Hopefully this glitch will soon be a thing of the past.
+
+· Google’s got some new Pixel 11 videos for the big release day
+  출처: Android Authority / 2026-08-21 03:56
+  링크: https://www.androidauthority.com/google-pixel-11-videos-3701248/
+  피드 요약: Google hypes up the Pixel 11 Pro in trio of new promo spots.
+
+· Gemini for Home sharpens Spotify control, lighting tweaks, and message broadcasts
+  출처: Android Authority / 2026-08-21 03:53
+  링크: https://www.androidauthority.com/gemini-for-home-spotify-lights-messages-update-3701255/
+  피드 요약: Gemini for Home is getting a trio of improvements.
+
+· 아이폰 17 프맥 Vs. 화웨이 16:10 퓨라 뷰, 디플 베젤 비교 이미지
+  출처: 란즈크 블로그 / 2026-08-21 07:52
+  링크: https://blog.naver.com/yeux1122/224385224697?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 17 프맥과 화웨이 퓨라 뷰 실기 베젤 비교 이미지 입니다. (두께 크기 포함)
+
+· 아이폰 17 프맥 Vs. 화웨이 16:10 비율 퓨라 엑스 뷰 실기 비교 영상
+  출처: 란즈크 블로그 / 2026-08-20 23:42
+  링크: https://blog.naver.com/yeux1122/224385011722?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 17 프맥 모델과 화웨이 퓨라 엑스 뷰 실물 크기 비교 간단 영상입니다. P.S 개인적으로 화웨이 제품인데 실측 무게가 1그램 더 가벼움...200 그리고 크기 비율 무게 두께 아주 맘에 드네요.
+
+· 애플워치 시리즈12, 세라믹 소재 모델 출시
+  출처: 란즈크 블로그 / 2026-08-20 19:49
+  링크: https://blog.naver.com/yeux1122/224384810279?fromRss=true&trackingCode=rss
+  피드 요약: 애플워치 시리즈12 시리즈 모델 관련 내용이 새로 나왔습니다. (*일본 @kosutami) 올해 출시 애플 워치 시리즈 12부터 세라믹 소재 적용 모델이 다시 출시
+
+· 화웨이 16:10 바타입 신형 스마트폰, 퓨라 X 뷰 공식 발표
+  출처: 란즈크 블로그 / 2026-08-20 19:37
+  링크: https://blog.naver.com/yeux1122/224384801433?fromRss=true&trackingCode=rss
+  피드 요약: 화웨이가 16:9 비율 와이드 타입 바 스마트폰을 공식 발표 했습니다. 화웨이는 16:10 비율의 와이드스크린 바형 스마트폰인 퓨라 X 뷰(Pura X View) 를 공개하고 중국에서 예약 판매를 시작 • 6.39인치 FHD+ 플랫 OLED 디스플레이 (16:10비율) • 최대 밝기 6500니트, 2160Hz PWM 디밍 • 1mm 초슬림 베젤, 96% 화면 대 본체 비율 • 기린 9030S(3nm) 칩셋 • 트리플 후면 카메라 • 7000mAh 배터리 • 하모니 OS 7 기본 탑재 • 두께 6.7mm, 무게 200g • 버건디, 
+
+■ [오디오] 17건
+----------------------------------------
+· How to watch Dutch Grand Prix 2026: live stream F1 race from anywhere
+  출처: What Hi-Fi? / 2026-08-21 01:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/dutch-grand-prix-2026-live-stream-f1
+  피드 요약: How to watch Dutch Grand Prix 2026 live streams around the world. Free coverage, schedule, preview, 4K Ultra HD options for the F1 race weekend at Zandvoort.
+
+· A classic R.E.M. album is getting a limited-edition vinyl upgrade
+  출처: What Hi-Fi? / 2026-08-21 00:17
+  링크: https://www.whathifi.com/hi-fi/vinyl/a-classic-r-e-m-album-is-getting-a-limited-edition-vinyl-upgrade
+  피드 요약: Only 5000 copies are available… I’m sorry, I'm sorry
+
+· 10 years on, this underrated horror is still a masterclass in surround sound – and proves you don’t always need Dolby Atmos
+  출처: What Hi-Fi? / 2026-08-20 23:00
+  링크: https://www.whathifi.com/tv-home-cinema/10-years-on-this-underrated-horror-is-still-a-masterclass-in-surround-sound-and-proves-you-dont-always-need-dolby-atmos
+  피드 요약: I revisit an old favourite for testing home theatre systems as it turns 10
+
+· Cambridge Audio Evo 300
+  출처: What Hi-Fi? / 2026-08-20 22:49
+  링크: https://www.whathifi.com/hi-fi/stereo-systems/cambridge-audio-evo-300
+  피드 요약: Cambridge Audio’s flagship Evo 300 streaming amplifier promises serious power, but is that enough?
+
+· As a fan of both football and F1, I'm nerdily excited about this new Sky feature
+  출처: What Hi-Fi? / 2026-08-20 22:14
+  링크: https://www.whathifi.com/streaming-entertainment/tv-streaming-services/as-a-fan-of-both-football-and-f1-im-nerdily-excited-about-this-new-sky-feature
+  피드 요약: Your Multiview allows you to watch several sports at once
+
+· Want a speaker that can withstand rain or shine? Our experts recommend this Award-winning Bluetooth speaker, now 49% off
+  출처: What Hi-Fi? / 2026-08-20 22:08
+  링크: https://www.whathifi.com/speakers/wireless-speakers/want-a-speaker-that-can-withstand-rain-or-shine-our-experts-recommend-this-award-winning-bluetooth-speaker-now-49-percent-off
+  피드 요약: Whether heatwaves or downpours, this JBL can handle all aspects of a UK summer
+
+· “I have never been happier” –4K Blu-ray, OLED TVs, Dolby Atmos, and six unforgettable years as editor of What Hi-Fi?
+  출처: What Hi-Fi? / 2026-08-20 21:50
+  링크: https://www.whathifi.com/hi-fi/i-have-never-been-happier-4k-blu-ray-oled-tvs-dolby-atmos-and-six-unforgettable-years-as-editor-of-what-hi-fi
+  피드 요약: What Hi-Fi? at 50 (and how I helped to get it there)
+
+· The vinyl revival continues! Our audio experts pick out the best turntables and some of our favourite records to spin on them
+  출처: What Hi-Fi? / 2026-08-20 21:20
+  링크: https://www.whathifi.com/tv-home-cinema/blu-ray-players/the-vinyl-revival-continues-our-audio-experts-pick-out-the-best-turntables-and-some-of-our-favourite-records-to-spin-on-them
+  피드 요약: Vinyl is dead, long live vinyl
+
+· Beyerdynamic’s new gaming headsets offer 80-hour battery life and an open-back option
+  출처: SoundGuys / 2026-08-21 05:24
+  링크: https://www.soundguys.com/beyerdynamic-mmx-100-wireless-and-130-wireless-launch-161830/
+  피드 요약: The MMX 100 wireless and MMX 130 wireless let you pick your side of the open-back divide.
+
+· AirPods Max 2 deal knocks $120 off all five colors at Amazon
+  출처: SoundGuys / 2026-08-21 02:21
+  링크: https://www.soundguys.com/airpods-max-2-deal-amazon-161815/
+  피드 요약: AirPods Max 2 drop to $429 at Amazon, a 22% discount, with H2 upgrades, USB-C, and a strong 4.5-star rating.
+
+· Deal: Sony ULT Field 3 Bluetooth speaker gets a rare 34% price drop
+  출처: SoundGuys / 2026-08-21 01:39
+  링크: https://www.soundguys.com/sony-ult-field-3-bluetooth-speaker-deal-161805/
+  피드 요약: Amazon slashes the Sony ULT Field 3 to its Prime Day price of $138, with big bass, rugged outdoor design, and a 4.5-star shopper rating.
+
+· CMF’s new Buds Neo earbuds might be its most tempting pair yet
+  출처: SoundGuys / 2026-08-20 23:03
+  링크: https://www.soundguys.com/cmf-buds-neo-launch-161794/
+  피드 요약: Your ears just got another very tempting reason to go Neo.
+
+· New Beats 360 headphone leak leaves almost nothing to the imagination
+  출처: SoundGuys / 2026-08-20 19:34
+  링크: https://www.soundguys.com/beats-360-headphone-leak-161760/
+  피드 요약: The Beats 360 could be better than the Studio Pro, and cost less!
+
+· Sennheiser’s new MOMENTUM True Wireless 5 earbuds give you more for the same price
+  출처: SoundGuys / 2026-08-20 19:00
+  링크: https://www.soundguys.com/sennheiser-momentum-true-wireless-5-launch-161772/
+  피드 요약: These buds want to stick around longer than your favorite playlist.
+
+· How hearing the Martin Logan ElectroMotion ESL X made me fall in love with the surpreme detail and clarity in electrostatic speakers
+  출처: TechRadar 오디오 / 2026-08-21 04:00
+  링크: https://www.techradar.com/audio/speakers/how-hearing-the-martin-logan-electromotion-esl-x-made-me-fall-in-love-with-and-the-surpreme-detail-and-clarity-in-electrostatic-speakers
+  피드 요약: One of this year's Audio Advice Live's biggest surprises is the Martin Logan ElectroMotion ESL X speakers, and their detailed sound at a somewhat reasonable price.
+
+· Adobe Firefly just added 3 new AI audio tools for creators and marketers — I tested them all to see if they're any good
+  출처: TechRadar 오디오 / 2026-08-20 22:00
+  링크: https://www.techradar.com/pro/adobe-firefly-just-added-3-ai-audio-tools-for-creators-and-marketers-i-tested-them-all-to-see-if-theyre-any-good
+  피드 요약: Adobe Firefly's Generate Music, Speech, and Sound Effects go on general release today, but one AI tool stole the show during my testing.
+
+· Sony leak suggests it's rebooting some of its best ever headphones to compete with Bose and Sennheiser — but I'm not sure the predicted price is going to be cheap enough
+  출처: TechRadar 오디오 / 2026-08-20 21:32
+  링크: https://www.techradar.com/audio/wireless-headphones/sony-leak-suggests-its-rebooting-some-of-its-best-ever-headphones-to-compete-with-bose-and-sennheiser-but-im-not-sure-the-predicted-price-is-going-to-be-cheap-enough
+  피드 요약: A Sony leak suggests it's preparing to launch a new, more affordable version of its legendary WH-1000XM4 headphones to better compete in the ANC headphone sector.
+
+■ [카메라] 5건
+----------------------------------------
+· Today’s Flash Deals on WD disk, Nanuk cases and Vangard tripod at BH
+  출처: Sony Alpha Rumors / 2026-08-21 05:41
+  링크: https://www.sonyalpharumors.com/todays-flash-deals-on-wd-disk-nanuk-cases-and-vangard-tripod-at-bh/
+  피드 요약: You have plenty of new deals today at BHphoto’s Dealzone (Click here). This includes: $120 off on the 5TB WED external disk $460 off on the Vanguard 4-1 Tripod Up to $360 off on Nanuk Hard Cases E-mount camera and lens deals: Save big on Sony cameras/lenses at BHphoto, Amazon, Adorama. Save big on S
+
+· Meike’s Big Surprise: Autofocus Zooms and Fast f/1.2 Primes Are on the Way!
+  출처: Sony Alpha Rumors / 2026-08-20 23:20
+  링크: https://www.sonyalpharumors.com/meikes-big-surprise-autofocus-zooms-and-fast-f-1-2-primes-are-on-the-way/
+  피드 요약: Meike has presented a new autofocus lens development plan, and it contains some surprises, such as their first full-frame zoom lenses: AF 24-70mm F2.8 standard zoom lens. AF 65mm F1.4 GFX Fuji medium format autofocus lens. AF 110mm F1.8 GFX Fuji medium format autofocus lens. AF 50mm F1.2 VCM full-fr
+
+· TTArtisan launched the most affordable full‑frame autofocus 85mm lenses on the market.
+  출처: Sony Alpha Rumors / 2026-08-20 18:34
+  링크: https://www.sonyalpharumors.com/ttartisan-launched-the-most-affordable-full-frame-autofocus-85mm-lenses-on-the-market/
+  피드 요약: TTartisan announced the most affordable 85mm Full Frame autofocus lens on the market. You get it now for $99 only at BHphoto, Amazon, Amazon EU, TTartisan and Pergear store. Key highlights: Classic 85mm focal length – perfect for portraits, street photography, and travel Bright F1.8 aperture with 11
+
+· TTartisan AF 85mm f/1.8 Neo lens for Nikon Z-mount is now available for $99 and with free worldwide shipping
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-21 00:09
+  링크: https://nikonrumors.com/2026/08/20/ttartisan-af-85mm-f-1-8-neo-lens-for-nikon-z-mount-is-now-available-for-99-and-free-worldwide-shipping.aspx/
+  피드 요약: The previously reported TTartisan AF 85mm f/1.8 Neo lens for Nikon Z-mount is now officially announced. The Neo series focuses on lightweight, affordable autofocus lenses (weight: 332–338g, price: $99 with free shipping when purchased from the official store): US Orders: B&H Photo Worldwide: TTartis
+
+· Fujifilm Dethrones Nikon, Claims #3 Worldwide — Despite a Brutal Shortage Year
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-20 23:50
+  링크: https://www.fujirumors.com/fujifilm-dethrones-nikon-claims-3-worldwide-despite-a-brutal-shortage-year/
+  피드 요약: Just last year a French Fujifilm manager said the goal of Fujifilm was to overtake Nikon and become the third most popular camera brand worldwide. Leading the charge to this mission: the Fujifilm X-E5. Well, it looks like indeed Fujifilm was able to achieve this goal. In fact, Nikkei has published t
