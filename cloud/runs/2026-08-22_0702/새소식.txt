@@ -1,0 +1,369 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-22 07:02 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-21 07:55 (KST) 이후 기사
+새 기사: 70건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 3건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 14건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 28건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+
+■ [IT 공식발표] 2건
+----------------------------------------
+· 삼성전자, 사상 최대 주주환원 실시… 2026년 약 90조~110조원 예상
+  출처: Samsung Newsroom Korea / 2026-08-22 03:27
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%82%ac%ec%83%81-%ec%b5%9c%eb%8c%80-%ec%a3%bc%ec%a3%bc%ed%99%98%ec%9b%90-%ec%8b%a4%ec%8b%9c-2026%eb%85%84-%ec%95%bd-90%ec%a1%b0110%ec%a1%b0%ec%9b%90
+  피드 요약: 삼성전자가 2026년 사상 최대 규모의 주주환원을 실시한다. 삼성전자는 21일 이사회를 열고, 약 90조~110조원의 규모로 예상되는 2026년 주주환원 시행 방안을 의결했다. 이는 기존 최대였던 2020년 20조3천억원 규모 주주환원의 약 5배에 달하는 수준이다. 이같은 역대 최대 규모의 주주환원은 회사의 성장에 따른 성과가 주주들에게 실질적인 혜택으로 돌아가도록 하고, 이를 통해 회사의 성장과 주주가치 제고가 선순환하는 구조를 이어가기 위한 […]
+
+· 삼성전자, 인간 중심 디자인 경쟁력 강화…IDEA·레드닷 어워드에서 잇따라 수상
+  출처: Samsung Newsroom Korea / 2026-08-22 01:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%9d%b8%ea%b0%84-%ec%a4%91%ec%8b%ac-%eb%94%94%ec%9e%90%ec%9d%b8-%ea%b2%bd%ec%9f%81%eb%a0%a5-%ea%b0%95%ed%99%94idea%c2%b7%eb%a0%88%eb%93%9c%eb%8b%b7
+  피드 요약: 삼성전자가 인간 중심의 디자인을 바탕으로 제품을 넘어 서비스와 브랜드, 미래의 디자인 콘셉트까지 경쟁력을 강화하며 권위 있는 국제 디자인 어워드에서 대거 수상했다. IDEA 2026에서는 ‘가전 접근성 디자인’을 비롯해 AI 기반 선행 디자인, 지속가능한 제품·패키지 디자인 등이 수상했으며, 레드닷 디자인 어워드 2026에서는 개인화된 사용자 경험과 브랜드·커뮤니케이션 디자인 분야에서 수상했다. ‘IDEA(International Design Excellence Awards) 2026’ 신설 임팩트상 포함 […]
+
+■ [IT 루머] 44건
+----------------------------------------
+· Apple's Camera-Equipped AirPods: All the New Rumors
+  출처: MacRumors / 2026-08-22 04:58
+  링크: https://www.macrumors.com/guide/airpods-ultra/
+  피드 요약: Apple is working on AirPods that have cameras for feeding data to Siri . The new earbuds will be Apple's first AI wearable, and they're expected to launch sometime in 2027 . Leaked Video Apple accidentally left a demo video featuring its rumored camera-equipped AirPods in macOS Tahoe 26.7 in mid-Aug
+
+· Apple's New Beats 360 Headphones Spotted in Another Regulatory Filing
+  출처: MacRumors / 2026-08-22 04:55
+  링크: https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/
+  피드 요약: Apple's upcoming Beats 360 headphones have been submitted to a regulatory database in the United Arab Emirates, according to a filing viewed by MacRumors . The filing mentions both the name Beats 360 and the model number A3577. To learn more about the Beats 360, read our previous coverage . The head
+
+· Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff
+  출처: MacRumors / 2026-08-22 04:16
+  링크: https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/
+  피드 요약: In addition to cutting dozens of Vision Pro employees who worked on features like immersive video and gaming, Apple is laying off people who worked on Siri and AI, reports Bloomberg . Apple is "largely shutting down" the Vision Pro team focused on gaming, and it is paring down the team that makes im
+
+· The MacRumors Show: Michael Fisher Talks iPhone Ultra
+  출처: MacRumors / 2026-08-22 02:48
+  링크: https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/
+  피드 요약: YouTuber Michael Fisher, known as " MrMobile ," joins us on this week's episode of The MacRumors Show to talk through key rumors about the " iPhone Ultra " and how the device could compare to rivals. Subscribe to The MacRumors Show YouTube channel for more videos Michael has covered the foldable pho
+
+· Apple Pay Supporting U.S. National Park Foundation Over the Next Week
+  출처: MacRumors / 2026-08-22 00:52
+  링크: https://www.macrumors.com/2026/08/21/apple-pay-supports-national-park-foundation/
+  피드 요약: Now through August 28, Apple will donate $10 to the National Park Foundation for every purchase made in the U.S. using Apple Pay on Apple.com, in the Apple Store app, or at an Apple Store, up to a maximum of $1 million. In addition, the annual U.S. national parks Apple Watch Activity Challenge retur
+
+· MG Could Be Next Automaker to Get Apple Car Key Support
+  출처: MacRumors / 2026-08-22 00:04
+  링크: https://www.macrumors.com/2026/08/21/mg-apple-car-key-support/
+  피드 요약: Code found in Apple's backend car key system suggests the company is preparing to add support for MG vehicles. The discovery indicates Apple has begun preparing car key support for SAIC Motor's MG brand. With an Apple Car Key, drivers can use their iPhone or Apple Watch to lock, unlock, and start a 
+
+· Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off
+  출처: MacRumors / 2026-08-21 23:23
+  링크: https://www.macrumors.com/2026/08/21/best-apple-deals-of-the-week-8-21-26/
+  피드 요약: This week, Best Buy kicked off its big 60th anniversary sale that includes great deals on AirPods, TVs, computers, and much more. Alongside this event, we're tracking solid markdowns on portable power stations from Anker and Jackery, plus the best prices of the summer on M4 iPad Air. Note: MacRumors
+
+· Walmart to Begin Accepting Apple Pay in U.S. Stores
+  출처: MacRumors / 2026-08-21 23:12
+  링크: https://www.macrumors.com/2026/08/21/walmart-to-begin-accepting-apple-pay-in-us/
+  피드 요약: After years of holding out, Walmart today announced that it will finally begin accepting tap-to-pay options like Apple Pay in some of its Walmart and Sam's Club stores in the U.S. starting Monday, August 24. The retailer plans to roll out tap-to-pay support to all of its U.S. stores by the end of 20
+
+· Samsung ranks second in global book-style foldable market
+  출처: SamMobile / 2026-08-22 03:21
+  링크: https://www.sammobile.com/news/samsung-ranks-second-global-book-style-foldable-market/
+  피드 요약: Omdia has published an analysis of the foldable smartphone market, examining current trends, projecting future shipments, and highlighting key growth drivers and industry challenges. According to the research firm, Samsung had an 18% share of the book-style foldable smartphone market in the first ha
+
+· I bought the Galaxy Z Fold 8 Ultra because Samsung fixed the one thing I needed it to
+  출처: SamMobile / 2026-08-22 02:32
+  링크: https://www.sammobile.com/opinion/i-bought-galaxy-z-fold-8-ultra-samsung-fixed-one-thing-i-needed/
+  피드 요약: The Galaxy Z Fold 8 is the hero foldable device this year. A new form factor, an interesting design, and the wider form factor have made it a clear hit. For many Galaxy Z Fold 7 owners like myself, the Galaxy Z Fold 8 Ultra is more appealing, not just because it's the successor to […]
+
+· Top China memory firm wanted to use stolen Samsung secrets to make chips
+  출처: SamMobile / 2026-08-22 02:09
+  링크: https://www.sammobile.com/news/top-china-memory-firm-wanted-to-use-stolen-samsung-secrets-to-make-chips/
+  피드 요약: A former Samsung employee who joined CXMT, China's top memory manufacturer, has testified in court that the company wanted to use intellectual property stolen from Samsung to build its own DRAM production nodes. The testimony was provided in a South Korean criminal case concerning the leaks of Samsu
+
+· Samsung dominates Latin American smartphone market
+  출처: SamMobile / 2026-08-22 00:37
+  링크: https://www.sammobile.com/news/samsung-dominates-latin-american-smartphone-market/
+  피드 요약: Counterpoint Research has published an analysis of the Latin America (LATAM) smartphone market in Q2 2026. According to it, Samsung had a 38% market share, the highest among all brands by a wide margin, putting it in first place, just like in Europe. In comparison, Samsung had a 33% market share in 
+
+· Name of the Galaxy S27 Ultra’s Snapdragon chip has leaked
+  출처: SamMobile / 2026-08-21 23:38
+  링크: https://www.sammobile.com/news/galaxy-s27-pro-ultra-snapdragon-chip-name-leaks/
+  피드 요약: Samsung has been using flagship Qualcomm chips in its top-of-the-line Galaxy S and Galaxy Z series phones every year, and 2027 will be no different. The South Korean firm is expected to use a Snapdragon 8 Elite Gen 6 series processor in Galaxy S27 series phones. The names of those chips have now lea
+
+· Samsung confirms details of its $80 billion shareholder return program
+  출처: SamMobile / 2026-08-21 22:53
+  링크: https://www.sammobile.com/news/samsung-confirms-details-of-its-80-billion-shareholder-return-program/
+  피드 요약: It was reported yesterday that Samsung Electronics may announce a new shareholder return program that would substantially increase returns for those who hold its stock. The company has announced that its Board of Directors have approved the shareholder return plan for 2026, which is estimated to ret
+
+· Check your Galaxy Note 8 and Galaxy S8, there’s a new update
+  출처: SamMobile / 2026-08-21 22:37
+  링크: https://www.sammobile.com/news/check-your-galaxy-note-8-and-galaxy-s8-theres-a-new-update/
+  피드 요약: You wouldn't think the Galaxy Note 8 and Galaxy S8 would receive any firmware updates anymore. The Galaxy Note series itself has been discontinued for quite a while now. However, it has happened in the past that an update is sent out for unsupported devices to fix a bug or vulnerability. One such up
+
+· Samsung ties Apple for the top spot in Europe’s smartphone market
+  출처: SamMobile / 2026-08-21 22:23
+  링크: https://www.sammobile.com/news/samsung-ties-apple-top-spot-europe-smartphone-market/
+  피드 요약: Counterpoint Research has published an analysis of the European smartphone market in Q2 2026. According to it, Samsung had a 34% market share, putting it jointly in first place with Apple, which has the same market share. That’s despite the smartphone market shrinking 10% YoY overall. Samsung was th
+
+· Apple's latest layoffs extend past just Vision Pro development teams
+  출처: AppleInsider / 2026-08-22 04:14
+  링크: https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss
+  피드 요약: A day after we broke the news of about 60 layoffs across the Apple Vision project, there are reportedly more in the Siri team too. Siri AI gets to live in this orb on Wes' desk Citing people familiar with the matter, the same as we did , Mark Gurman from Bloomberg has exposed more layoffs inside App
+
+· M6 MacBook Pro rumors: Improved performance, in a familiar form factor
+  출처: AppleInsider / 2026-08-22 02:20
+  링크: https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss
+  피드 요약: There's more coming than just an OLED MacBook Pro in the fall. Apple's 14-inch MacBook Pro is expected to get a big speed boost with the M6 chip. Here's what the rumor mill has to say. Apple's base model M6 MacBook Pro will introduce performance improvements, but not much else. While Apple plans to 
+
+· iPhone sales rise in Latin America even as smartphone market shrinks
+  출처: AppleInsider / 2026-08-22 00:22
+  링크: https://appleinsider.com/articles/26/08/21/iphone-sales-rise-in-latin-america-even-as-smartphone-market-shrinks?utm_source=rss
+  피드 요약: Across the world, rising costs and an uncertain economy mean that smartphone sales are falling, yet Apple's iPhone has still seen a 5% growth in the latest quarter. Demand continued to be steady for the iPhone 17 Pro Max The latest figures from Europe recently showed that as the smartphone market co
+
+· Apple paid Ireland a staggering $17 billion in taxes in 2025
+  출처: AppleInsider / 2026-08-22 00:01
+  링크: https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss
+  피드 요약: Apple's Irish tax arrangements were scrutinized for more than a decade, and has now, finally, culminated in one of the largest corporate tax recoveries ever ordered by the European Union. Apple's facility in Cork, Ireland | Image credit: Apple Apple has been fighting a decade-long battle over how mu
+
+· Finally, Apple Pay is coming to WalMart stores in the US
+  출처: AppleInsider / 2026-08-21 23:19
+  링크: https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us?utm_source=rss
+  피드 요약: Starting August 24, Walmart is expanding its payment options with tap-to-pay, after years of not allowing payment services like Apple Pay and Google Pay. Walmart would much rather you use Walmart Pay Walmart quietly announced the news in a press release on Friday , going out of its way not to name t
+
+· Amazon slashes LG 27" UltraGear OLED monitor to $468, lowest price ever
+  출처: AppleInsider / 2026-08-21 22:06
+  링크: https://appleinsider.com/articles/26/08/21/amazon-slashes-lg-27-ultragear-oled-monitor-to-468-lowest-price-ever?utm_source=rss
+  피드 요약: LG's 27-inch UltraGear OLED monitor has plunged to the lowest price ever on Amazon, now on sale for $467.97 while supplies last. Grab the LG UltraGear OLED display at the lowest price ever - Image credit: LG The 27-inch LG 27GX790A-B has a variety of ports, including HDMI 2.1 for Mac users and Displ
+
+· AirPods with cameras leak, Apple Maps ads, & Siri AI on the AppleInsider Podcast
+  출처: AppleInsider / 2026-08-21 21:23
+  링크: https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss
+  피드 요약: Apple accidentally leaked identifying numbers for much of its upcoming product line, AirPods with cameras rumors spark a new privacy debate, and Siri AI gets partnered articles on the AppleInsider Podcast. While Epic Games (center) continues to dance with Apple, AirPods are getting cameras, and the 
+
+· ChatGPT can now control Messages on the Mac for some reason
+  출처: AppleInsider / 2026-08-21 20:52
+  링크: https://appleinsider.com/articles/26/08/21/chatgpt-can-now-control-messages-on-the-mac-for-some-reason?utm_source=rss
+  피드 요약: Mac users can now give ChatGPT their entire Messages history and have it write texts. Hand OpenAI your house keys while you're at it. The latest version of ChatGPT for Mac can control Messages. Since January 2026, users have been able to hand over all of their Apple Health data to OpenAI, in return 
+
+· Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes
+  출처: 9to5Mac / 2026-08-22 06:53
+  링크: https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/
+  피드 요약: Apple TV subscribers can now watch the entire new season of Stillwater , the platform’s award-winning mindfulness-focused animated series. Watch the trailer below.
+
+· Epic accuses Apple of sidestepping App Store antitrust deal in Brazil
+  출처: 9to5Mac / 2026-08-22 06:20
+  링크: https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/
+  피드 요약: Apple has until Monday to respond to a complaint Epic Games filed with Brazil’s antitrust watchdog, where it accuses the company of adopting restrictive interpretations of its obligations under a recent App Store antitrust deal in the country. Here are the details.
+
+· Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time
+  출처: 9to5Mac / 2026-08-22 05:53
+  링크: https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/
+  피드 요약: Apple Watch Series 12 and Ultra 4 are launching next month , and rumors indicate they’ll pack a big upgrade—a new, more powerful chip—that will arrive at just the right time.
+
+· When is Apple Pay coming to your Walmart? Here’s the full schedule
+  출처: 9to5Mac / 2026-08-22 05:31
+  링크: https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/
+  피드 요약: Earlier today, Walmart officially announced it will finally start rolling out Apple Pay after holding out for more than a decade. When will Apple Pay come to your Walmart location? I got my hands on the full launch plan with all that information…
+
+· Apple paid Ireland $17 billion last year as EU back-tax case came due
+  출처: 9to5Mac / 2026-08-22 05:29
+  링크: https://9to5mac.com/2026/08/21/apple-paid-ireland-17-billion-last-year-as-eu-back-tax-case-came-due/
+  피드 요약: The Financial Times reports that new tax disclosures showed Apple paid Ireland $17 billion in corporate income taxes in 2025, accounting for 40% of its worldwide total. Here are the details.
+
+· Apple refurb store: Apple TV 4K is back, Apple Watch Ultra 3 offers, more
+  출처: 9to5Mac / 2026-08-22 04:43
+  링크: https://9to5mac.com/2026/08/21/apple-refurb-store-apple-tv-4k-ultra/
+  피드 요약: We’re back with our check-in for what’s new on Apple’s official Certified Refurbished Store this week. This week’s highlights include the MacBook Neo, new MacBook Air configurations, Apple Watch Ultra 3, and more.
+
+· Apple lays off 200+ people across Vision Pro and Siri teams
+  출처: 9to5Mac / 2026-08-22 04:17
+  링크: https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/
+  피드 요약: Apple is cutting jobs across multiple teams, according to a new Bloomberg report . All told, the company has cut more than 200 jobs across teams working on Vision Pro, Siri, and software engineering.
+
+· HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support
+  출처: 9to5Mac / 2026-08-22 03:52
+  링크: https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/
+  피드 요약: Athom has announced that it has officially achieved Homey Pro mini, and the Homey Self Hosted Server. This update brings important upgrades for both native device integration and cross-platform device bridging.
+
+· The Insignia 32-inch Fire TV falls to just $69.99 — a great price for a second screen
+  출처: Android Authority / 2026-08-22 06:53
+  링크: https://www.androidauthority.com/insignia-32-inch-fire-tv-deal-3701775/
+  피드 요약: Save $60 on the Insignia 32-inch Fire TV and get built-in Fire TV plus an Alexa Voice Remote for just $69.99.
+
+· Amazon drops the Logitech G309 Lightspeed mouse to a record-low $34.99
+  출처: Android Authority / 2026-08-22 06:32
+  링크: https://www.androidauthority.com/logitech-g309-lightspeed-mouse-deal-3701771/
+  피드 요약: Amazon cuts the Logitech G309 Lightspeed by 61% off RRP, bringing this highly rated mouse down to a very tempting price.
+
+· Your Verizon Disney Plus, Hulu, and ESPN Plus perks are about to cost more
+  출처: Android Authority / 2026-08-22 06:10
+  링크: https://www.androidauthority.com/verizon-disney-bundle-price-hike-3701755/
+  피드 요약: Most Verizon Disney bundle perks are going up, but this $15 plan is staying put.
+
+· Where are all Google’s smart displays? Out-of-stock Store listings raise eyebrows
+  출처: Android Authority / 2026-08-22 05:39
+  링크: https://www.androidauthority.com/google-store-smart-displays-3701744/
+  피드 요약: From Nest Hub to Pixel Tablet, the Google Store is out of every smart display.
+
+· Oura’s sleep tracking is under fire in a proposed class action lawsuit
+  출처: Android Authority / 2026-08-22 05:13
+  링크: https://www.androidauthority.com/oura-faces-lawsuit-over-sleep-tracking-accuracy-3701739/
+  피드 요약: The complaint alleges that some of its sleep tracking has little more than a "coin flip’s chance" of accuracy.
+
+· Google is giving you more control over your shared photo location data
+  출처: Android Authority / 2026-08-22 05:12
+  링크: https://www.androidauthority.com/new-android-photo-picker-api-coming-3701717/
+  피드 요약: Android's Photo Picker is adding a location data toggle for shared photos.
+
+· ChatGPT could soon let you lock chats behind a PIN or fingerprint
+  출처: Android Authority / 2026-08-22 04:22
+  링크: https://www.androidauthority.com/chatgpt-locked-chats-private-conversations-3701687/
+  피드 요약: Fixing Temporary Chat's biggest drawback.
+
+· Redeeming Google Play Points could win you a vintage Spider-Man comic worth crazy money
+  출처: Android Authority / 2026-08-22 04:10
+  링크: https://www.androidauthority.com/google-play-sweepstakes-3701703/
+  피드 요약: Play Points payments possibly procure prized Peter Parker periodical
+
+· 갤럭시A57 퀀텀7, SKT 출고가 공개 (*나름 선방)
+  출처: 란즈크 블로그 / 2026-08-21 17:13
+  링크: https://blog.naver.com/yeux1122/224385819945?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시A57 퀀텀7 모델 국내 통신사 가격이 나왔습니다 128 기준 71만7천2백원 입니다. P.S 최근 유럽 등 출고가가 인하 되었는데 초기보다는 가격 인상폭을 10만원 이내로 마무리 했네요.
+
+· 글로벌 폴더블 스마트폰 시장, 2028년 2배 증가 예상 (*와이드 폴드가 주역)
+  출처: 란즈크 블로그 / 2026-08-21 08:04
+  링크: https://blog.naver.com/yeux1122/224385232423?fromRss=true&trackingCode=rss
+  피드 요약: 글로벌 폴더블 스마트폰 시장에 대한 예측 보고서가 새로 나왔습니다. (Omdia) 2025년까지 정체기 시장이 새롭게 큰 폭 성장 예상 2026년~2028년 평균 20% 이상 출하량 증가로 2배 이상 증가 (전체 규모는 3,600만대 규모) 2025년 1,820만대 2026년 상반기 기준으로는 510만대 (* 26년 전분기 대비로는 21.6% 감소함. 이유는 플립 타입 감소가 큼 47% 감소) 향후 폴더블 시장을 크게 견인하는 모델은 와이드 타입의 북 타입 모델이 될 것임. P.S 참고로 애플은 올해 내년초 양산 물량이 800만대에
+
+· 애플 아이폰 폴드, 양산용 금형 몰드 노출 (*케이스 제작용)
+  출처: 란즈크 블로그 / 2026-08-21 07:58
+  링크: https://blog.naver.com/yeux1122/224385228555?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 폴드 케이스 제작을 위한 금형 몰드 입니다. (*최종 양산 스펙 반영)
+
+· 화웨이 16:10 와이드 폴드 시리즈 및 퓨라 뷰 실기 크기 비교
+  출처: 란즈크 블로그 / 2026-08-21 07:56
+  링크: https://blog.naver.com/yeux1122/224385227143?fromRss=true&trackingCode=rss
+  피드 요약: 화웨이 16:10 와이드 폴드 시리즈와 바 타입 스마트폰 모델 실기 비교 영상 입니다.
+
+■ [오디오] 16건
+----------------------------------------
+· Esoteric’s new T-01 turntable is “dedicated to reproducing the original master sound with breathtaking realism, musical energy and emotional depth”
+  출처: What Hi-Fi? / 2026-08-22 00:25
+  링크: https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound-with-breathtaking-realism-musical-energy-and-emotional-depth
+  피드 요약: The price might also take your breath away
+
+· Our experts have found the best deals on five-star Bluetooth speakers, Award-winning open-back headphones and high-end 4K projectors
+  출처: What Hi-Fi? / 2026-08-22 00:10
+  링크: https://www.whathifi.com/av/our-experts-have-found-the-best-deals-on-five-star-bluetooth-speakers-award-winning-open-back-headphones-and-high-end-4k-projectors
+  피드 요약: Perfect entertainment for a rainy day
+
+· Quiz! Take on our turntable-themed crossword for a spin and see how quickly you can solve the clues
+  출처: What Hi-Fi? / 2026-08-21 23:20
+  링크: https://www.whathifi.com/hi-fi/turntables/quiz-take-on-our-turntable-themed-crossword-for-a-spin-and-see-how-quickly-you-can-solve-the-clues
+  피드 요약: Can you secure a spot on our leaderboard?
+
+· Backrooms isn’t my cup of tea, but one of the film’s features has stuck with me
+  출처: What Hi-Fi? / 2026-08-21 22:35
+  링크: https://www.whathifi.com/streaming-entertainment/backrooms-isnt-my-cup-of-tea-but-one-of-the-films-features-has-stuck-with-me
+  피드 요약: There’s no escaping this soundtrack
+
+· Sonos is having a sale, but there's only one real deal I'd recommend
+  출처: What Hi-Fi? / 2026-08-21 21:31
+  링크: https://www.whathifi.com/speakers/wireless-speakers/sonos-is-having-a-sale-but-theres-only-one-real-deal-id-recommend
+  피드 요약: Sonos in its sale era
+
+· This stop-motion movie just turned 10 – and it reminded me to use animation to test home cinema systems more
+  출처: What Hi-Fi? / 2026-08-21 20:56
+  링크: https://www.whathifi.com/tv-home-cinema/this-stop-motion-movie-just-turned-10-and-it-reminded-me-to-use-animation-to-test-home-cinema-systems-more
+  피드 요약: Happy birthday, Kubo!
+
+· Samsung Galaxy Tab S11 Ultra
+  출처: What Hi-Fi? / 2026-08-21 20:54
+  링크: https://www.whathifi.com/smartphones-tablets/tablets/samsung-galaxy-tab-s11-ultra
+  피드 요약: This super-sized Android tablet is one of the most cinematic ways to enjoy movies on the move.
+
+· The next Apple TV 4K will have an upgraded Siri remote, according to this leak
+  출처: What Hi-Fi? / 2026-08-21 20:17
+  링크: https://www.whathifi.com/streaming-entertainment/streaming-hardware/the-next-apple-tv-4k-will-have-an-upgraded-siri-remote-according-to-this-leak
+  피드 요약: Should be landing very soon indeed
+
+· Need cheap everyday earbuds? Skullcandy Smokin’ Buds are just $19.99 right now
+  출처: SoundGuys / 2026-08-22 01:13
+  링크: https://www.soundguys.com/skullcandy-smokin-buds-deal-161871/
+  피드 요약: Skullcandy Smokin’ Buds drop to $19.99 at Amazon, a 29% discount and matching the all-time low price.
+
+· The Soundcore AeroClip is $70 off and back to its Prime Day price — but not for long
+  출처: SoundGuys / 2026-08-22 00:19
+  링크: https://www.soundguys.com/soundcore-aeroclip-deal-161867/
+  피드 요약: Act fast! The Soundcore AeroClip is back to its Prime Day price of $99.99 in this Amazon Lightning Deal.
+
+· These $60 headphones offer Bluetooth 6 and and dual-jack wired playback
+  출처: SoundGuys / 2026-08-21 18:01
+  링크: https://www.soundguys.com/oneodio-fusion-a70-gen-2-launch-161858/
+  피드 요약: Along with Bluetooth, the OneOdio Fusion A70 Gen 2 support both 3.5mm and 6.35mm wired input.
+
+· MELLOW YELLOW OR RED RED WINE?
+  출처: The Audiophile Man / 2026-08-21 18:09
+  링크: https://theaudiophileman.com/mellow-yellow-or-red-red-wine/
+  피드 요약: Island Records and EMI – yes, both still exist on Planet Imprint – have recently unveiled the new redesign of their headquarters in London. Island bathe in yellow. EMI dwell in red Both are kitted out with bespoke RN1 and M210 studio monitors by British hi-fi manufacturer TPI Aerospace. A company wh
+
+· ‘Better move would be to ban it’: Apple Music steps up plan for AI-generated song labels, but some users think it doesn’t go far enough
+  출처: TechRadar 오디오 / 2026-08-22 07:00
+  링크: https://www.techradar.com/audio/apple-music/better-move-would-be-to-ban-it-apple-music-steps-up-plan-for-ai-generated-song-labels-but-some-users-think-it-doesnt-go-far-enough
+  피드 요약: Apple Music will require artists to label their AI-generated music so users know what they’re getting.
+
+· The JBL Live Beam 4 are my favorite wireless earbuds of 2026 after weeks of testing — and I swear it’s not just because of their awesome touchscreen charging case
+  출처: TechRadar 오디오 / 2026-08-22 01:00
+  링크: https://www.techradar.com/audio/earbuds-airpods/jbl-live-beam-4-review
+  피드 요약: These JBL earbuds have a touchscreen-fitted charging case, and they might just be my favorite model of 2026 — here’s why.
+
+· Beats leak reveals the name of its next headphones plus most of its specs — but there could be one disappointing omission
+  출처: TechRadar 오디오 / 2026-08-21 23:25
+  링크: https://www.techradar.com/audio/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs-but-there-could-be-one-disappointing-omission
+  피드 요약: Apparently, the headphones Beats teased at the 2026 World Cup will be called the Beats 360, implying spatial audio chops.
+
+· Sennheiser gives its flagship true wireless earbuds a full revamp, complete with Bluetooth 6 and replaceable batteries
+  출처: TechRadar 오디오 / 2026-08-21 10:16
+  링크: https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries
+  피드 요약: Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt its flagship buds from the ground up.
+
+■ [카메라] 8건
+----------------------------------------
+· Nikkei reports Sony has lost 3,9% of the camera market share
+  출처: Sony Alpha Rumors / 2026-08-21 22:40
+  링크: https://www.sonyalpharumors.com/nikkei-reports-sony-has-lost-39-of-the-camera-market-share/
+  피드 요약: Nikkei Inc. has released ” Nikkei Industry Map 2027, ” which includes a ranking of digital camera shipments (market share) by manufacturer in the global camera market. First let’s check the data: 2025 – Camera Shipment Ranking Canon – 4.5 million units (45.7%, +2.5%) Sony – 2.42 million units (24.6%
+
+· Sony FX5 Drama: EU Dealers Receive First Stock, But Sony Halts Sales!
+  출처: Sony Alpha Rumors / 2026-08-21 19:32
+  링크: https://www.sonyalpharumors.com/sony-fx5-drama-eu-dealers-receive-first-stock-but-sony-halts-sales/
+  피드 요약: A SAR readers (Thanks TIM) sent me this interesting tidbit: they had one FX5 in stock in the Netherlands, I wanted to order it, but they told me it was open box cause Sony asked them to check something… So I found that suspicious and didnt order it. So it looks like a small first… The post Sony FX5 
+
+· Good News for Production: Sony’s Kumamoto Factory Back to Full Capacity
+  출처: Sony Alpha Rumors / 2026-08-21 17:16
+  링크: https://www.sonyalpharumors.com/good-news-for-production-sonys-kumamoto-factory-back-to-full-capacity/
+  피드 요약: Sony Group announced on the 19th that its image sensor factory in Kikuyo-machi, Kumamoto Prefecture, which was damaged in the Kumamoto earthquake, had returned to pre-earthquake production levels on the same day. After temporarily suspending operations following the earthquake on July 28, the factor
+
+· Canon Dominates With 46% Digital Camera Market Share for 2025
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-21 18:32
+  링크: https://www.canonrumors.com/canon-dominates-with-46-digital-camera-marketshare-for-2025/
+  피드 요약: Canon continues to dominate global camera sales market share according to the latest Nikkei Industry Map. Unlike other sales data we generally see that only covers Japan, the Nikkei report is global sales. In 2025 Canon sold 4.5 million cameras which is a 45.7% marketshare. That is an increase of 2.
+
+· Canon RF 28-135mm f/4 IS Power Zoom with Internal Zoom Design
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-21 16:23
+  링크: https://www.canonrumors.com/canon-rf-28-135mm-f-4-is-power-zoom-with-internal-zoom-design/
+  피드 요약: There are currently two Power Zoom lenses in the Canon lineup, with the expectation that we're going to see more added to the range. This patent shows us multiple examples of a Canon RF 28-135mm f/4 IS Power Zoom optical design with internal zooming. This patent application is pretty simple: Canon i
+
+· Peak Design Field Bracket for Fujifilm X-T5 and X100V / X100VI Pre-order at BHphoto
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-22 01:40
+  링크: https://www.fujirumors.com/peak-design-field-bracket-available-for-fujifilm-x-t5-and-x100v-x100vi/
+  피드 요약: The Peak Design Field Bracket for Fujifilm is now available at BHphoto here. Peak Design Field Bracket for Fujifilm X-T5 Peak Design Field Bracket for Fuifilm X100V and X100VI The Peak Design Field Bracket is also still available at the Kickstarter late pledges here, where it raised almost USD 700K.
+
+· NiSi NC UV Filter II with 49mm Front Thread for Fujifilm X100 Line Cameras Launched
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-22 00:16
+  링크: https://www.fujirumors.com/nisi-nc-uv-filter-ii-with-49mm-front-thread-for-fujifilm-x100-line-cameras-launched/
+  피드 요약: NiSi has just launched the NiSi NC UV Filter II with 49mm Front Thread. It is available in black here and silver here. Introducing the NiSi NC UV Filter II For Fujifilm X100 Series · Now with a 49mm Front Thread The NC UV Filter II is the protective UV filter built specifically for the… The post NiS
+
+· AtomOS 12.7.3 Adds F-Log2C Support and EL Zone for Fujifilm GFX Eterna 55
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-21 23:05
+  링크: https://www.fujirumors.com/atomos-12-7-3-adds-f-log2c-support-and-el-zone-for-fujifilm-gfx-eterna-55/
+  피드 요약: Atomos Ninja RAW BHphoto / Amazon / Adorama AtomOS 12.7.3 adds support for Fujifilm GFX Eterna 55 F-Log2-C and EL Zone. Below are the full details: Added support for Sony FX5 including Raw video handling and Camera Control New ‘FLog2-C Eterna’ gamma option with a dedicated EL Zone False Colour table
