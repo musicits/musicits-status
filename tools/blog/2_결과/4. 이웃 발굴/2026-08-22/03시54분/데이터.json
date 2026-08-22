@@ -1,0 +1,5023 @@
+{
+ "generated": "2026-08-22 03:55",
+ "keywords": [
+  "이어폰 추천",
+  "무선이어폰",
+  "노이즈캔슬링 이어폰",
+  "헤드폰 추천",
+  "블루투스 스피커",
+  "에어팟 후기",
+  "갤럭시 버즈",
+  "이어폰 리뷰",
+  "DAC 추천",
+  "음향기기",
+  "게이밍 헤드셋",
+  "가성비 이어폰",
+  "이어폰 비교",
+  "이어폰 청소 방법",
+  "블루투스 코덱",
+  "LP 턴테이블",
+  "바이닐 입문",
+  "포노앰프"
+ ],
+ "me": {
+  "blog_id": "musicits",
+  "kw_hits": 1,
+  "posts": 2,
+  "latest": "20260820",
+  "keywords": [
+   "블루투스 코덱"
+  ],
+  "missing": [
+   "이어폰 추천",
+   "무선이어폰",
+   "노이즈캔슬링 이어폰",
+   "헤드폰 추천",
+   "블루투스 스피커",
+   "에어팟 후기",
+   "갤럭시 버즈",
+   "이어폰 리뷰",
+   "DAC 추천",
+   "음향기기",
+   "게이밍 헤드셋",
+   "가성비 이어폰",
+   "이어폰 비교",
+   "이어폰 청소 방법",
+   "LP 턴테이블",
+   "바이닐 입문",
+   "포노앰프"
+  ],
+  "per_week": 6.0,
+  "last_days": 1,
+  "rank": 56
+ },
+ "rows": [
+  {
+   "blog_id": "skdaksdptn",
+   "name": "짜루의 이것저것 리뷰",
+   "link": "https://blog.naver.com/skdaksdptn",
+   "kw_hits": 5,
+   "posts": 6,
+   "latest": "20260817",
+   "keywords": [
+    "DAC 추천",
+    "게이밍 헤드셋",
+    "블루투스 코덱",
+    "이어폰 리뷰",
+    "헤드폰 추천"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "hunterview",
+   "name": "헌터뷰의 제품 추천!",
+   "link": "https://blog.naver.com/hunterview",
+   "kw_hits": 4,
+   "posts": 5,
+   "latest": "20260613",
+   "keywords": [
+    "노이즈캔슬링 이어폰",
+    "블루투스 코덱",
+    "이어폰 비교",
+    "이어폰 추천"
+   ],
+   "per_week": 8.2,
+   "last_days": 0
+  },
+  {
+   "blog_id": "esemoon",
+   "name": "이세의 인공지능",
+   "link": "https://blog.naver.com/esemoon",
+   "kw_hits": 4,
+   "posts": 4,
+   "latest": "20260711",
+   "keywords": [
+    "노이즈캔슬링 이어폰",
+    "무선이어폰",
+    "블루투스 코덱",
+    "이어폰 추천"
+   ],
+   "per_week": 12.5,
+   "last_days": 10
+  },
+  {
+   "blog_id": "forbetteritlife22",
+   "name": "HeadFi Labs",
+   "link": "https://blog.naver.com/forbetteritlife22",
+   "kw_hits": 3,
+   "posts": 5,
+   "latest": "20260820",
+   "keywords": [
+    "DAC 추천",
+    "이어폰 리뷰",
+    "이어폰 추천"
+   ],
+   "per_week": 6.0,
+   "last_days": 0
+  },
+  {
+   "blog_id": "highandlow007",
+   "name": "highandlow007님의블로그",
+   "link": "https://blog.naver.com/highandlow007",
+   "kw_hits": 3,
+   "posts": 5,
+   "latest": "20260714",
+   "keywords": [
+    "DAC 추천",
+    "가성비 이어폰",
+    "블루투스 코덱"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "realdc33",
+   "name": "그것, IT를 읽다",
+   "link": "https://blog.naver.com/realdc33",
+   "kw_hits": 3,
+   "posts": 4,
+   "latest": "20260813",
+   "keywords": [
+    "가성비 이어폰",
+    "게이밍 헤드셋",
+    "블루투스 스피커"
+   ],
+   "per_week": 12.5,
+   "last_days": 1
+  },
+  {
+   "blog_id": "hms080315",
+   "name": "아이가 다섯",
+   "link": "https://blog.naver.com/hms080315",
+   "kw_hits": 3,
+   "posts": 4,
+   "latest": "20260527",
+   "keywords": [
+    "무선이어폰",
+    "이어폰 추천",
+    "헤드폰 추천"
+   ],
+   "per_week": 10.8,
+   "last_days": 0
+  },
+  {
+   "blog_id": "fje0978bb",
+   "name": "정오의게임",
+   "link": "https://blog.naver.com/fje0978bb",
+   "kw_hits": 3,
+   "posts": 3,
+   "latest": "20260808",
+   "keywords": [
+    "갤럭시 버즈",
+    "게이밍 헤드셋",
+    "바이닐 입문"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "albamom17",
+   "name": "아이T히메's IT스토리",
+   "link": "https://blog.naver.com/albamom17",
+   "kw_hits": 3,
+   "posts": 3,
+   "latest": "20260805",
+   "keywords": [
+    "갤럭시 버즈",
+    "노이즈캔슬링 이어폰",
+    "바이닐 입문"
+   ],
+   "per_week": 6.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "2gwoo",
+   "name": "Gwoo’s IT TIME",
+   "link": "https://blog.naver.com/2gwoo",
+   "kw_hits": 3,
+   "posts": 3,
+   "latest": "20260722",
+   "keywords": [
+    "가성비 이어폰",
+    "게이밍 헤드셋",
+    "이어폰 추천"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "dean4001",
+   "name": "고양이집사 리샤's 포스트 IT",
+   "link": "https://blog.naver.com/dean4001",
+   "kw_hits": 3,
+   "posts": 3,
+   "latest": "20260708",
+   "keywords": [
+    "LP 턴테이블",
+    "무선이어폰",
+    "포노앰프"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "newkiller33",
+   "name": "세상의 모든 것에 순위를 매기다",
+   "link": "https://blog.naver.com/newkiller33",
+   "kw_hits": 3,
+   "posts": 3,
+   "latest": "20260610",
+   "keywords": [
+    "게이밍 헤드셋",
+    "무선이어폰",
+    "헤드폰 추천"
+   ],
+   "per_week": 6.8,
+   "last_days": 0
+  },
+  {
+   "blog_id": "zic8384",
+   "name": "도레미파파의 왕초보 오디오 지식 강의",
+   "link": "https://blog.naver.com/zic8384",
+   "kw_hits": 2,
+   "posts": 11,
+   "latest": "20260715",
+   "keywords": [
+    "DAC 추천",
+    "포노앰프"
+   ],
+   "per_week": 1.2,
+   "last_days": 2
+  },
+  {
+   "blog_id": "jdpark43",
+   "name": "빛과 소리의 교향곡(Symphony of Tech)",
+   "link": "https://blog.naver.com/jdpark43",
+   "kw_hits": 2,
+   "posts": 5,
+   "latest": "20260816",
+   "keywords": [
+    "LP 턴테이블",
+    "포노앰프"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "svke22",
+   "name": "차밍이와 함께하는 IT 꿀팁 ♡",
+   "link": "https://blog.naver.com/svke22",
+   "kw_hits": 2,
+   "posts": 4,
+   "latest": "20260819",
+   "keywords": [
+    "블루투스 코덱",
+    "이어폰 청소 방법"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "ghettokorean",
+   "name": "테크월드",
+   "link": "https://blog.naver.com/ghettokorean",
+   "kw_hits": 2,
+   "posts": 4,
+   "latest": "20260728",
+   "keywords": [
+    "가성비 이어폰",
+    "헤드폰 추천"
+   ],
+   "per_week": 11.8,
+   "last_days": 0
+  },
+  {
+   "blog_id": "jshan2020",
+   "name": "YGDD40",
+   "link": "https://blog.naver.com/jshan2020",
+   "kw_hits": 2,
+   "posts": 4,
+   "latest": "20260724",
+   "keywords": [
+    "무선이어폰",
+    "이어폰 리뷰"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "cheeks00",
+   "name": "2인자의 탐구생활",
+   "link": "https://blog.naver.com/cheeks00",
+   "kw_hits": 2,
+   "posts": 3,
+   "latest": "20260801",
+   "keywords": [
+    "노이즈캔슬링 이어폰",
+    "무선이어폰"
+   ],
+   "per_week": 6.8,
+   "last_days": 0
+  },
+  {
+   "blog_id": "bluepath",
+   "name": "알기쉬운디지털",
+   "link": "https://blog.naver.com/bluepath",
+   "kw_hits": 2,
+   "posts": 3,
+   "latest": "20260608",
+   "keywords": [
+    "게이밍 헤드셋",
+    "블루투스 스피커"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "xenicsholic",
+   "name": "::: 제닉스 공식 네이버 블로그 :::",
+   "link": "https://blog.naver.com/xenicsholic",
+   "kw_hits": 2,
+   "posts": 3,
+   "latest": "20260601",
+   "keywords": [
+    "게이밍 헤드셋",
+    "이어폰 비교"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "for306",
+   "name": "그리파파의 IT이야기",
+   "link": "https://blog.naver.com/for306",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260813",
+   "keywords": [
+    "무선이어폰",
+    "이어폰 추천"
+   ],
+   "per_week": 12.5,
+   "last_days": 1
+  },
+  {
+   "blog_id": "creativirus",
+   "name": "F:UM",
+   "link": "https://blog.naver.com/creativirus",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260813",
+   "keywords": [
+    "LP 턴테이블",
+    "바이닐 입문"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "backeclub",
+   "name": "Create Your Light & Color",
+   "link": "https://blog.naver.com/backeclub",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260807",
+   "keywords": [
+    "블루투스 스피커",
+    "이어폰 비교"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "dia_s2",
+   "name": "초보 IT로그",
+   "link": "https://blog.naver.com/dia_s2",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260806",
+   "keywords": [
+    "노이즈캔슬링 이어폰",
+    "무선이어폰"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "serenity087",
+   "name": "소록살림, 단정한 삶의 기록",
+   "link": "https://blog.naver.com/serenity087",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260805",
+   "keywords": [
+    "LP 턴테이블",
+    "바이닐 입문"
+   ],
+   "per_week": 12.5,
+   "last_days": 0
+  },
+  {
+   "blog_id": "dbgpwls1117",
+   "name": "혜진 블로그",
+   "link": "https://blog.naver.com/dbgpwls1117",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260730",
+   "keywords": [
+    "무선이어폰",
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "itguide365",
+   "name": "itguide365",
+   "link": "https://blog.naver.com/itguide365",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260730",
+   "keywords": [
+    "DAC 추천",
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "alfson",
+   "name": "앤바나",
+   "link": "https://blog.naver.com/alfson",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260725",
+   "keywords": [
+    "블루투스 코덱",
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "itexpert",
+   "name": "클릭하기 좋은 IT",
+   "link": "https://blog.naver.com/itexpert",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260722",
+   "keywords": [
+    "이어폰 청소 방법",
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "djusti",
+   "name": "버들붕어 스토리",
+   "link": "https://blog.naver.com/djusti",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260722",
+   "keywords": [
+    "게이밍 헤드셋",
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jwlovesr",
+   "name": "IT's 코왕",
+   "link": "https://blog.naver.com/jwlovesr",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260720",
+   "keywords": [
+    "가성비 이어폰",
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nuunzung2",
+   "name": "죵이장️",
+   "link": "https://blog.naver.com/nuunzung2",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260718",
+   "keywords": [
+    "가성비 이어폰",
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "tisueng12",
+   "name": "티슝의 게임연구소",
+   "link": "https://blog.naver.com/tisueng12",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260716",
+   "keywords": [
+    "가성비 이어폰",
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "po99135",
+   "name": "우가우가의 일상 한주먹✊️",
+   "link": "https://blog.naver.com/po99135",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260715",
+   "keywords": [
+    "가성비 이어폰",
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yhr2019622",
+   "name": "화려한오감의 블로그",
+   "link": "https://blog.naver.com/yhr2019622",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260710",
+   "keywords": [
+    "LP 턴테이블",
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "alsrb5260",
+   "name": "꿀템 상자:)",
+   "link": "https://blog.naver.com/alsrb5260",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260708",
+   "keywords": [
+    "갤럭시 버즈",
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dbsgns2011",
+   "name": "청비대제의 IT휴식처",
+   "link": "https://blog.naver.com/dbsgns2011",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260707",
+   "keywords": [
+    "게이밍 헤드셋",
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "skcsy59",
+   "name": "블로거 아빠는 육아 중",
+   "link": "https://blog.naver.com/skcsy59",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260626",
+   "keywords": [
+    "LP 턴테이블",
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "buong00",
+   "name": "부엉이는 세계여행중",
+   "link": "https://blog.naver.com/buong00",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260620",
+   "keywords": [
+    "가성비 이어폰",
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "joonh98",
+   "name": "육아와 리빙이 공존하는 블로그",
+   "link": "https://blog.naver.com/joonh98",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260529",
+   "keywords": [
+    "이어폰 리뷰",
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "irony_june",
+   "name": "하루준 라이프그라피",
+   "link": "https://blog.naver.com/irony_june",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260528",
+   "keywords": [
+    "갤럭시 버즈",
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "goalye24",
+   "name": "✨소심한 IT 리뷰✨",
+   "link": "https://blog.naver.com/goalye24",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260527",
+   "keywords": [
+    "노이즈캔슬링 이어폰",
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sg90929",
+   "name": "그남자 원동욱의 IT테크 에세이",
+   "link": "https://blog.naver.com/sg90929",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260525",
+   "keywords": [
+    "게이밍 헤드셋",
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "goldgalchi",
+   "name": "잇자나 IT잖아",
+   "link": "https://blog.naver.com/goldgalchi",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260511",
+   "keywords": [
+    "DAC 추천",
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "chunsam_dsr",
+   "name": "서로그",
+   "link": "https://blog.naver.com/chunsam_dsr",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260417",
+   "keywords": [
+    "가성비 이어폰",
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ekfgown",
+   "name": "썬길동 트래블로그",
+   "link": "https://blog.naver.com/ekfgown",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260413",
+   "keywords": [
+    "가성비 이어폰",
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "01198916129",
+   "name": "테크티노의 IT 이야기",
+   "link": "https://blog.naver.com/01198916129",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260407",
+   "keywords": [
+    "이어폰 비교",
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "fami323",
+   "name": "나의 비행기",
+   "link": "https://blog.naver.com/fami323",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260307",
+   "keywords": [
+    "가성비 이어폰",
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "litty28",
+   "name": "똥꼬발랄 견우네집",
+   "link": "https://blog.naver.com/litty28",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260305",
+   "keywords": [
+    "에어팟 후기",
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lovekra88",
+   "name": "부산오지상",
+   "link": "https://blog.naver.com/lovekra88",
+   "kw_hits": 2,
+   "posts": 2,
+   "latest": "20260223",
+   "keywords": [
+    "LP 턴테이블",
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mj201000",
+   "name": "음향기기 전문업체 우림컴퍼니",
+   "link": "https://blog.naver.com/mj201000",
+   "kw_hits": 1,
+   "posts": 11,
+   "latest": "20260814",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "skyqsw",
+   "name": "우림미디어❤우림디자인",
+   "link": "https://blog.naver.com/skyqsw",
+   "kw_hits": 1,
+   "posts": 4,
+   "latest": "20260803",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "fpemf01",
+   "name": "잡잡",
+   "link": "https://blog.naver.com/fpemf01",
+   "kw_hits": 1,
+   "posts": 3,
+   "latest": "20260817",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kingstargirl",
+   "name": "왕별의 비행♩",
+   "link": "https://blog.naver.com/kingstargirl",
+   "kw_hits": 1,
+   "posts": 3,
+   "latest": "20260718",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "oyabung0612",
+   "name": "바람이 분다..",
+   "link": "https://blog.naver.com/oyabung0612",
+   "kw_hits": 1,
+   "posts": 3,
+   "latest": "20260616",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "powertheone",
+   "name": "IT 여행",
+   "link": "https://blog.naver.com/powertheone",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260816",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jazzlubu",
+   "name": "진실여포 노트북",
+   "link": "https://blog.naver.com/jazzlubu",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260815",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "naisteam",
+   "name": "nam_HOW",
+   "link": "https://blog.naver.com/naisteam",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260811",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rlawnstn119",
+   "name": "김띵크 시선, IT Insight",
+   "link": "https://blog.naver.com/rlawnstn119",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260803",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ldena1",
+   "name": "서폰의 게임 공략 블로그",
+   "link": "https://blog.naver.com/ldena1",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260709",
+   "keywords": [
+    "DAC 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "changjo_0702",
+   "name": "리틀 시즌의 블로그",
+   "link": "https://blog.naver.com/changjo_0702",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260705",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ppraha2",
+   "name": "♥미쁘라 블로그♥ 당신을 환영해요~",
+   "link": "https://blog.naver.com/ppraha2",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260507",
+   "keywords": [
+    "DAC 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "canrobot77",
+   "name": "맛있는 오디오",
+   "link": "https://blog.naver.com/canrobot77",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260416",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jjang986",
+   "name": "주리오의 IT 이야기",
+   "link": "https://blog.naver.com/jjang986",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260328",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nce0623",
+   "name": "에릭의 IT스토리",
+   "link": "https://blog.naver.com/nce0623",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260319",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rex135790",
+   "name": "영상음향장비설치 전문업체",
+   "link": "https://blog.naver.com/rex135790",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260319",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kimkwmy",
+   "name": "김편의점",
+   "link": "https://blog.naver.com/kimkwmy",
+   "kw_hits": 1,
+   "posts": 2,
+   "latest": "20260309",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "senalee8",
+   "name": "줄리아",
+   "link": "https://blog.naver.com/senalee8",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260822",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hsycom1",
+   "name": "내면의 평화",
+   "link": "https://blog.naver.com/hsycom1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260820",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hohosamchun",
+   "name": "재수생 엄마의 철학노트",
+   "link": "https://blog.naver.com/hohosamchun",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260818",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "eungjung_",
+   "name": "응정이야기",
+   "link": "https://blog.naver.com/eungjung_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260817",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "pyk3405",
+   "name": "가성비 연구소",
+   "link": "https://blog.naver.com/pyk3405",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260817",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "tnalalstn",
+   "name": "수미조아",
+   "link": "https://blog.naver.com/tnalalstn",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260817",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zerobity",
+   "name": "테크리 IT 이야기",
+   "link": "https://blog.naver.com/zerobity",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260816",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "thfl0201",
+   "name": "리또리또리",
+   "link": "https://blog.naver.com/thfl0201",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260815",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "bsnpkinsg",
+   "name": "테크라이더 노트",
+   "link": "https://blog.naver.com/bsnpkinsg",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260814",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "garlictoast",
+   "name": "Garlictoast의 해외쇼핑",
+   "link": "https://blog.naver.com/garlictoast",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260814",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "buging1210",
+   "name": "Ho's Record",
+   "link": "https://blog.naver.com/buging1210",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260814",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "acejumin1",
+   "name": "유준파파의 IT",
+   "link": "https://blog.naver.com/acejumin1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260813",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "easytoday26",
+   "name": "오늘도 오늘을 더 쉽게",
+   "link": "https://blog.naver.com/easytoday26",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260813",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "starrystarry51",
+   "name": "잘먹고 잘산다 ♪",
+   "link": "https://blog.naver.com/starrystarry51",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260812",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "irok_hwang",
+   "name": "베니",
+   "link": "https://blog.naver.com/irok_hwang",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260812",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hyunnyvox",
+   "name": "혀니픽 | 혀니의 리얼리뷰 Real Review,Better Choice",
+   "link": "https://blog.naver.com/hyunnyvox",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260811",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kiyome24",
+   "name": "지율이의 작은 부엌",
+   "link": "https://blog.naver.com/kiyome24",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260810",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "daennis",
+   "name": "아토즈의 비욘드 IT",
+   "link": "https://blog.naver.com/daennis",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260810",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "minjoymylife",
+   "name": "희완민의 일상로그",
+   "link": "https://blog.naver.com/minjoymylife",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260809",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dseebqp",
+   "name": "허희윤",
+   "link": "https://blog.naver.com/dseebqp",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260809",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kdh6978",
+   "name": "건강바이블",
+   "link": "https://blog.naver.com/kdh6978",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260808",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "picknam",
+   "name": "살림하는훈동이",
+   "link": "https://blog.naver.com/picknam",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260808",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "s87boyo",
+   "name": "아라",
+   "link": "https://blog.naver.com/s87boyo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260808",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hotcorea",
+   "name": "세로보는 IT",
+   "link": "https://blog.naver.com/hotcorea",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "khk123_123",
+   "name": "40대 아재의 잊지말자 내돈내산",
+   "link": "https://blog.naver.com/khk123_123",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "xeelyu",
+   "name": "eunoia + wanderlust I 엔프제의 일상",
+   "link": "https://blog.naver.com/xeelyu",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "iamgardenia",
+   "name": "Garden's",
+   "link": "https://blog.naver.com/iamgardenia",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sunduck13",
+   "name": "선덕의 일상",
+   "link": "https://blog.naver.com/sunduck13",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yeriel1215",
+   "name": "MING's diary",
+   "link": "https://blog.naver.com/yeriel1215",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sdo2278",
+   "name": "뱀프의 잇(it) 정보",
+   "link": "https://blog.naver.com/sdo2278",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260807",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rjinaa3",
+   "name": "건강관리사 엄마의, 육아테라피",
+   "link": "https://blog.naver.com/rjinaa3",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kidori05",
+   "name": "세똥이 하고 싶은거 다해",
+   "link": "https://blog.naver.com/kidori05",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ilyf00",
+   "name": "포르투갈 달빛",
+   "link": "https://blog.naver.com/ilyf00",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kunwoojun",
+   "name": "My Life For Others",
+   "link": "https://blog.naver.com/kunwoojun",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "that1219",
+   "name": "꾱꾱로그",
+   "link": "https://blog.naver.com/that1219",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jeong_hy",
+   "name": "도소네 하루하루",
+   "link": "https://blog.naver.com/jeong_hy",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260806",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "boxriot1",
+   "name": "라스카도르 (Rascador)",
+   "link": "https://blog.naver.com/boxriot1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260805",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lakeljj",
+   "name": "달빛다현님의 블로그",
+   "link": "https://blog.naver.com/lakeljj",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260804",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wjdtkdwjd65547",
+   "name": "스트로우베리",
+   "link": "https://blog.naver.com/wjdtkdwjd65547",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260803",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "goodperson2",
+   "name": "어딧니리모컨의 소소한 기록",
+   "link": "https://blog.naver.com/goodperson2",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260803",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "shhj46",
+   "name": "용두의 소소한 아지트",
+   "link": "https://blog.naver.com/shhj46",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260803",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mb_bm1001",
+   "name": "mbk",
+   "link": "https://blog.naver.com/mb_bm1001",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260803",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ctnewsone",
+   "name": "문화관광뉴스",
+   "link": "https://blog.naver.com/ctnewsone",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260803",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "abdd1257",
+   "name": "ㅇㅇ",
+   "link": "https://blog.naver.com/abdd1257",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260802",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kkamsun8573",
+   "name": "또롬",
+   "link": "https://blog.naver.com/kkamsun8573",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260801",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jy64022",
+   "name": "서른 신혼부부, 오늘도 직진",
+   "link": "https://blog.naver.com/jy64022",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260801",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gino4585",
+   "name": "노래방, 음향기기의 모든것!!",
+   "link": "https://blog.naver.com/gino4585",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260731",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "endless13",
+   "name": "베리의 패션&뷰티",
+   "link": "https://blog.naver.com/endless13",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260730",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "oodeedoo",
+   "name": "느 집엔 이거 없지?",
+   "link": "https://blog.naver.com/oodeedoo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260730",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "enjoy_0428",
+   "name": "오늘은 어떤일이 생길까 ?",
+   "link": "https://blog.naver.com/enjoy_0428",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260729",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "deppg",
+   "name": "나의 힘이 되시네.",
+   "link": "https://blog.naver.com/deppg",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260729",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "aodrmwktlr",
+   "name": "쏘블리의 일상기록",
+   "link": "https://blog.naver.com/aodrmwktlr",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260729",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hyperealism",
+   "name": "ᴱᵛᴵᴴᶜᴿᴬ",
+   "link": "https://blog.naver.com/hyperealism",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260728",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dduksaboo",
+   "name": "순담작가의 사진 그리고 IT",
+   "link": "https://blog.naver.com/dduksaboo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260727",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "177166",
+   "name": "잘먹고 잘살고 싶은 블로거",
+   "link": "https://blog.naver.com/177166",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260727",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "quasweet",
+   "name": "쫌쫌따리 재테크 일기",
+   "link": "https://blog.naver.com/quasweet",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260727",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "oolool_",
+   "name": "monde de la mode 몽데라모드",
+   "link": "https://blog.naver.com/oolool_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260725",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "myalswjd00",
+   "name": "✨WHATEVER I WANT✨",
+   "link": "https://blog.naver.com/myalswjd00",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260725",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mooguess",
+   "name": "현우 마음대로",
+   "link": "https://blog.naver.com/mooguess",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260725",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hcvpyjtwk",
+   "name": "강유설",
+   "link": "https://blog.naver.com/hcvpyjtwk",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "eyxyjwqts",
+   "name": "채성주",
+   "link": "https://blog.naver.com/eyxyjwqts",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "pinkhippo67",
+   "name": "오늘의 내가 내일의 너에게",
+   "link": "https://blog.naver.com/pinkhippo67",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jju_eni",
+   "name": "작은 왕국의 일기",
+   "link": "https://blog.naver.com/jju_eni",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "qkslffk20",
+   "name": "루밍의 스몰여행",
+   "link": "https://blog.naver.com/qkslffk20",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "r8denwar",
+   "name": "유수린",
+   "link": "https://blog.naver.com/r8denwar",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260724",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "e20ju",
+   "name": "쭈노짱™ 삶의 기록",
+   "link": "https://blog.naver.com/e20ju",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260723",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "saporo2373",
+   "name": "메피의 알기 쉬운 IT 꿀팁",
+   "link": "https://blog.naver.com/saporo2373",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260723",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "tmdal258",
+   "name": "kyeom’s happy day",
+   "link": "https://blog.naver.com/tmdal258",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260723",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "moongteagray",
+   "name": "moo...",
+   "link": "https://blog.naver.com/moongteagray",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260723",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "staypositive_haley",
+   "name": "안양사는 유디트의 성장일기",
+   "link": "https://blog.naver.com/staypositive_haley",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260723",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "chanchanseo1121",
+   "name": "찬동사니",
+   "link": "https://blog.naver.com/chanchanseo1121",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260722",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "vidsavepro",
+   "name": "테크처방전 (고장은 고치고, 지갑은 지키고)",
+   "link": "https://blog.naver.com/vidsavepro",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260722",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wonjumin80",
+   "name": "취미부부의 IT 놀이터",
+   "link": "https://blog.naver.com/wonjumin80",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260721",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sanare915",
+   "name": "조이예니의 취향퍼즐",
+   "link": "https://blog.naver.com/sanare915",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260721",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kyeahy12",
+   "name": "⋆˚.•✩‧₊⋆lumiere",
+   "link": "https://blog.naver.com/kyeahy12",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260721",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "thddltmf908",
+   "name": "하늘을 사랑하는 하랑 이야기",
+   "link": "https://blog.naver.com/thddltmf908",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260720",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lth77cm",
+   "name": "슈퍼 스마트 리뷰",
+   "link": "https://blog.naver.com/lth77cm",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260720",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "miracledeepnsoft",
+   "name": "달리 아빠 시니어 생활경제 연구소",
+   "link": "https://blog.naver.com/miracledeepnsoft",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260720",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "chooyj86",
+   "name": "Solas’ life",
+   "link": "https://blog.naver.com/chooyj86",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260720",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ygkim103",
+   "name": "; 윤슬의 기록 ;",
+   "link": "https://blog.naver.com/ygkim103",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260719",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "veteranfit",
+   "name": "관리하는 설아",
+   "link": "https://blog.naver.com/veteranfit",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260718",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hayummy1205",
+   "name": "얌이의 딩가딩가, 얌딩",
+   "link": "https://blog.naver.com/hayummy1205",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260718",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "7andsoul",
+   "name": "하늘지기 베가스 영상 공방(工房 )",
+   "link": "https://blog.naver.com/7andsoul",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260718",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "violet0080",
+   "name": "생활정보Lab",
+   "link": "https://blog.naver.com/violet0080",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260718",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "anykcmblog",
+   "name": "any_kcm",
+   "link": "https://blog.naver.com/anykcmblog",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260716",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ssu514",
+   "name": "솔직담백 리빙 치트키",
+   "link": "https://blog.naver.com/ssu514",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260714",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dionpyn",
+   "name": "사랑을 담아",
+   "link": "https://blog.naver.com/dionpyn",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kmshop80",
+   "name": "종로 세운상가 아저씨",
+   "link": "https://blog.naver.com/kmshop80",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "doniminiblog",
+   "name": "꾸염이파이팅",
+   "link": "https://blog.naver.com/doniminiblog",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dawon_i",
+   "name": "다원이 기록",
+   "link": "https://blog.naver.com/dawon_i",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mikangtaro",
+   "name": "오렌지로그",
+   "link": "https://blog.naver.com/mikangtaro",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "smc5881",
+   "name": "고졸백수탈출기",
+   "link": "https://blog.naver.com/smc5881",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260713",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zingga9",
+   "name": "Kim쪼꼬님의 블로그",
+   "link": "https://blog.naver.com/zingga9",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260712",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "boraelice",
+   "name": "지아어멍의 장바구니",
+   "link": "https://blog.naver.com/boraelice",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260711",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gina_booklover",
+   "name": "시실리 책방",
+   "link": "https://blog.naver.com/gina_booklover",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260711",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sg_gwak",
+   "name": "행복한 일상 기록하기 :)",
+   "link": "https://blog.naver.com/sg_gwak",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260711",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ryurime88",
+   "name": "류리의 IT 테크룸",
+   "link": "https://blog.naver.com/ryurime88",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260711",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lee6584_",
+   "name": "hermosa",
+   "link": "https://blog.naver.com/lee6584_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260711",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "9090ert",
+   "name": "아르떼아모 Arteamo",
+   "link": "https://blog.naver.com/9090ert",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "annekarsel",
+   "name": "바이트스푼",
+   "link": "https://blog.naver.com/annekarsel",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "song_e89",
+   "name": "난아의세계",
+   "link": "https://blog.naver.com/song_e89",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "cd5168",
+   "name": "라이프머니트립",
+   "link": "https://blog.naver.com/cd5168",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kang1004221",
+   "name": "KDT의 it 복구 이야기",
+   "link": "https://blog.naver.com/kang1004221",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ideaswim91",
+   "name": "방탈출보드일기",
+   "link": "https://blog.naver.com/ideaswim91",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "skwjd21",
+   "name": "carpe diem",
+   "link": "https://blog.naver.com/skwjd21",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260710",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "babydreamer5",
+   "name": "영어뉴스와 미드영어",
+   "link": "https://blog.naver.com/babydreamer5",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260709",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gmpday2024",
+   "name": "아줌마의 생활 정보",
+   "link": "https://blog.naver.com/gmpday2024",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260709",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gondu11",
+   "name": "언박싱은 재밌어",
+   "link": "https://blog.naver.com/gondu11",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260709",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ssagka",
+   "name": "그레이의 멀티버스랩",
+   "link": "https://blog.naver.com/ssagka",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260709",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "chikiho4885",
+   "name": "척척공간",
+   "link": "https://blog.naver.com/chikiho4885",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260708",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "messyen",
+   "name": "카이의 IT실험실",
+   "link": "https://blog.naver.com/messyen",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260708",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "fish1106",
+   "name": "데일리 인사이트 창고",
+   "link": "https://blog.naver.com/fish1106",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260708",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "goeunmi8832",
+   "name": "로그아웃 없는 일상기록",
+   "link": "https://blog.naver.com/goeunmi8832",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260707",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "beginrightnow",
+   "name": "땀지의 주래블",
+   "link": "https://blog.naver.com/beginrightnow",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260707",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hai0416",
+   "name": "책근육",
+   "link": "https://blog.naver.com/hai0416",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260707",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mxxnmxx",
+   "name": "˙ᵕ˙ 幸幸福福",
+   "link": "https://blog.naver.com/mxxnmxx",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260706",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sonny_j",
+   "name": "쏘니제이의 일상",
+   "link": "https://blog.naver.com/sonny_j",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260706",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "1suhyeon",
+   "name": "남기고싶은 나의 것들",
+   "link": "https://blog.naver.com/1suhyeon",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260705",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "felix_203",
+   "name": "정쿡 개발자",
+   "link": "https://blog.naver.com/felix_203",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260705",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sosimjang35",
+   "name": "철없는 아내의 철들기 프로젝트",
+   "link": "https://blog.naver.com/sosimjang35",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260705",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wakeup_log",
+   "name": "내가 나에게",
+   "link": "https://blog.naver.com/wakeup_log",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260703",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ohyyy0722",
+   "name": "⋆⁺₊⋆ 뇽뇽 ⋆⁺₊⋆",
+   "link": "https://blog.naver.com/ohyyy0722",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260703",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "go9ma81",
+   "name": "디앤아이놀이터 IT 상품리뷰 & 맛집탐방",
+   "link": "https://blog.naver.com/go9ma81",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260703",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "acasia119",
+   "name": "소소한 남매 라이프 Aal izz well~♬",
+   "link": "https://blog.naver.com/acasia119",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260703",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ko2057",
+   "name": "십구곰",
+   "link": "https://blog.naver.com/ko2057",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260703",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gkswptj23749",
+   "name": "gkswptj23749님의 블로그",
+   "link": "https://blog.naver.com/gkswptj23749",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260702",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "s9rbysyxm",
+   "name": "s9rbysyxm님의 블로그",
+   "link": "https://blog.naver.com/s9rbysyxm",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260702",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "groovedeeper",
+   "name": "Groove Vinyl Archive",
+   "link": "https://blog.naver.com/groovedeeper",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260702",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mypace0527",
+   "name": "mypace0527님의 블로그",
+   "link": "https://blog.naver.com/mypace0527",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260701",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "bong1670",
+   "name": "BONG LIFE 일상블로그",
+   "link": "https://blog.naver.com/bong1670",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260630",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kbootuyi",
+   "name": "퇴근후골린이",
+   "link": "https://blog.naver.com/kbootuyi",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260630",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "bin8523",
+   "name": "가온의 뷰티&여행 이야기",
+   "link": "https://blog.naver.com/bin8523",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260630",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "krrkrr123",
+   "name": "어서오세요, 기억의 숲으로",
+   "link": "https://blog.naver.com/krrkrr123",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260629",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kkey1314",
+   "name": "공감 디자인 인테리어",
+   "link": "https://blog.naver.com/kkey1314",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260629",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yihy131",
+   "name": "테동인의 TENNIS BLOG",
+   "link": "https://blog.naver.com/yihy131",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260629",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "flatron2000",
+   "name": "No Pain No Gain",
+   "link": "https://blog.naver.com/flatron2000",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260629",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nj0808",
+   "name": "힝구의 기록 서랍",
+   "link": "https://blog.naver.com/nj0808",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260628",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kwonjae27",
+   "name": "게임 잘 알려주는 껑이네",
+   "link": "https://blog.naver.com/kwonjae27",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260628",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nirex",
+   "name": "1g의 실행력",
+   "link": "https://blog.naver.com/nirex",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260628",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "moonija",
+   "name": "하늘이랑",
+   "link": "https://blog.naver.com/moonija",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260628",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "flyann00",
+   "name": "일상다반사",
+   "link": "https://blog.naver.com/flyann00",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260627",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "extj_couple",
+   "name": "T 부부의 시트콤같은 일상",
+   "link": "https://blog.naver.com/extj_couple",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260626",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lovegustlf54",
+   "name": "공주살이 시리, 오늘도 시리롭게",
+   "link": "https://blog.naver.com/lovegustlf54",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260626",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mae_ma_made",
+   "name": "maedoong artwork design",
+   "link": "https://blog.naver.com/mae_ma_made",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260626",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "huenga",
+   "name": "벨롬 / IT TECH",
+   "link": "https://blog.naver.com/huenga",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260625",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "verymore9986",
+   "name": "뱅스의 남다른 라이프",
+   "link": "https://blog.naver.com/verymore9986",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260624",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wownamai",
+   "name": "오늘도 조잘조잘",
+   "link": "https://blog.naver.com/wownamai",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260624",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lskimch",
+   "name": "cyoz 테크스냅 (카메라·IT 리뷰)",
+   "link": "https://blog.naver.com/lskimch",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260624",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lifedecoder6130",
+   "name": "생활의 지혜를 해독하다.",
+   "link": "https://blog.naver.com/lifedecoder6130",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260624",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ggswiri",
+   "name": "순두부언니",
+   "link": "https://blog.naver.com/ggswiri",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260623",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sunny_lecture",
+   "name": "스마트 홈로그(Smart homelog)",
+   "link": "https://blog.naver.com/sunny_lecture",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260623",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kimnana729",
+   "name": "애개육아 워킹맘의 blog",
+   "link": "https://blog.naver.com/kimnana729",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260623",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "slayers85",
+   "name": "LDH의 사적인 공간",
+   "link": "https://blog.naver.com/slayers85",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260623",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "djmanul",
+   "name": "SIMPLE IS BEST",
+   "link": "https://blog.naver.com/djmanul",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260623",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ds2npi",
+   "name": "섭이의블로그입니다^^",
+   "link": "https://blog.naver.com/ds2npi",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260622",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dbanddl12",
+   "name": "토곰이네 라이프",
+   "link": "https://blog.naver.com/dbanddl12",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260621",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mooldeok",
+   "name": "부산사람 물더기의 하루들",
+   "link": "https://blog.naver.com/mooldeok",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260621",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "junaarcade",
+   "name": "주나의 모든 정리",
+   "link": "https://blog.naver.com/junaarcade",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260620",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hyjueng",
+   "name": "꿈속에서도 게임을!!",
+   "link": "https://blog.naver.com/hyjueng",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260620",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nana1004kim",
+   "name": "유니버스 디지털 드라이브",
+   "link": "https://blog.naver.com/nana1004kim",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260619",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "i0865",
+   "name": "생각·일상·공부 기록",
+   "link": "https://blog.naver.com/i0865",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260619",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zhzl71",
+   "name": "그래..내일은 내일의 태양이 뜰꺼야~",
+   "link": "https://blog.naver.com/zhzl71",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260619",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "banwolaudio",
+   "name": "오디오 전문점 반 월 음 향 입니다.",
+   "link": "https://blog.naver.com/banwolaudio",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260619",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "debolm74",
+   "name": "50대 러너 이야기 - 러닝, 재테크, IT, 자격증",
+   "link": "https://blog.naver.com/debolm74",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260618",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gkqhddl1",
+   "name": "하봉이의 IT이야기",
+   "link": "https://blog.naver.com/gkqhddl1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260618",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "eunvy0122",
+   "name": "지지의 맛있는 일상과 리뷰 공간",
+   "link": "https://blog.naver.com/eunvy0122",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260617",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "5neunim",
+   "name": "5neunim님의 블로그",
+   "link": "https://blog.naver.com/5neunim",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260617",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mmummun",
+   "name": "취향 담아, 나다운 것",
+   "link": "https://blog.naver.com/mmummun",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260616",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wirteanddraw_hyunseo",
+   "name": "만화 그리는 현서쓰고그리다",
+   "link": "https://blog.naver.com/wirteanddraw_hyunseo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260614",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "josmin777",
+   "name": "한번빠져봐",
+   "link": "https://blog.naver.com/josmin777",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260614",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sinnam88",
+   "name": "포토그래퍼 신남의 IT 세상",
+   "link": "https://blog.naver.com/sinnam88",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260614",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "juneyoup1",
+   "name": "프랭키의 Happy Life",
+   "link": "https://blog.naver.com/juneyoup1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260614",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lovekyy1201",
+   "name": "스페셜의 몽환의 숲",
+   "link": "https://blog.naver.com/lovekyy1201",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260613",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ekqhd5992",
+   "name": "daily beauty • jewelry",
+   "link": "https://blog.naver.com/ekqhd5992",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260612",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "whgusgh03124",
+   "name": "Cell & Sell",
+   "link": "https://blog.naver.com/whgusgh03124",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260612",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "neome486",
+   "name": "날만난건너의행운이야",
+   "link": "https://blog.naver.com/neome486",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260612",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dhsk1005",
+   "name": "대한음향",
+   "link": "https://blog.naver.com/dhsk1005",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260612",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ararar0625",
+   "name": "뉴니의 스윗홈",
+   "link": "https://blog.naver.com/ararar0625",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260611",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "aaabbc91",
+   "name": "슬로우 뷰티, 쏭‘s 로그",
+   "link": "https://blog.naver.com/aaabbc91",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260611",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hge319",
+   "name": "빵하로그",
+   "link": "https://blog.naver.com/hge319",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260611",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yj13568",
+   "name": "• . ݁₊ ⊹ . ʚ♡ɞ . ⊹ ₊ ݁. •",
+   "link": "https://blog.naver.com/yj13568",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260611",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yungwook2",
+   "name": "티문",
+   "link": "https://blog.naver.com/yungwook2",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260610",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "aftergolf",
+   "name": "나의 위시리스트",
+   "link": "https://blog.naver.com/aftergolf",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260610",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "watetman_nt",
+   "name": "watetman_nt님의블로그",
+   "link": "https://blog.naver.com/watetman_nt",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260610",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "snuzlo",
+   "name": "¡ Feliz !",
+   "link": "https://blog.naver.com/snuzlo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260609",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lus2000kr",
+   "name": "Aztec Dream http://lus2000kr.blog.me",
+   "link": "https://blog.naver.com/lus2000kr",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260608",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "vdsl_modem",
+   "name": "보컬훈련소 / Vocal Training Details",
+   "link": "https://blog.naver.com/vdsl_modem",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260607",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sooy110",
+   "name": "로그블",
+   "link": "https://blog.naver.com/sooy110",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260607",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nagaja3",
+   "name": "생활 정보 꿀팁",
+   "link": "https://blog.naver.com/nagaja3",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260607",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sofar2020",
+   "name": "먹고, 또 먹고",
+   "link": "https://blog.naver.com/sofar2020",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260606",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hjj7749",
+   "name": "육대디",
+   "link": "https://blog.naver.com/hjj7749",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260605",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "makecreative",
+   "name": "발걸음이 기억을 만든다",
+   "link": "https://blog.naver.com/makecreative",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260604",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nsunha",
+   "name": "털 따라, 옷 따라, 맛 따라,",
+   "link": "https://blog.naver.com/nsunha",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260604",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ssarubi",
+   "name": "BIA",
+   "link": "https://blog.naver.com/ssarubi",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260604",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "fosj-8bdmlzf7wq",
+   "name": "fosj-8bdmlzf7wq님의 블로그",
+   "link": "https://blog.naver.com/fosj-8bdmlzf7wq",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260603",
+   "keywords": [
+    "DAC 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kjins0909",
+   "name": "함께 소통하는 여행자",
+   "link": "https://blog.naver.com/kjins0909",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260603",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "airbag1",
+   "name": "슈마여행의 재밌는 IT",
+   "link": "https://blog.naver.com/airbag1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260603",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jasper_world",
+   "name": "제스퍼의 IT 공작소",
+   "link": "https://blog.naver.com/jasper_world",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260601",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "noel_line",
+   "name": "오늘도 쓰담쓰다",
+   "link": "https://blog.naver.com/noel_line",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260601",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "luck_yo_on",
+   "name": "터벅터벅 나의 일상",
+   "link": "https://blog.naver.com/luck_yo_on",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260531",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kym990921k",
+   "name": "윰언니의 아주 보통의 하루",
+   "link": "https://blog.naver.com/kym990921k",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260531",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hury99",
+   "name": "Hey, Carpe diem!",
+   "link": "https://blog.naver.com/hury99",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260530",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "aon1225",
+   "name": "리뷰영이",
+   "link": "https://blog.naver.com/aon1225",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260530",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "s0na324",
+   "name": "WITH MY JINYOUNG",
+   "link": "https://blog.naver.com/s0na324",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260529",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wassadacom",
+   "name": "와싸다닷컴(av&people)",
+   "link": "https://blog.naver.com/wassadacom",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260529",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ddawndew",
+   "name": "술람미의 삶이 주는 선물",
+   "link": "https://blog.naver.com/ddawndew",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260528",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gotpdud09",
+   "name": "덕스의 IT덕질",
+   "link": "https://blog.naver.com/gotpdud09",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260527",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "shfurgus",
+   "name": "Fastlane",
+   "link": "https://blog.naver.com/shfurgus",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260527",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "juho524",
+   "name": "퇴직금으로 여행하는 심플수트",
+   "link": "https://blog.naver.com/juho524",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260526",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "tntn0819",
+   "name": "러브토끼♡",
+   "link": "https://blog.naver.com/tntn0819",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260525",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yashicakid",
+   "name": "YashicaKid's Analogue SPACE",
+   "link": "https://blog.naver.com/yashicakid",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260525",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hhyejjin0810",
+   "name": "운동할 때도 패션 못 잃지",
+   "link": "https://blog.naver.com/hhyejjin0810",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260524",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "junmega",
+   "name": "은하계쓰 지구별여행",
+   "link": "https://blog.naver.com/junmega",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260524",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "runer2019",
+   "name": "습우아",
+   "link": "https://blog.naver.com/runer2019",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260524",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gkgkgksms159",
+   "name": "IT 제품 전문 리뷰어",
+   "link": "https://blog.naver.com/gkgkgksms159",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260515",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "icanhjk",
+   "name": "오늘의연두 일상에 투자를더하다",
+   "link": "https://blog.naver.com/icanhjk",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260513",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "keira000",
+   "name": "집요정의 바깥견문록",
+   "link": "https://blog.naver.com/keira000",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260511",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "qhfka614",
+   "name": "ᰔ뽀욤 뷰티ᰔ",
+   "link": "https://blog.naver.com/qhfka614",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260509",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "apple7078610",
+   "name": "엘대디의 블로그",
+   "link": "https://blog.naver.com/apple7078610",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260507",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kkodug9",
+   "name": "영원한도시 블로그",
+   "link": "https://blog.naver.com/kkodug9",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260506",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zeimer",
+   "name": "제이메르의 게임 이야기",
+   "link": "https://blog.naver.com/zeimer",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260505",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "fabrelee12",
+   "name": "모든 IT ( 부제: IT 쉽다쉬워 )",
+   "link": "https://blog.naver.com/fabrelee12",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260504",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "queen0326",
+   "name": "베리해피한 이야기",
+   "link": "https://blog.naver.com/queen0326",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260502",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jinh0409",
+   "name": "진소리블로G;-)",
+   "link": "https://blog.naver.com/jinh0409",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260502",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jongeoni",
+   "name": "일상의 즐거움",
+   "link": "https://blog.naver.com/jongeoni",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260428",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "loveloveinme",
+   "name": "재아와 세상 사이의 이야기",
+   "link": "https://blog.naver.com/loveloveinme",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260427",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "cheezes2s2",
+   "name": "치즈별빛노트",
+   "link": "https://blog.naver.com/cheezes2s2",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260427",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "u_echei",
+   "name": "지구부터 우주까지 여행할래",
+   "link": "https://blog.naver.com/u_echei",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260427",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "qweasd833",
+   "name": "희미한 연필 자국",
+   "link": "https://blog.naver.com/qweasd833",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260423",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dodo_ma",
+   "name": "슬기좋은세상",
+   "link": "https://blog.naver.com/dodo_ma",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260422",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "qudghk0378",
+   "name": "생각에 대한 생각",
+   "link": "https://blog.naver.com/qudghk0378",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260421",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "alloinghair",
+   "name": "온무드 정현티처의 이모저모",
+   "link": "https://blog.naver.com/alloinghair",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260420",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nstartkkh",
+   "name": "nstart 지식",
+   "link": "https://blog.naver.com/nstartkkh",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260420",
+   "keywords": [
+    "DAC 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "mar0n9",
+   "name": "마롱의 장비탐험",
+   "link": "https://blog.naver.com/mar0n9",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260419",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "slayerib",
+   "name": "신선과일의 Re Runing!",
+   "link": "https://blog.naver.com/slayerib",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260419",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "youngdavid",
+   "name": "낭만팩토리",
+   "link": "https://blog.naver.com/youngdavid",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260418",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "audioart21",
+   "name": "오디오아트",
+   "link": "https://blog.naver.com/audioart21",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260418",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "myownblogg",
+   "name": "낳씨의 하루",
+   "link": "https://blog.naver.com/myownblogg",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260417",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "samsung_cs",
+   "name": "삼성전자서비스 블로그",
+   "link": "https://blog.naver.com/samsung_cs",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260416",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gyeowoori",
+   "name": "햇살이 가득한 규니으니 하우스",
+   "link": "https://blog.naver.com/gyeowoori",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260415",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rnjswltn576",
+   "name": "웨딩삼치 일상부터 결혼까지",
+   "link": "https://blog.naver.com/rnjswltn576",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260415",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hodu_mandu",
+   "name": "hodu_mandu님의 블로그",
+   "link": "https://blog.naver.com/hodu_mandu",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260413",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "pantera260302",
+   "name": "pantera260302님의 블로그",
+   "link": "https://blog.naver.com/pantera260302",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260413",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sound8949",
+   "name": "사운드캣 공식 블로그",
+   "link": "https://blog.naver.com/sound8949",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260413",
+   "keywords": [
+    "DAC 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hobakwave",
+   "name": "모기하루 (Mok's Daily Life)",
+   "link": "https://blog.naver.com/hobakwave",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260413",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "here_i",
+   "name": "DEZ IT Lab",
+   "link": "https://blog.naver.com/here_i",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260409",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "a909020",
+   "name": "나야나 블로그",
+   "link": "https://blog.naver.com/a909020",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260409",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "leesiya49",
+   "name": "이씨야 공간탐구",
+   "link": "https://blog.naver.com/leesiya49",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260409",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "asdlkj0022",
+   "name": "그니의블로그",
+   "link": "https://blog.naver.com/asdlkj0022",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260408",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rde0409",
+   "name": "블루알파의 스마트리뷰",
+   "link": "https://blog.naver.com/rde0409",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260404",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "raon375",
+   "name": "키파 IT 노트",
+   "link": "https://blog.naver.com/raon375",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260403",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "reser45",
+   "name": "무스미엘",
+   "link": "https://blog.naver.com/reser45",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260402",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jjekjjek98",
+   "name": "현생아 너 잠깐 나가있어",
+   "link": "https://blog.naver.com/jjekjjek98",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260401",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "leesorry12",
+   "name": "보통의 남편",
+   "link": "https://blog.naver.com/leesorry12",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260331",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "hyein1229",
+   "name": "날라리엄마의 365일",
+   "link": "https://blog.naver.com/hyein1229",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260331",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "din_du_",
+   "name": "₊·*◟(⌯ˇ- ˇ⌯)◜‧*・✿",
+   "link": "https://blog.naver.com/din_du_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260331",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lssy7084",
+   "name": "슈슈의 육아•여행리뷰",
+   "link": "https://blog.naver.com/lssy7084",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260330",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "paraffinum",
+   "name": "열심히 사는 히소성",
+   "link": "https://blog.naver.com/paraffinum",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260330",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "reviewhamnida",
+   "name": "일상과리뷰",
+   "link": "https://blog.naver.com/reviewhamnida",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260330",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "youn-i",
+   "name": "Yeonlog •• ♡",
+   "link": "https://blog.naver.com/youn-i",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260329",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wjd2536",
+   "name": "Good LIfe",
+   "link": "https://blog.naver.com/wjd2536",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260329",
+   "keywords": [
+    "블루투스 코덱"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zestgo",
+   "name": "데이스토리의 테크를 이야기하다",
+   "link": "https://blog.naver.com/zestgo",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260328",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "caroll4574",
+   "name": "날마다 좋은날",
+   "link": "https://blog.naver.com/caroll4574",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260327",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "raon901",
+   "name": "moum.zip",
+   "link": "https://blog.naver.com/raon901",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260326",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "s22222222",
+   "name": "워킹맘 므다이야기",
+   "link": "https://blog.naver.com/s22222222",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260326",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "aiwositai",
+   "name": "코예커플 IT",
+   "link": "https://blog.naver.com/aiwositai",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260324",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "supapa13",
+   "name": "세수하면이병헌 IT/자동차",
+   "link": "https://blog.naver.com/supapa13",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260324",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ideungam",
+   "name": "게임앤리뷰",
+   "link": "https://blog.naver.com/ideungam",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260324",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "tripee",
+   "name": "트리피의 Trip to everything",
+   "link": "https://blog.naver.com/tripee",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260323",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gaonmom0909",
+   "name": "렌느제이&가온맘",
+   "link": "https://blog.naver.com/gaonmom0909",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260323",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "gpicture",
+   "name": "이쁜이기린의 이거저거 잘아는척",
+   "link": "https://blog.naver.com/gpicture",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260322",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dreaming_m_",
+   "name": "같지만 다른 날들",
+   "link": "https://blog.naver.com/dreaming_m_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260320",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "sy0101a",
+   "name": "⛳️공때녀⛳️골프공 때리는 그녀",
+   "link": "https://blog.naver.com/sy0101a",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260319",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "studemt18",
+   "name": "튜잉",
+   "link": "https://blog.naver.com/studemt18",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260319",
+   "keywords": [
+    "노이즈캔슬링 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jwoong2_2",
+   "name": "新綠",
+   "link": "https://blog.naver.com/jwoong2_2",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260318",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dlsgur3021",
+   "name": "오브제 하우스 | 장과장",
+   "link": "https://blog.naver.com/dlsgur3021",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260317",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "312350_",
+   "name": "만두피-셜",
+   "link": "https://blog.naver.com/312350_",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260317",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "musicfiler",
+   "name": "무비파일러 Moviefiler",
+   "link": "https://blog.naver.com/musicfiler",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260317",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yun_ttoppi",
+   "name": "취미 부자 윤또삐의 일상 기록",
+   "link": "https://blog.naver.com/yun_ttoppi",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260314",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lhy8112",
+   "name": "AV홀릭 홈시어터 하이파이 오디오",
+   "link": "https://blog.naver.com/lhy8112",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260313",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "star_3369",
+   "name": "다온라온의 기록장",
+   "link": "https://blog.naver.com/star_3369",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260312",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "jang_0129",
+   "name": "굼숭이의 하루",
+   "link": "https://blog.naver.com/jang_0129",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260311",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "qls927",
+   "name": "Wherever you go",
+   "link": "https://blog.naver.com/qls927",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260310",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ps3player",
+   "name": "스파이크의 무한 잡설 공간",
+   "link": "https://blog.naver.com/ps3player",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260309",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wlj86",
+   "name": "삐니네 가족의 맛있는 일상",
+   "link": "https://blog.naver.com/wlj86",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260307",
+   "keywords": [
+    "헤드폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "rywls92",
+   "name": "찐친부부의 ITip",
+   "link": "https://blog.naver.com/rywls92",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260307",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "funtykr",
+   "name": "FUNTYKR : IT의 즐거움",
+   "link": "https://blog.naver.com/funtykr",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260306",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dolphinjun_h",
+   "name": "투명한 기록, 일상이야기",
+   "link": "https://blog.naver.com/dolphinjun_h",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260306",
+   "keywords": [
+    "게이밍 헤드셋"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "zrwann_e",
+   "name": "평범한 20대 남자의 리얼 라이프 ( ˶ˆ⤙ˆ˵ )",
+   "link": "https://blog.naver.com/zrwann_e",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260306",
+   "keywords": [
+    "가성비 이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lifetimetune",
+   "name": "LifetimeTune님의 음악블로그",
+   "link": "https://blog.naver.com/lifetimetune",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260306",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "nangchoaudioit",
+   "name": "IT테크사운드 - Nangcho",
+   "link": "https://blog.naver.com/nangchoaudioit",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260305",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "dlwngus1018",
+   "name": "10년차 주부의 생활로그",
+   "link": "https://blog.naver.com/dlwngus1018",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260304",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "itsdodoum",
+   "name": "제이부부의 미식여행",
+   "link": "https://blog.naver.com/itsdodoum",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260304",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "yeol238",
+   "name": "수다밭",
+   "link": "https://blog.naver.com/yeol238",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260304",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "parksj5282",
+   "name": "진진의 살림 한 걸음",
+   "link": "https://blog.naver.com/parksj5282",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260301",
+   "keywords": [
+    "이어폰 청소 방법"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "lemonbebe",
+   "name": "일상채집가",
+   "link": "https://blog.naver.com/lemonbebe",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260227",
+   "keywords": [
+    "이어폰 리뷰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "edgedblog",
+   "name": "에지드",
+   "link": "https://blog.naver.com/edgedblog",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260227",
+   "keywords": [
+    "포노앰프"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ddihw",
+   "name": "변검",
+   "link": "https://blog.naver.com/ddihw",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260226",
+   "keywords": [
+    "갤럭시 버즈"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "maymg0526",
+   "name": "dadacci의 먹고 사는 일상",
+   "link": "https://blog.naver.com/maymg0526",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260221",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ckwldud1",
+   "name": "★ 무지개의 달콤한 세상 ★",
+   "link": "https://blog.naver.com/ckwldud1",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260210",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ginyung0706",
+   "name": "마이페이보릿페이지",
+   "link": "https://blog.naver.com/ginyung0706",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260207",
+   "keywords": [
+    "바이닐 입문"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "ri1030",
+   "name": "Ri_MADE",
+   "link": "https://blog.naver.com/ri1030",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260206",
+   "keywords": [
+    "무선이어폰"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "kimche9392",
+   "name": "영이의 일상 ♥",
+   "link": "https://blog.naver.com/kimche9392",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260206",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "river_network",
+   "name": "리버네트워크",
+   "link": "https://blog.naver.com/river_network",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260127",
+   "keywords": [
+    "음향기기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "syur997",
+   "name": "오늘 뭐했지?",
+   "link": "https://blog.naver.com/syur997",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260125",
+   "keywords": [
+    "LP 턴테이블"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "luckyae13",
+   "name": "팅이의 일상",
+   "link": "https://blog.naver.com/luckyae13",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260121",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "wngodls2572",
+   "name": "토토리의 블로그",
+   "link": "https://blog.naver.com/wngodls2572",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260115",
+   "keywords": [
+    "이어폰 추천"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "daisy_717",
+   "name": "또또의 패션 뷰티",
+   "link": "https://blog.naver.com/daisy_717",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260113",
+   "keywords": [
+    "블루투스 스피커"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "receipt_zip",
+   "name": "마이영수증.zip",
+   "link": "https://blog.naver.com/receipt_zip",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260112",
+   "keywords": [
+    "이어폰 비교"
+   ],
+   "per_week": null,
+   "last_days": null
+  },
+  {
+   "blog_id": "minsol_blog",
+   "name": "여행하는 민솔로그",
+   "link": "https://blog.naver.com/minsol_blog",
+   "kw_hits": 1,
+   "posts": 1,
+   "latest": "20260111",
+   "keywords": [
+    "에어팟 후기"
+   ],
+   "per_week": null,
+   "last_days": null
+  }
+ ]
+}
