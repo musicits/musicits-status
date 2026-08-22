@@ -1,0 +1,37 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-22 12:36 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-22 07:02 (KST) 이후 기사
+새 기사: 6건
+
+■ [IT 루머] 6건
+----------------------------------------
+· 10 Ways to Improve Your iPhone's Battery Life
+  출처: MacRumors / 2026-08-22 07:53
+  링크: https://www.macrumors.com/guide/iphone-battery-life-10-tips/
+  피드 요약: When you're at home or work with regular access to an iPhone charger, you probably don't need to worry much about your iPhone's battery. On days when you're away from home for long stretches, you might want to make some adjustments to extend battery life. We've rounded up 10 tips that can cut down o
+
+· ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly
+  출처: 9to5Mac / 2026-08-22 08:50
+  링크: https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/
+  피드 요약: Users who rely on ChatGPT for quick visual searches can now add photos to a conversation more quickly with a new gesture. Here’s how.
+
+· 월마트, 드.디.어 모든 매장에 애플페이 도입 발표 (*독자 결제 솔루션 실패 인정)
+  출처: 란즈크 블로그 / 2026-08-22 09:30
+  링크: https://blog.naver.com/yeux1122/224386374144?fromRss=true&trackingCode=rss
+  피드 요약: 월마트는 다음 주부터 애플 페이를 포함한 비접촉식 결제(탭 투 페이)를 매장에서 사용할 수 있게 될 것이라고 발표했습니다.(*월마트 11시전 발표) 올해 말까지 모든 월마트와 샘스클럽 매장에서 비접촉식 결제를 지원할 예정 이며, 내년 중반까지 모든 주유소에도 비접촉식 결제 시스템을 도입할 계획 그간 월마트는 월마트페이와 같은 독자작인 자체 결제 솔루션을 고수하며, 홍보를 하면서 애플페이 등 비접촉식 결제를 허용하지 않았음 이런입장 변화 이유로 월마트는 독자적인 모바일 결제 시스템을 통해 애플페이를 차단하기 위해 다른 주요 소매업체들
+
+· 구글 픽셀 11 프로 폴드, 여전히 구조적 결함으로 쉽게 파손됨
+  출처: 란즈크 블로그 / 2026-08-22 09:20
+  링크: https://blog.naver.com/yeux1122/224386368516?fromRss=true&trackingCode=rss
+  피드 요약: 구글 픽셀 11프로 폴드 모델 내구성이 여전히 문제가 있다라는 내용이 나왔습니다. )*jerry) 구조적 결함 여전함 지난 4년간 구글이 폴더블폰의 힌지 바로 옆에 안테나 라인을 배치하는 설계를 고수하고 있으며, 이 위치가 기기가 반으로 꺾이는 주된 약점 구글이 하드웨어 설계상의 취약점을 알고도 개선하지 않는 점은 비판받아야 함 특히 힌지 내부의 먼지 유입 문제와 삼성의 폴더블폰과의 힌지 설계 차이 등도 문제 .
+
+· 애플 아이폰 18 프맥, 프랑스 케이스 업체 렌더링 이미지
+  출처: 란즈크 블로그 / 2026-08-22 09:19
+  링크: https://blog.naver.com/yeux1122/224386367574?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 18 프로 맥스 모델 케이스와 본체 렌더링 이미지가 나왔습니다. (*프랑스 케이스 업체) 다크체리 다크그레이 작아진 알약이 보입니다.
+
+· 애플 아이폰 18 프맥, 다크체리 테크우븐 케이스 유출
+  출처: 란즈크 블로그 / 2026-08-22 09:16
+  링크: https://blog.naver.com/yeux1122/224386365995?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 18 프로 맥스 테크우븐 케이스가 나왔습니다. (*다크체리)
