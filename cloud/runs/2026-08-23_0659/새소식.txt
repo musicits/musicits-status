@@ -1,0 +1,151 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-23 06:59 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-22 12:36 (KST) 이후 기사
+새 기사: 28건
+
+■ [IT 루머] 17건
+----------------------------------------
+· Apple's Biggest Summer Deals Drop: AirPods Max 2 Plummet to $429, M4 iPad Air $100 Off
+  출처: MacRumors / 2026-08-22 22:05
+  링크: https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/
+  피드 요약: This week, Best Buy kicked off its big 60th anniversary sale that includes great deals on AirPods, TVs, computers, and much more. Alongside this event, we're tracking solid markdowns on portable power stations from Anker and Jackery, plus the best prices of the summer on M4 iPad Air. Note: MacRumors
+
+· Top Stories: Apple Leaks - Camera-Equipped AirPods, Beats 360, and More
+  출처: MacRumors / 2026-08-22 22:00
+  링크: https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/
+  피드 요약: It was a big week for leaks in the Apple world, with Apple itself revealing information on a bunch of upcoming products within a macOS Tahoe 26.7 build and retailers leaking details on new Beats 360 headphones that could be launching soon. In addition to all of the scoops from Apple's leaks, we also
+
+· Apple Vision Pro Was Almost Called 'Reality Pro'
+  출처: MacRumors / 2026-08-22 16:30
+  링크: https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/
+  피드 요약: The Vision Pro headset was internally called "Reality Pro" for a significant stretch of its development before Apple settled on the name it ultimately shipped with, according to the prototype collector and leaker known as " Kosutami ." In a post on X , Kosutami wrote that the " Apple Vision Pro was 
+
+· Samsung expected to reclaim the global smartphone crown in 2026
+  출처: SamMobile / 2026-08-22 14:07
+  링크: https://www.sammobile.com/news/samsung-expected-reclaim-global-smartphone-crown-2026/
+  피드 요약: In 2025, Samsung lost the crown for the largest smartphone brand globally in terms of shipments to Apple by just one percentage point, taking second place on the chart. However, the South Korean tech giant is expected to regain the top position in 2026. Counterpoint Research predicts that Samsung wi
+
+· Google’s new Pixel 11 offers an incredible camera feature that Apple should copy
+  출처: 9to5Mac / 2026-08-23 05:43
+  링크: https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/
+  피드 요약: Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous Pixel 10 lineup, though they offer a few delightful quality of life improvements. One of those is a new set of camera processing options – allowing you to have far more con
+
+· Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app
+  출처: 9to5Mac / 2026-08-23 04:30
+  링크: https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/
+  피드 요약: Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . On the Apple TV, gaming is a little bit of an afterthought for developers. Compared to iPhone, iPad, and
+
+· We’re just two months away from the first touchscreen MacBook: Here’s what to expect
+  출처: 9to5Mac / 2026-08-23 02:58
+  링크: https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/
+  피드 요약: After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra .
+
+· iPhone 18 Pro event date: When Apple announced its event over the last six years
+  출처: 9to5Mac / 2026-08-23 02:32
+  링크: https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/
+  피드 요약: When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.
+
+· Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it
+  출처: 9to5Mac / 2026-08-22 22:30
+  링크: https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/
+  피드 요약: Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ
+
+· Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more
+  출처: 9to5Mac / 2026-08-22 21:17
+  링크: https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/
+  피드 요약: Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. Those discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store , Apple Watch
+
+· Pixel Camera 11 debuts refreshed quick access controls and a handy Launch mode
+  출처: Android Authority / 2026-08-23 02:35
+  링크: https://www.androidauthority.com/pixel-camera-11-new-quick-access-dials-launch-mode-3701763/
+  피드 요약: The upgrade is easy to miss.
+
+· Google is starting to show ads on Pixel phones — here’s how to turn them off
+  출처: Android Authority / 2026-08-22 21:00
+  링크: https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/
+  피드 요약: Ads suck, but at least you can get rid of this one.
+
+· The Pixel 11 Pro is setting a dangerous precedent for Android upgrades
+  출처: Android Authority / 2026-08-22 20:00
+  링크: https://www.androidauthority.com/pixel-11-pro-setting-dangerous-precedent-android-upgrades-3699468/
+  피드 요약: Old Pixels are going to pay the price.
+
+· I found a free, open-source Android app that replaced 8 other apps I used to rely on
+  출처: Android Authority / 2026-08-22 19:30
+  링크: https://www.androidauthority.com/image-toolbox-android-app-hands-on-3699127/
+  피드 요약: Why use multiple apps when one can do it all?
+
+· Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10
+  출처: Android Authority / 2026-08-22 19:00
+  링크: https://www.androidauthority.com/pixel-10-vs-pixel-11-3697199/
+  피드 요약: The Pixel 11 series looks great, but the Pixel 10 hasn't aged much in just a year.
+
+· 5 Android safety features you probably aren’t using — and how to turn them on
+  출처: Android Authority / 2026-08-22 18:30
+  링크: https://www.androidauthority.com/best-android-safety-features-2026-3699788/
+  피드 요약: Some of the best ones need to be manually set up.
+
+· I’m quitting Kindle, and Amazon’s new DRM update proves why you should too
+  출처: Android Authority / 2026-08-22 18:00
+  링크: https://www.androidauthority.com/amazon-kindle-drm-update-quitting-3701426/
+  피드 요약: I’m finally ready to leave the Kindle world behind.
+
+■ [오디오] 5건
+----------------------------------------
+· How to watch South Africa vs New Zealand online from anywhere: free live streams for Rugby's Greatest Rivalry 2026 1st Test
+  출처: What Hi-Fi? / 2026-08-22 16:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-new-zealand-1st-test
+  피드 요약: How to watch South Africa vs New Zealand 1st Test live streams around the world. Free coverage, TV channels, broadcast details from Ellis Park, Johannesburg.
+
+· Adventures In AV: for football, Dolby Atmos is a bigger game-changer than 4K and HDR combined – and Sky could make it even better
+  출처: What Hi-Fi? / 2026-08-22 15:00
+  링크: https://www.whathifi.com/tv-home-cinema/surround-sound-systems/adventures-in-av-for-football-dolby-atmos-is-a-bigger-game-changer-than-4k-and-hdr-combined-and-sky-could-make-it-even-better
+  피드 요약: 4K makes football look better, but Dolby Atmos makes it feel like you're there
+
+· I tested the Bose QuietComfort Headphones (2nd Gen) and they’re a legit upgrade
+  출처: SoundGuys / 2026-08-22 18:00
+  링크: https://www.soundguys.com/i-tested-the-bose-quietcomfort-headphones-2nd-gen-and-theyre-a-legit-upgrade-161251/
+  피드 요약: Bose just made its QC Ultras harder to justify.
+
+· How Trinnov's Altitude CI AV processor showed me the importance of flagship 3D room correction in elite home cinema setups
+  출처: TechRadar 오디오 / 2026-08-23 04:00
+  링크: https://www.techradar.com/audio/hi-fi/how-trinnovs-altitude-ci-av-processor-showed-me-the-importance-of-flagship-3d-room-correction-in-elite-home-cinema-setups
+  피드 요약: The Trinnov Altitude CI AV processor is a magical piece of equipment you didn’t know you needed. Its 3D room correction, software-based processing, and modularity are all next level.
+
+· 'This is going to get AirPods banned': we've got more leaked details of the camera-equipped AirPods that are on the way
+  출처: TechRadar 오디오 / 2026-08-22 23:30
+  링크: https://www.techradar.com/audio/earbuds-airpods/this-is-going-to-get-airpods-banned-weve-got-more-leaked-details-of-the-camera-equipped-airpods-that-are-on-the-way
+  피드 요약: We've got a bit more unofficial information on the camera quality and the capabilities of these upcoming AirPods.
+
+■ [카메라] 6건
+----------------------------------------
+· Panasonic launches a water bottle with Sony Alpha Logo
+  출처: Sony Alpha Rumors / 2026-08-23 04:30
+  링크: https://www.sonyalpharumors.com/panasonic-launches-a-water-bottle-with-sony-alpha-logo/
+  피드 요약: Panasonic just announced their new flagship water bottle(!) featuring the legendary Sony Alpha “α” logo. Key specs include: 5-axis image stabilization for shaky hands depending on how much vodka you put in it. Rumor has it the autofocus is terrible though. 🔋🧃 – Jokes aside, this is a real water bott
+
+· Godox P100 is a new Portable Color Photo Printer
+  출처: Sony Alpha Rumors / 2026-08-23 00:44
+  링크: https://www.sonyalpharumors.com/godox-p100-is-a-new-portable-color-photo-printer/
+  피드 요약: Godox announced this new portable P100 printer you can get now on Amazon (Click here) The post Godox P100 is a new Portable Color Photo Printer first appeared on sonyalpharumors .
+
+· New 7Artisans 18mm f/2.0 APS-C pancake lens is coming on August 25
+  출처: Sony Alpha Rumors / 2026-08-22 16:20
+  링크: https://www.sonyalpharumors.com/new-7artisans-18mm-f-2-0-aps-c-pancake-lens-is-coming-on-august-25/
+  피드 요약: 7Artisans announced the launch of a new 18mm f/2.0 APS-C E-mount autofocus lens. The weight of the lens is 109g only and preorders will open on August 25. The post New 7Artisans 18mm f/2.0 APS-C pancake lens is coming on August 25 first appeared on sonyalpharumors .
+
+· Which Action Camera Has the Best Battery Life in 2026?
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-22 17:59
+  링크: https://www.canonrumors.com/which-action-camera-has-the-best-battery-life-in-2026/
+  피드 요약: Battery life isn't always the first thing people think about when buying an action camera. Resolution, stabilization and image quality usually get most of the attention. But if you're spending a full day hiking, cycling, skiing or traveling, battery life can quickly become one of the most important 
+
+· Canon USA Refurbished Sale: Save Big on EOS R5, Trinity Lenses & More
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-22 16:41
+  링크: https://www.canonrumors.com/canon-usa-refurbished-sale-save-big-on-eos-r5-trinity-lenses-more/
+  피드 요약: Canon USA has restocked some items in their refurbished store and they now on sale. You can get the EOS R5 body for only $2399, plus big savings on the RF 15-35mm f/2.8L IS USM, RF 24-70mm f/2.8L IS USM and the RF 70-200mm f/2.8L IS USM. There is also a great deal on the […]
+
+· Shutter+ Remote App for Fujifilm Cameras
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-23 03:55
+  링크: https://www.fujirumors.com/shutter-remote-app-for-fujifilm-cameras/
+  피드 요약: Shutter+ is a camera remote App for iPhone/iPad that supports also Fujifilm cameras. It offers a lot of features, some not available on Fujifilm’s own X App: waveforms, zebras, Apple Watch control, intervalometer, and more. You can check out the App here. – press release on ver. 5.0 – supported Fuji
