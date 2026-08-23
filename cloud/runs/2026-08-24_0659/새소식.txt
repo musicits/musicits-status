@@ -1,0 +1,206 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-24 06:59 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-23 06:59 (KST) 이후 기사
+새 기사: 39건
+
+■ [IT 루머] 30건
+----------------------------------------
+· Apple Retail Stores Preparing for New Home Product Launches
+  출처: MacRumors / 2026-08-24 04:20
+  링크: https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/
+  피드 요약: Bloomberg 's Mark Gurman reports that Apple is reorganizing parts of its brick-and-mortar stores this fall to make room for new home products. Writing in his latest Power On newsletter , Gurman says the teams responsible for store layouts are preparing changes to the "Avenues," or the perimeter wall
+
+· M6 iMac Coming This Year in New Colors
+  출처: MacRumors / 2026-08-24 03:36
+  링크: https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/
+  피드 요약: Apple is readying new iMac models with an upgraded chip and new color options, according to Bloomberg 's Mark Gurman . Writing in his latest Power On newsletter , Gurman says the new version is likely to be an updated 24-inch model with an M6 chip, replacing the existing M4 model that arrived in Oct
+
+· Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera
+  출처: MacRumors / 2026-08-24 03:19
+  링크: https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/
+  피드 요약: Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time with the device, though the camera setup may leave some users wanting, according to Bloomberg 's Mark Gurman. Writing in his latest Power On newsletter , Gurman says people who have used the device – whi
+
+· AirTag 2 4-Pack Hits New Low Price of $85 on Amazon
+  출처: MacRumors / 2026-08-23 22:52
+  링크: https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/
+  피드 요약: Apple's AirTag 2 is on sale for $85.00 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $4. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a 
+
+· How I automate my Galaxy Watch AOD when I leave the house
+  출처: SamMobile / 2026-08-24 06:39
+  링크: https://www.sammobile.com/opinion/how-i-automate-my-galaxy-watch-aod-when-i-leave-the-house/
+  피드 요약: Samsung's Modes and Routines app is a powerful, versatile tool that allows you to automate certain features and functions on your Galaxy devices. For example, you can instruct your phone to perform certain tasks when you leave the house. Modes and Routines is unfortunately lacking when it comes to a
+
+· Every way the Galaxy Z Fold 8 feels first-gen
+  출처: SamMobile / 2026-08-24 03:08
+  링크: https://www.sammobile.com/opinion/every-way-galaxy-z-fold-8-feels-first-gen/
+  피드 요약: So far, I haven't talked much about the Galaxy Z Fold 8 even though it quickly became my all-time favorite mobile device. Or, at the very least, I feel like I haven't highlighted enough how good the Fold 8 is, at least for certain types of users. There is a lot to like about this […]
+
+· Galaxy S27’s Exynos 2700 could outpace Snapdragon in speed and efficiency
+  출처: SamMobile / 2026-08-23 23:19
+  링크: https://www.sammobile.com/news/galaxy-s27-exynos-2700-outpace-snapdragon-speed-efficiency/
+  피드 요약: Samsung has been trying hard to make Exynos chips perform as well as rival Snapdragon chips. While they have improved over the past few years, the chips haven't been able to outpace Snapdragon models yet, especially in terms of efficiency. However, that could change with the Galaxy S27 and its Exyno
+
+· Is this your first look at the Galaxy S27 Ultra’s design?
+  출처: SamMobile / 2026-08-23 19:00
+  링크: https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/
+  피드 요약: After announcing the Galaxy S26 FE on August 27, Samsung's next high-end smartphone announcement will arrive in early 2027. The South Korean tech giant is expected to unveil four Galaxy S27 series devices, and the design of the highest-end model, the Galaxy S27 Ultra, may have leaked. Galaxy S27 Ult
+
+· Sunday Reboot: AirPods will be the best smart glasses
+  출처: AppleInsider / 2026-08-24 05:02
+  링크: https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss
+  피드 요약: In this week's Sunday Reboot, the AirPods Pro with cameras are probably the best alternative to smart glasses that Apple could've come up with. AirPods Pro with cameras that feed Siri AI are on the way. Sunday Reboot is a weekly column covering some of the lighter stories within the Apple reality di
+
+· M6 iMac refresh expected before the end of 2026
+  출처: AppleInsider / 2026-08-24 01:49
+  링크: https://appleinsider.com/articles/26/08/23/m6-imac-refresh-expected-before-the-end-of-2026?utm_source=rss
+  피드 요약: An updated iMac is very close to becoming a reality, as a report claims an M6 version will ship before the end of 2026, but don't expect a major refresh. The current 24-inch iMac The M6 generation of devices is on the way, for an expectedly short product lifecycle before a move to the M7 generation.
+
+· Apple Stores refresh prepares to push a big smart home revamp
+  출처: AppleInsider / 2026-08-24 00:41
+  링크: https://appleinsider.com/articles/26/08/23/apple-stores-refresh-aims-to-push-a-big-smart-home-revamp?utm_source=rss
+  피드 요약: Visitors to Apple's retail outlets this fall can expect to see more smart home products on display, as Apple Stores prepare to push updates such as a new HomePod mini or even the fabled Home Hub. The current HomePod mini Rumors have consistently pointed towards Apple making changes to its smart home
+
+· It's anyone's guess how high iPhone prices might go, but $100 more might be enough
+  출처: AppleInsider / 2026-08-24 00:02
+  링크: https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss
+  피드 요약: Apple has already raised prices on Macs and iPads to absorb the costs of increased RAM costs, but an iPhone price hike is still expected. The competition may have provided a hint as to how much. Prices haven't moved for the iPhone 17 lineup, but almost certainly will for iPhone 18 Prices went up acr
+
+· Some people outside of Apple have already used the folding iPhone
+  출처: AppleInsider / 2026-08-23 23:41
+  링크: https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss
+  피드 요약: The iPhone Ultra may actually live up to the hype, as people who have tried pre-release versions of the model indicate it will be worthy of its hyper-premium price. A render of what the iPhone Ultra could look like - Image Credit: AppleInsider Apple is widely expected to be launching its first folda
+
+· How Apple leaked product plans and even a video in a beta
+  출처: AppleInsider / 2026-08-23 23:30
+  링크: https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss
+  피드 요약: So many rumored products were recently confirmed because of Apple itself leaking the details, but it turns out that all of this news was because of a single mistake in macOS that they've been making for years. Details have been leaked of future AirPods Pro with cameras When Apple issued the release 
+
+· Crime blotter: Bail revoked in Hingham Apple Store crash case
+  출처: AppleInsider / 2026-08-23 20:14
+  링크: https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss
+  피드 요약: iPhones stolen in San Francisco ended up in Los Angeles; an iPhone and MacBook were seized from a disgraced ex-Congressman, and police arrested a man for AirTag stalking, all in this week's Apple Crime Blotter. The Apple Store in Hingham, Mass. The latest in an occasional AppleInsider feature, looki
+
+· Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price
+  출처: 9to5Mac / 2026-08-24 05:27
+  링크: https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/
+  피드 요약: Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capacity. They’re by no means the smallest battery banks on the market, though they hit a price point that makes them worthwh
+
+· Report: Apple launching updated iMac with M6 chip and new colors later this year
+  출처: 9to5Mac / 2026-08-24 00:20
+  링크: https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/
+  피드 요약: After a two year hiatus, Apple is working on a new iMac with the M6 chipset and updated color options, per Bloomberg’s Mark Gurman . It should release “before the end of the year.”
+
+· Here’s what people who have used the iPhone Ultra like most
+  출처: 9to5Mac / 2026-08-23 23:41
+  링크: https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/
+  피드 요약: We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg today outlines what people inside Apple who have used the iPhone Ultra love about it.
+
+· Apple Stores preparing ‘significant’ changes for new Home product launches: report
+  출처: 9to5Mac / 2026-08-23 23:33
+  링크: https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/
+  피드 요약: According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant p
+
+· How I fixed the most annoying thing about Claude in less than five minutes
+  출처: Android Authority / 2026-08-23 21:00
+  링크: https://www.androidauthority.com/claude-i-have-adhd-skill-how-use-3697353/
+  피드 요약: The "I have ADHD" skill is a lifesaver.
+
+· I canceled Netflix a year ago — here’s the unexpected alternative I finally stuck with
+  출처: Android Authority / 2026-08-23 20:00
+  링크: https://www.androidauthority.com/using-apple-tv-as-netflix-alternative-3698847/
+  피드 요약: I never expected to find myself fawning over Apple TV.
+
+· Pixel 11 specs might disappoint, but Google got one crucial detail right
+  출처: Android Authority / 2026-08-23 19:30
+  링크: https://www.androidauthority.com/pixel-11-pixelsnap-great-why-3699383/
+  피드 요약: Pixelsnap (thankfully) hasn't gone anywhere.
+
+· After over a decade with Android, these are the 6 apps I’ve used the longest
+  출처: Android Authority / 2026-08-23 19:00
+  링크: https://www.androidauthority.com/android-apps-ive-used-longest-3696721/
+  피드 요약: While there are plenty of apps out there, some are worth keeping around longer than others.
+
+· Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it
+  출처: Android Authority / 2026-08-23 18:30
+  링크: https://www.androidauthority.com/google-foldable-strategy-broken-pixel-11-pro-fold-proves-3698972/
+  피드 요약: This Fold left me cold.
+
+· 6 Android phones with microSD card slots you can still buy in 2026
+  출처: Android Authority / 2026-08-23 18:00
+  링크: https://www.androidauthority.com/android-phones-with-microsd-card-slots-still-buy-2026-3695885/
+  피드 요약: Say "no" to overpriced storage.
+
+· 갤럭시S27 울트라, CAD 디자인 이미지
+  출처: 란즈크 블로그 / 2026-08-23 16:13
+  링크: https://blog.naver.com/yeux1122/224387511127?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 울트라 CAD 디자인 이미지가 나왔습니다. (*웨이보 iceunivers) 네네...
+
+· 마이크론 메모리 전용 연구소 설립, 팀쿡 CEO 이례적으로 축하 서신 발표 (* 미국 행정부 입장 변화 루머 추가)
+  출처: 란즈크 블로그 / 2026-08-23 13:22
+  링크: https://blog.naver.com/yeux1122/224387377609?fromRss=true&trackingCode=rss
+  피드 요약: 마이크론이 미국 최초의 전용 메모리 연구소를 설립과 연구비 확대를 공식 발표했는데 이례적으로 애플 CEO 팀쿡이 축하 서신을 보냈습니다 . 마이크론은 미국 최초의 전용 메모리 연구소 설립과 메모리 연구에 100억 달러를 투자 이러한 투자는 미국의 혁신을 강화하고 수백 개의 일자리를 창출하며 메모리가 혁신을 저해하는 요소가 되지 않도록 보장할 것 해당 발표에 팀쿡 CEO가 보낸 축하 서신 내용 마이크론은 20년 이상 애플의 혁신적인 제품에 메모리 기술을 공급해 온 중요한 파트너로서, 전 세계 사람들이 매일 사용하는 제품들을 만들어 왔
+
+· 애플 아이폰 18 프로, 목업 실기 이미지
+  출처: 란즈크 블로그 / 2026-08-23 13:21
+  링크: https://blog.naver.com/yeux1122/224387376636?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 18 프로 루머 기반 목업 이미지가 추가로 나왔습니다.
+
+· 갤럭시S27 울트라, 후면 카메라 디자인 렌더링 이미지 (*현재 기준)
+  출처: 란즈크 블로그 / 2026-08-23 09:46
+  링크: https://blog.naver.com/yeux1122/224387233062?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27울트라 예상 후면 렌더링 이미지 입니다. (*uche&tech)
+
+· 갤럭시S27 울트라, 후면 카메라 디자인 관련 (*추가 내용)
+  출처: 란즈크 블로그 / 2026-08-23 09:45
+  링크: https://blog.naver.com/yeux1122/224387232242?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 울트라 모델 후면 카메라 디자인 관련 내용이 새로 나와 정리해 드립니다. (*관련 업체 소스 + 디자인 iceuniverse) 저는 이미 7월 14일 (*루머 게시판을 통해 아래와 같은 내용을 전달했습니다) 갤럭시S27 울트라, 후면 카메라 디자인 관련 (*지금 루머는 다 틀림) 단순 가로형 배치가 아닌 현재 삼성이 할 수 있는 최선으로 진행중 어제 나온 이미지는 거의 맞으며 확정적인 상태 입니다.
+
+■ [오디오] 3건
+----------------------------------------
+· When AI dating goes wrong: as EVA AI hires the world's first ‘AI Companionship Therapist’, its resident relationship expert talks chatbot dependency — and the 28-year-old CEO of a human-only meet-up app tells me why he thinks AI infatuation is over
+  출처: TechRadar 오디오 / 2026-08-24 03:00
+  링크: https://www.techradar.com/ai-platforms-assistants/when-ai-dating-goes-wrong-eva-ai-hires-the-worlds-first-ai-companionship-therapist-a-psychotherapist-talks-chatbot-love-and-why-the-28-year-old-ceo-of-a-human-only-meet-up-app-thinks-ai-infatuation-is-over
+  피드 요약: Shame, jealousy, anger, addiction: are AI relationships causing more harm than good? and what’s the alternative to dating inside a screen in 2026?
+
+· Why Goldenear's hybrid T44 tower speakers somehow boast the best of powered and passive worlds
+  출처: TechRadar 오디오 / 2026-08-24 00:00
+  링크: https://www.techradar.com/audio/speakers/why-goldenears-hybrid-t44-tower-speakers-somehow-boast-the-best-of-powered-and-passive-worlds
+  피드 요약: The Goldenear T44 are both powered and passive speakers (depending on the driver and frequency you want to talk about), allowing for some truly unique blending of sound.
+
+· 9 of the coolest new CD players in 2026 — from a B&O masterpiece that costs more than a house deposit to ‘the turducken of hi-fi’
+  출처: TechRadar 오디오 / 2026-08-23 10:00
+  링크: https://www.techradar.com/audio/9-of-the-coolest-new-cd-players-of-2026-from-a-b-and-o-masterpiece-that-costs-more-than-a-house-deposit-to-the-turducken-of-hi-fi
+  피드 요약: Dust off your CD collection and get ready to party like it's 2002.
+
+■ [카메라] 6건
+----------------------------------------
+· Contax Mirotar 1000mm f/5.6 Germany tested on the Sony A7rV
+  출처: Sony Alpha Rumors / 2026-08-23 21:12
+  링크: https://www.sonyalpharumors.com/contax-mirotar-1000mm-f-5-6-germany-tested-on-the-sony-a7rv/
+  피드 요약: Mapcamera tested this humongous Contax Mirotar 1000mm f/5.6 lens on the Sony A7rV. The lens was made in the 1970s and weights 16.5 kg!!! Its f/5.6 maximum aperture is exceptionally fast for a 1000mm lens. Here is a summary of the key points: The Lens: A Rare Masterpiece Extremely Rare: The lens was 
+
+· Are Action Cameras Actually Better Than Traditional Travel Cameras Now?
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-24 00:06
+  링크: https://www.canonrumors.com/are-action-cameras-actually-better-than-traditional-travel-cameras-now/
+  피드 요약: Travel photography has changed dramatically over the last few years. You no longer need to carry a large camera bag everywhere you go. A smartphone can handle many everyday photos, while modern action cameras can capture stabilized video, underwater adventures and hands-free footage without adding m
+
+· What Is the Best Action Camera for Low-Light Shooting in 2026?
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-23 18:23
+  링크: https://www.canonrumors.com/what-is-the-best-action-camera-for-low-light-shooting-in-2026/
+  피드 요약: Action cameras are at their best when the sun is shining. But adventures don't always happen in perfect daylight. You might want to record a night bike ride, a sunset hike, a concert, a city walk after dark, or an indoor adventure. That's when the limitations of small action-camera sensors become mu
+
+· Not again: “some believe that Luxottica’s large holding of Nikon shares is a stepping stone to an acquisition” (source: Yahoo Japan)
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-24 04:48
+  링크: https://nikonrumors.com/2026/08/23/not-again-some-believe-that-luxotticas-large-holding-of-nikon-shares-is-a-stepping-stone-to-an-acquisition-source-yahoo-japan.aspx/
+  피드 요약: A recent Japanese article (Bunshun Online / Bungeishunju magazine’s “Marunouchi Confidential” column from mid-August 2026) mentioned again the speculation about a potential Luxottica acquisition of Nikon. The article notes Nikon’s large losses for the fiscal year ending March 2026. Against that back
+
+· Field tips: planning a successful tiger safari
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-23 10:33
+  링크: https://nikonrumors.com/2026/08/22/field-tips-planning-a-successful-tiger-safari.aspx/
+  피드 요약: This article “Field Tips: Planning a Successful Tiger Safari” is by Des Ong (Website | Facebook | Instagram, see also his previous guest posts): Field Tips: Planning a Successful Tiger Safari Tigers are on many photographers’ bucket lists. With more than 75% of the world’s wild tiger population, Ind
+
+· Fujifilm GFX100RF Wins IDEA Bronze Award
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-24 01:34
+  링크: https://www.fujirumors.com/fujifilm-gfx100rf-wins-idea-bronze-award/
+  피드 요약: The Fujifilm GFX100RF has won the IDEA Bronze Award. I am not saying all awards are made equal. But generally I do not trust them. I mean, TIPA recently awarded the Fujifilm X-E5 not even knowing how the X-E5 looks like. I am not kidding, they literally used a random AI made X-E5 they found… The pos
