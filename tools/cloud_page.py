@@ -188,6 +188,17 @@ def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(page)
+
+    when = datetime.now(KST)
+    if rs:
+        try:
+            when = datetime.strptime(rs[0][0], "%Y-%m-%d %H:%M").replace(tzinfo=KST)
+        except (ValueError, TypeError):
+            pass
+    latest = {"at": when.isoformat(timespec="minutes"),
+              "count": len(rs[0][1]) if rs else 0, "runs": len(rs)}
+    with open(os.path.join(REPO, "cloud", "latest.json"), "w", encoding="utf-8") as f:
+        json.dump(latest, f, ensure_ascii=False)
     print("cloud/index.html 갱신 — 회차 %d개" % len(rs))
 
 

@@ -176,17 +176,1190 @@ td.rk{font-weight:700;white-space:nowrap}
 td.dim{color:var(--mut)}
 .raw{margin-top:18px}
 .raw summary{padding:11px 0;font-size:13px;color:var(--mut);min-height:0}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .note.bad{background:#3a1c1c;color:#f09a9a;border-color:#5a2a2a}}:root[data-theme="dark"] .note.bad{background:#3a1c1c;color:#f09a9a;border-color:#5a2a2a}
+.plan .tl{line-height:1.35}
+.warn{color:#a52222}
+.note.bad{background:#fdeaea;color:#a52222;border-color:#f3c9c9}
+.quota.over{border-color:#f3c9c9}
 </style>
 </head><body><div class="wrap">
 <div class="topbar">
 <header>
 <div class="who"><h1>뮤직잇츠 작업 현황</h1>
-<p class="sub">2026-08-18 20:54 기준 · 이 PC에서 올림</p></div>
+<p class="sub" id="stamp" data-at="2026-08-23T23:46+09:00" data-when="2026-08-23 23:46">2026-08-23 23:46 기준 · 이 PC에서 올림</p></div>
 <button id="theme" class="theme" aria-label="화면 밝기 바꾸기"><span class="i i-sys"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="9"/></svg><span>시스템</span></span><span class="i i-light"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.2 5.2l1.4 1.4M17.4 17.4l1.4 1.4M18.8 5.2l-1.4 1.4M6.6 17.4l-1.4 1.4"/></svg><span>밝게</span></span><span class="i i-dark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg><span>어둡게</span></span></button>
 </header>
-<nav><button data-go="status" class="on"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="2"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="2"/></svg><span>현황</span></button><button data-go="news"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h12v15H5.5A1.5 1.5 0 0 1 4 18.5z"/><path d="M16 9h4v9a2 2 0 0 1-2 2h-2"/><path d="M7 9h6M7 12.5h6M7 16h4"/></svg><span>IT 뉴스</span></button><button data-go="blog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/><circle cx="9" cy="7" r="2.1"/><circle cx="15" cy="12" r="2.1"/><circle cx="8" cy="17" r="2.1"/></svg><span>블로그</span></button><button data-go="ai"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 3l1.7 4.6L17 9.3l-4.3 1.7L11 15.6 9.3 11 5 9.3l4.3-1.7z"/><path d="M17.5 14.5l.9 2.1 2.1.9-2.1.9-.9 2.1-.9-2.1-2.1-.9 2.1-.9z"/></svg><span>AI 브리핑</span></button><button data-go="cite"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 20.5h18"/><rect x="4.5" y="12" width="3.6" height="6" rx="1"/><rect x="10.2" y="6" width="3.6" height="12" rx="1"/><rect x="15.9" y="14.5" width="3.6" height="3.5" rx="1"/></svg><span>인용 수</span></button></nav>
+<nav><button data-go="status" class="on"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="2"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="2"/></svg><span>12주 현황</span></button><button data-go="rank"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 20.5h18"/><rect x="4.5" y="9" width="3.6" height="9" rx="1"/><rect x="10.2" y="5" width="3.6" height="13" rx="1"/><rect x="15.9" y="12" width="3.6" height="6" rx="1"/></svg><span>노출 키워드</span></button><button data-go="blog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/><circle cx="9" cy="7" r="2.1"/><circle cx="15" cy="12" r="2.1"/><circle cx="8" cy="17" r="2.1"/></svg><span>블로그</span></button><button data-go="ai"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 3l1.7 4.6L17 9.3l-4.3 1.7L11 15.6 9.3 11 5 9.3l4.3-1.7z"/><path d="M17.5 14.5l.9 2.1 2.1.9-2.1.9-.9 2.1-.9-2.1-2.1-.9 2.1-.9z"/></svg><span>AI 브리핑</span></button><button data-go="cite"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 20.5h18"/><rect x="4.5" y="12" width="3.6" height="6" rx="1"/><rect x="10.2" y="6" width="3.6" height="12" rx="1"/><rect x="15.9" y="14.5" width="3.6" height="3.5" rx="1"/></svg><span>인용 수</span></button><button data-go="news"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h12v15H5.5A1.5 1.5 0 0 1 4 18.5z"/><path d="M16 9h4v9a2 2 0 0 1-2 2h-2"/><path d="M7 9h6M7 12.5h6M7 16h4"/></svg><span>IT 뉴스</span></button></nav>
 </div>
-<section id="status" class="on"><p class="note">파란 <b>업데이트</b> 버튼은 깃허브 Actions 화면을 엽니다. 거기서 <b>Run workflow</b> 를 누르면 PC 가 꺼져 있어도 돌아가고, 끝난 결과는 각 탭의 <b>결과 보기</b> 쪽에 쌓입니다.<br>버튼이 없는 항목은 이 PC 에서만 돌아갑니다 — IT 뉴스의 요약·제목 후보는 Claude 가 원문을 읽고 쓰는 일이고, AI 브리핑 추적은 검색 화면을 훑는 방식이라 클라우드에서 돌리면 차단될 수 있습니다.</p><div class="card"><div class="chead"><div><h2><span class="no">0.</span>Tracker (수기 도구)</h2><p class="sub">인용 수 기록 · 발행 전 검사</p></div><span class="when stale">2일 전</span></div><div class="tiles"><div class="tile"><span class="tv">112,000</span><span class="tl">누적 인용수</span></div><div class="tile"><span class="tv">7,100</span><span class="tl">당월 누적</span></div><div class="tile"><span class="tv">1</span><span class="tl">백업 파일</span></div></div><p class="note">위 수치는 마지막 백업(인용백업_20260816.json) 시점입니다. 기록은 파일이 아니라 브라우저(웨일 Profile 1)에 있어서, 도구 안의 &#x27;파일로 백업&#x27;을 한 번 누르면 나머지는 자동으로 여기 반영됩니다.</p><div class="acts"><button class="act" data-go="cite">기록 보기 →</button></div></div><div class="card"><div class="chead"><div><h2><span class="no">1.</span>IT 뉴스 모니터링</h2><p class="sub">애플·삼성·오디오·카메라 RSS 17곳</p></div><span class="when fresh">25분 전</span></div><div class="tiles"><div class="tile"><span class="tv">0</span><span class="tl">지난 회차 새 기사</span></div><div class="tile"><span class="tv">379</span><span class="tl">기억 중인 기사</span></div></div><p class="note">수집은 됐지만 보고서는 아직입니다. 채팅에 &quot;IT 뉴스 보고서 만들어줘&quot;.</p><div class="acts"><a class="act go" href="https://github.com/musicits/musicits-status/actions/workflows/collect.yml" target="_blank" rel="noopener">업데이트 (1~2분)</a><button class="act" data-go="news">보고서 보기 →</button></div></div><div class="card"><div class="chead"><div><h2><span class="no">2.</span>뮤직잇츠 블로그 도구모음</h2><p class="sub">키워드 발굴 · 제목 진단 · 성과 추적 · 이웃 발굴</p></div><span class="when fresh">18분 전</span></div><div class="tiles"><div class="tile"><span class="tv">4/4</span><span class="tl">돌려본 도구</span></div></div><div class="acts"><a class="act go" href="https://github.com/musicits/musicits-status/actions/workflows/blog.yml" target="_blank" rel="noopener">업데이트 (10~20분)</a><button class="act" data-go="blog">리포트 보기 →</button></div></div><div class="card"><div class="chead"><div><h2><span class="no">3.</span>AI 브리핑 인용 추적</h2><p class="sub">키워드 30개 · musicits 인용 여부 주 1회</p></div><span class="when fresh">7분 전</span></div><div class="tiles"><div class="tile"><span class="tv">25/30</span><span class="tl">브리핑 노출</span></div><div class="tile"><span class="tv">0/30</span><span class="tl">musicits 인용</span></div><div class="tile"><span class="tv">3주차</span><span class="tl">마지막 기록</span></div></div><p class="note">3주차까지 기록됨. 다음은 4주차.</p><div class="acts"><button class="act" data-go="ai">결과 보기 →</button></div></div></section><section id="news"><a class="act go wide" href="cloud/">휴대폰에서 돌린 결과 보기 →</a><p class="note">폰에서 수집 버튼을 눌러 나온 결과는 PC 보고서와 따로 쌓입니다.</p><details open><summary><span>2026-08-18 20:27</span><span class="meta">새 기사 42건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
+<section id="status" class="on"><div class="card plan" data-start="2026-08-24" data-due="2026-11-01"><div class="chead"><div><h2><span class="no">0.</span>12주 현황</h2><p class="sub">2026-08-24 시작 · 2026-11-15 종점</p></div><span class="when fresh" id="pwk">—</span></div><div class="tiles"><div class="tile"><span class="tv" id="pw">—</span><span class="tl">주차 / 12</span></div><div class="tile"><span class="tv" id="pd">—</span><span class="tl">인플루언서 16차 지원 제출</span></div><div class="tile"><span class="tv">3</span><span class="tl">노출 키워드 · 기준선 미확정 · 목표 —</span></div><div class="tile"><span class="tv">미기록</span><span class="tl">이번 주 실행률 · 목표 85%</span></div></div><p class="note">기준선은 1주차 재진단으로 정합니다 — <b>8/30 첫 측정에서 고정</b>. 정한 뒤 맨 위 폴더의 <code>2.0설정.json</code> 에 적으면 여기에 나옵니다.</p></div><p class="note">파란 <b>업데이트</b> 버튼은 깃허브 Actions 화면을 엽니다. 거기서 <b>Run workflow</b> 를 누르면 PC 가 꺼져 있어도 돌아가고, 끝난 결과는 각 탭의 <b>결과 보기</b> 쪽에 쌓입니다.<br>버튼이 없는 항목은 이 PC 에서만 돌아갑니다 — IT 뉴스의 요약·제목 후보는 Claude 가 원문을 읽고 쓰는 일이고, AI 브리핑 추적은 검색 화면을 훑는 방식이라 클라우드에서 돌리면 차단될 수 있습니다.</p><div class="card" data-card="1"><div class="chead"><div><h2><span class="no">1.</span>노출 키워드 추적</h2><p class="sub">2.0 1차 지표 · 검색 노출 검색어 수</p></div><span class="when fresh" data-at="2026-08-23T23:19+09:00">27분 전</span></div><div class="tiles"><div class="tile"><span class="tv">3</span><span class="tl">노출 검색어</span></div><div class="tile"><span class="tv">67</span><span class="tl">추적 검색어</span></div><div class="tile"><span class="tv">2</span><span class="tl">새로 진입</span></div><div class="tile"><span class="tv">1</span><span class="tl">이탈</span></div></div><div class="acts"><button class="act" data-go="rank">순위 보기 →</button></div></div><div class="card" data-card="2"><div class="chead"><div><h2><span class="no">2.</span>뮤직잇츠 블로그 도구모음</h2><p class="sub">키워드 발굴 · 제목 진단 · 성과 추적 · 이웃 발굴</p></div><span class="when fresh" data-at="2026-08-23T23:19+09:00">27분 전</span></div><div class="tiles"><div class="tile"><span class="tv">4/4</span><span class="tl">돌려본 도구</span></div></div><div class="acts"><a class="act go" href="https://github.com/musicits/musicits-status/actions/workflows/blog.yml" target="_blank" rel="noopener">업데이트 (10~20분)</a><button class="act" data-go="blog">리포트 보기 →</button></div></div><div class="card" data-card="3"><div class="chead"><div><h2><span class="no">3.</span>AI 브리핑 인용 추적</h2><p class="sub">키워드 30개 · musicits 인용 여부 주 1회</p></div><span class="when fresh" data-at="2026-08-23T23:23+09:00">23분 전</span></div><div class="tiles"><div class="tile"><span class="tv">15/30</span><span class="tl">브리핑 노출</span></div><div class="tile"><span class="tv">0/30</span><span class="tl">musicits 인용</span></div><div class="tile"><span class="tv">4주차</span><span class="tl">마지막 기록</span></div></div><p class="note">4주차까지 전부 끝났습니다. 더 돌리지 않아도 됩니다.</p><div class="acts"><button class="act" data-go="ai">결과 보기 →</button></div></div><div class="card" data-card="4"><div class="chead"><div><h2><span class="no">4.</span>Tracker (수기 도구)</h2><p class="sub">인용 수 기록 · 발행 전 검사</p></div><span class="when stale" data-at="2026-08-16T00:00+09:00">7일 전</span></div><div class="tiles"><div class="tile"><span class="tv">112,000</span><span class="tl">누적 인용수</span></div><div class="tile"><span class="tv">7,100</span><span class="tl">당월 누적</span></div><div class="tile"><span class="tv">1</span><span class="tl">백업 파일</span></div></div><p class="note">위 수치는 마지막 백업(인용백업_20260816.json) 시점입니다. 기록은 파일이 아니라 브라우저(웨일 Profile 1)에 있어서, 도구 안의 &#x27;파일로 백업&#x27;을 한 번 누르면 나머지는 자동으로 여기 반영됩니다.</p><div class="acts"><button class="act" data-go="cite">기록 보기 →</button></div></div><div class="card" data-card="5"><div class="chead"><div><h2><span class="no">5.</span>IT 뉴스 모니터링</h2><p class="sub">애플·삼성·오디오·카메라 RSS 17곳</p></div><span class="when fresh" data-at="2026-08-23T23:15+09:00">31분 전</span></div><div class="tiles"><div class="tile"><span class="tv">91</span><span class="tl">지난 회차 새 기사</span></div><div class="tile"><span class="tv">471</span><span class="tl">기억 중인 기사</span></div></div><div class="acts"><a class="act go" href="https://github.com/musicits/musicits-status/actions/workflows/collect.yml" target="_blank" rel="noopener">업데이트 (1~2분)</a><button class="act" data-go="news">보고서 보기 →</button></div></div></section><section id="rank"><div class="card"><div class="tiles"><div class="tile"><span class="tv">3</span><span class="tl">노출 / 추적 67</span></div><div class="tile"><span class="tv">2</span><span class="tl">새로 진입</span></div><div class="tile"><span class="tv">1</span><span class="tl">이탈</span></div></div><p class="note" data-at="2026-08-23T23:19+09:00">—</p></div><div class="card scroll"><table><tr><th>검색어</th><th>순위</th><th>지난 회차</th><th>변화</th></tr><tr><td>LP 잡음 원인</td><td>37위</td><td>35위</td><td class="x">하락</td></tr><tr><td>블루투스 코덱 종류</td><td>63위</td><td>—</td><td class="o">새로 진입</td></tr><tr><td>무손실 음원이란</td><td>88위</td><td>—</td><td class="o">새로 진입</td></tr></table></div><div class="card"><p class="note">이번 회차에 <b>빠진</b> 검색어: 듀얼심 통화 분리</p></div><div class="card scroll"><p class="note"><b>아직 안 쓴 자리</b> — 다음 소재 대기열입니다. AI 브리핑 탭의 30개 키워드와 겹치는 것부터 잡으세요.</p><table><tr><th>검색어</th><th>경쟁 문서</th></tr><tr><td>100 충전 안좋은 이유</td><td>372,089</td></tr><tr><td>무선충전 단점</td><td>361,985</td></tr><tr><td>배터리 교체 시기</td><td>307,109</td></tr><tr><td>공장초기화 방법</td><td>292,308</td></tr><tr><td>충전 배터리 오래 쓰는 법</td><td>171,369</td></tr><tr><td>블루투스 연결 안될 때</td><td>148,844</td></tr><tr><td>이어폰 귀 건강</td><td>133,761</td></tr><tr><td>갤럭시 저장공간 정리</td><td>110,989</td></tr><tr><td>캐시 삭제 방법</td><td>110,329</td></tr><tr><td>이어폰 수명</td><td>108,913</td></tr><tr><td>스마트폰 느려지는 이유</td><td>88,319</td></tr><tr><td>이어폰 볼륨 작을 때</td><td>84,724</td></tr><tr><td>돌비 애트모스란</td><td>72,667</td></tr><tr><td>와이파이 느린 이유</td><td>65,095</td></tr><tr><td>화이트밸런스 설정</td><td>62,098</td></tr></table></div></section><section id="blog"><p class="note bad">뉴스형 비중 <b>40%</b> · 경쟁 중앙값 8% — 2.0 규율선 25% 초과</p><p class="note">정보형 비중 <b>14%</b> · 경쟁 중앙값 16%</p><a class="act go wide" href="cloud/blog/">휴대폰에서 돌린 결과 보기 →</a><p class="note">폰에서 도구 실행 버튼을 눌러 나온 결과는 PC 결과와 따로 쌓입니다.</p><details><summary><span>1. 키워드 발굴</span><span class="meta" data-at="2026-08-23T23:15+09:00">31분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">203</span><span class="tl">분석한 키워드</span></div><div class="tile"><span class="tv">에어팟</span><span class="tl">기준 키워드</span></div><div class="tile"><span class="tv">2026-01-01</span><span class="tl">집계 시작</span></div></div><h4 class="vh">기회점수 상위 15개</h4><div class="vrow"><div class="vhead"><span class="vname">사진 용량 줄이기</span><span class="vnum">57.4</span></div><div class="bar "><i style="width:100.0%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">아이폰 18</span><span class="vnum">53.4</span></div><div class="bar "><i style="width:93.0%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ">AI 인용 낮음(뉴스형)</span></div></div><div class="vrow"><div class="vhead"><span class="vname">노이즈캔슬링 원리</span><span class="vnum">51.7</span></div><div class="bar "><i style="width:90.1%"></i></div><div class="vmeta"><span class="chip up">상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">와이파이 느린 이유</span><span class="vnum">51.6</span></div><div class="bar "><i style="width:89.9%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">헤드폰 귀 아픈 이유</span><span class="vnum">50.8</span></div><div class="bar "><i style="width:88.5%"></i></div><div class="vmeta"><span class="chip up">상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">번인 현상 원인</span><span class="vnum">50.5</span></div><div class="bar "><i style="width:88.0%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">노이즈캔슬링 부작용</span><span class="vnum">50.2</span></div><div class="bar "><i style="width:87.5%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">배터리 성능 저하 이유</span><span class="vnum">49.8</span></div><div class="bar "><i style="width:86.8%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">블루투스 코덱 차이</span><span class="vnum">49.7</span></div><div class="bar "><i style="width:86.6%"></i></div><div class="vmeta"><span class="chip up">급상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">이어폰 청소 방법</span><span class="vnum">49.6</span></div><div class="bar "><i style="width:86.4%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">AAC 코덱</span><span class="vnum">49.6</span></div><div class="bar "><i style="width:86.4%"></i></div><div class="vmeta"><span class="chip up">상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">커널형 오픈형 차이</span><span class="vnum">49.4</span></div><div class="bar "><i style="width:86.1%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">아이폰 저장공간 부족</span><span class="vnum">49.3</span></div><div class="bar "><i style="width:85.9%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">골전도 이어폰 원리</span><span class="vnum">49.1</span></div><div class="bar "><i style="width:85.5%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">이어폰 오래 끼면</span><span class="vnum">49.1</span></div><div class="bar "><i style="width:85.5%"></i></div><div class="vmeta"><span class="chip ">하락</span><span class="chip ai">AI 인용 높음</span></div></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
+
+======================================================================
+
+  키워드 발굴 리포트 — 지금 어떤 검색어로 쓸까
+
+  2026-01-01 ~ 2026-08-22 · 키워드 203개
+
+  기회점수 = 수요(40) + 경쟁낮음(30) + AI적합(30)
+
+======================================================================
+
+
+
+■ 이번 주 이거 쓰세요 (기회점수 TOP 15)
+
+  키워드                         점수  상태       AI인용      
+
+  --------------------------------------------------------------
+
+  사진 용량 줄이기                 57.4  유지       높음        
+
+  아이폰 18                    53.4  유지       낮음(뉴스형)   
+
+  노이즈캔슬링 원리                 51.7  상승       높음        
+
+  와이파이 느린 이유                51.6  유지       높음        
+
+  헤드폰 귀 아픈 이유               50.8  상승       높음        
+
+  번인 현상 원인                  50.5  유지       높음        
+
+  노이즈캔슬링 부작용                50.2  유지       높음        
+
+  배터리 성능 저하 이유              49.8  유지       높음        
+
+  블루투스 코덱 차이                49.7  급상승      높음        
+
+  이어폰 청소 방법                 49.6  유지       높음        
+
+  AAC 코덱                    49.6  상승       높음        
+
+  커널형 오픈형 차이                49.4  유지       높음        
+
+  아이폰 저장공간 부족               49.3  유지       높음        
+
+  골전도 이어폰 원리                49.1  유지       높음        
+
+  이어폰 오래 끼면                 49.1  하락       높음        
+
+
+
+■ 왜 이 점수인가 (TOP 15 근거)
+
+  키워드                       점수 =  수요  + 경쟁낮음 + AI    (경쟁난이도 %)
+
+  ------------------------------------------------------------------
+
+  사진 용량 줄이기               57.4 =   8.7  +   18.7   +  30    (37.8)
+
+  아이폰 18                  53.4 =  40.0  +   13.4   +   0    (55.5)
+
+  노이즈캔슬링 원리               51.7 =   1.3  +   20.5   +  30    (31.8)
+
+  와이파이 느린 이유              51.6 =   0.5  +   21.1   +  30    (29.5)
+
+  헤드폰 귀 아픈 이유             50.8 =   0.6  +   20.3   +  30    (32.5)
+
+  번인 현상 원인                50.5 =   2.4  +   18.1   +  30    (39.7)
+
+  노이즈캔슬링 부작용              50.2 =   0.0  +   20.2   +  30    (32.7)
+
+  배터리 성능 저하 이유            49.8 =   4.7  +   15.1   +  30    (49.8)
+
+  블루투스 코덱 차이              49.7 =   2.5  +   17.2   +  30    (42.7)
+
+  이어폰 청소 방법               49.6 =   2.9  +   16.8   +  30    (44.2)
+
+  AAC 코덱                  49.6 =   0.2  +   19.4   +  30    (35.4)
+
+  커널형 오픈형 차이              49.4 =   0.5  +   18.9   +  30    (37.1)
+
+  아이폰 저장공간 부족             49.3 =   1.7  +   17.6   +  30    (41.2)
+
+  골전도 이어폰 원리              49.1 =   0.4  +   18.7   +  30    (37.6)
+
+  이어폰 오래 끼면               49.1 =   0.2  +   19.0   +  30    (36.8)
+
+
+
+■ 지금 뜨는 정보형 (상승 + AI 인용 높음)
+
+  무선 충전 원리                 +204%  관심도 0.01  급상승  (신호 약함)
+
+  캐시 삭제 방법                  +74%  관심도 0.01  급상승  (신호 약함)
+
+  블루투스 코덱 차이                +68%  관심도 0.25  급상승
+
+  AAC 코덱                    +54%  관심도 0.00  상승  (신호 약함)
+
+  노이즈캔슬링 원리                 +22%  관심도 0.06  상승
+
+  헤드폰 귀 아픈 이유               +21%  관심도 0.04  상승  (신호 약함)
+
+
+
+■ 연중 언제 뜨나 (계절성 강한 것부터)
+
+  * 데이터가 한 해치뿐이라 &#x27;매년&#x27;이라 말할 수 없습니다. &#x27;올해는 이랬다&#x27;로만 읽으세요.
+
+  * ← 표시는 그 달이 아직 안 지나서 이번에 노려볼 수 있다는 뜻입니다.
+
+  삼성 언팩                  올해 2월·7월   높았음 (평균 대비 +392%)
+
+  애플 신제품 발표              올해 2월·3월   높았음 (평균 대비 +304%)
+
+  애플 이벤트                 올해 2월·3월   높았음 (평균 대비 +258%)
+
+  애플 가격 인상               올해 6월·7월   높았음 (평균 대비 +246%)
+
+  맥북 신제품                 올해 2월·3월   높았음 (평균 대비 +236%)
+
+  갤럭시 신제품                올해 2월·7월   높았음 (평균 대비 +189%)
+
+  애플 신제품                 올해 2월·3월   높았음 (평균 대비 +178%)
+
+  갤럭시 S27                올해 6월·7월   높았음 (평균 대비 +166%)
+
+  iOS 업데이트               올해 1월·2월   높았음 (평균 대비 +123%)
+
+  갤럭시 폴드                 올해 1월·7월   높았음 (평균 대비 +113%)
+
+  공장초기화 방법               올해 1월·3월   높았음 (평균 대비 +112%)
+
+  샤오미 이어폰 후기             올해 1월·2월   높았음 (평균 대비 +101%)
+
+
+
+■ 1년 최고치 대비 지금 어디쯤
+
+  키워드                      최고대비  지금 위치
+
+  --------------------------------------------------------
+
+  아이폰 폴더블                  126%  ████████████████████
+
+  아이폰 18                   123%  ████████████████████
+
+  입문용 턴테이블                 122%  ████████████████████
+
+  아이폰 18 출시일               110%  ████████████████████
+
+  게이밍 헤드셋                  104%  ████████████████████
+
+  블루투스 코덱 차이               103%  ████████████████████
+
+  애플워치 신제품                  96%  ███████████████████·
+
+  골전도 이어폰 원리                95%  ███████████████████·
+
+  LP 추천                     94%  ███████████████████·
+
+  갤럭시 S27                   94%  ███████████████████·
+
+  오픈형 이어폰 추천                92%  ██████████████████··
+
+  이어폰 청소 방법                 90%  ██████████████████··
+
+
+
+■ 수요는 있는데 경쟁이 빡센 것 (각도를 틀거나 롱테일로)
+
+  갤럭시 폴드                 경쟁 68.3%  (최근30일 80.0% · 장악 27.5% · 문서 401,272건)
+
+  LP 관리                  경쟁 64.0%  (최근30일 62.5% · 장악 42.5% · 문서 148,228건)
+
+  아이폰 폴더블                경쟁 63.0%  (최근30일 72.5% · 장악 22.5% · 문서 111,457건)
+
+  애플워치 신제품               경쟁 58.2%  (최근30일 70.0% · 장악 15.0% · 문서 46,926건)
+
+  애플 신제품 발표              경쟁 57.8%  (최근30일 62.5% · 장악 22.5% · 문서 91,577건)
+
+  아이폰 18 출시일             경쟁 55.6%  (최근30일 62.5% · 장악 15.0% · 문서 89,951건)
+
+  아이폰 18                 경쟁 55.5%  (최근30일 50.0% · 장악 35.0% · 문서 441,287건)
+
+
+
+■ 검색이 거의 없는 표현 (말을 바꿔야 함)
+
+  · 침압 조절 방법
+
+  · 하이레스 오디오란
+
+  · LP 리마스터란
+
+  · 바이닐 음질 좋은 이유
+
+  · LDAC 이란
+
+  · 턴테이블 수평 맞추기
+
+  · LC3 코덱
+
+  · 이퀄라이저 설정 방법
+
+  · 바이닐 무게 차이
+
+  · LP 휘었을 때
+
+  · 드라이버 유닛 종류
+
+  · aptX 차이
+
+  · LP 지지직 소리
+
+  · 이어폰 수명
+
+  · SBC 코덱
+
+  ... 외 118개 (엑셀·CSV에 전부 있습니다)
+
+
+
+■ 그래서 뭘 쓰나 (기회점수 순 처방)
+
+  · 사진 용량 줄이기              1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 아이폰 18                 검색은 되지만 AI 인용은 어려운 형태입니다(뉴스·상업형). 정보형으로 각도를 트세요.
+
+  · 노이즈캔슬링 원리              올라오는 중입니다. 지금 써두면 정점에 맞춰집니다.
+
+  · 와이파이 느린 이유             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 헤드폰 귀 아픈 이유            올라오는 중입니다. 지금 써두면 정점에 맞춰집니다.
+
+  · 번인 현상 원인               1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 노이즈캔슬링 부작용             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 배터리 성능 저하 이유           1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 블루투스 코덱 차이             관심이 확 올랐습니다. 이번 주 안에 정보형으로 쓰세요.
+
+  · 이어폰 청소 방법              1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · AAC 코덱                 올라오는 중입니다. 지금 써두면 정점에 맞춰집니다.
+
+  · 커널형 오픈형 차이             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 아이폰 저장공간 부족            1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 골전도 이어폰 원리             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 이어폰 오래 끼면              관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
+
+  · 스마트폰 느려지는 이유           1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
+
+  · 5G LTE 차이              관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
+
+  · 스마트폰 발열 원인             관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
+
+  · 무선 충전 원리               올랐지만 원래 검색량이 아주 작아 흔들린 것일 수 있습니다. 몇 주 더 보세요.
+
+  · 캐시 삭제 방법               올랐지만 원래 검색량이 아주 작아 흔들린 것일 수 있습니다. 몇 주 더 보세요.
+
+
+
+  * 관심도는 데이터랩 상대값이라 &#x27;같은 실행 안에서만&#x27; 비교할 수 있습니다.
+
+  * 경쟁은 sim 정렬 상위 40건 표본이라 거친 어림값입니다. 방향만 보세요.
+
+
+
+저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\1. 키워드 발굴\2026-08-23\23시15분/추천.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\1. 키워드 발굴\2026-08-23\23시15분/추천_추천.csv
+
+
+
+</pre></details></div></details><details><summary><span>2. 제목 진단</span><span class="meta" data-at="2026-08-23T23:19+09:00">27분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">3</span><span class="tl">진단한 제목</span></div><div class="tile"><span class="tv">40</span><span class="tl">비교한 상위권 글</span></div></div><div class="vcard"><div class="vhead"><span class="vname">노이즈캔슬링 원리</span><span class="vnum big">90</span></div><p class="vtitle">노이즈캔슬링 원리 완벽 정리, 왜 조용해질까</p><div class="bar "><i style="width:90.0%"></i></div><div class="axis"><div class="vhead"><span class="aname">길이</span><span class="anum">15 / 25</span></div><div class="bar warn"><i style="width:60.0%"></i></div><p class="awhy">24자 — 나쁘진 않지만 주력 구간(29~40자)으로 맞추면 더 안전.</p></div><div class="axis"><div class="vhead"><span class="aname">키워드 위치</span><span class="anum">20 / 20</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">&#x27;노이즈캔슬링 원리&#x27;를 앞부분에 뒀습니다 — 검색 노출에 가장 유리합니다.</p></div><div class="axis"><div class="vhead"><span class="aname">유형</span><span class="anum">25 / 25</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">정보형 제목 — 상위권 다수(정보형)와 같은 결.</p></div><div class="axis"><div class="vhead"><span class="aname">훅 단어</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">훅 단어가 들어 있습니다.</p></div><div class="axis"><div class="vhead"><span class="aname">숫자·물음표</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">특이사항 없음</p></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">원리</span><span class="chip ">차이</span><span class="chip ">뜻</span><span class="chip ">정리</span><span class="chip ">완벽</span><span class="chip ">추천</span></p><p class="vsub">상위권 제목 길이는 33자 근처입니다 (주력 구간 29~40자).</p><p class="vsub">이렇게 바꿔보세요 (권장 33자)</p><div class="sug"><span>노이즈캔슬링 원리, 쉽게 정리했습니다</span><span class="slen">20자</span></div><div class="sug"><span>노이즈캔슬링 원리 원리부터 차근차근 알려드릴게요</span><span class="slen">26자</span></div><div class="sug"><span>노이즈캔슬링 원리 총정리 — 핵심만 빠르게</span><span class="slen">23자</span></div><div class="sug"><span>노이즈캔슬링 원리 제대로 이해하기, 원인과 해결까지</span><span class="slen">28자</span></div></div><div class="vcard"><div class="vhead"><span class="vname">이어폰 청소 방법</span><span class="vnum big">70</span></div><p class="vtitle">에어팟 청소 이렇게 하면 됩니다</p><div class="bar "><i style="width:70.0%"></i></div><div class="axis"><div class="vhead"><span class="aname">길이</span><span class="anum">15 / 25</span></div><div class="bar warn"><i style="width:60.0%"></i></div><p class="awhy">17자 — 나쁘진 않지만 주력 구간(28~38자)으로 맞추면 더 안전.</p></div><div class="axis"><div class="vhead"><span class="aname">키워드 위치</span><span class="anum">0 / 20</span></div><div class="bar down"><i style="width:0.0%"></i></div><p class="awhy">제목에 &#x27;이어폰 청소 방법&#x27;이 통째로 안 들어갔습니다. 앞부분에 그대로 넣으세요.</p></div><div class="axis"><div class="vhead"><span class="aname">유형</span><span class="anum">25 / 25</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">정보형 제목 — 상위권 다수(정보형)와 같은 결.</p></div><div class="axis"><div class="vhead"><span class="aname">훅 단어</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">훅 단어가 들어 있습니다.</p></div><div class="axis"><div class="vhead"><span class="aname">숫자·물음표</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">특이사항 없음</p></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">방법</span><span class="chip ">해결</span><span class="chip ">후기</span><span class="chip ">정리</span><span class="chip ">가이드</span><span class="chip ">팁</span></p><p class="vsub">상위권 제목 길이는 33자 근처입니다 (주력 구간 28~38자).</p><p class="vsub">이렇게 바꿔보세요 (권장 33자)</p><div class="sug"><span>이어폰 청소 방법, 쉽게 정리했습니다</span><span class="slen">20자</span></div><div class="sug"><span>이어폰 청소 방법 원리부터 차근차근 알려드릴게요</span><span class="slen">26자</span></div><div class="sug"><span>이어폰 청소 방법 총정리 — 핵심만 빠르게</span><span class="slen">23자</span></div><div class="sug"><span>이어폰 청소 방법 제대로 이해하기, 원인과 해결까지</span><span class="slen">28자</span></div></div><div class="vcard"><div class="vhead"><span class="vname">LP 보관 방법</span><span class="vnum big">—</span></div><p class="vtitle"></p><div class="bar "><i style="width:0.0%"></i></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">방법</span><span class="chip ">후기</span><span class="chip ">추천</span><span class="chip ">정리</span><span class="chip ">정보</span><span class="chip ">비교</span></p><p class="vsub">상위권 제목 길이는 39자 근처입니다 (주력 구간 32~46자).</p></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
+
+==================================================================
+
+  키워드: 노이즈캔슬링 원리   (상위 40개 문서 기준)
+
+==================================================================
+
+
+
+■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
+
+  길이        주력 29~40자 (중앙값 33자, 평균 33.0자)
+
+  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
+
+              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
+
+  유형        다수는 정보형  (정보형 22 / 기타 12 / 상업형 6)
+
+  자주 쓰는 훅 원리, 차이, 뜻, 정리, 완벽
+
+  숫자 28% · 물음표 22% · 연도 5% · 영문 22%
+
+  최근30일 글 30%  ·  상위 장악 2건
+
+
+
+■ 상위권이 쓰는 구분자
+
+    물음표 ?      ████················ 9/40
+
+    쉼표 ,       ████················ 8/40
+
+    느낌표 !      ████················ 7/40
+
+    대괄호 []     ██·················· 3/40
+
+    콜론 :       ···················· 1/40
+
+
+
+■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
+
+    노이즈(16), 캔슬링(14), 이어폰(13), 에어팟(7), 소음(4), 프로(4), 4(4), anc(3), 무선이어폰(3), 고르(3), 무선(3), 어떻게(2)
+
+
+
+■ 자주 붙어 나오는 두 낱말
+
+    노이즈 캔슬링(14), 노이즈캔슬링 원리(5), 캔슬링 이어폰(3), 무선 이어폰(3), 에어팟 노이즈캔슬링(2), 에어팟 프로(2), 프로 3(2), 캔슬링 원리(2)
+
+
+
+■ 상위권 글이 언제 쓰였나
+
+    30일 이내    ██████·············· 12/40
+
+    90일 이내    ████████············ 15/40
+
+    1년 이내     ██████·············· 13/40
+
+    가장 최근 글: 2026-08-21
+
+
+
+■ 이 키워드를 장악한 블로그 (2건 이상)
+
+    · 가성비 연구소 (2건)
+
+
+
+■ 내 제목 진단
+
+  &quot;노이즈캔슬링 원리 완벽 정리, 왜 조용해질까&quot;  (24자)
+
+  ─ 제목 점수 90 / 100 · 상위권 관습에 잘 맞습니다
+
+
+
+  길이          ████████████········ 15/25
+
+       24자 — 나쁘진 않지만 주력 구간(29~40자)으로 맞추면 더 안전.
+
+  키워드 위치      ████████████████████ 20/20
+
+       &#x27;노이즈캔슬링 원리&#x27;를 앞부분에 뒀습니다 — 검색 노출에 가장 유리합니다.
+
+  유형          ████████████████████ 25/25
+
+       정보형 제목 — 상위권 다수(정보형)와 같은 결.
+
+  훅 단어        ████████████████████ 15/15
+
+       훅 단어가 들어 있습니다.
+
+  숫자·물음표      ████████████████████ 15/15
+
+       특이사항 없음
+
+
+
+■ 이렇게 고쳐보세요 (표준형에 맞춘 제목안)
+
+        노이즈캔슬링 원리, 쉽게 정리했습니다  (20자)
+
+        노이즈캔슬링 원리 원리부터 차근차근 알려드릴게요  (26자)
+
+        노이즈캔슬링 원리 총정리 — 핵심만 빠르게  (23자)
+
+        노이즈캔슬링 원리 제대로 이해하기, 원인과 해결까지  (28자)
+
+
+
+  ─ 상위권 제목 예시 (참고)
+
+     · 노이즈 캔슬링 이어폰은 어떻게 소음을 지울까?
+
+     · 노이즈캔슬링 뜻 일반 이어폰과 차이점 및 원리 이해하기
+
+     · 노이즈캔슬링 기능 꼭 있어야 하나? ANC 원리와 뜻
+
+     · 노이즈캔슬링 원리 외부 소음을 어떻게 차단하는걸까
+
+     · [알쓸신잡] 노이즈캔슬링
+
+
+
+  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
+
+
+
+
+
+==================================================================
+
+  키워드: 이어폰 청소 방법   (상위 40개 문서 기준)
+
+==================================================================
+
+
+
+■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
+
+  길이        주력 28~38자 (중앙값 33자, 평균 32.5자)
+
+  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
+
+              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
+
+  유형        다수는 정보형  (정보형 25 / 기타 11 / 상업형 4)
+
+  자주 쓰는 훅 방법, 해결, 후기, 정리, 가이드
+
+  숫자 32% · 물음표 12% · 연도 0% · 영문 28%
+
+  최근30일 글 35%  ·  상위 장악 11건
+
+
+
+■ 상위권이 쓰는 구분자
+
+    쉼표 ,       ██████·············· 13/40
+
+    물음표 ?      ██·················· 5/40
+
+    콜론 :       ██·················· 3/40
+
+    파이프 |      █··················· 2/40
+
+    느낌표 !      █··················· 2/40
+
+    대괄호 []     ···················· 1/40
+
+
+
+■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
+
+    한쪽(11), 초기화(6), 에어팟(6), 무선이어폰(6), 인터넷(6), 들릴(5), 블루투스(5), 사은품(5), 해결법(4), 해결(4), 만에(4), 충전(4)
+
+
+
+■ 자주 붙어 나오는 두 낱말
+
+    이어폰 한쪽(5), 한쪽 들릴(5), 블루투스 이어폰(5), 무선이어폰 한쪽(4), 해결 방법(3), 에어팟 충전(3), 충전 안됨(3), 무선 이어폰(2)
+
+
+
+■ 상위권 글이 언제 쓰였나
+
+    30일 이내    ███████············· 14/40
+
+    90일 이내    ██████████·········· 20/40
+
+    1년 이내     ███················· 6/40
+
+    가장 최근 글: 2026-08-23
+
+
+
+■ 이 키워드를 장악한 블로그 (2건 이상)
+
+    · 맘스 (3건)
+
+    · nam_HOW (2건)
+
+    · TOBIDG (2건)
+
+    · 하루준 라이프그라피 (2건)
+
+    · NEOEARLY* by 라디오키즈 (2건)
+
+
+
+■ 내 제목 진단
+
+  &quot;에어팟 청소 이렇게 하면 됩니다&quot;  (17자)
+
+  ─ 제목 점수 70 / 100 · 무난합니다 — 몇 가지만 손보세요
+
+
+
+  길이          ████████████········ 15/25
+
+       17자 — 나쁘진 않지만 주력 구간(28~38자)으로 맞추면 더 안전.
+
+  키워드 위치      ····················  0/20
+
+       제목에 &#x27;이어폰 청소 방법&#x27;이 통째로 안 들어갔습니다. 앞부분에 그대로 넣으세요.
+
+  유형          ████████████████████ 25/25
+
+       정보형 제목 — 상위권 다수(정보형)와 같은 결.
+
+  훅 단어        ████████████████████ 15/15
+
+       훅 단어가 들어 있습니다.
+
+  숫자·물음표      ████████████████████ 15/15
+
+       특이사항 없음
+
+
+
+■ 이렇게 고쳐보세요 (표준형에 맞춘 제목안)
+
+        이어폰 청소 방법, 쉽게 정리했습니다  (20자)
+
+        이어폰 청소 방법 원리부터 차근차근 알려드릴게요  (26자)
+
+        이어폰 청소 방법 총정리 — 핵심만 빠르게  (23자)
+
+      ✓ 이어폰 청소 방법 제대로 이해하기, 원인과 해결까지  (28자)
+
+
+
+  ─ 상위권 제목 예시 (참고)
+
+     · QCY T13 초기화 방법 | 페어링 리셋과 PC 연결 순서
+
+     · 노원구 24시간 약국 야간 주말 휴일 근무병원 소아과 보기
+
+     · 에어팟 청소법 다이소 키트 후기
+
+     · 무선 이어폰 한쪽 안 들릴 때 해결하는 꿀 팁 방출
+
+     · 테마정리. 테마별 한국어 다른 형태
+
+
+
+  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
+
+
+
+
+
+==================================================================
+
+  키워드: LP 보관 방법   (상위 40개 문서 기준)
+
+==================================================================
+
+
+
+■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
+
+  길이        주력 32~46자 (중앙값 39자, 평균 39.3자)
+
+  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
+
+              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
+
+  유형        다수는 기타  (기타 24 / 상업형 9 / 정보형 5 / 뉴스형 2)
+
+  자주 쓰는 훅 방법, 후기, 추천, 정리, 정보
+
+  숫자 42% · 물음표 5% · 연도 5% · 영문 78%
+
+  최근30일 글 20%  ·  상위 장악 19건
+
+
+
+■ 상위권이 쓰는 구분자
+
+    쉼표 ,       ███████············· 14/40
+
+    느낌표 !      ██████·············· 13/40
+
+    대괄호 []     ██·················· 4/40
+
+    하이픈 -      █··················· 2/40
+
+    물음표 ?      █··················· 2/40
+
+    소괄호 ()     ···················· 1/40
+
+
+
+■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
+
+    턴테이블(5), 카페(4), 감성(4), 11(4), 후기(4), ps(4), 정전기(3), 먼지(3), 블루투스(3), 음반(3), 오리지널(3), 1(3)
+
+
+
+■ 자주 붙어 나오는 두 낱말
+
+    lp 감성(3), lp 카페(3), lp 수납장(2), 블루투스 턴테이블(2), 턴테이블 입문(2), 입문 11(2), 11 lp(2), lp 관리(2)
+
+
+
+■ 상위권 글이 언제 쓰였나
+
+    30일 이내    ████················ 8/40
+
+    90일 이내    ████················ 9/40
+
+    1년 이내     ████████████········ 23/40
+
+    가장 최근 글: 2026-08-17
+
+
+
+■ 이 키워드를 장악한 블로그 (2건 이상)
+
+    · 쇼핑고밍! (5건)
+
+    · 꿀팁세상 오늘의 추천 정보 ! ! ! (3건)
+
+    · 인천공항,콜밴이사 24시 운행 (3건)
+
+    · 빛과 소리의 교향곡(Symphony of Tech) (2건)
+
+    · theblue 님의 블로그 (2건)
+
+
+
+■ (제목을 안 적어서 표준형만 보여드립니다)
+
+  이 표준형에 맞춰 제목을 지으면 됩니다. 제안 제목:
+
+        LP 보관 방법, 쉽게 정리했습니다  (19자)
+
+        LP 보관 방법 원리부터 차근차근 알려드릴게요  (25자)
+
+        LP 보관 방법 핵심 3가지만 짚어드립니다  (23자)
+
+        LP 보관 방법 총정리 — 핵심만 빠르게  (22자)
+
+        LP 보관 방법 제대로 이해하기, 원인과 해결까지  (27자)
+
+
+
+  ─ 상위권 제목 예시 (참고)
+
+     · lp 수납장 ｜ 어떻게 보관함? 똑똑한 보관법!
+
+     · LP청소 브러쉬 추천 정전기 제거와 먼지 청소를 한번에! 퓨어그루브....
+
+     · 금천구 독산동 카페 추천 | LP 감성에 티라미수까지, TINYL(타이닐) 후....
+
+     · LP 감성 그대로! 오디오테크니카 블루투스 턴테이블
+
+     · PC 스피커, 마우스, 키보드를 무선으로! USB 블루투스 동글
+
+
+
+  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
+
+
+
+==================================================================
+
+  제목 점수 요약
+
+==================================================================
+
+   90점  노이즈캔슬링 원리                노이즈캔슬링 원리 완벽 정리, 왜 조용해질까
+
+   70점  이어폰 청소 방법                에어팟 청소 이렇게 하면 됩니다
+
+
+
+저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-23\23시19분/진단.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-23\23시19분/진단_진단.csv , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-23\23시19분/진단_제목목록.csv
+
+
+
+</pre></details></div></details><details><summary><span>3. 성과 추적</span><span class="meta" data-at="2026-08-23T23:19+09:00">27분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">50</span><span class="tl">전체 글</span></div><div class="tile"><span class="tv">5.8</span><span class="tl">주당 발행</span></div><div class="tile"><span class="tv">25</span><span class="tl">최근 30일</span></div><div class="tile"><span class="tv">오늘</span><span class="tl">마지막 발행</span></div></div><h4 class="vh">검색 순위 (3 / 67개 노출)</h4><div class="scroll"><table><tr><th>키워드</th><th>순위</th><th>변화</th><th>전체 문서</th></tr><tr><td>LP 잡음 원인</td><td class="rk">37위</td><td><span class="chip down">하락</span> ▼ 2</td><td class="dim">983</td></tr><tr><td>블루투스 코덱 종류</td><td class="rk">63위</td><td><span class="chip up">새로 진입</span> </td><td class="dim">5,786</td></tr><tr><td>무손실 음원이란</td><td class="rk">88위</td><td><span class="chip up">새로 진입</span> </td><td class="dim">19,977</td></tr></table></div><h4 class="vh">카테고리 분포</h4><div class="vrow tight"><div class="vhead"><span class="vname">Audio Tech</span><span class="vnum">12편</span></div><div class="bar "><i style="width:100.0%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">Samsung</span><span class="vnum">11편</span></div><div class="bar "><i style="width:91.7%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">Apple</span><span class="vnum">10편</span></div><div class="bar "><i style="width:83.3%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">IT Tip</span><span class="vnum">6편</span></div><div class="bar "><i style="width:50.0%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">생각정리</span><span class="vnum">5편</span></div><div class="bar "><i style="width:41.7%"></i></div></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
+
+======================================================================
+
+  성과 추적 리포트 — 뮤직잇츠
+
+  2026-08-23 23:19 · 검색어 67개 · 내 글 50개 · 경쟁 블로그 20곳
+
+  지난 회차: 2026-08-18 20:35 와 비교
+
+======================================================================
+
+
+
+■ 1. 순위가 움직인 검색어
+
+  ★ 블루투스 코덱 종류               미노출     → 63위      새로 진입
+
+  ★ 무손실 음원이란                 미노출     → 88위      새로 진입
+
+  × 듀얼심 통화 분리                86위     → 미노출      이탈
+
+  ▼ LP 잡음 원인                 35위     → 37위      -2
+
+
+
+■ 2. 지금 순위에 잡힌 검색어 (좋은 순)
+
+   37위  LP 잡음 원인                    경쟁 문서 983건
+
+   63위  블루투스 코덱 종류                  경쟁 문서 5,786건
+
+   88위  무손실 음원이란                    경쟁 문서 19,977건
+
+
+
+■ 3. 아직 안 쓴 자리 (추적은 하는데 노린 글이 없는 검색어)
+
+     경쟁 문서가 많은 순 = 수요가 있다는 뜻입니다.
+
+  · 100 충전 안좋은 이유                  경쟁 문서 372,089건
+
+  · 무선충전 단점                        경쟁 문서 361,985건
+
+  · 배터리 교체 시기                      경쟁 문서 307,109건
+
+  · 공장초기화 방법                       경쟁 문서 292,308건
+
+  · 충전 배터리 오래 쓰는 법                 경쟁 문서 171,369건
+
+  · 블루투스 연결 안될 때                   경쟁 문서 148,844건
+
+  · 이어폰 귀 건강                       경쟁 문서 133,761건
+
+  · 갤럭시 저장공간 정리                    경쟁 문서 110,989건
+
+  · 캐시 삭제 방법                       경쟁 문서 110,329건
+
+  · 이어폰 수명                         경쟁 문서 108,913건
+
+  · 스마트폰 느려지는 이유                   경쟁 문서 88,319건
+
+  · 이어폰 볼륨 작을 때                    경쟁 문서 84,724건
+
+  · 돌비 애트모스란                       경쟁 문서 72,667건
+
+  · 와이파이 느린 이유                     경쟁 문서 65,095건
+
+  · 화이트밸런스 설정                      경쟁 문서 62,098건
+
+  ... 외 34개
+
+
+
+■ 4. 내 발행 페이스
+
+  최근 글      2026-08-23 (0일 전)
+
+  최근 7일 5개 · 30일 25개 · 90일 50개
+
+  주당 발행    6.0개
+
+  평균 간격    1.3일에 한 개
+
+  카테고리     Audio Tech 12 / Samsung 11 / Apple 10 / IT Tip 6 / 생각정리 5
+
+  제목 유형    정보형 14% · 상업형 26% · 뉴스형 40% · 기타 20%
+
+
+
+■ 5. 글별 점검 (최근 12개)
+
+  2026-08-23  삼양 24-60 개봉기, 24-70 대신 선택한 이유 (+ 간단 작례)  -
+
+  2026-08-20  LDAC, AAC, aptX? 갤럭시 블루투스 코덱 확인 방법       -
+
+  2026-08-18  아이폰 배터리 성능 저하, 8플러스·SE3·17프로맥스 실측 비교     -
+
+       노린 검색어: 아이폰 배터리 성능 저하
+
+  2026-08-17  Resilience. (네이버 AI 인용)                  -
+
+  2026-08-17  블루투스 코덱 종류 정리, 내 폰에 맞는 이어폰은? (2026년 기준)  -
+
+       노린 검색어: 블루투스 코덱 종류
+
+  2026-08-15  소니 FX5 가격 공개, 바디킷 729만 원 · 9월 초 출시       -
+
+  2026-08-13  LP 잡음 노이즈 원인과 바이닐 관리 도구 (브러쉬, 속지, 스타일러스) 37위
+
+       노린 검색어: LP 보관 방법, LP 잡음 원인
+
+  2026-08-12  애플 이벤트 날짜, &quot;9월 9일&quot; 굳어지나 (+ 폴더블 아이폰 동시 공개 -
+
+       노린 검색어: 아이폰 18 프로, 폴더블 아이폰
+
+  2026-08-11  스마트폰 발열 원인과 갤럭시 배터리 온도 실측 (2026년 기준)     -
+
+       노린 검색어: 스마트폰 발열 원인, 갤럭시 배터리 관리
+
+  2026-08-11  애플워치 대개편, &quot;원형 화면&quot; 출시 가능성 낮다 (+ 세라믹 시리즈12 -
+
+       노린 검색어: 아이폰 18 프로, 폴더블 아이폰
+
+  2026-08-09  아이폰 17 가격 인상 8월 10일설, 국내 출고가 비교표 정리      -
+
+       노린 검색어: 아이폰 18 프로
+
+  2026-08-08  앤커 이어폰 후기, 사운드코어 P31i 3만원대 LDAC 지원       -
+
+
+
+■ 6. 나 vs 경쟁 (한눈에)
+
+                           뮤직잇츠       경쟁 중앙값   차이
+
+  --------------------------------------------------------
+
+  주당 발행 수                   6.0         12.5   낮음 ←
+
+  정보형 제목 비중                 14%          16%   낮음
+
+  상업형 제목 비중                 26%          24%   높음
+
+  뉴스형 제목 비중                 40%           8%   높음 ←
+
+  제목 길이(글자)                41.5         35.5   높음 ←
+
+  물음표 쓰는 비율                 36%          27%   높음
+
+  숫자 넣는 비율                  70%          66%   높음
+
+  글당 태그 수                  18.7          7.5   높음 ←
+
+
+
+■ 7. 핵심 갭 — 경쟁은 이렇게 하는데 나는
+
+  · 뉴스형이 40%로 경쟁 중앙값(8%)보다 크게 높습니다. 속보성은 뉴스 기사에 밀립니다 — 정보형으로 무게를 옮기세요.
+
+  · 발행이 주 6개로 경쟁 중앙값(주 12.5개)보다 적습니다. 꾸준함이 지수에 유리합니다.
+
+
+
+■ 8. 발행이 활발한 경쟁 블로그
+
+  클릭하기 좋은 IT               주 12.5개  제목 36자  정보형 56%  뉴스형 4%
+
+  짜루의 이것저것 리뷰              주 12.5개  제목 34자  정보형 12%  뉴스형 20%
+
+  코예커플 IT                  주 12.5개  제목 34자  정보형 18%  뉴스형 22%
+
+  티보의 IT 자동차 리뷰 공작소        주 12.5개  제목 34자  정보형 14%  뉴스형 4%
+
+  세수하면이병헌 IT/자동차           주 12.5개  제목 28자  정보형 26%  뉴스형 2%
+
+  에릭의 IT스토리                주 12.5개  제목 41자  정보형 30%  뉴스형 8%
+
+  김띵크 시션, IT Insight       주 12.5개  제목 39자  정보형 16%  뉴스형 18%
+
+  Gwoo&#x27;s IT TIME           주 12.5개  제목 34자  정보형 26%  뉴스형 14%
+
+  알기쉬운디지털                  주 12.5개  제목 32자  정보형 74%  뉴스형 2%
+
+  일리야 라이프스타일               주 12.5개  제목 45자  정보형 8%  뉴스형 16%
+
+
+
+■ 9. 정보형을 많이 쓰는 경쟁 (제목을 참고하세요)
+
+  알기쉬운디지털 — 정보형 74%
+
+       · 카톡 정산하기 방법 알고 모임 회비 편하게 받기
+
+       · 내 PC 휴지통 아이콘 찾기와 변경 방법
+
+       · 유튜브 반복 재생 자동 재생 켜기 및 끄기 방법
+
+  클릭하기 좋은 IT — 정보형 56%
+
+       · 카카오메일 확인 방법 주소 로그인 가입 삭제하는법
+
+       · 윈도우11 10 바탕화면 아이콘 크기 고정 조절 사라짐 보이게하는법
+
+       · 가정용 무한잉크 복합기 프린터 추천 삼성 잉크젯 프린터기 비용 절감하기
+
+  고양이집사 리사&#x27;s 포스트 IT — 정보형 52%
+
+       · 냉풍기 단점 걱정됐다면? 고요아 이동식 냉풍기 써보니
+
+       · 오우라링5 팝업, 글로벌 스마트링 한국 런칭! 롯데월드몰 웨어러블기기 행사
+
+       · 와이파이 증폭기, 와이파이 리피터 차이는? 같은 장비일까
+
+  에릭의 IT스토리 — 정보형 30%
+
+       · 윈도우 10 11 포스트잇 스티커 메모 동기화 오류 해결 단축키 색상 분류 팁
+
+       · 쿼터급 스쿠터 ADV350 제원 연비 시트고 코너링 총정리
+
+       · 다이소 맥세이프 거치대 가성비 추천! 차량용 송풍구 제품, 괜찮을까?
+
+
+
+■ 10. 경쟁 여러 곳이 다루는데 나는 안 다루는 주제
+
+     전기SUV(3곳)
+
+
+
+■ 11. 경쟁이 자주 쓰는 제목 낱말 (★ = 내가 최근에 안 쓴 것)
+
+  ★방법(135)  ★추천(127)  후기(109)  3(96)  가격(70)  ★4(66)  2(54)  
+
+  ★1(54)  갤럭시(52)  ★suv(47)  아이폰(45)  ★비교(41)  ★실구매(41)  
+
+  ★총정리(36)  ★5(35)  ★6(27)  ★리얼(27)  ★차이(26)  ★할인구매(26)  ★설정(24)  
+
+  ★신형(23)  ★삼성(23)  ai(23)  ★솔직(23)  ★리뷰(22)  8(21)  ★세대(19)  
+
+  ★가성비(19)  ★제네시스(19)  ★레시피(19)  
+
+
+
+■ 12. 내 검색어에서 자주 마주치는 블로그 (검색 API 기준)
+
+  대한민국 영어공장 (내신/수능 워크북) :: 대 검색어 18개  최고  5위  평균 18.1위
+
+  Franky, IT Story           검색어 15개  최고  1위  평균 9.9위
+
+  리치캣의 현재 그리고 미래             검색어 14개  최고  1위  평균 13.6위
+
+  친절한효자손 취미생활                검색어  9개  최고  3위  평균 15.8위
+
+  고양이집사 리샤&#x27;s 포스트 IT          검색어  9개  최고  1위  평균 14.8위
+
+  엔돌슨의 IT이야기                 검색어  9개  최고  9위  평균 19.1위
+
+  차밍이와 함께하는 IT 꿀팁 ♡          검색어  9개  최고  1위  평균 11.2위
+
+  YGDD40                     검색어  9개  최고  2위  평균 11.3위
+
+  포토그래퍼 신남의 IT 세상            검색어  8개  최고  1위  평균 13.9위
+
+  핑구야 날자의 IT와 일상             검색어  8개  최고 14위  평균 20.8위
+
+
+
+  * 순위는 검색 API sort=sim 순서입니다. 통합검색 VIEW 탭 순위가 아닙니다.
+
+    절대값보다 회차 간 변화를 보세요. 100위 밖은 &#x27;미노출&#x27;입니다.
+
+  * 조회수·방문자수·댓글수·이웃수·AI 브리핑 인용수는 가져올 수 없습니다.
+
+    (네이버 비공개 + robots.txt 전면 차단)
+
+  * 유형 판정 기준이 통합되면서 바뀌었습니다.
+
+    2026-08-12 이전 회차의 정보형/뉴스형 % 와 직접 비교하지 마세요.
+
+
+
+저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-23\23시19분/추적.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-23\23시19분/추적_순위.csv , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-23\23시19분/추적_경쟁.csv
+
+
+
+</pre></details></div></details><details><summary><span>4. 이웃 발굴</span><span class="meta" data-at="2026-08-23T23:19+09:00">27분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">385</span><span class="tl">찾은 후보</span></div><div class="tile"><span class="tv">18</span><span class="tl">분야 키워드</span></div><div class="tile"><span class="tv">6.0</span><span class="tl">내 주당 발행</span></div></div><h4 class="vh">겹치는 주제가 많은 순 20곳</h4><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/hunterview" target="_blank" rel="noopener">헌터뷰의 제품 추천!</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 7편</span><span class="chip ">주 8.2편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 비교, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/skdaksdptn" target="_blank" rel="noopener">짜루의 이것저것 리뷰</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 5편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">게이밍 헤드셋, 노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 리뷰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/ghettokorean" target="_blank" rel="noopener">테크월드</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 6편</span><span class="chip ">주 12.2편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 무선이어폰, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/jshan2020" target="_blank" rel="noopener">YGDD40</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 5편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">무선이어폰, 에어팟 후기, 이어폰 리뷰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/irony_june" target="_blank" rel="noopener">하루준 라이프그라피</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">게이밍 헤드셋, 이어폰 청소 방법, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/forbetteritlife22" target="_blank" rel="noopener">HeadFi Labs</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 6.0편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">DAC 추천, 이어폰 리뷰, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/svke22" target="_blank" rel="noopener">차밍이와 함께하는 IT 꿀팁 ♡</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">갤럭시 버즈, 블루투스 코덱, 이어폰 청소 방법</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/franksong0030" target="_blank" rel="noopener">Franky, IT Story</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">DAC 추천, 갤럭시 버즈, 블루투스 스피커</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/amoavog" target="_blank" rel="noopener">작업 공간 블로그</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 3.8편</span><span class="chip muted">5일 전</span></div><p class="vsub dim">이어폰 리뷰, 이어폰 비교, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/serenity087" target="_blank" rel="noopener">소록살림, 단정한 삶의 기록</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.0편</span><span class="chip muted">1일 전</span></div><p class="vsub dim">LP 턴테이블, 가성비 이어폰, 바이닐 입문</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/hayummy1205" target="_blank" rel="noopener">얌이의 딩가딩가, 얌딩</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 7.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 무선이어폰, 이어폰 리뷰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/esemoon" target="_blank" rel="noopener">이세의 인공지능</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/mo2se" target="_blank" rel="noopener">김구르미의 IT와 사진생활</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 노이즈캔슬링 이어폰, 무선이어폰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/01198916129" target="_blank" rel="noopener">테크티노의 IT 이야기</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">무선이어폰, 이어폰 청소 방법, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/hms080315" target="_blank" rel="noopener">아이가 다섯</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 10.2편</span><span class="chip muted">2일 전</span></div><p class="vsub dim">무선이어폰, 이어폰 추천, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/zic8384" target="_blank" rel="noopener">도레미파파의 왕초보 오디오 지식 강의</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 11편</span><span class="chip ">주 1.2편</span><span class="chip muted">4일 전</span></div><p class="vsub dim">DAC 추천, 포노앰프</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/highandlow007" target="_blank" rel="noopener">highandlow007님의블로그</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">DAC 추천, 가성비 이어폰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/itexpert" target="_blank" rel="noopener">클릭하기 좋은 IT</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">이어폰 청소 방법, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/pyk3405" target="_blank" rel="noopener">가성비 연구소</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 2편</span><span class="chip ">주 10.8편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 이어폰 비교</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/iab6137" target="_blank" rel="noopener">:D Blog</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 2편</span><span class="chip ">주 1.0편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 무선이어폰</p></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
+
+======================================================================
+
+  이웃·소통 후보 발굴 — 내 분야에서 활발한 블로그
+
+  분야 키워드 18개로 검색 · 2026-01-01 이후 글 기준 · 2026-08-23
+
+======================================================================
+
+
+
+  ■ 내 위치 (musicits)
+
+    분야 키워드 18개 중 1개의 검색 상위 30에 걸립니다. · 주 6개 발행 · 최근 발행 0일 전
+
+    후보들과 같은 기준으로 줄 세우면 55위쯤입니다. (전체 386명 기준)
+
+    아직 안 걸리는 키워드: 이어폰 추천, 무선이어폰, 노이즈캔슬링 이어폰, 헤드폰 추천, 블루투스 스피커, 에어팟 후기 외 11개
+
+
+
+  후보 385명 중, 여러 키워드에 걸치고 활발한 순으로 정리했습니다.
+
+  ↓ 여기 가서 &#x27;직접&#x27; 댓글 달고 이웃 신청하세요. (자동 아님)
+
+
+
+  블로그                    겹침   글수 최근글       겹친 키워드(예)
+
+  ------------------------------------------------------------------
+
+  헌터뷰의 제품 추천!             4    7 0일 전      노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 비교  주8.2
+
+  짜루의 이것저것 리뷰             4    5 0일 전      게이밍 헤드셋, 노이즈캔슬링 이어폰, 블루투스 코덱  주12.5
+
+  테크월드                    3    6 0일 전      가성비 이어폰, 무선이어폰, 헤드폰 추천  주12.2
+
+  YGDD40                  3    5 0일 전      무선이어폰, 에어팟 후기, 이어폰 리뷰  주12.5
+
+  하루준 라이프그라피              3    4 0일 전      게이밍 헤드셋, 이어폰 청소 방법, 헤드폰 추천  주12.5
+
+  HeadFi Labs             3    4 0일 전      DAC 추천, 이어폰 리뷰, 이어폰 추천  주6
+
+  차밍이와 함께하는 IT 꿀팁 ♡       3    3 0일 전      갤럭시 버즈, 블루투스 코덱, 이어폰 청소 방법  주12.5
+
+  Franky, IT Story        3    3 0일 전      DAC 추천, 갤럭시 버즈, 블루투스 스피커  주12.5
+
+  작업 공간 블로그               3    3 5일 전      이어폰 리뷰, 이어폰 비교, 이어폰 추천  주3.8
+
+  소록살림, 단정한 삶의 기록         3    3 1일 전      LP 턴테이블, 가성비 이어폰, 바이닐 입문  주12
+
+  얌이의 딩가딩가, 얌딩            3    3 0일 전      가성비 이어폰, 무선이어폰, 이어폰 리뷰  주7.5
+
+  이세의 인공지능                3    3 0일 전      노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 추천  주12.5
+
+  김구르미의 IT와 사진생활          3    3 0일 전      가성비 이어폰, 노이즈캔슬링 이어폰, 무선이어폰  주12.5
+
+  테크티노의 IT 이야기            3    3 0일 전      무선이어폰, 이어폰 청소 방법, 이어폰 추천  주12.5
+
+  아이가 다섯                  3    3 2일 전      무선이어폰, 이어폰 추천, 헤드폰 추천  주10.2
+
+  도레미파파의 왕초보 오디오 지식 강의    2   11 4일 전      DAC 추천, 포노앰프  주1.2
+
+  highandlow007님의블로그      2    4 0일 전      DAC 추천, 가성비 이어폰  주12.5
+
+  클릭하기 좋은 IT              2    3 0일 전      이어폰 청소 방법, 헤드폰 추천  주12.5
+
+  가성비 연구소                 2    2 0일 전      노이즈캔슬링 이어폰, 이어폰 비교  주10.8
+
+  :D Blog                 2    2 0일 전      가성비 이어폰, 무선이어폰  주1
+
+  F:UM                    2    2 0일 전      LP 턴테이블, 바이닐 입문  주12.5
+
+  초보 IT로그                 2    2 0일 전      노이즈캔슬링 이어폰, 무선이어폰  주12.5
+
+  아이T히메&#x27;s IT스토리           2    2 0일 전      갤럭시 버즈, 노이즈캔슬링 이어폰  주6.8
+
+  김띵크 시선, IT Insight      2    2 0일 전      가성비 이어폰, 블루투스 스피커  주12.5
+
+  순담작가의 사진 그리고 IT         2    2 0일 전      노이즈캔슬링 이어폰, 헤드폰 추천  주12.5
+
+  그것, IT를 읽다              2    2 2026-07-26 가성비 이어폰, 게이밍 헤드셋
+
+  앤바나                     2    2 2026-07-25 블루투스 코덱, 헤드폰 추천
+
+  버들붕어 스토리                2    2 2026-07-22 게이밍 헤드셋, 블루투스 코덱
+
+  JD의 취미공간                2    2 2026-07-15 게이밍 헤드셋, 이어폰 리뷰
+
+  류리의 IT 테크룸              2    2 2026-07-11 갤럭시 버즈, 블루투스 코덱
+
+
+
+  · &#x27;겹침&#x27; = 내 분야 키워드 중 이 블로그가 걸린 개수 (많을수록 관련성 큼)
+
+  · 링크는 엑셀/CSV에 있습니다. 클릭해서 바로 방문하세요.
+
+  · 이 도구는 후보만 찾습니다. 실제 소통은 직접 하셔야 지수에도 도움이 됩니다.
+
+  · 분야 키워드는 설정/이웃분야키워드.txt 에서 바꿀 수 있습니다.
+
+
+
+저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\4. 이웃 발굴\2026-08-23\23시19분/이웃후보.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\4. 이웃 발굴\2026-08-23\23시19분/이웃후보_이웃후보.csv
+
+
+
+</pre></details></div></details></section><section id="ai"><div class="card"><div class="tiles"><div class="tile"><span class="tv">15/30</span><span class="tl">브리핑 노출</span></div><div class="tile"><span class="tv">0/30</span><span class="tl">musicits 인용</span></div><div class="tile"><span class="tv">4주차</span><span class="tl">마지막 기록</span></div></div><p class="note">2026-08-23 23:23 기록</p></div><div class="card scroll"><table><tr><th>#</th><th>키워드</th><th>브리핑</th><th>인용</th><th>내 순위</th></tr><tr><td>1</td><td>아이폰 폴더블 아이폰 울트라</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>2</td><td>아이폰 18 기본형 출시 연기</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>3</td><td>애플 업그레이드 프로그램이란</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>4</td><td>아이폰 18 프로 카메라 사양</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>5</td><td>iOS 27 새로운 기능</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>6</td><td>갤럭시 Z 폴드8 스펙</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>7</td><td>갤럭시 Z 폴드8 폴드7 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>8</td><td>갤럭시 워치9 워치 울트라2 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>9</td><td>갤럭시 언팩 2026 정리</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>10</td><td>갤럭시 Z 폴드8 색상 비교</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>11</td><td>에어팟 프로3 초기화 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>12</td><td>에어팟 프로3 연결 안될 때</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>13</td><td>에어팟 프로3 심박수 측정 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>14</td><td>에어팟 프로3 한쪽만 안 들릴 때</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>15</td><td>갤럭시 버즈 에어팟 음질 비교</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>16</td><td>B&amp;W 스피커 추천</td><td class="x">X</td><td class="x">-</td><td>—</td></tr><tr><td>17</td><td>소니 A7M5 실사용 후기</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>18</td><td>티티아티산 AF 50mm F1.8 Neo 후기</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>19</td><td>소니 GP-VPT3 슈팅그립 사용법</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>20</td><td>카메라 렌즈 펌웨어 업데이트 방법</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>21</td><td>갤럭시 Z 폴드8 케이스 추천</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>22</td><td>슈피겐 에어스킨 맥핏 후기</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>23</td><td>폴더블폰 보호필름 붙이는 법</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>24</td><td>블루투스 코덱 차이</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>25</td><td>LDAC aptX 차이</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>26</td><td>LDAC 코덱이란</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>27</td><td>블루투스 코덱 확인하는 방법</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>28</td><td>음악 스트리밍 음질 비교</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>29</td><td>무손실 음원 스트리밍 추천</td><td class="x">?</td><td class="x">?</td><td>—</td></tr><tr><td>30</td><td>LP 턴테이블 입문 추천</td><td class="x">?</td><td class="x">?</td><td>—</td></tr></table></div></section><section id="cite"><div class="card"><div class="tiles"><div class="tile"><span class="tv">112,000</span><span class="tl">누적 인용수</span></div><div class="tile"><span class="tv">7,100</span><span class="tl">당월 누적</span></div></div><p class="note">2026-08-16 기준 · 백업 파일 인용백업_20260816.json</p></div><p class="note"><b>매월 1일 확인.</b> 평소에는 기록만 합니다. 2.0 에서 인용 수는 1차 지표가 아니라 결과값입니다.</p><details><summary><span>일별 기록</span><span class="meta">표시가 0.1천 단위라 단기 추세는 못 봅니다</span></summary><div class="card scroll"><table><tr><th>날짜</th><th>누적</th><th>당월</th></tr><tr><td>2026-08-16</td><td>112,000</td><td>7,100</td></tr><tr><td>2026-08-15</td><td>111,000</td><td>6,700</td></tr><tr><td>2026-08-13</td><td>111,000</td><td>6,379</td></tr><tr><td>2026-08-12</td><td>110,000</td><td>5,200</td></tr><tr><td>2026-08-10</td><td>109,000</td><td>4,200</td></tr><tr><td>2026-07-31</td><td>104,000</td><td>11,000</td></tr><tr><td>2026-07-29</td><td>—</td><td>10,000</td></tr><tr><td>2026-07-28</td><td>103,000</td><td>10,000</td></tr><tr><td>2026-07-27</td><td>103,000</td><td>10,000</td></tr><tr><td>2026-07-24</td><td>—</td><td>9,500</td></tr><tr><td>2026-07-23</td><td>102,000</td><td>9,000</td></tr><tr><td>2026-07-17</td><td>101,000</td><td>7,900</td></tr></table></div></details></section><section id="news"><div class="card quota over"><div class="tiles"><div class="tile"><span class="tv">7 / 3</span><span class="tl">이번 달 뉴스형 발행</span></div><div class="tile"><span class="tv">0건</span><span class="tl">언론 재정리형 (유지 중)</span></div></div><p class="note bad"><b>이번 달 뉴스 쿼터 소진</b> — 파생 해결형으로만 씁니다. 아래 제목 후보는 &quot;해결형으로 틀면?&quot; 관점으로만 보세요.</p></div><a class="act go wide" href="cloud/">휴대폰에서 돌린 결과 보기 →</a><p class="note">폰에서 수집 버튼을 눌러 나온 결과는 PC 보고서와 따로 쌓입니다.</p><details open><summary><span>2026-08-23 23:15</span><span class="meta">새 기사 91건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
+<div class="li">확인 시각: 2026-08-23 23:15 (KST) 수집분</div>
+<div class="li">확인 범위: 지난 확인(2026-08-18 20:54) 이후 올라온 기사 — 닷새치가 쌓였다</div>
+<div class="li">수집 91건 → 기기 중심 필터 통과 24건 → 주요 소식 5건 + 한줄 목록 19건</div>
+<div class="li">접속 실패 소스: 9to5Mac, Android Authority (URLError)</div>
+<div class="li">※ MacRumors 외 12건, SamMobile 외 2건은 소스당 상한(8건)에 걸려 수집되지 않았다.</div>
+<div class="li">※ 란즈크의 아이폰 18 프로 목업 글은 이미지 4장에 캡션 한 줄뿐이라 주요 소식에서 빼고 한줄 목록에 뒀다. TechRadar 젠하이저 기사는 본문이 막혀 같은 처리를 했다.</div>
+<div class="li">※ 거른 것: 삼성 주주환원·수상·HVAC 생산라인 같은 기업/B2B 소식, 중국 메모리 기밀 유출과 아일랜드 세금 등 법률 건, 럭비 중계·퀴즈·영화 잡담, 애플 스토어 사건사고.</div>
+<hr>
+<h3>오늘의 주요 소식 (5건)</h3>
+<div class="cat">IT 공식발표</div>
+<div class="kv"><span class="k">제목</span><span class="v">[초대장] 삼성 갤럭시 이벤트</span></div>
+<div class="kv"><span class="k">사실 여부</span><span class="v">공식 확인됨</span></div>
+<div class="kv"><span class="k">출처</span><span class="v"><a href="https://news.samsung.com/kr/초대장-삼성-갤럭시-이벤트-2" target="_blank" rel="noopener">https://news.samsung.com/kr/초대장-삼성-갤럭시-이벤트-2</a></span></div>
+<p>삼성전자가 8월 27일 오후 9시에 &#x27;삼성 갤럭시 이벤트&#x27;를 열고 갤럭시 S26 시리즈의 새로운 패밀리를 공개한다. 초대장은 카메라와 AI 등 S26 시리즈의 핵심 경험부터 최신 One UI까지를 예고했고, 업계에서는 이 자리에서 갤럭시 S26 FE가 나올 것으로 보고 있다. 행사는 삼성닷컴과 삼성전자 유튜브 채널에서 생중계된다.</p>
+<div class="oneline">📝 블로그 한줄 요약: 삼성이 8월 27일 밤 9시에 갤럭시 이벤트를 연다 — S26 시리즈의 새 식구가 공개되고 삼성닷컴·유튜브로 생중계된다.</div>
+<div class="titleidea">✏️ 제목 후보 1: 8월 27일 밤 9시, 삼성 갤럭시 이벤트에서 무엇이 나올까</div>
+<div class="titleidea">✏️ 제목 후보 2: 갤럭시 S26 새 패밀리 공개 예고 — 초대장이 말하는 것들</div>
+<div class="titleidea">✏️ 제목 후보 3: 카메라와 AI를 앞세운 삼성 갤럭시 이벤트, 보는 법과 관전 포인트</div>
+<div class="cat">IT 루머</div>
+<div class="kv"><span class="k">제목</span><span class="v">Is this your first look at the Galaxy S27 Ultra&#x27;s design?</span></div>
+<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
+<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/" target="_blank" rel="noopener">https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/</a></span></div>
+<p>유명 팁스터 아이스 유니버스가 X에 갤럭시 S27 울트라의 CAD 기반 렌더와 실측치를 올렸다. 상단에 두꺼운 사각 바 형태의 카메라 모듈이 자리하고 그 안에 센서 세 개가 들어가는데, 두 개는 각각 링을 두르고 나머지 하나는 레이저 오토포커스·LED 플래시와 함께 알약 모양으로 묶였다. 무선 충전과 액세서리를 위한 원형 자석 링이 보여, 삼성이 케이스 없이도 쓰는 Qi2 자석을 드디어 내장할 가능성이 제기됐다. 카메라는 2억 화소 메인(OIS), 5천만 화소 오토포커스 초광각, 5배 광학 5천만 화소 망원 구성이 거론되며, S27 시리즈 네 종은 2027년 초 공개가 예상된다.</p>
+<div class="oneline">📝 블로그 한줄 요약: 갤럭시 S27 울트라 CAD 렌더가 나왔다 — 두꺼운 사각 카메라 바에 Qi2 자석 내장 정황이 함께 잡혔다.</div>
+<div class="titleidea">✏️ 제목 후보 1: 갤럭시 S27 울트라 첫 렌더 — 카메라 바와 Qi2 자석이 말해주는 것</div>
+<div class="titleidea">✏️ 제목 후보 2: 삼성도 드디어 자석을? S27 울트라 디자인 유출 정리</div>
+<div class="titleidea">✏️ 제목 후보 3: 2억 화소에 5배 망원, S27 울트라 카메라 구성 살펴보기</div>
+<div class="cat">오디오</div>
+<div class="kv"><span class="k">제목</span><span class="v">Apple&#x27;s Camera-Equipped AirPods: All the New Rumors</span></div>
+<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
+<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.macrumors.com/guide/airpods-ultra/" target="_blank" rel="noopener">https://www.macrumors.com/guide/airpods-ultra/</a></span></div>
+<p>카메라가 달린 에어팟 루머가 구체화되고 있다. 양쪽 이어버드 스템에 카메라가 하나씩, 총 두 개가 들어가며 두 각도에서 동시에 최대 1메가픽셀 RGB 정지 이미지를 찍는다. 시리를 부르면 640×640으로 찍는 &#x27;액티브&#x27; 모드와 주변 인식을 위해 320×320으로 찍는 &#x27;패시브&#x27; 모드로 나뉘고, 영상 녹화 기능은 없다. 머리 움직임에 따른 왜곡 보정과 기기 내 인물 인식 처리가 함께 들어가며, 지연 시간과 음질을 개선한 H3 칩이 여기서 처음 쓰일 전망이다. 블룸버그 마크 거먼은 macOS 타호 26.7 코드에 &#x27;AirPods Pro&#x27;로 등장했음에도 출시는 2027년, 20주년 아이폰과 함께 9월로 내다봤다.</p>
+<div class="oneline">📝 블로그 한줄 요약: 카메라 달린 에어팟은 사진을 &#x27;보는&#x27; 물건이다 — 영상 녹화는 없고 시리가 주변을 인식하는 데 쓰인다.</div>
+<div class="titleidea">✏️ 제목 후보 1: 카메라 에어팟, 왜 영상은 못 찍나 — 루머 총정리</div>
+<div class="titleidea">✏️ 제목 후보 2: 640×640과 320×320, 카메라 에어팟이 실제로 하는 일</div>
+<div class="titleidea">✏️ 제목 후보 3: H3 칩과 함께 온다는 카메라 에어팟, 2027년까지 기다려야 하는 이유</div>
+<div class="cat">IT 루머</div>
+<div class="kv"><span class="k">제목</span><span class="v">Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff</span></div>
+<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
+<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/" target="_blank" rel="noopener">https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/</a></span></div>
+<p>애플이 비전 프로덕츠 그룹에서 약 100명, 시리와 소프트웨어 그룹에서 약 100명을 감원했다. 비전 프로의 게임 팀은 사실상 문을 닫고, 몰입형 비디오 팀도 규모를 줄여 자체 제작을 줄이고 서드파티 3D 콘텐츠에 더 기대는 방향으로 간다. 애플은 &quot;고객이 기기를 실제로 쓰는 방식에 맞춰 우선순위를 재정렬한다&quot;고 밝혔는데, 몰입형 영상 제작에 수백만 달러가 들지만 보급률이 낮아 채산이 안 맞았다는 것이다. 비전 프로와 visionOS 자체는 유지되고 2027년 AI 스마트 글래스 개발도 계속되지만, 그 안경은 3D 게임과 영상을 지원하지 않는다.</p>
+<div class="oneline">📝 블로그 한줄 요약: 애플이 비전 프로 게임 팀을 사실상 접었다 — 기기는 남지만 몰입형 콘텐츠를 직접 만드는 일은 줄인다.</div>
+<div class="titleidea">✏️ 제목 후보 1: 비전 프로 게임 팀 해체, 애플이 접은 것과 남긴 것</div>
+<div class="titleidea">✏️ 제목 후보 2: 200명 감원이 말해주는 애플 공간 컴퓨팅의 현주소</div>
+<div class="titleidea">✏️ 제목 후보 3: 2027년 AI 안경엔 3D 게임이 없다 — 비전 프로 노선 변경 정리</div>
+<div class="cat">오디오</div>
+<div class="kv"><span class="k">제목</span><span class="v">I tested the Bose QuietComfort Headphones (2nd Gen) and they&#x27;re a legit upgrade</span></div>
+<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
+<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.soundguys.com/i-tested-the-bose-quietcomfort-headphones-2nd-gen-and-theyre-a-legit-upgrade-161251/" target="_blank" rel="noopener">https://www.soundguys.com/i-tested-the-bose-quietcomfort-headphones-2nd-gen-and-theyre-a-legit-upgrade-161251/</a></span></div>
+<p>보스 콰이어트컴포트 헤드폰 2세대는 헤드밴드 패딩을 넓히고 톱니식 금속 암을 무단계 조절 방식으로 바꿨으며, USB-C 오디오를 새로 넣고 USB-C 케이블과 USB-C를 3.5mm로 잇는 케이블을 함께 준다. 측정에서는 차음만으로 체감 소음을 평균 71.9% 줄였고 ANC를 켜면 85.1%까지 올라가, 더 비싼 QC 울트라(87%)에 거의 근접했다. 무게는 230g으로 가볍고 패딩이 넉넉해 오래 써도 편하지만 플라스틱 마감이라 고급감은 덜하고, 배터리는 ANC 켜고 24시간으로 50시간대 경쟁작보다 짧다(15분 충전에 2.5시간). 가격은 359달러이며, 리뷰어는 449달러 QC 울트라보다 이쪽을 권했다.</p>
+<div class="oneline">📝 블로그 한줄 요약: 보스 QC 헤드폰 2세대는 359달러로 449달러 울트라의 소음 차단에 근접했다 — 대신 배터리 24시간이 약점이다.</div>
+<div class="titleidea">✏️ 제목 후보 1: 보스 QC 헤드폰 2세대 실측 — 85.1% 소음 감소의 의미</div>
+<div class="titleidea">✏️ 제목 후보 2: 90달러 싼데 울트라급 ANC, QC 2세대가 남긴 타협점</div>
+<div class="titleidea">✏️ 제목 후보 3: 230g의 편안함과 24시간 배터리, 보스 QC 2세대 정리</div>
+<hr>
+<h3>나머지 소식 (19건)</h3>
+<p>6. [IT 루머] 란즈크가 아이폰 18 프로 루머 기반 목업 실기 이미지를 추가로 공개했다. (란즈크 블로그)<br><a href="https://blog.naver.com/yeux1122/224387376636" target="_blank" rel="noopener">https://blog.naver.com/yeux1122/224387376636</a></p>
+<p>7. [IT 루머] 란즈크가 갤럭시 S27 울트라 CAD 디자인 이미지와 후면 카메라 렌더링을 잇따라 올렸다. (란즈크 블로그)<br><a href="https://blog.naver.com/yeux1122/224387511127" target="_blank" rel="noopener">https://blog.naver.com/yeux1122/224387511127</a></p>
+<p>8. [IT 루머] 갤럭시 S27 울트라에 들어갈 스냅드래곤 칩의 이름이 유출됐다. (SamMobile)<br><a href="https://www.sammobile.com/news/galaxy-s27-pro-ultra-snapdragon-chip-name-leaks/" target="_blank" rel="noopener">https://www.sammobile.com/news/galaxy-s27-pro-ultra-snapdragon-chip-name-leaks/</a></p>
+<p>9. [IT 루머] 애플의 새 Beats 360 헤드폰이 또 다른 규제기관 등록 문서에서 포착됐다. (MacRumors)<br><a href="https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/" target="_blank" rel="noopener">https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/</a></p>
+<p>10. [오디오] 비츠 유출로 차기 헤드폰의 이름과 대부분의 사양이 드러났다. (TechRadar 오디오)<br><a href="https://www.techradar.com/audio/headphones/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs" target="_blank" rel="noopener">https://www.techradar.com/audio/headphones/beats-leak-reveals-the-name-of-its-next-headphones-plus-most-of-its-specs</a></p>
+<p>11. [IT 루머] M6 맥북 프로는 성능은 올리되 외형은 기존을 유지할 것으로 전망된다. (AppleInsider)<br><a href="https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor" target="_blank" rel="noopener">https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor</a></p>
+<p>12. [IT 루머] 애플페이가 드디어 미국 월마트 전 매장에 도입된다 — 자체 결제 솔루션의 실패를 인정한 셈이다. (AppleInsider / 란즈크)<br><a href="https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us" target="_blank" rel="noopener">https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us</a></p>
+<p>13. [IT 루머] 구글 픽셀 11 프로 폴드가 여전히 구조적 결함으로 쉽게 파손된다는 지적이 나왔다. (란즈크 블로그)<br><a href="https://blog.naver.com/yeux1122/224386368516" target="_blank" rel="noopener">https://blog.naver.com/yeux1122/224386368516</a></p>
+<p>14. [IT 루머] 삼성이 2026년 세계 스마트폰 1위를 되찾을 것으로 전망됐다. (SamMobile)<br><a href="https://www.sammobile.com/news/samsung-expected-to-reclaim-the-global-smartphone-crown-in-2026/" target="_blank" rel="noopener">https://www.sammobile.com/news/samsung-expected-to-reclaim-the-global-smartphone-crown-in-2026/</a></p>
+<p>15. [오디오] 젠하이저가 플래그십 완전 무선 이어폰을 전면 개편해 블루투스 6와 교체 가능한 배터리를 넣었다. (TechRadar 오디오)<br><a href="https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries" target="_blank" rel="noopener">https://www.techradar.com/audio/earbuds-airpods/sennheiser-gives-its-flagship-true-wireless-earbuds-a-full-revamp-complete-with-bluetooth-6-and-replaceable-batteries</a></p>
+<p>16. [오디오] 베이어다이나믹이 80시간 배터리와 오픈백 옵션을 갖춘 새 게이밍 헤드셋을 내놨다. (SoundGuys)<br><a href="https://www.soundguys.com/beyerdynamics-new-gaming-headsets-offer-80-hour-battery-life-and-an-open-back-option-161221/" target="_blank" rel="noopener">https://www.soundguys.com/beyerdynamics-new-gaming-headsets-offer-80-hour-battery-life-and-an-open-back-option-161221/</a></p>
+<p>17. [오디오] CMF의 새 버즈 네오 이어폰이 지금까지 중 가장 끌리는 구성으로 나왔다. (SoundGuys)<br><a href="https://www.soundguys.com/cmfs-new-buds-neo-earbuds-might-be-its-most-tempting-pair-yet-161107/" target="_blank" rel="noopener">https://www.soundguys.com/cmfs-new-buds-neo-earbuds-might-be-its-most-tempting-pair-yet-161107/</a></p>
+<p>18. [오디오] 에어팟 맥스 2가 아마존에서 다섯 색상 모두 120달러 인하됐다. (SoundGuys)<br><a href="https://www.soundguys.com/airpods-max-2-deal-knocks-120-off-all-five-colors-at-amazon-161163/" target="_blank" rel="noopener">https://www.soundguys.com/airpods-max-2-deal-knocks-120-off-all-five-colors-at-amazon-161163/</a></p>
+<p>19. [오디오] 에소테릭이 마스터 음원 재현을 내세운 새 턴테이블 T-01을 공개했다. (What Hi-Fi?)<br><a href="https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound" target="_blank" rel="noopener">https://www.whathifi.com/hi-fi/turntables/esoterics-new-t-01-turntable-is-dedicated-to-reproducing-the-original-master-sound</a></p>
+<p>20. [오디오] JBL 라이브 빔 4가 수 주간 테스트 끝에 2026년 최고의 무선 이어폰으로 꼽혔다. (TechRadar 오디오)<br><a href="https://www.techradar.com/audio/earbuds-airpods/the-jbl-live-beam-4-are-my-favorite-wireless-earbuds-of-2026-after-weeks-of-testing" target="_blank" rel="noopener">https://www.techradar.com/audio/earbuds-airpods/the-jbl-live-beam-4-are-my-favorite-wireless-earbuds-of-2026-after-weeks-of-testing</a></p>
+<p>21. [오디오] 애플 뮤직이 AI 생성 곡 라벨 표시 계획을 구체화했지만 실효성 논란이 남았다. (TechRadar 오디오)<br><a href="https://www.techradar.com/audio/apple-music-steps-up-plan-for-ai-generated-song-labels" target="_blank" rel="noopener">https://www.techradar.com/audio/apple-music-steps-up-plan-for-ai-generated-song-labels</a></p>
+<p>22. [카메라] 소니 FX5가 유럽 딜러에 초도 물량이 풀린 직후 소니가 판매를 중단시켰다. (Sony Alpha Rumors)<br><a href="https://www.sonyalpharumors.com/sony-fx5-drama-eu-dealers-receive-first-stock-but-sony-halts-sales/" target="_blank" rel="noopener">https://www.sonyalpharumors.com/sony-fx5-drama-eu-dealers-receive-first-stock-but-sony-halts-sales/</a></p>
+<p>23. [카메라] 니케이 보도에 따르면 소니가 카메라 시장 점유율 3.9%를 잃었다. (Sony Alpha Rumors)<br><a href="https://www.sonyalpharumors.com/nikkei-reports-sony-has-lost-39-of-the-camera-market-share/" target="_blank" rel="noopener">https://www.sonyalpharumors.com/nikkei-reports-sony-has-lost-39-of-the-camera-market-share/</a></p>
+<p>24. [카메라] 캐논이 내부 줌 설계를 적용한 RF 28-135mm f/4 IS 파워 줌을 준비 중이다. (Canon Rumors)<br><a href="https://www.canonrumors.com/canon-rf-28-135mm-f-4-is-power-zoom-with-internal-zoom-design/" target="_blank" rel="noopener">https://www.canonrumors.com/canon-rf-28-135mm-f-4-is-power-zoom-with-internal-zoom-design/</a></p></div></details><details><summary><span>2026-08-18 20:54</span><span class="meta">새 기사 1건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
+<div class="li">확인 시각: 2026-08-18 20:54 (KST) 수집분</div>
+<div class="li">확인 범위: 지난 확인(2026-08-18 20:28) 이후 올라온 기사 — 약 26분 구간</div>
+<div class="li">수집 1건 → 기기 중심 필터 통과 0건 → 주요 소식 0건 + 한줄 목록 1건(참고용)</div>
+<div class="li">접속 실패 소스: 9to5Mac, Android Authority (URLError)</div>
+<h3>이번 회차 요약</h3>
+<p><b>이번 실행에서는 보고할 만한 새 기기 소식이 없습니다.</b></p>
+<p>직전 회차(20시27분) 수집 이후 26분밖에 지나지 않아 새 기사가 1건뿐이었고,<br>그 1건도 앱스토어 수수료 매출 감소라는 규제·실적 소식이라 기기 중심 선별 규칙의<br>&#x27;거를 것&#x27;(소송·법률)에 해당합니다. 주요 소식 5건을 채우려면 직전 보고서에서 이미<br>다룬 기사를 다시 끌어오거나 없는 소식을 지어내야 하므로, 규칙대로 채우지 않고<br>비워 둡니다.</p>
+<p>직전 회차(2026-08-18 20시27분) 보고서에 실린 15건과 중복되는 기사는 없습니다.<br>다음 수집은 시간 간격을 충분히 두고 돌리시면 정상적으로 5건이 채워집니다.</p>
+<hr>
+<h3>주요 소식</h3>
+<p>해당 없음 — 이번 구간에 기기 관련 새 소식이 없습니다.</p>
+<hr>
+<h3>나머지 새 소식 (1건) — 자세히 볼 번호를 골라 말해주세요</h3>
+<p>※ 아래 1건은 기기 중심 필터에서는 걸러지는 규제·실적 소식입니다. 이번 구간의<br>유일한 새 기사라 참고용으로만 남깁니다.</p>
+<p>1. [IT 루머] 애플 미국 앱스토어 수수료 매출이 2026년 들어 18% 감소 — 에픽 판결에 따른 외부 결제 링크 허용, 브라질·일본 규제까지 겹치며 서비스 매출에 부담 (MacRumors)<br><a href="https://www.macrumors.com/2026/08/18/apple-app-store-revenue-falling/" target="_blank" rel="noopener">https://www.macrumors.com/2026/08/18/apple-app-store-revenue-falling/</a></p></div></details><details><summary><span>2026-08-18 20:27</span><span class="meta">새 기사 42건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
 <div class="li">확인 시각: 2026-08-18 20:27 (KST) 수집분</div>
 <div class="li">확인 범위: 지난 확인(2026-08-18 00:50) 이후 올라온 기사</div>
 <div class="li">수집 42건 → 기기 중심 필터 + 직전 보고서 중복 제외 후 15건 → 주요 소식 5건 + 한줄 목록 10건</div>
@@ -251,1195 +1424,8 @@ td.dim{color:var(--mut)}
 <p>12. [IT 루머] 갤럭시 Z 폴드8이 역대 최고 판매를 찍었는데도 삼성 모바일 부문은 적자 (SamMobile)<br><a href="https://www.sammobile.com/news/galaxy-z-fold-8-sales-record-fail-save-samsung-mobile-division-losses/" target="_blank" rel="noopener">https://www.sammobile.com/news/galaxy-z-fold-8-sales-record-fail-save-samsung-mobile-division-losses/</a></p>
 <p>13. [IT 루머] 삼성, 아이폰 폴드·갤럭시 Z 폴드 수요 대응 위해 아산 A7 라인 증설 재개 — 2028년 초 완공 목표 (란즈크)<br><a href="https://blog.naver.com/yeux1122/224382432285" target="_blank" rel="noopener">https://blog.naver.com/yeux1122/224382432285</a></p>
 <p>14. [IT 루머] One UI 9 Watch 총정리 — 워치9·워치 울트라2와 함께 나온 Wear OS 7 기반 변화 (SamMobile)<br><a href="https://www.sammobile.com/news/samsung-one-ui-9-watch-everything-to-know/" target="_blank" rel="noopener">https://www.sammobile.com/news/samsung-one-ui-9-watch-everything-to-know/</a></p>
-<p>15. [IT 공식발표] 삼성 아트 스토어에 빈 미술사 박물관 소장품 43점 추가 — 더 프레임·네오 QLED·OLED 대상 (Samsung Newsroom)<br><a href="https://news.samsung.com/kr/삼성-아트-스토어에-빈-미술사-박물관-대표-소장품-43" target="_blank" rel="noopener">https://news.samsung.com/kr/삼성-아트-스토어에-빈-미술사-박물관-대표-소장품-43</a></p></div></details><details><summary><span>2026-08-18 00:50</span><span class="meta">새 기사 20건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
-<div class="li">확인 시각: 2026-08-18 00:50 (KST) 수집분</div>
-<div class="li">확인 범위: 지난 확인(2026-08-17 21:28) 이후 올라온 기사</div>
-<div class="li">수집 20건 → 기기 중심 필터 통과 13건 → 주요 소식 5건 + 한줄 목록 8건</div>
-<div class="li">접속 실패 소스: 9to5Mac, Android Authority (URLError)</div>
-<div class="li">※ Sony Alpha Rumors와 Fuji Rumors는 원문이 403으로 막혀 피드 요약 기준으로 썼다.</div>
-<div class="li">※ 거른 것: 독일 앱 추적 투명성 규제(법률), Z 폴드8 광고 캠페인(마케팅성), 애플 월렛 사용법 안내(2025년 11월 옛 글), 애플인사이더 팟캐스트·책 소개.</div>
-<hr>
-<h3>오늘의 주요 소식 (5건)</h3>
-<div class="cat">IT 루머</div>
-<div class="kv"><span class="k">제목</span><span class="v">iOS 27 Finally Fixes Replying to Android Texts</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/" target="_blank" rel="noopener">https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/</a></span></div>
-<p>아이폰에서 안드로이드 문자에 답장할 때 특정 메시지를 지목하는 인라인 답장이 드디어 된다. 지금까지는 답장을 걸어도 상대에게는 그냥 새 문자로 도착했고, 사진에 남긴 이모지 반응도 이모지가 아니라 &quot;누가 무엇에 반응했습니다&quot; 같은 텍스트로 전달됐다. iOS 27은 RCS 유니버설 프로파일 3.0을 지원하면서 이 두 가지를 해결하는데, iOS 18에 들어간 2.4 버전에는 인라인 답장 규격 자체가 없었다. 2026년 9월 출시 예정이며, 보내는 쪽과 받는 쪽 통신사가 모두 지원해야 동작한다(설정 → 앱 → 메시지 → RCS 메시징에서 확인 가능).</p>
-<div class="oneline">📝 블로그 한줄 요약: iOS 27에서 안드로이드 문자에도 &#x27;답장 걸기&#x27;가 제대로 된다 — RCS 3.0을 지원하면서 이모지 반응까지 정상화된다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 아이폰에서 안드로이드 문자 답장, iOS 27부터 제대로 걸린다</div>
-<div class="titleidea">✏️ 제목 후보 2: RCS 3.0이 바꾸는 것 — 인라인 답장과 이모지 반응 정리</div>
-<div class="titleidea">✏️ 제목 후보 3: 초록 말풍선의 마지막 불편, iOS 27이 손보는 문자 기능</div>
-<div class="cat">카메라</div>
-<div class="kv"><span class="k">제목</span><span class="v">We got the Sony A7rVI, RX10V and FX5: Is the A7sIV, A6900 or something else coming next?</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.sonyalpharumors.com/we-got-the-sony-a7rvi-rx10v-and-fx5-is-the-a7siv-a6900-or-something-else-coming-next/" target="_blank" rel="noopener">https://www.sonyalpharumors.com/we-got-the-sony-a7rvi-rx10v-and-fx5-is-the-a7siv-a6900-or-something-else-coming-next/</a></span></div>
-<p>소니가 올해 상반기에 이미 A7rVI, RX10V, FX5 세 기종을 냈고, 다음 차례로 A7sIV나 A6900이 올지 소니알파루머스가 짚었다. 소니의 가장 큰 발표는 통상 하반기에 몰리므로 아직 굵직한 한 방이 남아 있다는 관측이다. 어느 기종이 먼저인지, 발표 시기가 언제인지는 확정된 정보가 없다. (원문 접속 불가, 피드 기준)</p>
-<div class="oneline">📝 블로그 한줄 요약: 소니가 올해 벌써 세 대를 냈는데 진짜 큰 발표는 아직 — A7sIV냐 A6900이냐를 두고 관측이 갈린다.</div>
-<div class="titleidea">✏️ 제목 후보 1: A7rVI·RX10V·FX5 다음은? 소니 하반기 카메라 로드맵 정리</div>
-<div class="titleidea">✏️ 제목 후보 2: 소니의 진짜 발표는 아직 안 나왔다 — A7sIV vs A6900</div>
-<div class="titleidea">✏️ 제목 후보 3: 올해만 세 대, 그래도 기다리는 사람이 많은 소니의 다음 카메라</div>
-<div class="cat">IT 루머</div>
-<div class="kv"><span class="k">제목</span><span class="v">Set up your Galaxy Z Fold 8 with Smart Switch? Your zoom level may be wrong</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.sammobile.com/news/set-up-your-galaxy-z-fold-8-with-smart-switch-your-zoom-level-may-be-wrong/" target="_blank" rel="noopener">https://www.sammobile.com/news/set-up-your-galaxy-z-fold-8-with-smart-switch-your-zoom-level-may-be-wrong/</a></span></div>
-<p>스마트 스위치로 예전 갤럭시에서 Z 폴드8로 설정을 옮기면 &#x27;화면 레이아웃 및 확대/축소&#x27; 값이 삼성 권장치보다 크게 넘어온다. 일반 갤럭시는 이 슬라이더가 가운데가 기본이지만, Z 폴드8은 커버 화면이 5.5인치로 작아서 가운데보다 한 칸 왼쪽이 기본값으로 설계됐다. 그대로 두면 One UI 전반이나 일부 서드파티 앱에서 요소 크기가 어긋나 보인다. 설정 → 디스플레이 → 화면 레이아웃 및 확대/축소에서 한 칸 왼쪽으로 되돌리면 되고, 앱별로는 설정 → 유용한 기능 → Labs → 앱 화면 확대/축소로 따로 조정한다. 삼성이 자동으로 고쳐주는 것은 아니고 옮긴 뒤 직접 확인하라는 안내다.</p>
-<div class="oneline">📝 블로그 한줄 요약: Z 폴드8을 스마트 스위치로 옮겼다면 화면 확대 값을 확인하자 — 기본값이 일반 갤럭시와 달라서 한 칸 어긋난 채로 넘어온다.</div>
-<div class="titleidea">✏️ 제목 후보 1: Z 폴드8 옮기고 화면이 어색하다면, 확대/축소 한 칸을 보세요</div>
-<div class="titleidea">✏️ 제목 후보 2: 스마트 스위치가 안 알려주는 것 — 폴드8의 기본 화면 배율</div>
-<div class="titleidea">✏️ 제목 후보 3: 커버 화면 5.5인치의 함정, 폴드8 화면 설정 바로잡기</div>
-<div class="cat">오디오</div>
-<div class="kv"><span class="k">제목</span><span class="v">AirPods Max 2 just dropped to $429, save $120</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://appleinsider.com/articles/26/08/17/airpods-max-2-just-dropped-to-429-save-120" target="_blank" rel="noopener">https://appleinsider.com/articles/26/08/17/airpods-max-2-just-dropped-to-429-save-120</a></span></div>
-<p>에어팟 맥스 2가 아마존에서 549달러에서 429달러로 120달러 내렸다. 색상은 스타라이트와 퍼플 두 가지에 적용되고, 역대 최저가는 아니고 6월 23~26일 프라임 데이 이후로는 가장 낮은 가격이라고 매체는 적었다. 종료 시점이나 별도 조건은 공지되지 않았다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 에어팟 맥스 2가 429달러 — 프라임 데이 이후 가장 낮은 가격이고 스타라이트·퍼플 두 색이 대상이다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 에어팟 맥스 2, 프라임 데이 이후 최저가 429달러 정리</div>
-<div class="titleidea">✏️ 제목 후보 2: 120달러 내린 에어팟 맥스 2 — 지금이 살 때일까</div>
-<div class="titleidea">✏️ 제목 후보 3: 스타라이트와 퍼플만 내렸다, 에어팟 맥스 2 할인 조건 살펴보기</div>
-<div class="cat">IT 루머</div>
-<div class="kv"><span class="k">제목</span><span class="v">Apple Wallet Driver&#x27;s License Feature to Launch in Four More U.S. States</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/" target="_blank" rel="noopener">https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/</a></span></div>
-<p>애플 월렛 운전면허증이 노스캐롤라이나, 오클라호마, 유타, 버지니아 네 곳에 추가된다. 노스캐롤라이나는 2026년 12월에 모바일 신분증을 시작하고 애플 월렛 지원은 2027년 초로 잡혔으며, 나머지 세 곳은 시기가 공개되지 않았다. 현재 지원 지역은 14개 주와 푸에르토리코를 합쳐 18곳이고 가장 최근 추가는 올해 5월 아칸소였다. 미국 내 250개 이상 공항의 TSA 검색대와 일부 매장·앱에서 쓸 수 있지만 경찰은 인정하지 않고 받지 못하는 곳도 많아 실물 신분증을 함께 들고 다니는 편이 낫다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 애플 월렛 운전면허증이 4개 주 더 늘어 18곳이 된다 — 공항 검색대에서는 쓰이지만 경찰은 아직 인정하지 않는다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 애플 월렛 운전면허증 18곳으로 확대, 어디서 실제로 쓰이나</div>
-<div class="titleidea">✏️ 제목 후보 2: 지갑을 두고 나갈 수 있을까 — 애플 월렛 신분증의 현재 한계</div>
-<div class="titleidea">✏️ 제목 후보 3: TSA는 되고 경찰은 안 된다, 애플 디지털 신분증 정리</div>
-<hr>
-<h3>나머지 소식 (8건)</h3>
-<p>6. [카메라] 코시나가 보이그랜더 녹톤 35mm F1.2 후지 X 마운트에 실버 색상을 추가해 출시했다. (Fuji Rumors)<br><a href="https://www.fujirumors.com/voigtlander-nokton-35mm-f-1-2-silver-released/" target="_blank" rel="noopener">https://www.fujirumors.com/voigtlander-nokton-35mm-f-1-2-silver-released/</a></p>
-<p>7. [IT 루머] 삼성이 미국 온라인 스토어에서 Z 폴드8을 살 때 반납할 기기가 없어도 200달러 크레딧을 주는 한정 프로모션을 시작했다. (SamMobile)<br><a href="https://www.sammobile.com/news/galaxy-z-fold-8-gets-a-200-no-trade-in-credit-heres-what-you-can-use-it-for/" target="_blank" rel="noopener">https://www.sammobile.com/news/galaxy-z-fold-8-gets-a-200-no-trade-in-credit-heres-what-you-can-use-it-for/</a></p>
-<p>8. [IT 루머] 옴디아 조사에서 가민이 2026년 2분기에 점유율을 끌어올리며 스마트워치 시장에서 삼성을 위협하는 경쟁자로 떠올랐다. (SamMobile)<br><a href="https://www.sammobile.com/news/garmin-challenges-samsung-smartwatch-market-share-q2-2026/" target="_blank" rel="noopener">https://www.sammobile.com/news/garmin-challenges-samsung-smartwatch-market-share-q2-2026/</a></p>
-<p>9. [IT 루머] 애플 M4 아이패드 에어가 아마존에서 100~150달러 추가 인하됐다. (AppleInsider)<br><a href="https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns" target="_blank" rel="noopener">https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns</a></p>
-<p>10. [오디오] SHOKZ 오픈닷츠 2 클립온 오픈이어 이어폰이 30달러 내린 169.95달러로 역대 최저가를 찍었다. (SoundGuys)<br><a href="https://www.soundguys.com/shokz-opendots-2-deal-161538/" target="_blank" rel="noopener">https://www.soundguys.com/shokz-opendots-2-deal-161538/</a></p>
-<p>11. [오디오] 얼티밋 이어스 미니롤 블루투스 스피커가 38% 내린 49.99달러 최저가로 돌아왔다. IP67 방수. (SoundGuys)<br><a href="https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/" target="_blank" rel="noopener">https://www.soundguys.com/ultimate-ears-miniroll-speaker-deal-161541/</a></p>
-<p>12. [오디오] 일부 바이닐 음반이 스트리밍판보다 음질이 나쁘거나 아예 수록곡이 빠져 있어 팬들이 반발하고 있다는 기획 기사. (What Hi-Fi?)<br><a href="https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions" target="_blank" rel="noopener">https://www.whathifi.com/hi-fi/vinyl/beware-these-vinyl-albums-are-actually-worse-than-their-streaming-versions</a></p>
-<p>13. [오디오] 어워드 수상 4K 홈시네마 프로젝터가 30% 가까이, 4500파운드 인하됐다. (What Hi-Fi?)<br><a href="https://www.whathifi.com/tv-home-cinema/projectors/i-did-not-expect-this-award-winning-4k-projector-to-drop-by-gbp4500" target="_blank" rel="noopener">https://www.whathifi.com/tv-home-cinema/projectors/i-did-not-expect-this-award-winning-4k-projector-to-drop-by-gbp4500</a></p></div></details><details><summary><span>2026-08-17 21:28</span><span class="meta">새 기사 18건 · 보고서 있음</span></summary><div class="body"><h2>뮤직잇츠 IT 뉴스 모니터링 보고서</h2>
-<div class="li">확인 시각: 2026-08-17 21:28 (KST) 수집분</div>
-<div class="li">확인 범위: 지난 확인(2026-08-17 10:28) 이후 올라온 기사</div>
-<div class="li">수집 18건 → 기기 중심 필터 통과 10건 → 주요 소식 5건 + 한줄 목록 5건</div>
-<div class="li">접속 실패 소스: 9to5Mac, Android Authority (URLError)</div>
-<div class="li">※ 직전 보고서는 8/12 21:25 것이다. 그 사이 8/17 10:17에 77건이 수집됐지만 보고서가 없으므로, <b>8/12~8/17 사이 소식은 이 보고서에 없다.</b> 그쪽은 따로 만들어야 한다.</div>
-<div class="li">※ 애플워치 S11 vs 픽셀워치 5 기사는 원문이 403으로 막혀 주요 소식에서 빼고 한줄 목록에 뒀다.</div>
-<hr>
-<h3>오늘의 주요 소식 (5건)</h3>
-<div class="cat">IT 루머</div>
-<div class="kv"><span class="k">제목</span><span class="v">Samsung could launch a second wide-format foldable alongside Galaxy Z Fold 9</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.sammobile.com/news/samsung-could-launch-second-wide-format-foldable-alongside-galaxy-z-fold-9/" target="_blank" rel="noopener">https://www.sammobile.com/news/samsung-could-launch-second-wide-format-foldable-alongside-galaxy-z-fold-9/</a></span></div>
-<p>전자신문 보도에 따르면 삼성이 2027년에 폴더블을 다섯 종으로 늘리고, 그중 두 개를 갤럭시 Z 폴드9과 이름이 알려지지 않은 또 하나의 와이드형(북 타입) 폴더블로 낸다. 2027년 라인업은 Z 폴드9, Z 폴드9 울트라, Z 플립9, Z 트라이폴드2에 이 미공개 모델이 더해지는 구성이다. 다만 이 두 번째 와이드형이 Z 폴드9보다 윗급인지 아랫급인지, 화면 크기나 사양이 어떤지는 보도에 없다. 4:3 화면비를 처음 쓴 Z 폴드8이 공급이 달릴 만큼 팔린 것이 라인업 확대의 배경으로 지목됐다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 삼성이 2027년 폴더블을 5종으로 늘린다 — Z 폴드9 옆에 정체불명의 와이드형이 하나 더 붙는다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 2027년 삼성 폴더블 5종 시대, Z 폴드9 옆의 그 한 대는 무엇일까</div>
-<div class="titleidea">✏️ 제목 후보 2: 폴드9·폴드9 울트라·플립9·트라이폴드2 그리고 하나 더 — 삼성 폴더블 로드맵 정리</div>
-<div class="titleidea">✏️ 제목 후보 3: Z 폴드8이 만든 자신감, 삼성이 와이드 폴더블을 둘로 늘리는 이유</div>
-<div class="cat">IT 루머</div>
-<div class="kv"><span class="k">제목</span><span class="v">Massive One UI 9.5 leak reveals smoother animations, new fingerprint design, and more</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.sammobile.com/news/massive-one-ui-9-5-leak-smoother-animations-fingerprint-design-camera-ui/" target="_blank" rel="noopener">https://www.sammobile.com/news/massive-one-ui-9-5-leak-smoother-animations-fingerprint-design-camera-ui/</a></span></div>
-<p>팁스터 Fahad Ali Javed가 X에 One UI 9.5의 변경점을 대거 공개했다. 별도 설정 없이 기본 상태에서 홈 화면 전반의 애니메이션이 훨씬 부드러워지고, 지문 등록 화면의 시각 디자인이 새로 바뀐다. 카메라 앱은 빠른 설정이 뷰파인더 위 오버레이로 올라오고 옵션마다 원형 컨테이너와 금색 강조가 들어간다. 여기에 Finder와 구글 검색 바가 더 많은 갤럭시 기기로 확대되고, 같은 삼성 계정을 쓰는 윈도우 노트북과 네이티브 앱 미러링이 추가된다. 배포 시기는 언급되지 않았고, 아직 One UI 9.0 정식판도 배포 전이다.</p>
-<div class="oneline">📝 블로그 한줄 요약: One UI 9.5 유출 — 홈 화면 애니메이션이 기본으로 부드러워지고 카메라 빠른 설정이 뷰파인더 위로 올라온다.</div>
-<div class="titleidea">✏️ 제목 후보 1: One UI 9.5 유출 총정리, 9.0도 안 왔는데 벌써 다음이 보인다</div>
-<div class="titleidea">✏️ 제목 후보 2: 애니메이션·지문·카메라 UI까지 — One UI 9.5가 바꾸는 것들</div>
-<div class="titleidea">✏️ 제목 후보 3: 윈도우 노트북에 갤럭시 앱 미러링, One UI 9.5 새 기능 정리</div>
-<div class="cat">오디오</div>
-<div class="kv"><span class="k">제목</span><span class="v">Sony and Bose beware! Reports suggest Samsung is working on a pair of wireless over-ear headphones</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">루머 단계</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.whathifi.com/headphones/wireless-headphones/is-samsung-about-to-take-on-sony-bose-and-apple-with-its-first-over-ear-headphones-in-11-years" target="_blank" rel="noopener">https://www.whathifi.com/headphones/wireless-headphones/is-samsung-about-to-take-on-sony-bose-and-apple-with-its-first-over-ear-headphones-in-11-years</a></span></div>
-<p>샘모바일이 갤럭시 웨어러블 앱에서 &#x27;Galaxy H1&#x27;이라는 코드명의 오버이어 헤드폰을 발견했다. 삼성이 오버이어를 내는 것은 2015년 &#x27;Level One&#x27; 이후 11년 만이며, 갤럭시 버즈 라인 옆에 놓일 블루투스 프리미엄 제품으로 예상된다. 확인된 것은 블루투스 기반이라는 점뿐이고, ANC와 AI 비서 연동, 버즈4 프로에 들어간 SSC UHQ 고음질 코덱 지원은 아직 추측 단계다. 출시 시기는 공식 발표가 없으나 여러 매체가 2027년을 점치고 있고, 가격대는 에어팟 맥스 2($549)와 소니 WH-1000XM6($450) 사이 어딘가로 관측된다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 삼성이 11년 만에 오버이어 헤드폰을 준비 중 — 코드명 Galaxy H1, 에어팟 맥스와 XM6를 겨냥한다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 삼성이 헤드폰을 다시 만든다, 11년 만의 오버이어 &#x27;Galaxy H1&#x27; 정리</div>
-<div class="titleidea">✏️ 제목 후보 2: 에어팟 맥스 vs XM6 사이를 노린다? 갤럭시 H1 루머 총정리</div>
-<div class="titleidea">✏️ 제목 후보 3: 버즈만으로는 부족했다 — 삼성 오버이어 복귀가 의미하는 것</div>
-<div class="cat">오디오</div>
-<div class="kv"><span class="k">제목</span><span class="v">Monitor Audio updates its popular Silver range of speakers to “set a new benchmark for high-fidelity performance at its price”</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">공식 확인됨</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.whathifi.com/speakers/hi-fi-speakers/monitor-audio-updates-its-popular-silver-range-of-speakers-to-set-a-new-benchmark-for-high-fidelity-performance-at-its-price" target="_blank" rel="noopener">https://www.whathifi.com/speakers/hi-fi-speakers/monitor-audio-updates-its-popular-silver-range-of-speakers-to-set-a-new-benchmark-for-high-fidelity-performance-at-its-price</a></span></div>
-<p>모니터오디오가 실버 시리즈의 8세대인 Silver Series 8G를 발표했다. 플로어스탠딩 Silver 500 8G·300 8G, 스탠드마운트 100 8G·50 8G, 센터 스피커, 돌비 애트모스용 AMS 8G에 2021년 7G에는 없던 벽걸이형 On-Wall 8G까지 총 일곱 모델 구성이다. 미드·베이스 드라이버에 콘 형상을 바꿔 강성을 높인 RST III를 넣고, 1982년부터 써온 C-CAM 골드 돔 트위터에는 후면 벤트 챔버와 새 쇼팅 링을 더했으며, 크로스오버 부품 등급과 배스 리플렉스 포트 지름·플레어도 손봤다. 이번 달부터 하이 글로스 블랙·새틴 화이트·유러피언 월넛 세 가지 마감으로 판매되며 가격은 Silver 50 8G 800파운드부터 Silver 500 8G 2,650파운드(쌍)까지다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 모니터오디오 실버 8세대 공개 — 벽걸이 모델이 새로 들어간 7종 구성, 80만원대부터 시작한다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 모니터오디오 실버 8G 공개, 이번 세대에서 달라진 것 정리</div>
-<div class="titleidea">✏️ 제목 후보 2: 벽걸이까지 7종 — 실버 시리즈 8G 라인업과 가격 총정리</div>
-<div class="titleidea">✏️ 제목 후보 3: 40년 된 골드 돔 트위터를 또 손봤다, 실버 8G 기술 변화 뜯어보기</div>
-<div class="cat">오디오</div>
-<div class="kv"><span class="k">제목</span><span class="v">Four years after its untimely demise, Spotify Car Thing is back, for free, and with absolutely no help from the streaming giant itself</span></div>
-<div class="kv"><span class="k">사실 여부</span><span class="v">공식 확인됨</span></div>
-<div class="kv"><span class="k">출처</span><span class="v"><a href="https://www.techradar.com/audio/four-years-after-its-untimely-demise-spotify-car-thing-is-back-for-free-and-with-absolutely-no-help-from-the-streaming-giant-itself" target="_blank" rel="noopener">https://www.techradar.com/audio/four-years-after-its-untimely-demise-spotify-car-thing-is-back-for-free-and-with-absolutely-no-help-from-the-streaming-giant-itself</a></span></div>
-<p>스포티파이가 단종시켜 벽돌이 된 차량용 기기 카싱(Car Thing)이 스포티파이와 무관하게 되살아났다. 한 엔지니어가 몇 달에 걸쳐 만든 &#x27;Mira&#x27;라는 소프트웨어를 깃허브에서 내려받아 넣으면 차 안에서 다시 쓸 수 있다. 기기를 휴대폰이나 PC에 연결해 구동하는 방식이며, 스포티파이 앱 외에 따로 영구 설치할 것은 없다. 스포티파이는 2022년 단종을 알리고 이후 기기를 완전히 죽였는데, 그때 화면에 뜬 &#x27;카싱이 단종됩니다&#x27; 팝업을 기억하는 이용자가 적지 않다.</p>
-<div class="oneline">📝 블로그 한줄 요약: 버려진 스포티파이 카싱이 팬 개발자의 &#x27;Mira&#x27;로 부활 — 깃허브에서 무료로 받는다.</div>
-<div class="titleidea">✏️ 제목 후보 1: 스포티파이가 죽인 카싱, 팬이 살려냈다 — Mira 설치와 사용법</div>
-<div class="titleidea">✏️ 제목 후보 2: 벽돌이 된 기기를 되살리는 법, 카싱 부활 프로젝트 정리</div>
-<div class="titleidea">✏️ 제목 후보 3: 제조사가 끝냈다고 끝이 아니다 — 카싱으로 보는 기기 수명 이야기</div>
-<hr>
-<h3>나머지 새 소식 (5건) — 자세히 볼 번호를 골라 말해주세요</h3>
-<p>6. [IT 루머] 아이폰 울트라가 나와도 갤럭시 Z 폴드8 판매에 큰 타격은 없을 것이라는 분석 (SamMobile)<br><a href="https://www.sammobile.com/news/iphone-ultra-launch-wont-drastically-affect-galaxy-z-fold-8-sales/" target="_blank" rel="noopener">https://www.sammobile.com/news/iphone-ultra-launch-wont-drastically-affect-galaxy-z-fold-8-sales/</a></p>
-<p>7. [IT 루머] 콜 오브 듀티: MW4가 삼성 HDR10+ GAMING 채택 — TV·모니터·사운드바·와이파이 스피커 연계 (SamMobile)<br><a href="https://www.sammobile.com/news/call-of-duty-modern-warfare-4-hdr10-gaming-samsung/" target="_blank" rel="noopener">https://www.sammobile.com/news/call-of-duty-modern-warfare-4-hdr10-gaming-samsung/</a></p>
-<p>8. [IT 루머] 애플워치 시리즈11 vs 구글 픽셀워치5 스펙 비교 — 가격대가 비슷해 정면 경쟁 (AppleInsider)<br><a href="https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared" target="_blank" rel="noopener">https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared</a></p>
-<p>9. [오디오] 삼성 뮤직 스튜디오 7, 기간 한정 40% 할인 — 애트모스 사운드바와 같은 오디오랩 개발 (What Hi-Fi?)<br><a href="https://www.whathifi.com/speakers/wireless-speakers/the-music-studio-7-represents-a-new-breed-of-samsung-hi-fi-and-its-now-40-percent-off-for-a-limited-time" target="_blank" rel="noopener">https://www.whathifi.com/speakers/wireless-speakers/the-music-studio-7-represents-a-new-breed-of-samsung-hi-fi-and-its-now-40-percent-off-for-a-limited-time</a></p>
-<p>10. [카메라] 소니 FX5 리뷰 모음 공개 — DVF-EL1 뷰파인더·XLR-H2 핸들 유닛도 함께 예약 중 (Sony Alpha Rumors)<br><a href="https://www.sonyalpharumors.com/new-sony-fx5-reviews/" target="_blank" rel="noopener">https://www.sonyalpharumors.com/new-sony-fx5-reviews/</a></p></div></details><details><summary><span>2026-08-17 10:17</span><span class="meta">새 기사 77건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-12 21:25</span><span class="meta">새 기사 48건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-11 22:29</span><span class="meta">새 기사 46건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-11 12:14</span><span class="meta">새 기사 74건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details></section><section id="blog"><a class="act go wide" href="cloud/blog/">휴대폰에서 돌린 결과 보기 →</a><p class="note">폰에서 도구 실행 버튼을 눌러 나온 결과는 PC 결과와 따로 쌓입니다.</p><details><summary><span>1. 키워드 발굴</span><span class="meta">23분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">203</span><span class="tl">분석한 키워드</span></div><div class="tile"><span class="tv">에어팟</span><span class="tl">기준 키워드</span></div><div class="tile"><span class="tv">2026-01-01</span><span class="tl">집계 시작</span></div></div><h4 class="vh">기회점수 상위 15개</h4><div class="vrow"><div class="vhead"><span class="vname">아이폰 18</span><span class="vnum">56.3</span></div><div class="bar "><i style="width:100.0%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ">AI 인용 낮음(뉴스형)</span></div></div><div class="vrow"><div class="vhead"><span class="vname">사진 용량 줄이기</span><span class="vnum">56.1</span></div><div class="bar "><i style="width:99.6%"></i></div><div class="vmeta"><span class="chip down">식는 중</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">노이즈캔슬링 부작용</span><span class="vnum">52.8</span></div><div class="bar "><i style="width:93.8%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">블루투스 코덱 차이</span><span class="vnum">52.3</span></div><div class="bar "><i style="width:92.9%"></i></div><div class="vmeta"><span class="chip up">상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">와이파이 느린 이유</span><span class="vnum">52.3</span></div><div class="bar "><i style="width:92.9%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">번인 현상 원인</span><span class="vnum">52.2</span></div><div class="bar "><i style="width:92.7%"></i></div><div class="vmeta"><span class="chip up">상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">스마트폰 발열 원인</span><span class="vnum">52.2</span></div><div class="bar "><i style="width:92.7%"></i></div><div class="vmeta"><span class="chip down">식는 중</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">이어폰 청소 방법</span><span class="vnum">52.2</span></div><div class="bar "><i style="width:92.7%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">노이즈캔슬링 원리</span><span class="vnum">51.8</span></div><div class="bar "><i style="width:92.0%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">헤드폰 귀 아픈 이유</span><span class="vnum">51.3</span></div><div class="bar "><i style="width:91.1%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">이어폰 오래 끼면</span><span class="vnum">50.5</span></div><div class="bar "><i style="width:89.7%"></i></div><div class="vmeta"><span class="chip up">급상승</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">저장공간 부족할 때</span><span class="vnum">50.2</span></div><div class="bar "><i style="width:89.2%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">아이폰 저장공간 부족</span><span class="vnum">50.0</span></div><div class="bar "><i style="width:88.8%"></i></div><div class="vmeta"><span class="chip ">유지</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">조리개 뜻</span><span class="vnum">49.9</span></div><div class="bar "><i style="width:88.6%"></i></div><div class="vmeta"><span class="chip ">하락</span><span class="chip ai">AI 인용 높음</span></div></div><div class="vrow"><div class="vhead"><span class="vname">5G LTE 차이</span><span class="vnum">49.8</span></div><div class="bar "><i style="width:88.5%"></i></div><div class="vmeta"><span class="chip down">식는 중</span><span class="chip ai">AI 인용 높음</span></div></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
-
-======================================================================
-
-  키워드 발굴 리포트 — 지금 어떤 검색어로 쓸까
-
-  2026-01-01 ~ 2026-08-17 · 키워드 203개
-
-  기회점수 = 수요(40) + 경쟁낮음(30) + AI적합(30)
-
-======================================================================
-
-
-
-■ 이번 주 이거 쓰세요 (기회점수 TOP 15)
-
-  키워드                         점수  상태       AI인용      
-
-  --------------------------------------------------------------
-
-  아이폰 18                    56.3  유지       낮음(뉴스형)   
-
-  사진 용량 줄이기                 56.1  식는 중     높음        
-
-  노이즈캔슬링 부작용                52.8  유지       높음        
-
-  블루투스 코덱 차이                52.3  상승       높음        
-
-  와이파이 느린 이유                52.3  유지       높음        
-
-  번인 현상 원인                  52.2  상승       높음        
-
-  스마트폰 발열 원인                52.2  식는 중     높음        
-
-  이어폰 청소 방법                 52.2  유지       높음        
-
-  노이즈캔슬링 원리                 51.8  유지       높음        
-
-  헤드폰 귀 아픈 이유               51.3  유지       높음        
-
-  이어폰 오래 끼면                 50.5  급상승      높음        
-
-  저장공간 부족할 때                50.2  유지       높음        
-
-  아이폰 저장공간 부족               50.0  유지       높음        
-
-  조리개 뜻                     49.9  하락       높음        
-
-  5G LTE 차이                 49.8  식는 중     높음        
-
-
-
-■ 왜 이 점수인가 (TOP 15 근거)
-
-  키워드                       점수 =  수요  + 경쟁낮음 + AI    (경쟁난이도 %)
-
-  ------------------------------------------------------------------
-
-  아이폰 18                  56.3 =  40.0  +   16.3   +   0    (45.8)
-
-  사진 용량 줄이기               56.1 =   8.3  +   17.8   +  30    (40.8)
-
-  노이즈캔슬링 부작용              52.8 =   0.0  +   22.8   +  30    (24.1)
-
-  블루투스 코덱 차이              52.3 =   2.4  +   19.9   +  30    (33.7)
-
-  와이파이 느린 이유              52.3 =   0.4  +   21.9   +  30    (27.0)
-
-  번인 현상 원인                52.2 =   3.4  +   18.8   +  30    (37.5)
-
-  스마트폰 발열 원인              52.2 =   3.8  +   18.3   +  30    (38.8)
-
-  이어폰 청소 방법               52.2 =   3.1  +   19.1   +  30    (36.5)
-
-  노이즈캔슬링 원리               51.8 =   1.1  +   20.8   +  30    (30.8)
-
-  헤드폰 귀 아픈 이유             51.3 =   0.5  +   20.9   +  30    (30.5)
-
-  이어폰 오래 끼면               50.5 =   0.4  +   20.2   +  30    (32.8)
-
-  저장공간 부족할 때              50.2 =   1.9  +   18.3   +  30    (39.0)
-
-  아이폰 저장공간 부족             50.0 =   1.9  +   18.2   +  30    (39.5)
-
-  조리개 뜻                   49.9 =   0.0  +   19.9   +  30    (33.8)
-
-  5G LTE 차이               49.8 =   0.8  +   19.0   +  30    (36.7)
-
-
-
-■ 지금 뜨는 정보형 (상승 + AI 인용 높음)
-
-  이어폰 끊김 원인                +314%  관심도 0.02  급상승  (신호 약함)
-
-  커널형 오픈형 차이                +86%  관심도 0.05  급상승  (신호 약함)
-
-  이어폰 오래 끼면                 +74%  관심도 0.01  급상승  (신호 약함)
-
-  블루투스 코덱 차이                +46%  관심도 0.20  상승
-
-  번인 현상 원인                  +35%  관심도 0.43  상승
-
-
-
-■ 연중 언제 뜨나 (계절성 강한 것부터)
-
-  * 데이터가 한 해치뿐이라 &#x27;매년&#x27;이라 말할 수 없습니다. &#x27;올해는 이랬다&#x27;로만 읽으세요.
-
-  * ← 표시는 그 달이 아직 안 지나서 이번에 노려볼 수 있다는 뜻입니다.
-
-  삼성 언팩                  올해 2월·7월   높았음 (평균 대비 +392%)
-
-  애플 신제품 발표              올해 2월·3월   높았음 (평균 대비 +304%)
-
-  애플 이벤트                 올해 2월·3월   높았음 (평균 대비 +258%)
-
-  애플 가격 인상               올해 6월·7월   높았음 (평균 대비 +246%)
-
-  맥북 신제품                 올해 2월·3월   높았음 (평균 대비 +236%)
-
-  갤럭시 신제품                올해 2월·7월   높았음 (평균 대비 +189%)
-
-  애플 신제품                 올해 2월·3월   높았음 (평균 대비 +178%)
-
-  갤럭시 S27                올해 6월·7월   높았음 (평균 대비 +166%)
-
-  iOS 업데이트               올해 1월·2월   높았음 (평균 대비 +123%)
-
-  갤럭시 폴드                 올해 1월·7월   높았음 (평균 대비 +113%)
-
-  공장초기화 방법               올해 1월·3월   높았음 (평균 대비 +112%)
-
-  샤오미 이어폰 후기             올해 1월·2월   높았음 (평균 대비 +101%)
-
-
-
-■ 1년 최고치 대비 지금 어디쯤
-
-  키워드                      최고대비  지금 위치
-
-  --------------------------------------------------------
-
-  입문용 턴테이블                 115%  ████████████████████
-
-  아이폰 폴더블                  115%  ████████████████████
-
-  아이폰 18                   112%  ████████████████████
-
-  게이밍 헤드셋                  106%  ████████████████████
-
-  이어폰 오래 끼면                100%  ████████████████████
-
-  아이폰 18 출시일                98%  ████████████████████
-
-  이어폰 청소 방법                 96%  ███████████████████·
-
-  애플워치 신제품                  96%  ███████████████████·
-
-  오픈형 이어폰 추천                92%  ██████████████████··
-
-  LP 추천                     91%  ██████████████████··
-
-  번인 현상 원인                  89%  ██████████████████··
-
-  저장공간 부족할 때                87%  █████████████████···
-
-
-
-■ 수요는 있는데 경쟁이 빡센 것 (각도를 틀거나 롱테일로)
-
-  갤럭시 폴드                 경쟁 75.0%  (최근30일 95.0% · 장악 25.0% · 문서 404,548건)
-
-  아이폰 폴더블                경쟁 57.0%  (최근30일 57.5% · 장악 27.5% · 문서 111,020건)
-
-  이어폰 임피던스 뜻             경쟁 56.4%  (최근30일 55.0% · 장악 55.0% · 문서 1,255건)
-
-  갤럭시 신제품                경쟁 56.2%  (최근30일 65.0% · 장악 12.5% · 문서 247,289건)
-
-  애플 신제품 발표              경쟁 55.8%  (최근30일 60.0% · 장악 20.0% · 문서 91,684건)
-
-
-
-■ 검색이 거의 없는 표현 (말을 바꿔야 함)
-
-  · LDAC 이란
-
-  · 침압 조절 방법
-
-  · LP 리마스터란
-
-  · 하이레스 오디오란
-
-  · 바이닐 음질 좋은 이유
-
-  · 턴테이블 원리
-
-  · LP 튀는 이유
-
-  · 이어폰 번인이란
-
-  · LC3 코덱
-
-  · aptX 어댑티브
-
-  · 밸런스드 아마추어란
-
-  · 음질 좋은 음원
-
-  · 블루라이트 눈 피로
-
-  · LP 지지직 소리
-
-  · 와이파이 6 차이
-
-  ... 외 118개 (엑셀·CSV에 전부 있습니다)
-
-
-
-■ 그래서 뭘 쓰나 (기회점수 순 처방)
-
-  · 아이폰 18                 검색은 되지만 AI 인용은 어려운 형태입니다(뉴스·상업형). 정보형으로 각도를 트세요.
-
-  · 사진 용량 줄이기              관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
-
-  · 노이즈캔슬링 부작용             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 블루투스 코덱 차이             올라오는 중입니다. 지금 써두면 정점에 맞춰집니다.
-
-  · 와이파이 느린 이유             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 번인 현상 원인               올라오는 중입니다. 지금 써두면 정점에 맞춰집니다.
-
-  · 스마트폰 발열 원인             관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
-
-  · 이어폰 청소 방법              1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 노이즈캔슬링 원리              1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 헤드폰 귀 아픈 이유            1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 이어폰 오래 끼면              올랐지만 원래 검색량이 아주 작아 흔들린 것일 수 있습니다. 몇 주 더 보세요.
-
-  · 저장공간 부족할 때             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 아이폰 저장공간 부족            1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 조리개 뜻                  관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
-
-  · 5G LTE 차이              관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
-
-  · 스마트폰 느려지는 이유           관심이 식는 중이라 급하지 않습니다. 우선순위 뒤로.
-
-  · 배터리 성능 저하 이유           1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 커널형 오픈형 차이             올랐지만 원래 검색량이 아주 작아 흔들린 것일 수 있습니다. 몇 주 더 보세요.
-
-  · 미러리스 DSLR 차이           1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-  · 골전도 이어폰 원리             1년 내내 꾸준한 정보형입니다. AI 인용 노리기 딱 좋은 자리 — 아무 때나 쓰세요.
-
-
-
-  * 관심도는 데이터랩 상대값이라 &#x27;같은 실행 안에서만&#x27; 비교할 수 있습니다.
-
-  * 경쟁은 sim 정렬 상위 40건 표본이라 거친 어림값입니다. 방향만 보세요.
-
-
-
-저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\1. 키워드 발굴\2026-08-18\20시31분/추천.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\1. 키워드 발굴\2026-08-18\20시31분/추천_추천.csv
-
-
-
-</pre></details></div></details><details><summary><span>2. 제목 진단</span><span class="meta">19분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">3</span><span class="tl">진단한 제목</span></div><div class="tile"><span class="tv">40</span><span class="tl">비교한 상위권 글</span></div></div><div class="vcard"><div class="vhead"><span class="vname">노이즈캔슬링 원리</span><span class="vnum big">90</span></div><p class="vtitle">노이즈캔슬링 원리 완벽 정리, 왜 조용해질까</p><div class="bar "><i style="width:90.0%"></i></div><div class="axis"><div class="vhead"><span class="aname">길이</span><span class="anum">15 / 25</span></div><div class="bar warn"><i style="width:60.0%"></i></div><p class="awhy">24자 — 나쁘진 않지만 주력 구간(29~39자)으로 맞추면 더 안전.</p></div><div class="axis"><div class="vhead"><span class="aname">키워드 위치</span><span class="anum">20 / 20</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">&#x27;노이즈캔슬링 원리&#x27;를 앞부분에 뒀습니다 — 검색 노출에 가장 유리합니다.</p></div><div class="axis"><div class="vhead"><span class="aname">유형</span><span class="anum">25 / 25</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">정보형 제목 — 상위권 다수(정보형)와 같은 결.</p></div><div class="axis"><div class="vhead"><span class="aname">훅 단어</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">훅 단어가 들어 있습니다.</p></div><div class="axis"><div class="vhead"><span class="aname">숫자·물음표</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">특이사항 없음</p></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">원리</span><span class="chip ">차이</span><span class="chip ">뜻</span><span class="chip ">완벽</span><span class="chip ">추천</span><span class="chip ">후기</span></p><p class="vsub">상위권 제목 길이는 33자 근처입니다 (주력 구간 29~39자).</p><p class="vsub">이렇게 바꿔보세요 (권장 33자)</p><div class="sug"><span>노이즈캔슬링 원리, 쉽게 정리했습니다</span><span class="slen">20자</span></div><div class="sug"><span>노이즈캔슬링 원리 원리부터 차근차근 알려드릴게요</span><span class="slen">26자</span></div><div class="sug"><span>노이즈캔슬링 원리 총정리 — 핵심만 빠르게</span><span class="slen">23자</span></div><div class="sug"><span>노이즈캔슬링 원리 제대로 이해하기, 원인과 해결까지</span><span class="slen">28자</span></div></div><div class="vcard"><div class="vhead"><span class="vname">이어폰 청소 방법</span><span class="vnum big">70</span></div><p class="vtitle">에어팟 청소 이렇게 하면 됩니다</p><div class="bar "><i style="width:70.0%"></i></div><div class="axis"><div class="vhead"><span class="aname">길이</span><span class="anum">15 / 25</span></div><div class="bar warn"><i style="width:60.0%"></i></div><p class="awhy">17자 — 나쁘진 않지만 주력 구간(26~35자)으로 맞추면 더 안전.</p></div><div class="axis"><div class="vhead"><span class="aname">키워드 위치</span><span class="anum">0 / 20</span></div><div class="bar down"><i style="width:0.0%"></i></div><p class="awhy">제목에 &#x27;이어폰 청소 방법&#x27;이 통째로 안 들어갔습니다. 앞부분에 그대로 넣으세요.</p></div><div class="axis"><div class="vhead"><span class="aname">유형</span><span class="anum">25 / 25</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">정보형 제목 — 상위권 다수(정보형)와 같은 결.</p></div><div class="axis"><div class="vhead"><span class="aname">훅 단어</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">훅 단어가 들어 있습니다.</p></div><div class="axis"><div class="vhead"><span class="aname">숫자·물음표</span><span class="anum">15 / 15</span></div><div class="bar "><i style="width:100.0%"></i></div><p class="awhy">특이사항 없음</p></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">방법</span><span class="chip ">해결</span><span class="chip ">후기</span><span class="chip ">정리</span><span class="chip ">이유</span><span class="chip ">내돈내산</span></p><p class="vsub">상위권 제목 길이는 31자 근처입니다 (주력 구간 26~35자).</p><p class="vsub">이렇게 바꿔보세요 (권장 31자)</p><div class="sug"><span>이어폰 청소 방법, 쉽게 정리했습니다</span><span class="slen">20자</span></div><div class="sug"><span>이어폰 청소 방법 원리부터 차근차근 알려드릴게요</span><span class="slen">26자</span></div><div class="sug"><span>이어폰 청소 방법 총정리 — 핵심만 빠르게</span><span class="slen">23자</span></div><div class="sug"><span>이어폰 청소 방법 제대로 이해하기, 원인과 해결까지</span><span class="slen">28자</span></div></div><div class="vcard"><div class="vhead"><span class="vname">LP 보관 방법</span><span class="vnum big">—</span></div><p class="vtitle"></p><div class="bar "><i style="width:0.0%"></i></div><p class="vsub">상위권이 자주 쓰는 말: <span class="chip ">추천</span><span class="chip ">방법</span><span class="chip ">후기</span><span class="chip ">정리</span><span class="chip ">고민</span><span class="chip ">팁</span></p><p class="vsub">상위권 제목 길이는 38자 근처입니다 (주력 구간 32~41자).</p></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
-
-==================================================================
-
-  키워드: 노이즈캔슬링 원리   (상위 40개 문서 기준)
-
-==================================================================
-
-
-
-■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
-
-  길이        주력 29~39자 (중앙값 33자, 평균 32.7자)
-
-  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
-
-              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
-
-  유형        다수는 정보형  (정보형 22 / 상업형 10 / 기타 8)
-
-  자주 쓰는 훅 원리, 차이, 뜻, 완벽, 추천
-
-  숫자 32% · 물음표 18% · 연도 10% · 영문 25%
-
-  최근30일 글 25%  ·  상위 장악 4건
-
-
-
-■ 상위권이 쓰는 구분자
-
-    쉼표 ,       ████················ 7/40
-
-    느낌표 !      ████················ 7/40
-
-    물음표 ?      ████················ 7/40
-
-    대괄호 []     ██·················· 3/40
-
-    소괄호 ()     ···················· 1/40
-
-    콜론 :       ···················· 1/40
-
-
-
-■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
-
-    노이즈(17), 캔슬링(16), 이어폰(12), 에어팟(6), 4(5), 무선(4), anc(4), 프로(4), 무선이어폰(4), 2026(4), 추천(4), 차이점(3)
-
-
-
-■ 자주 붙어 나오는 두 낱말
-
-    노이즈 캔슬링(16), 노이즈캔슬링 원리(4), 무선 이어폰(3), 캔슬링 이어폰(3), 이어폰 노이즈(2), anc 원리(2), 노이즈캔슬링 이어폰(2), 액티브 노이즈(2)
-
-
-
-■ 상위권 글이 언제 쓰였나
-
-    30일 이내    █████··············· 10/40
-
-    90일 이내    ████████············ 17/40
-
-    1년 이내     ██████·············· 13/40
-
-    가장 최근 글: 2026-08-08
-
-
-
-■ 이 키워드를 장악한 블로그 (2건 이상)
-
-    · highandlow007님의블로그 (2건)
-
-    · 수적천석 (2건)
-
-
-
-■ 내 제목 진단
-
-  &quot;노이즈캔슬링 원리 완벽 정리, 왜 조용해질까&quot;  (24자)
-
-  ─ 제목 점수 90 / 100 · 상위권 관습에 잘 맞습니다
-
-
-
-  길이          ████████████········ 15/25
-
-       24자 — 나쁘진 않지만 주력 구간(29~39자)으로 맞추면 더 안전.
-
-  키워드 위치      ████████████████████ 20/20
-
-       &#x27;노이즈캔슬링 원리&#x27;를 앞부분에 뒀습니다 — 검색 노출에 가장 유리합니다.
-
-  유형          ████████████████████ 25/25
-
-       정보형 제목 — 상위권 다수(정보형)와 같은 결.
-
-  훅 단어        ████████████████████ 15/15
-
-       훅 단어가 들어 있습니다.
-
-  숫자·물음표      ████████████████████ 15/15
-
-       특이사항 없음
-
-
-
-■ 이렇게 고쳐보세요 (표준형에 맞춘 제목안)
-
-        노이즈캔슬링 원리, 쉽게 정리했습니다  (20자)
-
-        노이즈캔슬링 원리 원리부터 차근차근 알려드릴게요  (26자)
-
-        노이즈캔슬링 원리 총정리 — 핵심만 빠르게  (23자)
-
-        노이즈캔슬링 원리 제대로 이해하기, 원인과 해결까지  (28자)
-
-
-
-  ─ 상위권 제목 예시 (참고)
-
-     · 노이즈캔슬링 뜻 일반 이어폰과 차이점 및 원리 이해하기
-
-     · 무선 이어폰 노이즈 캔슬링 기능이 귀 건강에 미치는 영향
-
-     · 노이즈캔슬링 기능 꼭 있어야 하나? ANC 원리와 뜻
-
-     · 노이즈캔슬링 원리 외부 소음을 어떻게 차단하는걸까
-
-     · [알쓸신잡] 노이즈캔슬링
-
-
-
-  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
-
-
-
-
-
-==================================================================
-
-  키워드: 이어폰 청소 방법   (상위 40개 문서 기준)
-
-==================================================================
-
-
-
-■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
-
-  길이        주력 26~35자 (중앙값 31자, 평균 30.8자)
-
-  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
-
-              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
-
-  유형        다수는 정보형  (정보형 28 / 상업형 8 / 기타 4)
-
-  자주 쓰는 훅 방법, 해결, 후기, 정리, 이유
-
-  숫자 32% · 물음표 18% · 연도 0% · 영문 20%
-
-  최근30일 글 30%  ·  상위 장악 4건
-
-
-
-■ 상위권이 쓰는 구분자
-
-    쉼표 ,       ██████·············· 13/40
-
-    물음표 ?      ████················ 7/40
-
-    느낌표 !      ██·················· 5/40
-
-    대괄호 []     ···················· 1/40
-
-    소괄호 ()     ···················· 1/40
-
-    파이프 |      ···················· 1/40
-
-
-
-■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
-
-    한쪽(8), 초기화(7), 에어팟(7), 다이소(5), 들릴(5), 후기(4), 블루투스(4), 페어링(3), 키보드(3), 무선(3), 청소하(3), 무선이어폰(3)
-
-
-
-■ 자주 붙어 나오는 두 낱말
-
-    이어폰 한쪽(4), 한쪽 들릴(4), 블루투스 이어폰(4), 초기화 방법(3), 해결 방법(3), 무선 이어폰(2), 내돈내산 후기(2), 에어팟 충전(2)
-
-
-
-■ 상위권 글이 언제 쓰였나
-
-    30일 이내    ██████·············· 12/40
-
-    90일 이내    ██████·············· 13/40
-
-    1년 이내     ████████············ 15/40
-
-    가장 최근 글: 2026-08-11
-
-
-
-■ 이 키워드를 장악한 블로그 (2건 이상)
-
-    · nam_HOW (2건)
-
-    · 차밍이와 함께하는 IT 꿀팁 ♡ (2건)
-
-
-
-■ 내 제목 진단
-
-  &quot;에어팟 청소 이렇게 하면 됩니다&quot;  (17자)
-
-  ─ 제목 점수 70 / 100 · 무난합니다 — 몇 가지만 손보세요
-
-
-
-  길이          ████████████········ 15/25
-
-       17자 — 나쁘진 않지만 주력 구간(26~35자)으로 맞추면 더 안전.
-
-  키워드 위치      ····················  0/20
-
-       제목에 &#x27;이어폰 청소 방법&#x27;이 통째로 안 들어갔습니다. 앞부분에 그대로 넣으세요.
-
-  유형          ████████████████████ 25/25
-
-       정보형 제목 — 상위권 다수(정보형)와 같은 결.
-
-  훅 단어        ████████████████████ 15/15
-
-       훅 단어가 들어 있습니다.
-
-  숫자·물음표      ████████████████████ 15/15
-
-       특이사항 없음
-
-
-
-■ 이렇게 고쳐보세요 (표준형에 맞춘 제목안)
-
-        이어폰 청소 방법, 쉽게 정리했습니다  (20자)
-
-      ✓ 이어폰 청소 방법 원리부터 차근차근 알려드릴게요  (26자)
-
-        이어폰 청소 방법 총정리 — 핵심만 빠르게  (23자)
-
-      ✓ 이어폰 청소 방법 제대로 이해하기, 원인과 해결까지  (28자)
-
-
-
-  ─ 상위권 제목 예시 (참고)
-
-     · QCY T13 초기화 방법 | 페어링 리셋과 PC 연결 순서
-
-     · 에어팟 청소법 다이소 키트 후기
-
-     · 이걸 왜 이제 샀지? 다이소 꿀템 키보드 청소키트
-
-     · 무선 이어폰 한쪽 안 들릴 때 해결하는 꿀 팁 방출
-
-     · 34평 아파트 물걸레밀대 꼿꼿하고 우아하게 청소하는 바로톡 밀대걸....
-
-
-
-  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
-
-
-
-
-
-==================================================================
-
-  키워드: LP 보관 방법   (상위 40개 문서 기준)
-
-==================================================================
-
-
-
-■ 이 키워드의 &#x27;이겨온 제목 표준형&#x27;
-
-  길이        주력 32~41자 (중앙값 38자, 평균 36.0자)
-
-  키워드 위치  상위권 상당수가 키워드를 그대로 안 쓰고 변형해 씀
-
-              (그래도 내 글엔 앞부분에 넣는 게 안전합니다)
-
-  유형        다수는 기타  (기타 22 / 상업형 11 / 정보형 6 / 뉴스형 1)
-
-  자주 쓰는 훅 추천, 방법, 후기, 정리, 고민
-
-  숫자 30% · 물음표 8% · 연도 8% · 영문 65%
-
-  최근30일 글 28%  ·  상위 장악 11건
-
-
-
-■ 상위권이 쓰는 구분자
-
-    쉼표 ,       ██████·············· 13/40
-
-    느낌표 !      ██████·············· 13/40
-
-    대괄호 []     ██·················· 4/40
-
-    콜론 :       ██·················· 3/40
-
-    하이픈 -      ██·················· 3/40
-
-    물음표 ?      ██·················· 3/40
-
-
-
-■ 상위권 제목에 자주 같이 나오는 낱말 (키워드 자체는 뺌)
-
-    추천(5), 감성(5), 턴테이블(4), 카페(4), 에어컨(3), 후기(3), 수납장(2), 청소(2), 정전기(2), 먼지(2), 6(2), 파주(2)
-
-
-
-■ 자주 붙어 나오는 두 낱말
-
-    lp 감성(4), lp 수납장(2), 카페 추천(2), 캐리어 에어컨(2), 에어컨 냉난방기(2), 냉난방기 쾌적한(2), 쾌적한 실내(2), 실내 공기(2)
-
-
-
-■ 상위권 글이 언제 쓰였나
-
-    30일 이내    ██████·············· 11/40
-
-    90일 이내    ████················ 9/40
-
-    1년 이내     ██████████·········· 20/40
-
-    가장 최근 글: 2026-08-17
-
-
-
-■ 이 키워드를 장악한 블로그 (2건 이상)
-
-    · 쇼핑고밍! (7건)
-
-    · Groove Vinyl Archive (2건)
-
-    · 에르고스토리(ErgoStory) (2건)
-
-
-
-■ (제목을 안 적어서 표준형만 보여드립니다)
-
-  이 표준형에 맞춰 제목을 지으면 됩니다. 제안 제목:
-
-        LP 보관 방법, 쉽게 정리했습니다  (19자)
-
-        LP 보관 방법 원리부터 차근차근 알려드릴게요  (25자)
-
-        LP 보관 방법 총정리 — 핵심만 빠르게  (22자)
-
-        LP 보관 방법 제대로 이해하기, 원인과 해결까지  (27자)
-
-
-
-  ─ 상위권 제목 예시 (참고)
-
-     · lp 수납장 ｜ 어떻게 보관함? 똑똑한 보관법!
-
-     · LP청소 브러쉬 추천 정전기 제거와 먼지 청소를 한번에! 퓨어그루브....
-
-     · [턴테이블 입문 11편] LP 관리와 보관 방법 - 먼지, 정전기, 세척과 속....
-
-     · 금천구 독산동 카페 추천 | LP 감성에 티라미수까지, TINYL(타이닐) 후....
-
-     · 픽처디스크 &amp; 리퀴드 lp 음질은? ｜ 보관하는 방법까지.
-
-
-
-  * 검색 API sim 정렬 기준입니다. 통합검색 VIEW 탭 순위가 아닙니다.
-
-
-
-==================================================================
-
-  제목 점수 요약
-
-==================================================================
-
-   90점  노이즈캔슬링 원리                노이즈캔슬링 원리 완벽 정리, 왜 조용해질까
-
-   70점  이어폰 청소 방법                에어팟 청소 이렇게 하면 됩니다
-
-
-
-저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-18\20시35분/진단.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-18\20시35분/진단_진단.csv , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\2. 제목 진단\2026-08-18\20시35분/진단_제목목록.csv
-
-
-
-</pre></details></div></details><details><summary><span>3. 성과 추적</span><span class="meta">19분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">50</span><span class="tl">전체 글</span></div><div class="tile"><span class="tv">6.3</span><span class="tl">주당 발행</span></div><div class="tile"><span class="tv">27</span><span class="tl">최근 30일</span></div><div class="tile"><span class="tv">오늘</span><span class="tl">마지막 발행</span></div></div><h4 class="vh">검색 순위 (2 / 67개 노출)</h4><div class="scroll"><table><tr><th>키워드</th><th>순위</th><th>변화</th><th>전체 문서</th></tr><tr><td>LP 잡음 원인</td><td class="rk">35위</td><td><span class="chip down">하락</span> ▼ 14</td><td class="dim">988</td></tr><tr><td>듀얼심 통화 분리</td><td class="rk">86위</td><td><span class="chip down">하락</span> ▼ 56</td><td class="dim">2,315</td></tr></table></div><h4 class="vh">카테고리 분포</h4><div class="vrow tight"><div class="vhead"><span class="vname">Audio Tech</span><span class="vnum">11편</span></div><div class="bar "><i style="width:100.0%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">Apple</span><span class="vnum">11편</span></div><div class="bar "><i style="width:100.0%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">Samsung</span><span class="vnum">11편</span></div><div class="bar "><i style="width:100.0%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">IT Tip</span><span class="vnum">6편</span></div><div class="bar "><i style="width:54.5%"></i></div></div><div class="vrow tight"><div class="vhead"><span class="vname">생각정리</span><span class="vnum">5편</span></div><div class="bar "><i style="width:45.5%"></i></div></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
-
-======================================================================
-
-  성과 추적 리포트 — 뮤직잇츠
-
-  2026-08-18 20:35 · 검색어 67개 · 내 글 50개 · 경쟁 블로그 20곳
-
-  지난 회차: 2026-08-18 00:59 와 비교
-
-======================================================================
-
-
-
-■ 1. 순위가 움직인 검색어
-
-  × 블루투스 코덱 종류               95위     → 미노출      이탈
-
-  ▼ LP 잡음 원인                 21위     → 35위      -14
-
-  ▼ 듀얼심 통화 분리                30위     → 86위      -56
-
-
-
-■ 2. 지금 순위에 잡힌 검색어 (좋은 순)
-
-   35위  LP 잡음 원인                    경쟁 문서 988건
-
-   86위  듀얼심 통화 분리                   경쟁 문서 2,315건
-
-
-
-■ 3. 아직 안 쓴 자리 (추적은 하는데 노린 글이 없는 검색어)
-
-     경쟁 문서가 많은 순 = 수요가 있다는 뜻입니다.
-
-  · 100 충전 안좋은 이유                  경쟁 문서 372,072건
-
-  · 무선충전 단점                        경쟁 문서 361,600건
-
-  · 배터리 교체 시기                      경쟁 문서 305,547건
-
-  · 공장초기화 방법                       경쟁 문서 293,346건
-
-  · 충전 배터리 오래 쓰는 법                 경쟁 문서 168,523건
-
-  · 블루투스 연결 안될 때                   경쟁 문서 150,115건
-
-  · 이어폰 귀 건강                       경쟁 문서 134,073건
-
-  · 캐시 삭제 방법                       경쟁 문서 111,891건
-
-  · 갤럭시 저장공간 정리                    경쟁 문서 110,098건
-
-  · 이어폰 수명                         경쟁 문서 108,500건
-
-  · 스마트폰 느려지는 이유                   경쟁 문서 88,088건
-
-  · 이어폰 볼륨 작을 때                    경쟁 문서 84,645건
-
-  · 돌비 애트모스란                       경쟁 문서 72,049건
-
-  · 와이파이 느린 이유                     경쟁 문서 64,976건
-
-  · 화이트밸런스 설정                      경쟁 문서 61,911건
-
-  ... 외 34개
-
-
-
-■ 4. 내 발행 페이스
-
-  최근 글      2026-08-18 (0일 전)
-
-  최근 7일 8개 · 30일 27개 · 90일 50개
-
-  주당 발행    6.8개
-
-  평균 간격    1.2일에 한 개
-
-  카테고리     Audio Tech 11 / Apple 11 / Samsung 11 / IT Tip 6 / 생각정리 5
-
-  제목 유형    정보형 10% · 상업형 28% · 뉴스형 42% · 기타 20%
-
-
-
-■ 5. 글별 점검 (최근 12개)
-
-  2026-08-18  아이폰 배터리 성능 저하, 8플러스·SE3·17프로맥스 실측 비교     -
-
-       노린 검색어: 아이폰 배터리 성능 저하
-
-  2026-08-17  Resilience. (네이버 AI 인용)                  -
-
-  2026-08-17  블루투스 코덱 종류 정리, 내 폰에 맞는 이어폰은? (2026년 기준)  -
-
-       노린 검색어: 블루투스 코덱 종류
-
-  2026-08-15  소니 FX5 가격 공개, 바디킷 729만 원 · 9월 초 출시       -
-
-  2026-08-13  LP 잡음 노이즈 원인과 바이닐 관리 도구 (브러쉬, 속지, 스타일러스) 35위
-
-       노린 검색어: LP 보관 방법, LP 잡음 원인
-
-  2026-08-12  애플 이벤트 날짜, &quot;9월 9일&quot; 굳어지나 (+ 폴더블 아이폰 동시 공개 -
-
-       노린 검색어: 아이폰 18 프로, 폴더블 아이폰
-
-  2026-08-11  스마트폰 발열 원인과 갤럭시 배터리 온도 실측 (2026년 기준)     -
-
-       노린 검색어: 스마트폰 발열 원인, 갤럭시 배터리 관리
-
-  2026-08-11  애플워치 대개편, &quot;원형 화면&quot; 출시 가능성 낮다 (+ 세라믹 시리즈12 -
-
-       노린 검색어: 아이폰 18 프로, 폴더블 아이폰
-
-  2026-08-09  아이폰 17 가격 인상 8월 10일설, 국내 출고가 비교표 정리      -
-
-       노린 검색어: 아이폰 18 프로
-
-  2026-08-08  앤커 이어폰 후기, 사운드코어 P31i 3만원대 LDAC 지원       -
-
-  2026-08-07  갤럭시S26 울트라 초고속 3.0 고속충전 지원, 아트뮤 GB102 10 -
-
-  2026-08-05  에어팟 프로3 한쪽만 들린다면? 초기화 방법 정리 (+ 에어팟 프로2)  -
-
-       노린 검색어: 에어팟 프로3 초기화
-
-
-
-■ 6. 나 vs 경쟁 (한눈에)
-
-                           뮤직잇츠       경쟁 중앙값   차이
-
-  --------------------------------------------------------
-
-  주당 발행 수                   6.8         12.5   낮음 ←
-
-  정보형 제목 비중                 10%          17%   낮음
-
-  상업형 제목 비중                 28%          23%   높음
-
-  뉴스형 제목 비중                 42%           8%   높음 ←
-
-  제목 길이(글자)                41.5         34.7   높음 ←
-
-  물음표 쓰는 비율                 34%          22%   높음 ←
-
-  숫자 넣는 비율                  72%          63%   높음
-
-  글당 태그 수                  18.6          7.5   높음 ←
-
-
-
-■ 7. 핵심 갭 — 경쟁은 이렇게 하는데 나는
-
-  · 정보형이 10%로 경쟁 중앙값(17%)보다 낮습니다. AI 인용을 노리려면 정보형을 늘리세요.
-
-  · 뉴스형이 42%로 경쟁 중앙값(8%)보다 크게 높습니다. 속보성은 뉴스 기사에 밀립니다 — 정보형으로 무게를 옮기세요.
-
-  · 발행이 주 6.8개로 경쟁 중앙값(주 12.5개)보다 적습니다. 꾸준함이 지수에 유리합니다.
-
-
-
-■ 8. 발행이 활발한 경쟁 블로그
-
-  클릭하기 좋은 IT               주 12.5개  제목 36자  정보형 46%  뉴스형 2%
-
-  짜루의 이것저것 리뷰              주 12.5개  제목 35자  정보형 14%  뉴스형 22%
-
-  코예커플 IT                  주 12.5개  제목 35자  정보형 10%  뉴스형 20%
-
-  티보의 IT 자동차 리뷰 공작소        주 12.5개  제목 34자  정보형 14%  뉴스형 4%
-
-  세수하면이병헌 IT/자동차           주 12.5개  제목 30자  정보형 24%  뉴스형 2%
-
-  에릭의 IT스토리                주 12.5개  제목 39자  정보형 30%  뉴스형 8%
-
-  김띵크 시션, IT Insight       주 12.5개  제목 39자  정보형 18%  뉴스형 18%
-
-  Gwoo&#x27;s IT TIME           주 12.5개  제목 34자  정보형 28%  뉴스형 20%
-
-  알기쉬운디지털                  주 12.5개  제목 31자  정보형 70%  뉴스형 4%
-
-  일리야 라이프스타일               주 12.5개  제목 44자  정보형 4%  뉴스형 18%
-
-
-
-■ 9. 정보형을 많이 쓰는 경쟁 (제목을 참고하세요)
-
-  알기쉬운디지털 — 정보형 70%
-
-       · 컴퓨터 비프음 &quot;삐삐&quot; 횟수에 따른 원인과 해결 방법
-
-       · HTML 뜻과 파일 열기 방법, 웹 기초 가이드
-
-       · 갤럭시 모델명 찾는 법 및 시리얼 번호 조회 방법 총정리
-
-  고양이집사 리사&#x27;s 포스트 IT — 정보형 50%
-
-       · “세상에 단 한 대뿐인 슈퍼카?” 이게 페라리 SF90이라고?
-
-       · 키노트 사용법, 아이패드에서 PPT로 내보내는 방법
-
-       · 컴퓨터 인터넷 연결 안됨, 와이파이 인터넷 없음 해결 순서
-
-  클릭하기 좋은 IT — 정보형 46%
-
-       · 아이폰 잠금화면이 계속 켜져 있다면? AOD 상시표시 설정 끄기 방법
-
-       · 갤럭시 홈화면 앱 숨기기 어플 보이기 해제 방법
-
-       · 미닉스 음식물처리기 추천 더플렌더 MAX 사용기
-
-  에릭의 IT스토리 — 정보형 30%
-
-       · AWD 뜻 4WD 정리, 사륜구동 선택했다간 눈길에서 빙판 직행?
-
-       · 한국엡손 EH-LS970W TV 대체 초단초점 빔프로젝터, 홈시네마 구축 추천!
-
-       · 애플워치 3세대 나이키 스트랩 빼는 법 &amp; 핀 고정 착용법
-
-
-
-■ 10. 경쟁 여러 곳이 다루는데 나는 안 다루는 주제
-
-     아이폰(3곳), 전기차추천(3곳), 전기SUV(3곳), 하이브리드SUV(3곳)
-
-
-
-■ 11. 경쟁이 자주 쓰는 제목 낱말 (★ = 내가 최근에 안 쓴 것)
-
-  ★방법(149)  ★추천(149)  후기(121)  가격(81)  3(75)  2(65)  갤럭시(58)  
-
-  1(58)  ★삼성(54)  ★suv(52)  ★4(47)  아이폰(44)  ★비교(40)  ★실구매(36)  
-
-  ★5(34)  ai(31)  ★할인구매(31)  8(29)  ★km(28)  ★이유(27)  ★할인(26)  
-
-  정리(25)  ★리뷰(24)  ★7(23)  ★총정리(23)  ★솔직(23)  ★스펙(21)  ★가성비(19)  
-
-  ★설정(18)  ★프로(18)  
-
-
-
-■ 12. 내 검색어에서 자주 마주치는 블로그 (검색 API 기준)
-
-  Franky, IT Story           검색어 13개  최고  1위  평균 12.9위
-
-  난 할 수 있어 :: 난 할 수 있어       검색어 12개  최고  4위  평균 16.7위
-
-  리치캣의 현재 그리고 미래             검색어  9개  최고  2위  평균 13.3위
-
-  엔돌슨의 IT이야기                 검색어  9개  최고  8위  평균 19.9위
-
-  컴터맨의 컴퓨터 이야기               검색어  8개  최고  6위  평균 20.4위
-
-  고양이집사 리샤&#x27;s 포스트 IT          검색어  8개  최고  1위  평균 8.6위
-
-  테크티노의 IT 이야기               검색어  8개  최고  2위  평균 16.4위
-
-  쇼핑고밍!                      검색어  7개  최고  5위  평균 16.0위
-
-  친절한효자손 취미생활                검색어  7개  최고  4위  평균 16.9위
-
-  그냥사는거지                     검색어  7개  최고  1위  평균 7.8위
-
-
-
-  * 순위는 검색 API sort=sim 순서입니다. 통합검색 VIEW 탭 순위가 아닙니다.
-
-    절대값보다 회차 간 변화를 보세요. 100위 밖은 &#x27;미노출&#x27;입니다.
-
-  * 조회수·방문자수·댓글수·이웃수·AI 브리핑 인용수는 가져올 수 없습니다.
-
-    (네이버 비공개 + robots.txt 전면 차단)
-
-  * 유형 판정 기준이 통합되면서 바뀌었습니다.
-
-    2026-08-12 이전 회차의 정보형/뉴스형 % 와 직접 비교하지 마세요.
-
-
-
-저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-18\20시35분/추적.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-18\20시35분/추적_순위.csv , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\3. 성과 추적\2026-08-18\20시35분/추적_경쟁.csv
-
-
-
-</pre></details></div></details><details><summary><span>4. 이웃 발굴</span><span class="meta">18분 전</span></summary><div class="body"><div class="tiles"><div class="tile"><span class="tv">386</span><span class="tl">찾은 후보</span></div><div class="tile"><span class="tv">18</span><span class="tl">분야 키워드</span></div><div class="tile"><span class="tv">6.8</span><span class="tl">내 주당 발행</span></div></div><h4 class="vh">겹치는 주제가 많은 순 20곳</h4><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/irony_june" target="_blank" rel="noopener">하루준 라이프그라피</a><span class="vnum">키워드 6개</span></div><div class="vmeta"><span class="chip ">글 6편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 갤럭시 버즈, 게이밍 헤드셋, 블루투스 코덱, 이어폰 청소 방법, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/forbetteritlife22" target="_blank" rel="noopener">HeadFi Labs</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 7편</span><span class="chip ">주 5.8편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">DAC 추천, LP 턴테이블, 이어폰 리뷰, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/hunterview" target="_blank" rel="noopener">헌터뷰의 제품 추천!</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 6편</span><span class="chip ">주 6.8편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 무선이어폰, 블루투스 코덱, 이어폰 비교</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/dean4001" target="_blank" rel="noopener">고양이집사 리샤&#x27;s 포스트 IT</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">LP 턴테이블, 가성비 이어폰, 무선이어폰, 포노앰프</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/01198916129" target="_blank" rel="noopener">테크티노의 IT 이야기</a><span class="vnum">키워드 4개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">갤럭시 버즈, 이어폰 청소 방법, 이어폰 추천, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/zestgo" target="_blank" rel="noopener">데이스토리의 테크를 이야기하다</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 6편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">LP 턴테이블, 게이밍 헤드셋, 노이즈캔슬링 이어폰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/itexpert" target="_blank" rel="noopener">클릭하기 좋은 IT</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 5편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 노이즈캔슬링 이어폰, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/minjoymylife" target="_blank" rel="noopener">희완민의 일상로그</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 2.2편</span><span class="chip muted">2일 전</span></div><p class="vsub dim">에어팟 후기, 이어폰 리뷰, 이어폰 비교</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/serenity087" target="_blank" rel="noopener">소록살림, 단정한 삶의 기록</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.0편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">LP 턴테이블, 가성비 이어폰, 바이닐 입문</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/esemoon" target="_blank" rel="noopener">이세의 인공지능</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">6일 전</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/skcsy59" target="_blank" rel="noopener">블로거 아빠는 육아 중</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 3.2편</span><span class="chip muted">15일 전</span></div><p class="vsub dim">LP 턴테이블, 바이닐 입문, 블루투스 스피커</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/whgusgh03124" target="_blank" rel="noopener">Cell &amp; Sell</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 6.8편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">LP 턴테이블, 갤럭시 버즈, 게이밍 헤드셋</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/hms080315" target="_blank" rel="noopener">아이가 다섯</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.2편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">무선이어폰, 이어폰 추천, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/goalye24" target="_blank" rel="noopener">✨소심한 IT 리뷰✨</a><span class="vnum">키워드 3개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 9.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">노이즈캔슬링 이어폰, 이어폰 리뷰, 이어폰 비교</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/zic8384" target="_blank" rel="noopener">도레미파파의 왕초보 오디오 지식 강의</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 10편</span><span class="chip ">주 1.0편</span><span class="chip muted">12일 전</span></div><p class="vsub dim">DAC 추천, 포노앰프</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/highandlow007" target="_blank" rel="noopener">highandlow007님의블로그</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 4편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">DAC 추천, 블루투스 코덱</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/ghettokorean" target="_blank" rel="noopener">테크월드</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">가성비 이어폰, 헤드폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/jshan2020" target="_blank" rel="noopener">YGDD40</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">에어팟 후기, 이어폰 리뷰</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/tuesdaycherry" target="_blank" rel="noopener">리뷰미 라이프 로그</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">갤럭시 버즈, 이어폰 추천</p></div><div class="vrow"><div class="vhead"><a class="vname" href="https://blog.naver.com/sg90929" target="_blank" rel="noopener">그남자 원동욱의 IT테크 에세이</a><span class="vnum">키워드 2개</span></div><div class="vmeta"><span class="chip ">글 3편</span><span class="chip ">주 12.5편</span><span class="chip muted">오늘 활동</span></div><p class="vsub dim">갤럭시 버즈, 이어폰 비교</p></div><details class="raw"><summary>원문 리포트 보기</summary><pre>
-
-======================================================================
-
-  이웃·소통 후보 발굴 — 내 분야에서 활발한 블로그
-
-  분야 키워드 18개로 검색 · 2026-01-01 이후 글 기준 · 2026-08-18
-
-======================================================================
-
-
-
-  ■ 내 위치 (musicits)
-
-    분야 키워드 18개 중 1개의 검색 상위 30에 걸립니다. · 주 6.8개 발행 · 최근 발행 0일 전
-
-    후보들과 같은 기준으로 줄 세우면 69위쯤입니다. (전체 387명 기준)
-
-    아직 안 걸리는 키워드: 이어폰 추천, 무선이어폰, 노이즈캔슬링 이어폰, 헤드폰 추천, 블루투스 스피커, 에어팟 후기 외 11개
-
-
-
-  후보 386명 중, 여러 키워드에 걸치고 활발한 순으로 정리했습니다.
-
-  ↓ 여기 가서 &#x27;직접&#x27; 댓글 달고 이웃 신청하세요. (자동 아님)
-
-
-
-  블로그                    겹침   글수 최근글       겹친 키워드(예)
-
-  ------------------------------------------------------------------
-
-  하루준 라이프그라피              6    6 0일 전      가성비 이어폰, 갤럭시 버즈, 게이밍 헤드셋  주12.5
-
-  HeadFi Labs             4    7 0일 전      DAC 추천, LP 턴테이블, 이어폰 리뷰  주5.8
-
-  헌터뷰의 제품 추천!             4    6 0일 전      노이즈캔슬링 이어폰, 무선이어폰, 블루투스 코덱  주6.8
-
-  고양이집사 리샤&#x27;s 포스트 IT       4    4 0일 전      LP 턴테이블, 가성비 이어폰, 무선이어폰  주12.5
-
-  테크티노의 IT 이야기            4    4 0일 전      갤럭시 버즈, 이어폰 청소 방법, 이어폰 추천  주12.5
-
-  데이스토리의 테크를 이야기하다        3    6 0일 전      LP 턴테이블, 게이밍 헤드셋, 노이즈캔슬링 이어폰  주12.5
-
-  클릭하기 좋은 IT              3    5 0일 전      가성비 이어폰, 노이즈캔슬링 이어폰, 헤드폰 추천  주12.5
-
-  희완민의 일상로그               3    3 2일 전      에어팟 후기, 이어폰 리뷰, 이어폰 비교  주2.2
-
-  소록살림, 단정한 삶의 기록         3    3 0일 전      LP 턴테이블, 가성비 이어폰, 바이닐 입문  주12
-
-  이세의 인공지능                3    3 6일 전      노이즈캔슬링 이어폰, 블루투스 코덱, 이어폰 추천  주12.5
-
-  블로거 아빠는 육아 중            3    3 15일 전     LP 턴테이블, 바이닐 입문, 블루투스 스피커  주3.2
-
-  Cell &amp; Sell             3    3 0일 전      LP 턴테이블, 갤럭시 버즈, 게이밍 헤드셋  주6.8
-
-  아이가 다섯                  3    3 0일 전      무선이어폰, 이어폰 추천, 헤드폰 추천  주12.2
-
-  ✨소심한 IT 리뷰✨             3    3 0일 전      노이즈캔슬링 이어폰, 이어폰 리뷰, 이어폰 비교  주9.5
-
-  도레미파파의 왕초보 오디오 지식 강의    2   10 12일 전     DAC 추천, 포노앰프  주1
-
-  highandlow007님의블로그      2    4 0일 전      DAC 추천, 블루투스 코덱  주12.5
-
-  테크월드                    2    3 0일 전      가성비 이어폰, 헤드폰 추천  주12.5
-
-  YGDD40                  2    3 0일 전      에어팟 후기, 이어폰 리뷰  주12.5
-
-  리뷰미 라이프 로그              2    3 0일 전      갤럭시 버즈, 이어폰 추천  주12.5
-
-  그남자 원동욱의 IT테크 에세이       2    3 0일 전      갤럭시 버즈, 이어폰 비교  주12.5
-
-  그리파파의 IT이야기             2    2 1일 전      가성비 이어폰, 무선이어폰  주12.5
-
-  짜루의 이것저것 리뷰             2    2 0일 전      노이즈캔슬링 이어폰, 블루투스 코덱  주12.5
-
-  뱀프의 잇(it) 정보            2    2 0일 전      노이즈캔슬링 이어폰, 이어폰 비교  주12.5
-
-  Create Your Light &amp;     2    2 0일 전      블루투스 스피커, 이어폰 비교  주12.5
-
-  비바쵸니 브라보라이프             2    2 0일 전      블루투스 스피커, 이어폰 청소 방법  주12.5
-
-  꿈속에서도 게임을!!             2    2 2026-07-28 가성비 이어폰, 게이밍 헤드셋
-
-  덕이 블로그                  2    2 2026-07-20 게이밍 헤드셋, 블루투스 스피커
-
-  얌이의 딩가딩가, 얌딩            2    2 2026-07-18 가성비 이어폰, 무선이어폰
-
-  스파이크의 무한 잡설 공간          2    2 2026-07-14 게이밍 헤드셋, 이어폰 추천
-
-  챠콜의 아이들                 2    2 2026-07-14 게이밍 헤드셋, 헤드폰 추천
-
-
-
-  · &#x27;겹침&#x27; = 내 분야 키워드 중 이 블로그가 걸린 개수 (많을수록 관련성 큼)
-
-  · 링크는 엑셀/CSV에 있습니다. 클릭해서 바로 방문하세요.
-
-  · 이 도구는 후보만 찾습니다. 실제 소통은 직접 하셔야 지수에도 도움이 됩니다.
-
-  · 분야 키워드는 설정/이웃분야키워드.txt 에서 바꿀 수 있습니다.
-
-
-
-저장: D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\4. 이웃 발굴\2026-08-18\20시36분/이웃후보.json , D:\Claude Code (2026)\2. 뮤직잇츠 블로그 도구모음\2_결과\4. 이웃 발굴\2026-08-18\20시36분/이웃후보_이웃후보.csv
-
-
-
-</pre></details></div></details></section><section id="ai"><div class="card"><div class="tiles"><div class="tile"><span class="tv">25/30</span><span class="tl">브리핑 노출</span></div><div class="tile"><span class="tv">0/30</span><span class="tl">musicits 인용</span></div><div class="tile"><span class="tv">3주차</span><span class="tl">마지막 기록</span></div></div><p class="note">2026-08-18 20:47 기록</p></div><div class="card scroll"><table><tr><th>#</th><th>키워드</th><th>브리핑</th><th>인용</th><th>내 순위</th></tr><tr><td>1</td><td>아이폰 폴더블 아이폰 울트라</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>2</td><td>아이폰 18 기본형 출시 연기</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>3</td><td>애플 업그레이드 프로그램이란</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>4</td><td>아이폰 18 프로 카메라 사양</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>5</td><td>iOS 27 새로운 기능</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>6</td><td>갤럭시 Z 폴드8 스펙</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>7</td><td>갤럭시 Z 폴드8 폴드7 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>8</td><td>갤럭시 워치9 워치 울트라2 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>9</td><td>갤럭시 언팩 2026 정리</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>10</td><td>갤럭시 Z 폴드8 색상 비교</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>11</td><td>에어팟 프로3 초기화 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>12</td><td>에어팟 프로3 연결 안될 때</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>13</td><td>에어팟 프로3 심박수 측정 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>14</td><td>에어팟 프로3 한쪽만 안 들릴 때</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>15</td><td>갤럭시 버즈 에어팟 음질 비교</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>16</td><td>B&amp;W 스피커 추천</td><td class="x">X</td><td class="x">-</td><td>—</td></tr><tr><td>17</td><td>소니 A7M5 실사용 후기</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>18</td><td>티티아티산 AF 50mm F1.8 Neo 후기</td><td class="x">X</td><td class="x">-</td><td>—</td></tr><tr><td>19</td><td>소니 GP-VPT3 슈팅그립 사용법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>20</td><td>카메라 렌즈 펌웨어 업데이트 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>21</td><td>갤럭시 Z 폴드8 케이스 추천</td><td class="x">X</td><td class="x">-</td><td>—</td></tr><tr><td>22</td><td>슈피겐 에어스킨 맥핏 후기</td><td class="x">X</td><td class="x">-</td><td>—</td></tr><tr><td>23</td><td>폴더블폰 보호필름 붙이는 법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>24</td><td>블루투스 코덱 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>25</td><td>LDAC aptX 차이</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>26</td><td>LDAC 코덱이란</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>27</td><td>블루투스 코덱 확인하는 방법</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>28</td><td>음악 스트리밍 음질 비교</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>29</td><td>무손실 음원 스트리밍 추천</td><td class="o">O</td><td class="x">X</td><td>—</td></tr><tr><td>30</td><td>LP 턴테이블 입문 추천</td><td class="x">X</td><td class="x">-</td><td>—</td></tr></table></div></section><section id="cite"><div class="card"><div class="tiles"><div class="tile"><span class="tv">112,000</span><span class="tl">누적 인용수</span></div><div class="tile"><span class="tv">7,100</span><span class="tl">당월 누적</span></div></div><p class="note">2026-08-16 기준 · 백업 파일 인용백업_20260816.json</p></div><div class="card scroll"><table><tr><th>날짜</th><th>누적</th><th>당월</th></tr><tr><td>2026-08-16</td><td>112,000</td><td>7,100</td></tr><tr><td>2026-08-15</td><td>111,000</td><td>6,700</td></tr><tr><td>2026-08-13</td><td>111,000</td><td>6,379</td></tr><tr><td>2026-08-12</td><td>110,000</td><td>5,200</td></tr><tr><td>2026-08-10</td><td>109,000</td><td>4,200</td></tr><tr><td>2026-07-31</td><td>104,000</td><td>11,000</td></tr><tr><td>2026-07-29</td><td>—</td><td>10,000</td></tr><tr><td>2026-07-28</td><td>103,000</td><td>10,000</td></tr><tr><td>2026-07-27</td><td>103,000</td><td>10,000</td></tr><tr><td>2026-07-24</td><td>—</td><td>9,500</td></tr><tr><td>2026-07-23</td><td>102,000</td><td>9,000</td></tr><tr><td>2026-07-17</td><td>101,000</td><td>7,900</td></tr></table></div></section>
-<footer>이 페이지는 PC 에서 <code>★_웹에 올리기.bat</code> 를 누를 때마다 다시 만들어집니다. 여기 있는 내용은 그때의 상태입니다.<br>검색 엔진에는 올라가지 않도록 막아뒀지만, 주소를 아는 사람은 볼 수 있는 공개 페이지입니다.</footer>
+<p>15. [IT 공식발표] 삼성 아트 스토어에 빈 미술사 박물관 소장품 43점 추가 — 더 프레임·네오 QLED·OLED 대상 (Samsung Newsroom)<br><a href="https://news.samsung.com/kr/삼성-아트-스토어에-빈-미술사-박물관-대표-소장품-43" target="_blank" rel="noopener">https://news.samsung.com/kr/삼성-아트-스토어에-빈-미술사-박물관-대표-소장품-43</a></p></div></details><details><summary><span>2026-08-18 00:50</span><span class="meta">새 기사 20건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-17 21:28</span><span class="meta">새 기사 18건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-17 10:17</span><span class="meta">새 기사 77건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-12 21:25</span><span class="meta">새 기사 48건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-11 22:29</span><span class="meta">새 기사 46건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details><details><summary><span>2026-08-11 12:14</span><span class="meta">새 기사 74건 · PC 에 있음</span></summary><div class="body"><p class="note">지난 회차라 이 페이지에는 내용을 담지 않았습니다. PC 의 2_확인결과 폴더에서 보세요.</p></div></details></section>
+<footer>이 페이지는 PC 에서 <code>★_웹에 올리기.bat</code> 를 누를 때마다 다시 만들어집니다. 수치는 그때의 상태이고, 주차·D-day·'몇 시간 전' 은 보는 순간을 기준으로 다시 셉니다.<br>검색 엔진에는 올라가지 않도록 막아뒀지만, 주소를 아는 사람은 볼 수 있는 공개 페이지입니다.</footer>
 </div><script>
 var root=document.documentElement, tbtn=document.getElementById('theme');
 var modes=['','light','dark'];              // '' = 시스템 설정을 따라감
@@ -1466,4 +1452,58 @@ tabs.forEach(function(b){b.onclick=function(){
 document.querySelectorAll('.act[data-go]').forEach(function(a){
  a.onclick=function(){go(a.dataset.go)}});
 go((location.hash||'#status').slice(1),true);
+
+/* ---- 시각은 '지금' 기준으로 브라우저가 센다 (iso() 주석 참고) ---- */
+function rel(s){
+ var t=Date.parse(s); if(!t||isNaN(t))return null;
+ var d=(Date.now()-t)/1000, n=Math.floor;
+ return {txt: d<0?'곧':d<60?'방금':d<3600?n(d/60)+'분 전'
+            :d<86400?n(d/3600)+'시간 전':n(d/86400)+'일 전',
+         grade: d<43200?'fresh':d<172800?'stale':'old', t:t};
+}
+document.querySelectorAll('[data-at]:not(#stamp)').forEach(function(el){
+ var r=rel(el.getAttribute('data-at')); if(!r)return;
+ el.textContent=(el.className.indexOf('note')>=0?'마지막 측정 ':'')+r.txt;
+ if(el.classList.contains('when'))el.className='when '+r.grade;
+});
+var st=document.getElementById('stamp');
+if(st){var r=rel(st.getAttribute('data-at'));
+ if(r)st.textContent=st.getAttribute('data-when')+' 기준 ('+r.txt+') · 이 PC에서 올림';}
+
+/* ---- 12주 현황: 주차와 D-day 도 볼 때마다 다시 센다 ---- */
+var pl=document.querySelector('.plan');
+if(pl){
+ var DAY=86400000, today=new Date(); today.setHours(0,0,0,0);
+ var s=new Date(pl.getAttribute('data-start')+'T00:00:00');
+ var due=new Date(pl.getAttribute('data-due')+'T00:00:00');
+ var wk=Math.floor((today-s)/DAY/7)+1;
+ var pw=document.getElementById('pw'), pd=document.getElementById('pd'),
+     pk=document.getElementById('pwk');
+ if(pw)pw.textContent = wk<1?'시작 전' : wk>12?'종료' : wk+' / 12';
+ if(pk)pk.textContent = wk<1?'시작 전' : wk>12?'12주 종료' : wk+'주차';
+ var dd=Math.round((due-today)/DAY);
+ if(pd)pd.textContent = dd>0?'D-'+dd : dd===0?'D-day':'D+'+(-dd);
+}
+
+/* ---- 휴대폰(클라우드)에서 돌린 결과를 첫 화면 카드에 얹는다 ---- */
+function cloud(url,no,label,link){
+ fetch(url+'?t='+Math.floor(Date.now()/60000))
+ .then(function(r){return r.ok?r.json():null}).then(function(d){
+  if(!d||!d.at)return;
+  var c=document.querySelector('.card[data-card="'+no+'"]'); if(!c)return;
+  var r=rel(d.at); if(!r)return;
+  var b=c.querySelector('.when'), pc=Date.parse(b.getAttribute('data-at')||'');
+  if(!pc||isNaN(pc)||r.t>pc){            // 클라우드 쪽이 더 새것이면 그것을 보여준다
+   b.textContent=r.txt; b.className='when '+r.grade;
+   b.title='휴대폰에서 돌린 결과 기준';
+  }
+  var p=document.createElement('p'); p.className='note';
+  p.innerHTML='휴대폰에서 돌린 것 <b>'+r.txt+'</b>'
+   +(d.count!=null?' · '+label+' '+Number(d.count)+'건':'')
+   +' — <a href="'+link+'">보기 →</a>';
+  var a=c.querySelector('.acts'); a?c.insertBefore(p,a):c.appendChild(p);
+ }).catch(function(){});
+}
+cloud('cloud/latest.json','5','새 기사','cloud/');
+cloud('cloud/blog/latest.json','2','도구','cloud/blog/');
 </script></body></html>

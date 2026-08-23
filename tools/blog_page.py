@@ -182,6 +182,12 @@ def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(page)
+
+    latest = {"at": datetime.now(KST).isoformat(timespec="minutes"),
+              "count": total}
+    with open(os.path.join(os.path.dirname(OUT), "latest.json"), "w",
+              encoding="utf-8") as f:
+        json.dump(latest, f, ensure_ascii=False)
     print("cloud/blog/index.html 갱신 - 회차 %d개" % total)
 
 
