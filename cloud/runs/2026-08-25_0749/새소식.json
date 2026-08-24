@@ -1,0 +1,572 @@
+[
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Home Hub Code Hints at Face-Based Profile Switching",
+  "link": "https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/",
+  "date_kst": "2026-08-25 05:53",
+  "summary": "Apple's upcoming home hub will support multiple profiles and will include \"ambient sensing\" for identity verification, according to code we found in the macOS Tahoe 26.7 update. The accessory will show Personal Content for different users in the home, with options to select a profile via Control Center or the Settings app on the device. The home hub is expected to have an operating system similar to tvOS, so the Control Center and profile selection options might look like those on the Apple TV . It sounds like the home hub can switch between profiles automatically using some combination of cam"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Won't Change Hide My Email Domain After Backlash",
+  "link": "https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/",
+  "date_kst": "2026-08-25 05:17",
+  "summary": "Apple today said it is reversing its decision and will not change the email domain used for the iCloud + Hide My Email feature. Emails sent using Hide My Email will continue to use the same icloud.com domain that Apple uses for standard ‌iCloud‌ emails. In June, Apple said it would unify the email domains used by Sign in with Apple and Hide My Email under a single private.icloud.com domain. iPhone users expressed concern that moving Hide My Email to a private.icloud.com domain instead of icloud.com would let platforms easily block iCloud aliases . Using the same domain for ‌iCloud‌ and Hide My"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
+  "link": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
+  "date_kst": "2026-08-25 04:58",
+  "summary": "Tim Cook will step down as Apple's CEO on Tuesday, September 1, and ahead of that date, Apple hosted a farewell party for him. According to The Information , the party took place on August 23, just a day before Cook celebrated his 15th anniversary as Apple CEO. Approximately 200 people celebrated Cook at the Caffé Macs cafeteria on the Apple campus, and band OneRepublic performed. Several speakers shared tributes to Cook, including Steve Jobs' wife Laurene Powell Jobs, former Apple COO Jeff Williams, Apple services chief Eddy Cue , and incoming CEO John Ternus. . @OneRepublic at Apple Park Cup"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Releases macOS Golden Gate Beta 7",
+  "link": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
+  "date_kst": "2026-08-25 02:35",
+  "summary": "Apple today provided developers with the seventh beta of macOS Golden Gate , with the update coming a week after Apple seeded the sixth beta. Developers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required. ‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+  "link": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+  "date_kst": "2026-08-25 02:34",
+  "summary": "Apple today seeded the seventh betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the sixth betas. Registered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update. ‌iOS 27‌ introduces Apple's smarter version of Siri , ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you. There are new"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
+  "link": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
+  "date_kst": "2026-08-25 02:30",
+  "summary": "Apple today seeded the seventh beta of watchOS 27 to developers, with the update coming a week after the launch of the sixth beta. The beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and have a battery level of 50 percent or above for new software to be installed. The beta is available for all Apple Watch models compatible with ‌watchOS 27‌ except for the Apple Watch Ultra 3 . ‌watchOS 27‌ gains Siri AI, the smarter, more capable version of ‌Siri‌. ‌Siri‌ can hold back-and-forth conver"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Seeds Seventh visionOS 27 Beta to Developers",
+  "link": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
+  "date_kst": "2026-08-25 02:29",
+  "summary": "Apple today provided developers with the seventh beta of an upcoming visionOS 27 update for testing purposes. The beta comes a week after Apple released the fifth beta. visionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates. visionOS 27 introduces Siri AI, the smarter and more capable version of ‌Siri‌ that's similar in capability to chatbots like ChatGPT and Claude. On the Vision Pro, ‌Siri‌ can answer questions about anything the wearer is looking at, and there's a new ‌Siri‌ orb that can be placed anywhere in wearer's virtual space."
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Seeds tvOS 27 Beta 7 to Developers",
+  "link": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
+  "date_kst": "2026-08-25 02:27",
+  "summary": "Apple today seeded the seventh beta of tvOS 27 to developers for testing purposes, with the update coming a week after Apple released the sixth beta. The beta can be downloaded and installed through the Settings app on the Apple TV . A free developer account is required. tvOS 27 has few new features compared to the other 27 software updates, but it does add a redesigned Podcasts app, options for larger text, and a more responsive Control Center. AirPlaying to an ‌Apple TV‌ from another Apple device is faster, and apps and animations are smoother. You can also now see AppleCare coverage details"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Dear Samsung, it’s time to reclaim your iconic camera island",
+  "link": "https://www.sammobile.com/opinion/dear-samsung-time-to-reclaim-your-iconic-camera-island/",
+  "date_kst": "2026-08-25 06:22",
+  "summary": "Samsung made some bold design choices back in the day. There was a time when you could identify a Samsung flagship from across the room, not by looking at its display, but by looking at its back. The centered camera module had become a thing of beauty. It sat in the middle of the device […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S27 series design gets way more interesting in new leaked renders",
+  "link": "https://www.sammobile.com/news/galaxy-s27-series-design-gets-way-more-interesting-in-new-leaked-renders/",
+  "date_kst": "2026-08-25 03:09",
+  "summary": "A few more design cues for the entire Galaxy S27 series have just been revealed through a series of fan-made CAD renders. According to leaks, next year's Galaxy S27 series might finally introduce a fourth main-series model and a new aesthetic for at least the Ultra. In fact, apart from the redesigned camera housing, @UniverseIce […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Here’s Samsung One UI 9’s powerful iPhone to Galaxy Smart Switch app",
+  "link": "https://www.sammobile.com/news/samsung-one-ui-9-powerful-iphone-galaxy-smart-switch-app/",
+  "date_kst": "2026-08-25 02:22",
+  "summary": "Over the past year, Samsung and Google have successfully narrowed the gap between Android and iOS through innovative cross-platform capabilities. For example, Google found a workaround to make Quick Share compatible with AirDrop. In a similar vein, the latest Galaxy foldable phones, announced at Unpacked in London alongside One UI 9, introduce an easier, upgraded […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung spent $19.7 billion on R&D this year, has nearly 300,000 patents",
+  "link": "https://www.sammobile.com/news/samsung-spend-usd-27-billion-research-development-h1-2026-300000-patents/",
+  "date_kst": "2026-08-25 02:06",
+  "summary": "Samsung is among the most aggressive spenders globally when it comes to research and development (R&D). The South Korean firm has already spent over KRW 27.36 trillion (around $19.7 billion) in the first half of this year as it nears the 300,000 patent milestone globally. According to a report from JoongAng Economy News, Samsung Electronics […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy A57 could soon get the One UI 9.0 beta update",
+  "link": "https://www.sammobile.com/news/galaxy-a57-could-soon-get-one-ui-9-0-beta-update/",
+  "date_kst": "2026-08-25 01:07",
+  "summary": "Back in June, we learned that Samsung had started developing One UI 9.0 (Android 17) for the Galaxy A57. Now, it looks like the brand will open the beta program for its latest custom Android interface for the phone before rolling out its stable version. Samsung, on its Community forum, has created a One UI […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S26 Ultra is now available at a new record-low price in India",
+  "link": "https://www.sammobile.com/news/galaxy-s26-ultra-now-available-new-record-low-price-india/",
+  "date_kst": "2026-08-24 23:57",
+  "summary": "Last week, Samsung’s latest flagship non-foldable phone, the Galaxy S26 Ultra, was available in India at its lowest-ever price in the country since launch. Now, the device is available for an even lower price in the country. Samsung launched the Galaxy S26 Ultra’s base variant, which has 12GB RAM + 256GB storage, in India at […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung TV Plus gets more channels and sports content in India and Brazil",
+  "link": "https://www.sammobile.com/news/samsung-tv-plus-gets-more-channels-and-sports-content-in-india-and-brazil/",
+  "date_kst": "2026-08-24 23:05",
+  "summary": "Samsung recently announced more movies and series for its TV Plus FAST (Free Ad-Supported Streaming Television) platform, coming this September. However, that wave of new content is just one part of the recent TV Plus expansion. In other news from Samsung India and Brazil, Samsung TV Plus in these regions is also growing, with more […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung Galaxy S27 Ultra to be offered in two sizes, really?!",
+  "link": "https://www.sammobile.com/news/samsung-galaxy-s27-ultra-to-be-offered-in-two-sizes-really/",
+  "date_kst": "2026-08-24 22:27",
+  "summary": "A purported CAD render leak of the Galaxy S27 Ultra has caused some ripples in the echo chamber today. It's claimed that this render shows the design of the device's camera bar which looks remarkably similar to the iPhone 17 Pro Max. One assumption, as unlikely as it seems, that has also been drawn from […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Ambient sensing and cameras to power Apple Home Hub personalization",
+  "link": "https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss",
+  "date_kst": "2026-08-25 06:55",
+  "summary": "According to strings accidentally left in a macOS Tahoe update, Apple's Home Hub will offer user profiles, with identity verification provided by ambient sensing and built-in cameras. Apple's Home Hub will seemingly support user accounts. With the macOS 26.7 release candidate build, Apple inadvertently revealed details about several of its upcoming products , including a camera-equipped model of AirPods . Also present was code related to the company's upcoming Home Hub, an AI-focused device with an operating system that's said to resemble tvOS . Rumors have suggested the product will ship in t"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "OneRepublic headlines Tim Cook's going away party as he prepares to step down as CEO",
+  "link": "https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss",
+  "date_kst": "2026-08-25 06:29",
+  "summary": "Tim Cook has been CEO for 15 years and is about to step down on September 1, so Apple threw a little party in his honor on August 23 with 200 people in attendance. Apple CEO Tim Cook gets one last little celebration before stepping down September 1 Apple likes to throw a party on occasion, and the latest is a kind of going away/anniversary present for outgoing CEO Tim Cook. He's not really going anywhere though, as he's sticking around as Executive Chairman and acting as a kind of government liaison . A report from The Information first covered by MacRumors details the party thrown at Apple Pa"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "This is the first look at the inside of Apple's AI servers",
+  "link": "https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss",
+  "date_kst": "2026-08-25 05:30",
+  "summary": "Photographs showing the inside of an Apple Silicon AI server have surfaced online, giving a glimpse of how Apple designed its Private Cloud Compute hardware. Inside an Apple server - Image Credit: @hsuchingpo/X Apple's efforts to catch up in the field of AI have already led to the creation of Private Cloud Compute , namely Apple's own brand of secure AI cloud computing. While it has started to ship its own servers from its facility in Houston, Texas, there hasn't been much coverage about the server hardware itself. While we still don't know about the hardware, we now have a closer look of how "
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Handy disk image tool is getting removed from macOS",
+  "link": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
+  "date_kst": "2026-08-25 05:30",
+  "summary": "In future releases of macOS, Mac users will no longer be able to format or eject disk images using the very long-standing Terminal command, hdiutil . It won't affect many users directly, but it could well break disk repair utility apps. The new deprecation notice in Terminal for the command hdiutil. You may never have even heard of it, but since the earliest days of Mac OS X, the Terminal has included the command now called hdiutil. It's a tool for handling disk images, and AppleInsider forum users have often recommended it for solving problems such as the Mac refusing to eject such disk image"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Hide My Email no longer changing domains, will keep iCloud.com",
+  "link": "https://appleinsider.com/articles/26/08/24/hide-my-email-no-longer-changing-domains-will-keep-icloudcom?utm_source=rss",
+  "date_kst": "2026-08-25 05:29",
+  "summary": "Apple says while Sign in with Apple addresses will still move to a new domain, Hide My Email will stay on iCloud.com after community pushback. Hide My Email will be sticking with the original iCloud domain Changing email domains can create chaos for website and email client administrators. After concerns were raised over Hide My Email changing to private.icloud.com, Apple has shifted course. According to a new developer document published Monday, Apple says it will no longer be moving Hide My Email to a different domain. It will remain on icloud.com while Sign in with Apple will still move to "
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
+  "link": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
+  "date_kst": "2026-08-25 04:06",
+  "summary": "Apple is wasting little time following the recent record-breaking \"Ted Lasso\" season premiere, with production on a fifth season to begin in early 2027. Image credit: Apple TV \"Ted Lasso\" recently had its fourth season premiere, which drew nearly 300 million U.S. viewing minutes across its first two days. It has officially become the biggest launch for Apple TV to date. Now, it seems like Apple's ready to get the ball rolling on season five. According to Sigmund Judge, production is provisionally set to kick off in January. Judge suggests that season 5 of \"Ted Lasso\" could return to the small "
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Seventh developer betas of iOS 27, macOS 27 land as releases loom",
+  "link": "https://appleinsider.com/articles/26/08/24/seventh-developer-betas-of-ios-27-macos-27-land-as-releases-loom?utm_source=rss",
+  "date_kst": "2026-08-25 02:39",
+  "summary": "As the eventual release of the 27-generation gets ever nearer, Apple has introduced its seventh developer betas for iOS 27 , iPadOS 27, tvOS 27, watchOS 27, visionOS 27, and macOS 27. An earlier iOS 27 beta screen The Apple Developer Beta program has reached the seventh round for the upcoming iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27 releases, expected this September. The seventh arrives after the sixth, which Apple brought out on August 17 . The fifth round took place on August 10 . Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider",
+  "link": "https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss",
+  "date_kst": "2026-08-25 01:45",
+  "summary": "On this week's episode of the Smart Home Insider podcast, we round up the latest rumors surrounding Apple's smart home display, as well as cover the news. Smart Home Insider Podcast Leading off the news portion of the episode were a pair of stories on Sonos. We saw a new product hit the FCC, as well as a new feature launch. Codenamed \"Gambit,\" the new Sonos soundbar appears to be a successor to the Beam (Gen 2). No other information is known about the mid-range speaker, but it is presumed to debut in September alongside the rumored Sonos Ace Ultra headphones. Continue Reading on AppleInsider |"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+  "link": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+  "date_kst": "2026-08-25 07:45",
+  "summary": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
+  "link": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
+  "date_kst": "2026-08-25 07:15",
+  "summary": "Users can turn any photo into an iMessage or WhatsApp sticker, or use images as inspiration to create custom packs. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple reverses planned Hide My Email domain change after user pushback",
+  "link": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
+  "date_kst": "2026-08-25 06:05",
+  "summary": "Apple today announced that it will no longer move iCloud+ Hide My Email addresses to a new domain, reversing course on a change announced just two months ago. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple’s Emergency SOS Live Video is now available in Brazil",
+  "link": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
+  "date_kst": "2026-08-25 05:28",
+  "summary": "Thanks to a new partnership with RapidSOS, emergency services in Brazil can now request live video from iPhone users. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple official refurb store: This week’s top picks at up to $500 off",
+  "link": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
+  "date_kst": "2026-08-25 05:04",
+  "summary": "It’s official Apple Certified Refurbished Store time again, and we are back again with a closer look at the gear we have our eyes on. This is not a bunch of Macs covered in scratches that fell off a truck somewhere and shilled on eBay at a discount, we are talking about Apple’s “rigorous refurbishment process” and the same 1-year Apple warranty you get on brand new units, just at a lower price. You’re not going to get a better price on AirPods Pro 3 or the all-time low on AirTag 2, but there is hundreds in savings on Macs and the lowest prices around on current-generation models. Check out thi"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Epic fights Apple’s bid to seal key data behind proposed fees on linked-out purchases",
+  "link": "https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/",
+  "date_kst": "2026-08-25 04:49",
+  "summary": "Epic says Apple is making overly broad requests to seal information it says is central to determining what the company can charge developers for linked-out purchases. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 27 adds three new iPhone features I’ve been really loving",
+  "link": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+  "date_kst": "2026-08-25 04:23",
+  "summary": "iOS 27 is packed with new features across Messages , Notes , Apple Wallet , CarPlay , and more. Here are three of my favorite new iOS 27 features so far."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Here’s everything new Apple TV has coming in September",
+  "link": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
+  "date_kst": "2026-08-25 04:12",
+  "summary": "Apple TV kicks off fall with several high-profile premieres in September, including a Ryan Reynolds film, the return of Slow Horses, a Matthew McConaughey comedy series, and more. Here’s what’s new on Apple TV this September."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Forget iPhones — this hack brings Quick Share to Kindles",
+  "link": "https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/",
+  "date_kst": "2026-08-25 06:42",
+  "summary": "An unofficial project called Kindshare adds Quick Share to jailbroken Kindles, with a few key limitations."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Gemini is working on a ton of useful UI changes: filters, notifications, and more",
+  "link": "https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/",
+  "date_kst": "2026-08-25 05:58",
+  "summary": "Several practical changes could soon make their way out."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Spotify bug leaves Android Auto drivers staring at error message",
+  "link": "https://www.androidauthority.com/android-auto-spotify-error-message-3702461/",
+  "date_kst": "2026-08-25 05:51",
+  "summary": "Spotify not working for you on Android Auto? You're not alone."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "The Pixel 11 Pro XL is built to last and easy to fix, teardown finds",
+  "link": "https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/",
+  "date_kst": "2026-08-25 05:12",
+  "summary": "It's pricey, but at least you'll be able to hold onto it a few years."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Netflix is reportedly in talks to add rival streamers like Peacock",
+  "link": "https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/",
+  "date_kst": "2026-08-25 04:39",
+  "summary": "Netflix could soon open up its service to other streamers."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "The Galaxy S27 Ultra may debut with self-healing glass",
+  "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
+  "date_kst": "2026-08-25 04:18",
+  "summary": "Android Authority remembers the LG G Flex 2."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Apple’s 20th anniversary iPhone could take some inspiration from Android phones",
+  "link": "https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/",
+  "date_kst": "2026-08-25 03:13",
+  "summary": "A leaked render of the 20th anniversary iPhone reveals a radical new redesign, with some familiar elements."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay",
+  "link": "https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/",
+  "date_kst": "2026-08-25 03:09",
+  "summary": "Bundles including Disney Plus and Hulu are also affected."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "샤오미 신형 폴드폰, 샤오미 18 폴드로 네이밍 변경",
+  "link": "https://blog.naver.com/yeux1122/224388922046?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-24 21:27",
+  "summary": "샤오미가 자사가 개발중인 폴드 모델 네이밍을 변경했습니다. (*XRING03 발표회, Noah) 기존 : 샤오미 믹스 폴드 변경 : 샤오미 18 폴드 로 변경 P.S 개인적으로 저는 그냥 아이폰 폴드로 네이밍 할 것 같은데 아마도 애플이 자사 제품을 아이폰 18 폴드라고 부를 것을 예상하고 있다는 내용이 있습니다."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Pining for The Odyssey on 4K Blu-ray? We have some very good (and slightly bad) news",
+  "link": "https://www.whathifi.com/streaming-entertainment/pining-for-the-odyssey-on-4k-blu-ray-we-have-some-very-good-and-slightly-bad-news-for-you",
+  "date_kst": "2026-08-24 23:03",
+  "summary": "A refreshing take on Nolan's epic release"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "iFi iDSD GR 2",
+  "link": "https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2",
+  "date_kst": "2026-08-24 22:19",
+  "summary": "The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Fiio unveils its latest retro-inspired portable cassette player – but there's a catch",
+  "link": "https://www.whathifi.com/hi-fi/portable-music-players/fiio-unveils-its-latest-retro-inspired-portable-cassette-player-but-theres-a-catch",
+  "date_kst": "2026-08-24 19:25",
+  "summary": "Fiio has a change of plans"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "All evidence suggests new Beats headphones are on the way – and an official launch could be imminent",
+  "link": "https://www.whathifi.com/headphones/wireless-headphones/all-evidence-suggests-new-beats-headphones-are-on-the-way-and-an-official-launch-could-be-imminent",
+  "date_kst": "2026-08-24 17:39",
+  "summary": "The Beats 360 have leaked...again"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more",
+  "link": "https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more",
+  "date_kst": "2026-08-24 16:00",
+  "summary": "All the top hi-fi and home cinema stories explained by our experts"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "This AirFly Pro deal drops the Bluetooth Wireless Audio Transmitter to just $40",
+  "link": "https://www.soundguys.com/airfly-pro-deal-161950/",
+  "date_kst": "2026-08-25 01:12",
+  "summary": "Get 27% off the Twelve South AirFly Pro, a Bluetooth adapter for flights, gym gear, and sharing audio with two headphones."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Shokz’s new OpenFit Air 2 open-ear earbuds might finally solve fit fatigue",
+  "link": "https://www.soundguys.com/shokz-openfit-air-2-launch-161931/",
+  "date_kst": "2026-08-25 00:30",
+  "summary": "A light 7.2g design with a nickel-titanium frame promise to deliver comfort without ear canal fatigue."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "The highly rated Sonos Era 300 gets a $100 discount at Amazon",
+  "link": "https://www.soundguys.com/sonos-era-300-deal-161941/",
+  "date_kst": "2026-08-25 00:27",
+  "summary": "Save $100 on the Sonos Era 300 at Amazon and get a premium speaker with six drivers, spatial audio, and Sonos room tuning."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Runner-favorite Shokz just updated its popular bone-conduction headset",
+  "link": "https://www.soundguys.com/shokz-openrun-air-2-launch-161790/",
+  "date_kst": "2026-08-24 23:24",
+  "summary": "The new OpenRun Air 2 brings USB-C charging, upgraded bass, and a lighter fit to outdoor athletes for $129.95."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "'I'm embracing it’: Dr Dre defends AI music and compares it to synths, despite most streaming services ousting slop from their libraries",
+  "link": "https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries",
+  "date_kst": "2026-08-24 22:52",
+  "summary": "Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "Sigma is rumored to soon announced up to three new E-mount lenses!",
+  "link": "https://www.sonyalpharumors.com/sigma-is-rumored-to-soon-announced-up-to-three-new-e-mount-lenses/",
+  "date_kst": "2026-08-24 22:50",
+  "summary": "Rumors has it that Sigma will soon have a major product announcement event. Of course we will likely get the already pre-announced new 85mm f/1.2. But according to my sources we should get one more zoom and also maybe the world’s fastest 65mm lens! Stay tuned! The post Sigma is rumored to soon announced up to three new E-mount lenses! first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "Alex Barrera: Why I Still Shoot Sony as a Leica User",
+  "link": "https://www.sonyalpharumors.com/alex-barrera-why-i-still-shoot-sony-as-a-leica-user/",
+  "date_kst": "2026-08-24 19:41",
+  "summary": "Alex writes: I absolutely love shooting Leica, but Sony still has a permanent place in my camera bag. In this video, I explain why I continue to rely on Sony for professional work, where Leica shines, and why I don’t believe you have to choose one system over the other. If you’ve been debating Sony… The post Alex Barrera: Why I Still Shoot Sony as a Leica User first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "The Canon EOS R8 Mark II is Coming on September 15",
+  "link": "https://www.canonrumors.com/the-canon-eos-r8-mark-ii-is-coming-on-september-15/",
+  "date_kst": "2026-08-25 00:56",
+  "summary": "Disclosure August 24, 2026 The header image of the EOS R8 Mark II was sent to us and was likely done using AI. We have posted these header images in the past and they have turned out to be very accurate. We have not seen the camera, so cannot verify the accuracy of this one. […]"
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "What We Know About the Coming Entry-Level PowerShot Camera",
+  "link": "https://www.canonrumors.com/what-we-know-about-the-entry-level-powershot-camera/",
+  "date_kst": "2026-08-24 23:45",
+  "summary": "It's no secret that Canon is going to bring us some new PowerShot cameras in the next 6 months. We expect a follow-up of some kind for the PowerShot G7 X Mark III. That's the compact camera Canon ethusiasts are most excited about. We don't know anything about the higher-end PowerShot camera at the moment, […]"
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "New Canon Registrations Show 5 Upcoming Cameras, Including new PowerShots",
+  "link": "https://www.canonrumors.com/new-canon-registrations-shows-5-upcoming-cameras-including-new-powershots/",
+  "date_kst": "2026-08-24 16:25",
+  "summary": "Update August 24, 2026 DS126991 is an inexpensive PowerShot — An announcement will happen no later than January 18, 2027. DS126986 is an ILC/EOS R Camera – An announcement will happen no later than January 4, 2027. Since April of this year, we have seen a fair number of camera registrations with the usual wireless […]"
+ },
+ {
+  "category": "카메라",
+  "source": "Fuji Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "EISA Awards: Fujifilm X-E5 and X-T30 III Win — But What’s the Fundamental Problem?",
+  "link": "https://www.fujirumors.com/eisa-awards-fujifilm-x-e5-and-x-t30-iii-win-but-whats-the-fundamental-problem/",
+  "date_kst": "2026-08-24 22:08",
+  "summary": "Fujifilm Wins EISA EISA has assigned their latest awards. It was a really tough selection, as because among all camera brands, only Fujifilm, Sony, Nikon, Canon, Panasonic, OM System, Sigma and Tamron were able to grab an award. Apparently Leica does not like to pay for the bragging rights. But what surprised me most, unlike… The post EISA Awards: Fujifilm X-E5 and X-T30 III Win — But What’s the Fundamental Problem? appeared first on Fuji Rumors ."
+ }
+]
