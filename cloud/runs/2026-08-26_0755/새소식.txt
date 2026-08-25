@@ -1,0 +1,348 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-26 07:55 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-25 09:38 (KST) 이후 기사
+새 기사: 66건
+접속 실패: SamMobile: ParseError
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 12건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 23건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 30건 생략)
+
+■ [IT 공식발표] 11건
+----------------------------------------
+· Apple introduces new Mac Studio with M5 Max and M5 Ultra
+  출처: Apple Newsroom US / 2026-08-25 22:00
+  링크: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+  피드 요약: Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.
+
+· Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro
+  출처: Apple Newsroom US / 2026-08-25 21:59
+  링크: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
+  피드 요약: Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design.
+
+· Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
+  출처: Apple Newsroom US / 2026-08-25 21:58
+  링크: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+  피드 요약: Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.
+
+· Apple, M5 Max 및 M5 Ultra를 탑재한 신규 Mac Studio 공개
+  출처: Apple Newsroom KR / 2026-08-25 22:19
+  링크: https://www.apple.com/kr/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+  피드 요약: Apple이 M5 Max 및 완전히 새로운 M5 Ultra를 탑재해 AI 성능의 획기적인 도약과 더욱 빨라진 그래픽 성능을 선사하는 신규 Mac Studio를 공개했다.
+
+· Apple, 완전히 새로운 M6 및 M5 Pro 칩을 탑재해 더욱 강력해진 Mac mini 공개
+  출처: Apple Newsroom KR / 2026-08-25 22:13
+  링크: https://www.apple.com/kr/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
+  피드 요약: Apple이 완전히 새로운 M6 및 강력한 M5 Pro를 탑재해 성능을 극적으로 끌어올리고 초소형 데스크탑 디자인의 활용성을 한층 확대한 신규 Mac mini를 공개했다.
+
+· Apple, 성능과 AI 컴퓨팅의 획기적인 도약을 이끌 M6 및 M5 Ultra 공개
+  출처: Apple Newsroom KR / 2026-08-25 22:08
+  링크: https://www.apple.com/kr/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+  피드 요약: Apple이 새로운 Mac mini에 M6, 새로운 Mac Studio에 M5 Ultra를 탑재해 성능과 AI 역량을 획기적으로 끌어올렸다.
+
+· [초대장] 디자인 마이애미 서울 2026: ‘디자인은 사랑의 표현(Design is an Act of Love)’ 개최
+  출처: Samsung Newsroom Korea / 2026-08-25 22:00
+  링크: https://news.samsung.com/kr/%ec%b4%88%eb%8c%80%ec%9e%a5-%eb%94%94%ec%9e%90%ec%9d%b8-%eb%a7%88%ec%9d%b4%ec%95%a0%eb%af%b8-%ec%84%9c%ec%9a%b8-2026-%eb%94%94%ec%9e%90%ec%9d%b8%ec%9d%80-%ec%82%ac%eb%9e%91%ec%9d%98-%ed%91%9c
+  피드 요약: 삼성전자가 9월 1일부터 6일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘디자인 마이애미 서울 2026’에서 특별 전시를 선보입니다. ‘디자인은 사랑의 표현(Design Is an Act of Love)’을 주제로, 대한민국 아티스트 14팀이 삼성전자 제품을 각자의 시각으로 재해석한 작품을 선보입니다. 각 작품은 AI를 활용해 새롭게 구현되며, OLED TV S95H의 커스텀 프레임까지 작품의 일부로 완성해 선보입니다. 인간을 중심에 두고 더욱 다채롭게 펼쳐지는 삼성전자의 […]
+
+· 삼성전자, 獨 ‘게임스컴 2026’서 통합 게이밍 생태계 펼쳐
+  출처: Samsung Newsroom Korea / 2026-08-25 20:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%e7%8d%a8-%ea%b2%8c%ec%9e%84%ec%8a%a4%ec%bb%b4-2026%ec%84%9c-%ed%86%b5%ed%95%a9-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%ec%83%9d%ed%83%9c%ea%b3%84-%ed%8e%bc%ec%b3%90
+  피드 요약: 삼성전자가 26일(현지시간) 독일 쾰른 메세(Koelnmesse)에서 개막하는 세계 최대 규모 글로벌 게임 전시회 ‘게임스컴 2026(Gamescom 2026)’에서 PC∙콘솔∙모바일 게임을 모두 아우르는 통합 게이밍 생태계를 선보인다. 삼성전자는 1,090㎡(약 330평) 규모의 전시장을 마련하고 게이밍 모니터부터 TV·모바일·SSD·헤드셋까지 게이밍 기기를 풀패키지로 전시한다. 방문객들은 전시된 삼성의 최신 게이밍 제품 패키지를 통해 다양한 게임의 장르와 플레이 환경에 최적화된 글로벌 인기 게임을 직접 체험할 […]
+
+· 삼성전자, 원스톱 혼수 특화 매장 ‘삼성스토어 청담점’ 전면 리뉴얼 오픈
+  출처: Samsung Newsroom Korea / 2026-08-25 17:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%9b%90%ec%8a%a4%ed%86%b1-%ed%98%bc%ec%88%98-%ed%8a%b9%ed%99%94-%eb%a7%a4%ec%9e%a5-%ec%82%bc%ec%84%b1%ec%8a%a4%ed%86%a0%ec%96%b4-%ec%b2%ad%eb%8b%b4%ec%a0%90
+  피드 요약: 삼성전자는 24일 서울 강남구 청담동에 위치한 삼성스토어 청담점을 혼수가전 전문 거점 매장으로 전면 리뉴얼했다. 삼성스토어 청담점은 단순한 가전 판매 매장을 넘어, 신혼부부의 라이프스타일에 맞춘 제품 체험부터 인테리어 컨설팅까지 한 번에 가능한 원스톱 융복합 공간으로 기획됐다. 삼성전자는 삼성스토어 청담점 3층에 실제 신혼집처럼 꾸며진 쇼룸 형태의 ‘인테리어 패키지 존’을 마련했다. 고객이 공간에 적합한 제품 구성과 배치를 한눈에 […]
+
+· [인터뷰] “우리 집 터줏대감이자 든든한 조력자”… 배우 한가인이 전하는 삼성 냉장고 이야기
+  출처: Samsung Newsroom Korea / 2026-08-25 17:00
+  링크: https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ed%84%b0%ec%a4%8f%eb%8c%80%ea%b0%90%ec%9d%b4%ec%9e%90-%eb%93%a0%eb%93%a0%ed%95%9c-%ec%a1%b0%eb%a0%a5%ec%9e%90
+  피드 요약: 최근 유튜브를 통해 솔직하고 꾸밈없는 일상을 보여주고 있는 배우 한가인이 삼성 냉장고를 무려 14년째 사용 중이라고 밝혀 눈길을 끌었다. 배우 한가인에게 삼성 냉장고는 단순한 가전 그 이상이다. 첫 아이를 위해 엄마의 손으로 처음 만든 이유식을 보관하던 순간을 지나 지금까지 온 가족의 식탁을 책임지며 소중한 일상을 함께해온 존재다. 그동안 AS 한 번 받을 일 없이 늘 […]
+
+· 새로운 갤럭시 폴드8으로의 전환, 더 쉽고 간편하게
+  출처: Samsung Newsroom Korea / 2026-08-25 17:00
+  링크: https://news.samsung.com/kr/%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ed%8f%b4%eb%93%9c8%ec%9c%bc%eb%a1%9c%ec%9d%98-%ec%a0%84%ed%99%98-%eb%8d%94-%ec%89%bd%ea%b3%a0-%ea%b0%84%ed%8e%b8%ed%95%98%ea%b2%8c
+  피드 요약: 새로운 스마트폰을 만나는 순간은 설레지만, 기존 스마트폰의 데이터를 새 기기로 옮기는 과정은 번거롭게 느껴질 수 있다. 특히 iOS 기기에서 갤럭시로 전환할 때는 기존 데이터와 설정을 얼마나 간편하게 옮길 수 있는지가 중요하다. ‘스마트 스위치(Smart Swtich)’는 안드로이드나 iOS 기기에서 새 갤럭시로 연락처, 사진, 동영상, 메시지, 앱, 설정 등을 옮기는 삼성전자의 데이터 전송 앱이다. 새로운 8세대 갤럭시 Z […]
+
+■ [IT 루머] 37건
+----------------------------------------
+· Apple Maps Ads Are Here, and There's No Way to Turn Them Off
+  출처: MacRumors / 2026-08-26 06:13
+  링크: https://www.macrumors.com/2026/08/25/apple-maps-ads-live/
+  피드 요약: Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will see them when searching for locations and when viewing Suggested Places. Apple announced plans to bring ads to the Maps app in March, and said the feature would roll out starting in late summer. Apple 
+
+· New Mac Mini and Mac Studio: 13 Things You Might Have Missed
+  출처: MacRumors / 2026-08-26 03:41
+  링크: https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/
+  피드 요약: Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth , but wanted to highlight some interesting tidbits about the new machines. Price Increases - The Mac mini now starts at $899, $300 over the original star
+
+· Apple to Release 13 More New Products Later This Year
+  출처: MacRumors / 2026-08-26 03:03
+  링크: https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/
+  피드 요약: Looking past the new Mac mini and Mac Studio models unveiled today, Apple still has plenty of other new products on its roadmap for this year. It is nearly September, and that means the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone are just around the corner. Other products ex
+
+· Apple's 40W Dynamic Power Adapter Expands to More Countries
+  출처: MacRumors / 2026-08-26 02:45
+  링크: https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/
+  피드 요약: Alongside the launch of new Mac Studio and Mac mini models, Apple today expanded its 40W Dynamic Power Adapter with 60W Max to Vietnam and countries in Europe that use the type C two-pin Europlug. The updated variant of the power adapter has a retractable two-prong design. The prongs pop back into t
+
+· Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October
+  출처: MacRumors / 2026-08-26 01:55
+  링크: https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/
+  피드 요약: Apple today unveiled new Mac Studio models with M5 Max and M5 Ultra chips. Pre-orders began today ahead of a September 22 launch, but one configuration will not be available until later. Apple says the Mac Studio with the M5 Ultra chip and 512GB of RAM will be coming in "late October," with U.S. pri
+
+· New Macs and More: Here's Everything Apple Announced Today
+  출처: MacRumors / 2026-08-26 01:10
+  링크: https://www.macrumors.com/2026/08/25/everything-apple-announced-today/
+  피드 요약: Apple today unveiled a new Mac mini with M6 and M5 Pro chip options, a new Mac Studio with M5 Max and M5 Ultra chip options, a new version of the Polishing Cloth with a lower price, and updated Magic Keyboards for Macs. Subscribe to MacRumors on YouTube Here are all of the new products that Apple an
+
+· Apple Smart Home Display Still Coming This Year
+  출처: MacRumors / 2026-08-26 00:19
+  링크: https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/
+  피드 요약: Apple remains on track to launch its first smart home device with a screen before the end of the year, according to Bloomberg 's Mark Gurman . Gurman reiterated that the device will use facial recognition to determine who is standing in front of it and serve up personalized content for that individu
+
+· Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now
+  출처: MacRumors / 2026-08-25 23:39
+  링크: https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/
+  피드 요약: There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small paym
+
+· M6 Mac mini vs M4 Mac mini: Compact powerhouses compared
+  출처: AppleInsider / 2026-08-26 07:20
+  링크: https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss
+  피드 요약: Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces. M6 Mac mini vs M4 Mac mini In a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac 
+
+· JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it
+  출처: AppleInsider / 2026-08-26 05:16
+  링크: https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss
+  피드 요약: Apple just announced the Mac mini with M5 Pro and you'll need one with 64GB of RAM to run the Junie Local model, a free 27B parameter coding agent that compares to Sonnet 4.5 or GPT-5. Junie Local needs a powerful Mac to run, but doesn't cost any tokens JetBrains developed Junie as a coding agent th
+
+· Apple Maps ads are finally showing up on iPhone
+  출처: AppleInsider / 2026-08-26 04:25
+  링크: https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss
+  피드 요약: Apple Maps ads have finally arrived after months of buildup, with the first sponsored listings rolling out on iPhones across the US and Canada. An example of an Apple Maps ad In March, Apple confirmed it would bring ads to Apple Maps. The ads were part of the greater Apple Business rollout. It wasn'
+
+· M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple's AI desktop, compared
+  출처: AppleInsider / 2026-08-26 04:19
+  링크: https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss
+  피드 요약: Apple's top-tier Mac, the Mac Studio , has been given a big AI bump with the M5 Ultra. Here's how it compares against the M3 Ultra model it replaces. The Mac Studio now has M5 Ultra, an upgrade from the M3 Ultra. The new Mac Studio arrived on Tuesday , with the all-new M5 Ultra now the top-of-the-ra
+
+· Adding AppleCare to Mac Studio & Mac mini is later in the purchase process than before
+  출처: AppleInsider / 2026-08-26 02:30
+  링크: https://appleinsider.com/articles/26/08/25/adding-applecare-to-mac-studio-mac-mini-is-later-in-the-purchase-process-than-before?utm_source=rss
+  피드 요약: Despite the New Mac mini and Mac Studio apparently not including an option to add AppleCare where it has historically been during the order process, you just have to click through a few pages to get it done. AppleCare options are available for the new Macs. It's not remotely clear why Apple would ch
+
+· M6 Mac mini arrives with a new record-high starting price
+  출처: AppleInsider / 2026-08-26 02:20
+  링크: https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss
+  피드 요약: In an uncharacteristic August launch, Apple has updated the Mac mini, retaining the same design, adding the M6 and M5 Pro processors, and a new record-high starting price. M4 Mac mini. M5 is identical externally The release comes almost two years after the then-redesigned M4 Mac mini was released. T
+
+· Why the new Mac Studio can support up to eight screens
+  출처: AppleInsider / 2026-08-26 01:01
+  링크: https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss
+  피드 요약: You have to really need it in order to justify the cost of an M5 Ultra Mac Studio , but there are reasons why you could use up all eight display options, and they may not be obvious. Mac Studio comes with many ports, yet it's still easy to fill them all. Sometimes you wonder if Apple adds something 
+
+· Apple's infamous Polishing Cloth drops to $9
+  출처: AppleInsider / 2026-08-26 00:45
+  링크: https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss
+  피드 요약: Unaffected by RAM prices and supply chain bottlenecks, Apple's much-maligned Polishing Cloth makes a return to the Apple Store with a $10 discount. Don't buy it. The new, $9 Apple Polishing Cloth | Image credit: Apple In 2021, Apple announced the Polishing Cloth, a $19 cloth designed specifically to
+
+· Notability can now organize meeting recordings, transcriptions, and notes around your calendar
+  출처: 9to5Mac / 2026-08-26 07:49
+  링크: https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/
+  피드 요약: Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details.
+
+· 9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled
+  출처: 9to5Mac / 2026-08-26 07:48
+  링크: https://9to5mac.com/2026/08/25/daily-august-25-2026/
+  피드 요약: Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co
+
+· Here are all the Apple devices with full Wi-Fi 7 support
+  출처: 9to5Mac / 2026-08-26 06:45
+  링크: https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/
+  피드 요약: Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features .
+
+· OpenAI announces the Admin plugin for ChatGPT Work and Codex
+  출처: 9to5Mac / 2026-08-26 05:56
+  링크: https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/
+  피드 요약: OpenAI’s new ChatGPT Admin plugin lets workspace admins manage users and permissions, analyze usage, and build reports directly from a conversation. Here are the details.
+
+· iOS 27 release date: Here’s when the new iPhone update will launch
+  출처: 9to5Mac / 2026-08-26 05:45
+  링크: https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/
+  피드 요약: The next major iPhone software version is iOS 27, and it’s launching very soon. Here’s when to expect the public release for iOS 27.
+
+· WhatsApp announces three ways to make accounts more secure
+  출처: 9to5Mac / 2026-08-26 05:10
+  링크: https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/
+  피드 요약: Meta today announced a set of new security features for WhatsApp, including expanded passkey support and stronger two-step verification. Here are the details.
+
+· Three new Macs are launching this fall, here’s what’s coming
+  출처: 9to5Mac / 2026-08-26 04:54
+  링크: https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/
+  피드 요약: Apple launched two new products today— Mac mini and Mac Studio —but three more Macs are rumored to arrive this fall. Here’s what’s coming.
+
+· This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]
+  출처: 9to5Mac / 2026-08-26 03:48
+  링크: https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/
+  피드 요약: Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear.
+
+· Life360 adds new pet care tools to help keep your household in sync
+  출처: Android Authority / 2026-08-26 06:56
+  링크: https://www.androidauthority.com/life360-new-pet-care-features-3703038/
+  피드 요약: The shared care logs might stop your dog scoring a second dinner.
+
+· Apps may keep giving us tools to break our addiction to them, but teens aren’t using them
+  출처: Android Authority / 2026-08-26 06:19
+  링크: https://www.androidauthority.com/instagram-take-a-break-3702952/
+  피드 요약: Guess how many teens use anti-doomscrolling features. Hint: It's NOT "practically everyone."
+
+· Anbernic spills the specs of its Nintendo Switch Lite look-alike
+  출처: Android Authority / 2026-08-26 05:58
+  링크: https://www.androidauthority.com/anbernic-rg-55g1-unboxing-3702983/
+  피드 요약: Anbernic's unboxing clears up any mystery about the RG 55G1's specs.
+
+· Fan survey sends Google a pretty blunt message about the Pixel 12
+  출처: Android Authority / 2026-08-26 05:21
+  링크: https://www.androidauthority.com/google-pixel-12-priorities-poll-results-3702883/
+  피드 요약: Our readers told us what the Pixel 12's focus should be, and it's not more AI.
+
+· Claude Cowork will now remember your conversations with chat
+  출처: Android Authority / 2026-08-26 05:04
+  링크: https://www.androidauthority.com/claude-cowork-shares-memory-with-chat-3702922/
+  피드 요약: Claude chat now shares a memory with Cowork.
+
+· Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over
+  출처: Android Authority / 2026-08-26 04:26
+  링크: https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/
+  피드 요약: At least one store in South Africa is very ready for the S26 FE's launch.
+
+· Google Home automations not working right lately? Blame your TV
+  출처: Android Authority / 2026-08-26 04:23
+  링크: https://www.androidauthority.com/google-home-automations-tv-3702928/
+  피드 요약: Google Home automations aren't playing nicely with your TV, but Google is on the case.
+
+· Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking
+  출처: Android Authority / 2026-08-26 02:58
+  링크: https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/
+  피드 요약: Garmin launches the fēnix 9 and fēnix 9 Pro.
+
+· 애플 아이폰 18 폴드, 중미 통신사 가격 유출 (*Z폴드8 울트라 보다 저렴)
+  출처: 란즈크 블로그 / 2026-08-26 07:53
+  링크: https://blog.naver.com/yeux1122/224390441412?fromRss=true&trackingCode=rss
+  피드 요약: 아이폰 18 폴드 모델의 가격에 대한 중요한 내용이 나왔습니다. (멕시코 telcel 1위 통신사 내부망) 핵심 (등록명 IPHONE 18 FD) 아이폰 폴드 : 가격은 중미에 출시된 갤럭시Z폴드8 모델보다 오히려 저렴 (정상 출시가 대비 5.4% 상시 프로모션가 대비 0.8% 저렴) (* 이 가격도 제가 루머를 통해서 생각보다 그렇게 가격이 높지 않을 것이라고 언급을 해드렸었습니다...) 또한 (*제가 누누히 이야기 드린대로) 아이폰 18 프로맥스 가격이 동결 (중미에 출시되었던 아이폰 17 프로맥스 가격대와 완전 동일) 30,9
+
+· 샤오미 18 폴드, 아이폰 폴드 모델과 거의 동일한 형태
+  출처: 란즈크 블로그 / 2026-08-26 07:51
+  링크: https://blog.naver.com/yeux1122/224390439897?fromRss=true&trackingCode=rss
+  피드 요약: 샤오미 18 폴드 모델에 대한 내용이 나왔습니다. (*웨이보) 아이폰 폴드 처럼 네이밍 동일 아이폰 폴드 처럼 유광 마감 처리 아이폰 폴드 처럼 펀치홀 위치 동일 아이폰 폴드 처럼 크기 외형 비율 거의 동일
+
+· 갤럭시S27 울트라, 렌더링 이미지 (*온릭스)
+  출처: 란즈크 블로그 / 2026-08-25 23:38
+  링크: https://blog.naver.com/yeux1122/224390222328?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 울트라 렌더링 이미지가 나왔습니다. (*온릭스) 루머대로 카메라 배치 크기는 약간 커짐 163.76 x 78.25 x 7.97mm
+
+· 애플 M6 & M5 울트라 칩 발표, (*맥미니 & 맥 스튜디오 포함)
+  출처: 란즈크 블로그 / 2026-08-25 23:32
+  링크: https://blog.naver.com/yeux1122/224390217730?fromRss=true&trackingCode=rss
+  피드 요약: 애플은 공식 뉴스룸을 통해 다음의 내용을 발표 했습니다. 1. M6 칩 및 M5 울트라 칩셋 발표 M6 칩은 M4 칩 탑재 모델에 비해 최대 4배 빠른 AI 성능, 2배 빠른 스토리지 및 그래픽, 40% 고속 CPU 성능을 제공 2. M6 / M5 Pro 맥 미니 발표 (9월22일) 최대 4배 향상된 AI 성능과 최대 2배 향상된 그래픽 성능 및 저장 장치 속도, 한층 강화된 연결성 M6 탑재 Mac mini의 가격은 1,499,000원부터, 교육용 가격은 1,329,000원부터 시작 M5 Pro 탑재 Mac mini의 가격은 2,
+
+· 애플 신형 OLED 아이패드 미니, 출시 일정 관련
+  출처: 란즈크 블로그 / 2026-08-25 11:39
+  링크: https://blog.naver.com/yeux1122/224389492174?fromRss=true&trackingCode=rss
+  피드 요약: 애플 신형 OLED 아이패드 미니 모델의 출시 일정에 대한 내용이 새로 나왔습니다. (* 마크거먼) 올가을 출시 예정 (* 이전 루머와 동일) 10월달 이전에 출시될 예정 OLED 디스플레이 탑재 새로운 디자인 적용
+
+■ [오디오] 13건
+----------------------------------------
+· FiiO's retro-modern amp takes inspiration from the "golden era of 1950s tube amplifiers"
+  출처: What Hi-Fi? / 2026-08-26 00:55
+  링크: https://www.whathifi.com/hi-fi/stereo-amplifiers/fiios-retro-modern-amp-takes-inspiration-from-the-golden-era-of-1950s-tube-amplifiers
+  피드 요약: FiiO EA13 promises a "classic hi-fi" sound in a modern, feature-heavy design
+
+· Eversolo brings streaming, downloads and physical CD playback together in one multitasking product
+  출처: What Hi-Fi? / 2026-08-26 00:30
+  링크: https://www.whathifi.com/hi-fi/music-streamers/eversolo-brings-streaming-downloads-and-physical-cd-playback-together-in-one-multitasking-product
+  피드 요약: The DMP-A8 Master Edition Gen 2 has a top-loading CD player, while the DMP-A8 shares the same streaming features
+
+· Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi
+  출처: What Hi-Fi? / 2026-08-25 23:57
+  링크: https://www.whathifi.com/hi-fi/porsche-and-burmester-have-a-new-secret-weapon-for-their-car-hi-fi-systems-and-it-sounds-like-sci-fi
+  피드 요약: New tech will feature from 2027
+
+· We tested Samsung’s entry-level OLED TV and it's one of our top picks, especially at this new sale price
+  출처: What Hi-Fi? / 2026-08-25 23:26
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/we-tested-samsungs-entry-level-oled-tv-and-its-one-of-our-top-picks-especially-at-this-new-sale-price
+  피드 요약: The S85H is a solid entry-level option
+
+· Bose Lifestyle Ultra Soundbar
+  출처: What Hi-Fi? / 2026-08-25 21:00
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/bose-lifestyle-ultra-soundbar-solo
+  피드 요약: Bose fires another shot at the soundbar leaders.
+
+· Our TV Product of the Year has a new lowest price – but there's a catch
+  출처: What Hi-Fi? / 2026-08-25 18:39
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/our-tv-product-of-the-year-has-a-new-lowest-price-but-theres-a-catch
+  피드 요약: An Award-winning TV, but hold fire on updating the software
+
+· Shokz's bone-conducting headphones tease an ultra-light fit for runners on a budget
+  출처: What Hi-Fi? / 2026-08-25 18:24
+  링크: https://www.whathifi.com/headphones/wireless-earbuds/shokzs-bone-conducting-headphones-tease-an-ultra-light-fit-for-runners-on-a-budget
+  피드 요약: The OpenRun Air 2 have landed
+
+· Marshall drops limited edition gear as a tribute to Jimi Hendrix
+  출처: SoundGuys / 2026-08-26 03:12
+  링크: https://www.soundguys.com/marshall-jimi-hendrix-limited-edition-162004/
+  피드 요약: The lineup includes an amp stack, new
+
+· Best deal yet drops the new Soundcore P42i buds to $69.99
+  출처: SoundGuys / 2026-08-26 01:33
+  링크: https://www.soundguys.com/soundcore-anker-p42i-wireless-earbuds-deal-162007/
+  피드 요약: The new Soundcore P42i earbuds drop to their best price since launch with ANC, LDAC, and 40-hour battery life.
+
+· The Bose SoundLink Micro 2nd Gen gets a big price drop to just $79.99
+  출처: SoundGuys / 2026-08-26 00:01
+  링크: https://www.soundguys.com/bose-soundlink-micro-2-deal-162001/
+  피드 요약: Save $49 on the highly rated device and get a compact speaker with solid bass, app EQ controls, and IP67 durability.
+
+· Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less
+  출처: SoundGuys / 2026-08-25 18:00
+  링크: https://www.soundguys.com/bose-quietcomfort-headphones-vs-skullcandy-crusher-1080-anc-161901/
+  피드 요약: Bose's new headphones aren't the only ones with Bose features.
+
+· An analog tube stereo amp for under $800 / £800? From an actually good audiophile brand? Oh, Christmas has come early…
+  출처: TechRadar 오디오 / 2026-08-26 01:22
+  링크: https://www.techradar.com/audio/hi-fi/an-analog-tube-stereo-amp-for-under-usd800-gbp800-from-an-actually-good-audiophile-brand-oh-christmas-has-come-early
+  피드 요약: Fiio's EA13 is a tube amplifier that's surprisingly affordable.
+
+· Two new AirPods 5 models will launch alongside the iPhone 18, says reliable analyst — here's what I'd like to see Apple change to make them better value than AirPods 4
+  출처: TechRadar 오디오 / 2026-08-25 20:03
+  링크: https://www.techradar.com/audio/earbuds-airpods/two-new-airpods-5-models-will-launch-alongside-the-iphone-18-says-reliable-analyst-heres-what-id-like-to-see-apple-change-to-make-them-better-value-than-airpods-4
+  피드 요약: A new report suggests the Apple AirPods 5 will launch alongside the iPhone 18 Pro, and an ANC-toting model will be along for the ride.
+
+■ [카메라] 5건
+----------------------------------------
+· Sigma and Sony announcements coming in September!
+  출처: Sony Alpha Rumors / 2026-08-25 20:39
+  링크: https://www.sonyalpharumors.com/sigma-and-sony-announcements-coming-in-september/
+  피드 요약: Two trusted sources shared new information about the next Sigma and Sony announcements. I am working to double-check the details and might post them as early as this week. All I can say for now is that both Sigma and Sony will have announcements in September. Of course, Sigma will launch the 85mm f/
+
+· Is the RF 85mm f/1.2L V2 Coming? Canon Patent Details Dual-Motor Focus Design
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-25 22:04
+  링크: https://www.canonrumors.com/is-the-rf-85mm-f-1-2l-v2-coming-canon-patent-details-dual-motor-focus-design/
+  피드 요약: We did wonder a few months ago if Canon was gearing up to release new RF 50mm f/1.2L USM and RF 85mm f/1.2L USM lenses. There have been odd inventory issues with both and they both use an older Ring-Type USM design which Canon is moving away from. It's a logical conclusion that the next […]
+
+· New Nikon lens rebates launched in Canada
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-26 04:27
+  링크: https://nikonrumors.com/2026/08/25/new-nikon-lens-rebates-launched-in-canada.aspx/
+  피드 요약: Nikon Canada launched new lens rebates that will expire on September 10th. Here is the list of discounted products at Camera Canada(the current Nikon US rebates can be found here): The post New Nikon lens rebates launched in Canada appeared first on Nikon Rumors . Related posts: Nikon US rebates for
+
+· Nikon Image Space is no more, Nikon Imaging Cloud will be enhanced with 5GB of image storage
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-25 23:31
+  링크: https://nikonrumors.com/2026/08/25/nikon-image-space-is-no-more-nikon-imaging-cloud-will-be-enhanced-with-5gb-of-image-storage.aspx/
+  피드 요약: Today, Nikon announced that the Nikon Image Space (www.nikonimagespace.com) will be terminated on October 15, 2026. At the same time, the Nikon Imaging Cloud (imagingcloud.nikon.com) will be enhanced with 5GB of image storage and image sharing capabilities (a year later the Nikon Authenticity Servic
+
+· Waiting for the Fujifilm GFX180? Here’s What GFX Can Do Today
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-26 04:52
+  링크: https://www.fujirumors.com/waiting-for-the-fujifilm-gfx180-heres-what-gfx-can-do-today/
+  피드 요약: ❤️ Join Now – the One&Only Fujifilm GFX Community I guess many fellow Fujifilm GFX shooters like myself, are eagerly awaiting to see the rumored Fujifilm GFX180 become reality. Fujifilm GFX180 Will Unlock the True Potential of Fujinon GF Lenses BREAKING: This is the Future Sensor of Fujifilm GFX – B

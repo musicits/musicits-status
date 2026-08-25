@@ -1,0 +1,662 @@
+[
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom US",
+  "official": true,
+  "major_only": false,
+  "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+  "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+  "date_kst": "2026-08-25 22:00",
+  "summary": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom US",
+  "official": true,
+  "major_only": false,
+  "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+  "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+  "date_kst": "2026-08-25 21:59",
+  "summary": "Apple announced the new Mac mini with the all-new M6 and powerful M5 Pro, delivering a dramatic boost in performance and more versatility in its supersmall desktop design."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom US",
+  "official": true,
+  "major_only": false,
+  "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+  "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+  "date_kst": "2026-08-25 21:58",
+  "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom KR",
+  "official": true,
+  "major_only": false,
+  "title": "Apple, M5 Max 및 M5 Ultra를 탑재한 신규 Mac Studio 공개",
+  "link": "https://www.apple.com/kr/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+  "date_kst": "2026-08-25 22:19",
+  "summary": "Apple이 M5 Max 및 완전히 새로운 M5 Ultra를 탑재해 AI 성능의 획기적인 도약과 더욱 빨라진 그래픽 성능을 선사하는 신규 Mac Studio를 공개했다."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom KR",
+  "official": true,
+  "major_only": false,
+  "title": "Apple, 완전히 새로운 M6 및 M5 Pro 칩을 탑재해 더욱 강력해진 Mac mini 공개",
+  "link": "https://www.apple.com/kr/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+  "date_kst": "2026-08-25 22:13",
+  "summary": "Apple이 완전히 새로운 M6 및 강력한 M5 Pro를 탑재해 성능을 극적으로 끌어올리고 초소형 데스크탑 디자인의 활용성을 한층 확대한 신규 Mac mini를 공개했다."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Apple Newsroom KR",
+  "official": true,
+  "major_only": false,
+  "title": "Apple, 성능과 AI 컴퓨팅의 획기적인 도약을 이끌 M6 및 M5 Ultra 공개",
+  "link": "https://www.apple.com/kr/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+  "date_kst": "2026-08-25 22:08",
+  "summary": "Apple이 새로운 Mac mini에 M6, 새로운 Mac Studio에 M5 Ultra를 탑재해 성능과 AI 역량을 획기적으로 끌어올렸다."
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "[초대장] 디자인 마이애미 서울 2026: ‘디자인은 사랑의 표현(Design is an Act of Love)’ 개최",
+  "link": "https://news.samsung.com/kr/%ec%b4%88%eb%8c%80%ec%9e%a5-%eb%94%94%ec%9e%90%ec%9d%b8-%eb%a7%88%ec%9d%b4%ec%95%a0%eb%af%b8-%ec%84%9c%ec%9a%b8-2026-%eb%94%94%ec%9e%90%ec%9d%b8%ec%9d%80-%ec%82%ac%eb%9e%91%ec%9d%98-%ed%91%9c",
+  "date_kst": "2026-08-25 22:00",
+  "summary": "삼성전자가 9월 1일부터 6일까지 서울 동대문디자인플라자(DDP)에서 열리는 ‘디자인 마이애미 서울 2026’에서 특별 전시를 선보입니다. ‘디자인은 사랑의 표현(Design Is an Act of Love)’을 주제로, 대한민국 아티스트 14팀이 삼성전자 제품을 각자의 시각으로 재해석한 작품을 선보입니다. 각 작품은 AI를 활용해 새롭게 구현되며, OLED TV S95H의 커스텀 프레임까지 작품의 일부로 완성해 선보입니다. 인간을 중심에 두고 더욱 다채롭게 펼쳐지는 삼성전자의 […]"
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "삼성전자, 獨 ‘게임스컴 2026’서 통합 게이밍 생태계 펼쳐",
+  "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%e7%8d%a8-%ea%b2%8c%ec%9e%84%ec%8a%a4%ec%bb%b4-2026%ec%84%9c-%ed%86%b5%ed%95%a9-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%ec%83%9d%ed%83%9c%ea%b3%84-%ed%8e%bc%ec%b3%90",
+  "date_kst": "2026-08-25 20:00",
+  "summary": "삼성전자가 26일(현지시간) 독일 쾰른 메세(Koelnmesse)에서 개막하는 세계 최대 규모 글로벌 게임 전시회 ‘게임스컴 2026(Gamescom 2026)’에서 PC∙콘솔∙모바일 게임을 모두 아우르는 통합 게이밍 생태계를 선보인다. 삼성전자는 1,090㎡(약 330평) 규모의 전시장을 마련하고 게이밍 모니터부터 TV·모바일·SSD·헤드셋까지 게이밍 기기를 풀패키지로 전시한다. 방문객들은 전시된 삼성의 최신 게이밍 제품 패키지를 통해 다양한 게임의 장르와 플레이 환경에 최적화된 글로벌 인기 게임을 직접 체험할 […]"
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "삼성전자, 원스톱 혼수 특화 매장 ‘삼성스토어 청담점’ 전면 리뉴얼 오픈",
+  "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%9b%90%ec%8a%a4%ed%86%b1-%ed%98%bc%ec%88%98-%ed%8a%b9%ed%99%94-%eb%a7%a4%ec%9e%a5-%ec%82%bc%ec%84%b1%ec%8a%a4%ed%86%a0%ec%96%b4-%ec%b2%ad%eb%8b%b4%ec%a0%90",
+  "date_kst": "2026-08-25 17:00",
+  "summary": "삼성전자는 24일 서울 강남구 청담동에 위치한 삼성스토어 청담점을 혼수가전 전문 거점 매장으로 전면 리뉴얼했다. 삼성스토어 청담점은 단순한 가전 판매 매장을 넘어, 신혼부부의 라이프스타일에 맞춘 제품 체험부터 인테리어 컨설팅까지 한 번에 가능한 원스톱 융복합 공간으로 기획됐다. 삼성전자는 삼성스토어 청담점 3층에 실제 신혼집처럼 꾸며진 쇼룸 형태의 ‘인테리어 패키지 존’을 마련했다. 고객이 공간에 적합한 제품 구성과 배치를 한눈에 […]"
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "[인터뷰] “우리 집 터줏대감이자 든든한 조력자”… 배우 한가인이 전하는 삼성 냉장고 이야기",
+  "link": "https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ed%84%b0%ec%a4%8f%eb%8c%80%ea%b0%90%ec%9d%b4%ec%9e%90-%eb%93%a0%eb%93%a0%ed%95%9c-%ec%a1%b0%eb%a0%a5%ec%9e%90",
+  "date_kst": "2026-08-25 17:00",
+  "summary": "최근 유튜브를 통해 솔직하고 꾸밈없는 일상을 보여주고 있는 배우 한가인이 삼성 냉장고를 무려 14년째 사용 중이라고 밝혀 눈길을 끌었다. 배우 한가인에게 삼성 냉장고는 단순한 가전 그 이상이다. 첫 아이를 위해 엄마의 손으로 처음 만든 이유식을 보관하던 순간을 지나 지금까지 온 가족의 식탁을 책임지며 소중한 일상을 함께해온 존재다. 그동안 AS 한 번 받을 일 없이 늘 […]"
+ },
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "새로운 갤럭시 폴드8으로의 전환, 더 쉽고 간편하게",
+  "link": "https://news.samsung.com/kr/%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ed%8f%b4%eb%93%9c8%ec%9c%bc%eb%a1%9c%ec%9d%98-%ec%a0%84%ed%99%98-%eb%8d%94-%ec%89%bd%ea%b3%a0-%ea%b0%84%ed%8e%b8%ed%95%98%ea%b2%8c",
+  "date_kst": "2026-08-25 17:00",
+  "summary": "새로운 스마트폰을 만나는 순간은 설레지만, 기존 스마트폰의 데이터를 새 기기로 옮기는 과정은 번거롭게 느껴질 수 있다. 특히 iOS 기기에서 갤럭시로 전환할 때는 기존 데이터와 설정을 얼마나 간편하게 옮길 수 있는지가 중요하다. ‘스마트 스위치(Smart Swtich)’는 안드로이드나 iOS 기기에서 새 갤럭시로 연락처, 사진, 동영상, 메시지, 앱, 설정 등을 옮기는 삼성전자의 데이터 전송 앱이다. 새로운 8세대 갤럭시 Z […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+  "link": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+  "date_kst": "2026-08-26 06:13",
+  "summary": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will see them when searching for locations and when viewing Suggested Places. Apple announced plans to bring ads to the Maps app in March, and said the feature would roll out starting in late summer. Apple confirmed to 9to5Mac that ads began showing up for users over the last few days, with ad placement to ramp up in the coming weeks. Ads are shown in Suggested Places when initiating a search and after searching if a company has bought an ad for a keyword you're looking for. Ads are shown at the top o"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
+  "link": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
+  "date_kst": "2026-08-26 03:41",
+  "summary": "Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth , but wanted to highlight some interesting tidbits about the new machines. Price Increases - The Mac mini now starts at $899, $300 over the original starting price of the M4 Mac mini when it launched in October 2024. Mac Studio pricing starts at $2,499, $500 more than the original price of the M4 Max model when it came out in March 2025. Connectivity - Apple upgraded the new Macs with Wi-Fi 7 and Bluetooth 6, so they are on par with the connectivity"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple to Release 13 More New Products Later This Year",
+  "link": "https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/",
+  "date_kst": "2026-08-26 03:03",
+  "summary": "Looking past the new Mac mini and Mac Studio models unveiled today, Apple still has plenty of other new products on its roadmap for this year. It is nearly September, and that means the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone are just around the corner. Other products expected later this year include the Apple Watch Series 12 with a ceramic case option, AirPods 5, an all-new Apple home hub, new Apple TV and HomePod mini models, and more. Apple is expected to release at least 13 more products by the end of 2026, according to rumors. We have provided a summary below."
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
+  "link": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
+  "date_kst": "2026-08-26 02:45",
+  "summary": "Alongside the launch of new Mac Studio and Mac mini models, Apple today expanded its 40W Dynamic Power Adapter with 60W Max to Vietnam and countries in Europe that use the type C two-pin Europlug. The updated variant of the power adapter has a retractable two-prong design. The prongs pop back into the power adapter's enclosure, making it easier to tuck into a bag or a pocket. Apple previously debuted a standard U.S. variant in September 2025 alongside the iPhone 17 models, and a type G plug version in November 2025. Countries where the type C 40W Dynamic Power Adapter with 60W Max is available"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
+  "link": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
+  "date_kst": "2026-08-26 01:55",
+  "summary": "Apple today unveiled new Mac Studio models with M5 Max and M5 Ultra chips. Pre-orders began today ahead of a September 22 launch, but one configuration will not be available until later. Apple says the Mac Studio with the M5 Ultra chip and 512GB of RAM will be coming in \"late October,\" with U.S. pricing expected to start well above the $10,000 mark. Apple stopped offering the previous-generation Mac Studio with 512GB of RAM in March due to the ongoing memory chip shortage, but it appears that the upgrade option will return for the new model in two months from now. Related Roundup: Mac Studio B"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "New Macs and More: Here's Everything Apple Announced Today",
+  "link": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
+  "date_kst": "2026-08-26 01:10",
+  "summary": "Apple today unveiled a new Mac mini with M6 and M5 Pro chip options, a new Mac Studio with M5 Max and M5 Ultra chip options, a new version of the Polishing Cloth with a lower price, and updated Magic Keyboards for Macs. Subscribe to MacRumors on YouTube Here are all of the new products that Apple announced today: Apple Announces New Mac Mini With M6 and M5 Pro Chips and More Apple Unveils New Mac Studio With M5 Max and M5 Ultra Chips Apple Releases New Polishing Cloth Apple Quietly Refreshes Magic Keyboards Both the M6 and M5 Ultra chips are new as of today: Apple Reveals M6 as First-Ever 2nm "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Smart Home Display Still Coming This Year",
+  "link": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
+  "date_kst": "2026-08-26 00:19",
+  "summary": "Apple remains on track to launch its first smart home device with a screen before the end of the year, according to Bloomberg 's Mark Gurman . Gurman reiterated that the device will use facial recognition to determine who is standing in front of it and serve up personalized content for that individual user. The description lines up with code found in macOS Tahoe 26.7 earlier this week, which revealed that the smart home hub will support multiple user profiles and use \"ambient sensing\" to verify identity. Apple is also readying a new Apple TV and an updated HomePod mini as part of the same rene"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now",
+  "link": "https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/",
+  "date_kst": "2026-08-25 23:39",
+  "summary": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Highlights this time around include a collection of audio devices on sale, including the Sonos Ace Headphones for $299.00 , down from $399.00, and Sony's WH-1000XM5 Noise Canceling Headphones for $248.00 , down from $399.00. You can also get a few soundbars"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
+  "link": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
+  "date_kst": "2026-08-26 07:20",
+  "summary": "Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces. M6 Mac mini vs M4 Mac mini In a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac window. The big change is the shift from the M4 generation it has been on for almost two years. That shift isn't to the M5, but to M6. Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it",
+  "link": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss",
+  "date_kst": "2026-08-26 05:16",
+  "summary": "Apple just announced the Mac mini with M5 Pro and you'll need one with 64GB of RAM to run the Junie Local model, a free 27B parameter coding agent that compares to Sonnet 4.5 or GPT-5. Junie Local needs a powerful Mac to run, but doesn't cost any tokens JetBrains developed Junie as a coding agent that runs on your Mac and calls out to models the user chose. That always required some configuration and sending data off to some other AI product, so JetBrains has built Junie Local. According to a blog post by JetBrains, Junie Local installs with a single command, takes about 20GB of space, and req"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Maps ads are finally showing up on iPhone",
+  "link": "https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss",
+  "date_kst": "2026-08-26 04:25",
+  "summary": "Apple Maps ads have finally arrived after months of buildup, with the first sponsored listings rolling out on iPhones across the US and Canada. An example of an Apple Maps ad In March, Apple confirmed it would bring ads to Apple Maps. The ads were part of the greater Apple Business rollout. It wasn't known exactly when Apple would begin rolling out the ads, but the company had set a tentative release date for Summer 2026. And, true to its word, we're now seeing ads popping up in Apple Maps. Continue Reading on AppleInsider | Discuss on our Forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple's AI desktop, compared",
+  "link": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss",
+  "date_kst": "2026-08-26 04:19",
+  "summary": "Apple's top-tier Mac, the Mac Studio , has been given a big AI bump with the M5 Ultra. Here's how it compares against the M3 Ultra model it replaces. The Mac Studio now has M5 Ultra, an upgrade from the M3 Ultra. The new Mac Studio arrived on Tuesday , with the all-new M5 Ultra now the top-of-the-range chip for tough productivity workloads. Apple is positioning it squarely as a desktop for doing a lot of AI-related processing, including running models locally. The design stays faithful to the outgoing model, so the story lives inside the chip. This time, the headline is artificial intelligence"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Adding AppleCare to Mac Studio & Mac mini is later in the purchase process than before",
+  "link": "https://appleinsider.com/articles/26/08/25/adding-applecare-to-mac-studio-mac-mini-is-later-in-the-purchase-process-than-before?utm_source=rss",
+  "date_kst": "2026-08-26 02:30",
+  "summary": "Despite the New Mac mini and Mac Studio apparently not including an option to add AppleCare where it has historically been during the order process, you just have to click through a few pages to get it done. AppleCare options are available for the new Macs. It's not remotely clear why Apple would choose to hide AppleCare for the new Macs since the option is front and center with other Macs. With those, AppleCare is on the order page, right after processor, RAM, and storage options. With the new Mac mini and Mac Studio , there is no such option on that page, but there is later in the process. A"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "M6 Mac mini arrives with a new record-high starting price",
+  "link": "https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss",
+  "date_kst": "2026-08-26 02:20",
+  "summary": "In an uncharacteristic August launch, Apple has updated the Mac mini, retaining the same design, adding the M6 and M5 Pro processors, and a new record-high starting price. M4 Mac mini. M5 is identical externally The release comes almost two years after the then-redesigned M4 Mac mini was released. There's nothing different externally, with the major change being the M6 processor. And it comes after wait times were as long as two months on the morning of August 25 for the M4 version of the hardware. It will almost certainly sell out rapidly upon release, and we advise that if you want one, you "
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Why the new Mac Studio can support up to eight screens",
+  "link": "https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss",
+  "date_kst": "2026-08-26 01:01",
+  "summary": "You have to really need it in order to justify the cost of an M5 Ultra Mac Studio , but there are reasons why you could use up all eight display options, and they may not be obvious. Mac Studio comes with many ports, yet it's still easy to fill them all. Sometimes you wonder if Apple adds something just because it can. So the new M5 Max version of the Mac Studio, for instance, is being promoted as being able to run up to five displays, while the M5 Ultra Mac Studio can handle eight. There's more to it than that, there are specific limits on the types of displays, but it's true that there are f"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's infamous Polishing Cloth drops to $9",
+  "link": "https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss",
+  "date_kst": "2026-08-26 00:45",
+  "summary": "Unaffected by RAM prices and supply chain bottlenecks, Apple's much-maligned Polishing Cloth makes a return to the Apple Store with a $10 discount. Don't buy it. The new, $9 Apple Polishing Cloth | Image credit: Apple In 2021, Apple announced the Polishing Cloth, a $19 cloth designed specifically to keep any of its Nano-texture displays smudge-free without any damage. And while the internet found the price to be ludicrous, and rightfully so, it was $19 at launch; it still immediately sold out. In fact, not only did it sell out immediately, it sold out three months in advance. Afterward, when i"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+  "link": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+  "date_kst": "2026-08-26 07:49",
+  "summary": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+  "link": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+  "date_kst": "2026-08-26 07:48",
+  "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily ."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Here are all the Apple devices with full Wi-Fi 7 support",
+  "link": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
+  "date_kst": "2026-08-26 06:45",
+  "summary": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features ."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "OpenAI announces the Admin plugin for ChatGPT Work and Codex",
+  "link": "https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/",
+  "date_kst": "2026-08-26 05:56",
+  "summary": "OpenAI’s new ChatGPT Admin plugin lets workspace admins manage users and permissions, analyze usage, and build reports directly from a conversation. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+  "link": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+  "date_kst": "2026-08-26 05:45",
+  "summary": "The next major iPhone software version is iOS 27, and it’s launching very soon. Here’s when to expect the public release for iOS 27."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "WhatsApp announces three ways to make accounts more secure",
+  "link": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
+  "date_kst": "2026-08-26 05:10",
+  "summary": "Meta today announced a set of new security features for WhatsApp, including expanded passkey support and stronger two-step verification. Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Three new Macs are launching this fall, here’s what’s coming",
+  "link": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
+  "date_kst": "2026-08-26 04:54",
+  "summary": "Apple launched two new products today— Mac mini and Mac Studio —but three more Macs are rumored to arrive this fall. Here’s what’s coming."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+  "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+  "date_kst": "2026-08-26 03:48",
+  "summary": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Life360 adds new pet care tools to help keep your household in sync",
+  "link": "https://www.androidauthority.com/life360-new-pet-care-features-3703038/",
+  "date_kst": "2026-08-26 06:56",
+  "summary": "The shared care logs might stop your dog scoring a second dinner."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Apps may keep giving us tools to break our addiction to them, but teens aren’t using them",
+  "link": "https://www.androidauthority.com/instagram-take-a-break-3702952/",
+  "date_kst": "2026-08-26 06:19",
+  "summary": "Guess how many teens use anti-doomscrolling features. Hint: It's NOT \"practically everyone.\""
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Anbernic spills the specs of its Nintendo Switch Lite look-alike",
+  "link": "https://www.androidauthority.com/anbernic-rg-55g1-unboxing-3702983/",
+  "date_kst": "2026-08-26 05:58",
+  "summary": "Anbernic's unboxing clears up any mystery about the RG 55G1's specs."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Fan survey sends Google a pretty blunt message about the Pixel 12",
+  "link": "https://www.androidauthority.com/google-pixel-12-priorities-poll-results-3702883/",
+  "date_kst": "2026-08-26 05:21",
+  "summary": "Our readers told us what the Pixel 12's focus should be, and it's not more AI."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Claude Cowork will now remember your conversations with chat",
+  "link": "https://www.androidauthority.com/claude-cowork-shares-memory-with-chat-3702922/",
+  "date_kst": "2026-08-26 05:04",
+  "summary": "Claude chat now shares a memory with Cowork."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over",
+  "link": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/",
+  "date_kst": "2026-08-26 04:26",
+  "summary": "At least one store in South Africa is very ready for the S26 FE's launch."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google Home automations not working right lately? Blame your TV",
+  "link": "https://www.androidauthority.com/google-home-automations-tv-3702928/",
+  "date_kst": "2026-08-26 04:23",
+  "summary": "Google Home automations aren't playing nicely with your TV, but Google is on the case."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking",
+  "link": "https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/",
+  "date_kst": "2026-08-26 02:58",
+  "summary": "Garmin launches the fēnix 9 and fēnix 9 Pro."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "애플 아이폰 18 폴드, 중미 통신사 가격 유출 (*Z폴드8 울트라 보다 저렴)",
+  "link": "https://blog.naver.com/yeux1122/224390441412?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 07:53",
+  "summary": "아이폰 18 폴드 모델의 가격에 대한 중요한 내용이 나왔습니다. (멕시코 telcel 1위 통신사 내부망) 핵심 (등록명 IPHONE 18 FD) 아이폰 폴드 : 가격은 중미에 출시된 갤럭시Z폴드8 모델보다 오히려 저렴 (정상 출시가 대비 5.4% 상시 프로모션가 대비 0.8% 저렴) (* 이 가격도 제가 루머를 통해서 생각보다 그렇게 가격이 높지 않을 것이라고 언급을 해드렸었습니다...) 또한 (*제가 누누히 이야기 드린대로) 아이폰 18 프로맥스 가격이 동결 (중미에 출시되었던 아이폰 17 프로맥스 가격대와 완전 동일) 30,999 / 35,999 / 40,999 결론 아이폰 18 프맥 동결 아이폰 18 폴드 경쟁사 대비 저렴"
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "샤오미 18 폴드, 아이폰 폴드 모델과 거의 동일한 형태",
+  "link": "https://blog.naver.com/yeux1122/224390439897?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 07:51",
+  "summary": "샤오미 18 폴드 모델에 대한 내용이 나왔습니다. (*웨이보) 아이폰 폴드 처럼 네이밍 동일 아이폰 폴드 처럼 유광 마감 처리 아이폰 폴드 처럼 펀치홀 위치 동일 아이폰 폴드 처럼 크기 외형 비율 거의 동일"
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "갤럭시S27 울트라, 렌더링 이미지 (*온릭스)",
+  "link": "https://blog.naver.com/yeux1122/224390222328?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-25 23:38",
+  "summary": "갤럭시S27 울트라 렌더링 이미지가 나왔습니다. (*온릭스) 루머대로 카메라 배치 크기는 약간 커짐 163.76 x 78.25 x 7.97mm"
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "애플 M6 & M5 울트라 칩 발표, (*맥미니 & 맥 스튜디오 포함)",
+  "link": "https://blog.naver.com/yeux1122/224390217730?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-25 23:32",
+  "summary": "애플은 공식 뉴스룸을 통해 다음의 내용을 발표 했습니다. 1. M6 칩 및 M5 울트라 칩셋 발표 M6 칩은 M4 칩 탑재 모델에 비해 최대 4배 빠른 AI 성능, 2배 빠른 스토리지 및 그래픽, 40% 고속 CPU 성능을 제공 2. M6 / M5 Pro 맥 미니 발표 (9월22일) 최대 4배 향상된 AI 성능과 최대 2배 향상된 그래픽 성능 및 저장 장치 속도, 한층 강화된 연결성 M6 탑재 Mac mini의 가격은 1,499,000원부터, 교육용 가격은 1,329,000원부터 시작 M5 Pro 탑재 Mac mini의 가격은 2,990,000원부터, 교육용 가격은 2,809,000원부터 시작 3. M5 Max & M5 Ultra 맥 스튜디오 발표 (9월22일) Apple의 역대 가장 강력한 Mac은 최대 4.3배 빨라진 성능과 더욱 진......."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "애플 신형 OLED 아이패드 미니, 출시 일정 관련",
+  "link": "https://blog.naver.com/yeux1122/224389492174?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-25 11:39",
+  "summary": "애플 신형 OLED 아이패드 미니 모델의 출시 일정에 대한 내용이 새로 나왔습니다. (* 마크거먼) 올가을 출시 예정 (* 이전 루머와 동일) 10월달 이전에 출시될 예정 OLED 디스플레이 탑재 새로운 디자인 적용"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "FiiO's retro-modern amp takes inspiration from the \"golden era of 1950s tube amplifiers\"",
+  "link": "https://www.whathifi.com/hi-fi/stereo-amplifiers/fiios-retro-modern-amp-takes-inspiration-from-the-golden-era-of-1950s-tube-amplifiers",
+  "date_kst": "2026-08-26 00:55",
+  "summary": "FiiO EA13 promises a \"classic hi-fi\" sound in a modern, feature-heavy design"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Eversolo brings streaming, downloads and physical CD playback together in one multitasking product",
+  "link": "https://www.whathifi.com/hi-fi/music-streamers/eversolo-brings-streaming-downloads-and-physical-cd-playback-together-in-one-multitasking-product",
+  "date_kst": "2026-08-26 00:30",
+  "summary": "The DMP-A8 Master Edition Gen 2 has a top-loading CD player, while the DMP-A8 shares the same streaming features"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Porsche and Burmester have a new secret weapon for their car hi-fi systems, and it sounds like sci-fi",
+  "link": "https://www.whathifi.com/hi-fi/porsche-and-burmester-have-a-new-secret-weapon-for-their-car-hi-fi-systems-and-it-sounds-like-sci-fi",
+  "date_kst": "2026-08-25 23:57",
+  "summary": "New tech will feature from 2027"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "We tested Samsung’s entry-level OLED TV and it's one of our top picks, especially at this new sale price",
+  "link": "https://www.whathifi.com/tv-home-cinema/televisions/we-tested-samsungs-entry-level-oled-tv-and-its-one-of-our-top-picks-especially-at-this-new-sale-price",
+  "date_kst": "2026-08-25 23:26",
+  "summary": "The S85H is a solid entry-level option"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Bose Lifestyle Ultra Soundbar",
+  "link": "https://www.whathifi.com/tv-home-cinema/soundbars/bose-lifestyle-ultra-soundbar-solo",
+  "date_kst": "2026-08-25 21:00",
+  "summary": "Bose fires another shot at the soundbar leaders."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Our TV Product of the Year has a new lowest price – but there's a catch",
+  "link": "https://www.whathifi.com/tv-home-cinema/televisions/our-tv-product-of-the-year-has-a-new-lowest-price-but-theres-a-catch",
+  "date_kst": "2026-08-25 18:39",
+  "summary": "An Award-winning TV, but hold fire on updating the software"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Shokz's bone-conducting headphones tease an ultra-light fit for runners on a budget",
+  "link": "https://www.whathifi.com/headphones/wireless-earbuds/shokzs-bone-conducting-headphones-tease-an-ultra-light-fit-for-runners-on-a-budget",
+  "date_kst": "2026-08-25 18:24",
+  "summary": "The OpenRun Air 2 have landed"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Marshall drops limited edition gear as a tribute to Jimi Hendrix",
+  "link": "https://www.soundguys.com/marshall-jimi-hendrix-limited-edition-162004/",
+  "date_kst": "2026-08-26 03:12",
+  "summary": "The lineup includes an amp stack, new"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Best deal yet drops the new Soundcore P42i buds to $69.99",
+  "link": "https://www.soundguys.com/soundcore-anker-p42i-wireless-earbuds-deal-162007/",
+  "date_kst": "2026-08-26 01:33",
+  "summary": "The new Soundcore P42i earbuds drop to their best price since launch with ANC, LDAC, and 40-hour battery life."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "The Bose SoundLink Micro 2nd Gen gets a big price drop to just $79.99",
+  "link": "https://www.soundguys.com/bose-soundlink-micro-2-deal-162001/",
+  "date_kst": "2026-08-26 00:01",
+  "summary": "Save $49 on the highly rated device and get a compact speaker with solid bass, app EQ controls, and IP67 durability."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Before you buy the new Bose headphones, these Skullcandy cans have all the same tech for $80 less",
+  "link": "https://www.soundguys.com/bose-quietcomfort-headphones-vs-skullcandy-crusher-1080-anc-161901/",
+  "date_kst": "2026-08-25 18:00",
+  "summary": "Bose's new headphones aren't the only ones with Bose features."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "An analog tube stereo amp for under $800 / £800? From an actually good audiophile brand? Oh, Christmas has come early…",
+  "link": "https://www.techradar.com/audio/hi-fi/an-analog-tube-stereo-amp-for-under-usd800-gbp800-from-an-actually-good-audiophile-brand-oh-christmas-has-come-early",
+  "date_kst": "2026-08-26 01:22",
+  "summary": "Fiio's EA13 is a tube amplifier that's surprisingly affordable."
+ },
+ {
+  "category": "오디오",
+  "source": "TechRadar 오디오",
+  "official": false,
+  "major_only": false,
+  "title": "Two new AirPods 5 models will launch alongside the iPhone 18, says reliable analyst — here's what I'd like to see Apple change to make them better value than AirPods 4",
+  "link": "https://www.techradar.com/audio/earbuds-airpods/two-new-airpods-5-models-will-launch-alongside-the-iphone-18-says-reliable-analyst-heres-what-id-like-to-see-apple-change-to-make-them-better-value-than-airpods-4",
+  "date_kst": "2026-08-25 20:03",
+  "summary": "A new report suggests the Apple AirPods 5 will launch alongside the iPhone 18 Pro, and an ANC-toting model will be along for the ride."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "Sigma and Sony announcements coming in September!",
+  "link": "https://www.sonyalpharumors.com/sigma-and-sony-announcements-coming-in-september/",
+  "date_kst": "2026-08-25 20:39",
+  "summary": "Two trusted sources shared new information about the next Sigma and Sony announcements. I am working to double-check the details and might post them as early as this week. All I can say for now is that both Sigma and Sony will have announcements in September. Of course, Sigma will launch the 85mm f/1.2 FE… The post Sigma and Sony announcements coming in September! first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Is the RF 85mm f/1.2L V2 Coming? Canon Patent Details Dual-Motor Focus Design",
+  "link": "https://www.canonrumors.com/is-the-rf-85mm-f-1-2l-v2-coming-canon-patent-details-dual-motor-focus-design/",
+  "date_kst": "2026-08-25 22:04",
+  "summary": "We did wonder a few months ago if Canon was gearing up to release new RF 50mm f/1.2L USM and RF 85mm f/1.2L USM lenses. There have been odd inventory issues with both and they both use an older Ring-Type USM design which Canon is moving away from. It's a logical conclusion that the next […]"
+ },
+ {
+  "category": "카메라",
+  "source": "Nikon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "New Nikon lens rebates launched in Canada",
+  "link": "https://nikonrumors.com/2026/08/25/new-nikon-lens-rebates-launched-in-canada.aspx/",
+  "date_kst": "2026-08-26 04:27",
+  "summary": "Nikon Canada launched new lens rebates that will expire on September 10th. Here is the list of discounted products at Camera Canada(the current Nikon US rebates can be found here): The post New Nikon lens rebates launched in Canada appeared first on Nikon Rumors . Related posts: Nikon US rebates for March Nikon USA increased rebates for April 2026 Nikon USA rebates for May remain unchanged"
+ },
+ {
+  "category": "카메라",
+  "source": "Nikon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Nikon Image Space is no more, Nikon Imaging Cloud will be enhanced with 5GB of image storage",
+  "link": "https://nikonrumors.com/2026/08/25/nikon-image-space-is-no-more-nikon-imaging-cloud-will-be-enhanced-with-5gb-of-image-storage.aspx/",
+  "date_kst": "2026-08-25 23:31",
+  "summary": "Today, Nikon announced that the Nikon Image Space (www.nikonimagespace.com) will be terminated on October 15, 2026. At the same time, the Nikon Imaging Cloud (imagingcloud.nikon.com) will be enhanced with 5GB of image storage and image sharing capabilities (a year later the Nikon Authenticity Service is still disabled): Notice Regarding the Termination of the NIKON IMAGE […] The post Nikon Image Space is no more, Nikon Imaging Cloud will be enhanced with 5GB of image storage appeared first on Nikon Rumors . Related posts: The Art of Color… Science? Nikon FY2026 financial results: profits down,"
+ },
+ {
+  "category": "카메라",
+  "source": "Fuji Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Waiting for the Fujifilm GFX180? Here’s What GFX Can Do Today",
+  "link": "https://www.fujirumors.com/waiting-for-the-fujifilm-gfx180-heres-what-gfx-can-do-today/",
+  "date_kst": "2026-08-26 04:52",
+  "summary": "❤️ Join Now – the One&Only Fujifilm GFX Community I guess many fellow Fujifilm GFX shooters like myself, are eagerly awaiting to see the rumored Fujifilm GFX180 become reality. Fujifilm GFX180 Will Unlock the True Potential of Fujinon GF Lenses BREAKING: This is the Future Sensor of Fujifilm GFX – But You’ll Have to Wait… The post Waiting for the Fujifilm GFX180? Here’s What GFX Can Do Today appeared first on Fuji Rumors ."
+ }
+]
