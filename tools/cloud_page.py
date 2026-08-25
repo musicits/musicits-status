@@ -3,8 +3,12 @@
 """휴대폰에서 돌린 수집 결과를 cloud/index.html 한 장으로 그린다.
 
 깃허브 Actions 안에서만 돌아간다(.github/workflows/collect.yml).
-PC 에서 만드는 메인 페이지(index.html)와는 별개다 — 그쪽은 요약과 제목 후보까지
-들어간 정식 보고서를 담고, 이쪽은 '방금 새 기사가 있었나'만 빠르게 보여준다.
+PC 에서 만드는 메인 페이지(index.html)와는 별개다 — 저쪽은 Claude 가 쓴 정식
+보고서와 뉴스 쿼터를 담고, 이쪽은 폰에서 돌린 것만 따로 쌓인다. 둘은 확인 기록이
+따로여서 같은 기사가 양쪽에 다 나온다. 그러라고 나눠 둔 것이다.
+
+요약.json 이 있으면 보고서 모양으로, 없으면 목록만 그린다. 예전 회차의 요약.json 은
+'report' 칸이 없는데, 그때 것은 그때 모양(주요 이슈 + 카테고리별 목록)으로 그린다.
 """
 import html as H
 import json
@@ -76,6 +80,29 @@ summary .meta{font-weight:400;font-size:12px;color:var(--mut);white-space:nowrap
 .empty{color:var(--mut);font-size:13.5px}
 .note{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);
  border-radius:9px;padding:11px 13px;margin:0 0 16px}
+.head{border:1px solid var(--line);border-radius:9px;padding:10px 12px;margin:10px 0 4px}
+.kv{display:flex;gap:8px;font-size:12.5px;margin:0 0 3px}
+.kv .k{color:var(--mut);flex:0 0 62px}
+.kv .v{color:var(--fg);flex:1;min-width:0}
+.warn{margin:6px 0 0;font-size:12px;color:var(--mut)}
+.pk{border-top:1px solid var(--line);padding:12px 0 2px}
+.pk:first-of-type{border-top:0}
+.pk .tag{display:inline-block;font-size:11px;font-weight:700;color:var(--acc);
+ border:1px solid var(--line);border-radius:5px;padding:1px 7px;margin:0 5px 6px 0}
+.pk .tag.fed{color:var(--mut)}
+.pk .t{font-size:15px;font-weight:700;display:block;color:var(--fg);
+ text-decoration:none;line-height:1.45}
+.pk .o{display:block;font-size:12px;color:var(--mut);margin:3px 0 1px}
+.pk .s{display:block;font-size:12px;color:var(--mut);margin:0 0 8px}
+.pk .b{margin:0 0 10px;font-size:14px}
+.pk .line{margin:0 0 8px;font-size:13.5px;padding-left:9px;
+ border-left:2px solid var(--acc)}
+.pk .idea{margin:0 0 3px;font-size:13px;color:var(--fg)}
+.pk .idea b{color:var(--mut);font-weight:600}
+.rest{margin:0 0 11px;font-size:13.5px}
+.rest .n{color:var(--mut);font-weight:700;margin-right:5px}
+.rest a{color:var(--fg);text-decoration:none}
+.rest .s{display:block;font-size:12px;color:var(--mut)}
 """.replace("__DARK__", DARK_CSS)
 
 PAGE = """<!doctype html>
@@ -87,21 +114,21 @@ PAGE = """<!doctype html>
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#1f4fd8">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>휴대폰 수집 결과</title>
+<title>휴대폰 수집 보고서</title>
 <script>%s</script>
 <style>%s</style></head><body><div class="wrap">
 <a class="back" href="../">← 전체 현황으로</a>
-<h1>휴대폰 수집 결과</h1>
+<h1>휴대폰 수집 보고서</h1>
 <p class="sub">%s 기준 · 회차 %d개</p>
-<p class="note">여기는 <b>새 기사 목록</b>만 나옵니다. 요약·제목 후보가 들어간 정식 보고서는
-PC 에서 Claude 가 씁니다. 이 목록은 PC 쪽 확인 기록과 따로 관리되므로, 여기서 본 기사도
-PC 에서 보고서를 만들 때 다시 나옵니다.</p>
+<p class="note">폰에서 돌린 결과만 여기 쌓입니다. 주요 소식은 기사 원문을 열어 읽고
+쓰지만, <b>PC 보고서와는 별개</b>입니다 — 저쪽은 Claude 가 쓰고 뉴스 쿼터까지 같이 봅니다.
+확인 기록도 서로 따로라 여기서 본 기사가 PC 보고서에 다시 나옵니다.</p>
 %s</div></body></html>
 """
 
 
 def read_json(path):
-    """없거나 깨졌으면 None. 번역이 없어도 목록은 나와야 한다."""
+    """없거나 깨졌으면 None. 보고서가 없어도 목록은 나와야 한다."""
     try:
         with open(path, encoding="utf-8") as f:
             return json.load(f)
@@ -109,23 +136,43 @@ def read_json(path):
         return None
 
 
+def read_head(path):
+    """새소식.txt 머리말에서 확인 범위와 접속 실패를 가져온다.
+
+    collect.py 는 PC 와 같은 프로그램이라 여기서 고치지 않는다. 그래서 이미 적어둔
+    것을 읽어 쓴다.
+    """
+    head = {"range": "", "notes": []}
+    try:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    break
+                if line.startswith("확인 범위:"):
+                    m = re.search(r"→\s*(.+?)\s*이후 기사", line)
+                    head["range"] = (m.group(1) + " 이후") if m else line[6:].strip()
+                elif line.startswith("접속 실패:") or line.startswith("※"):
+                    head["notes"].append(line)
+    except OSError:
+        pass
+    return head
+
+
 def runs():
     if not os.path.isdir(RUNS):
         return []
     out = []
     for name in sorted(os.listdir(RUNS), reverse=True):
-        path = os.path.join(RUNS, name, "새소식.json")
-        if not os.path.isfile(path):
-            continue
-        try:
-            with open(path, encoding="utf-8") as f:
-                items = json.load(f)
-        except (OSError, ValueError):
+        run = os.path.join(RUNS, name)
+        items = read_json(os.path.join(run, "새소식.json"))
+        if items is None:
             continue
         m = re.match(r"(\d{4}-\d{2}-\d{2})_(\d{2})(\d{2})$", name)
         label = "%s %s:%s" % m.groups() if m else name
         out.append((label, items if isinstance(items, list) else [],
-                    read_json(os.path.join(RUNS, name, "요약.json")) or {}))
+                    read_json(os.path.join(run, "요약.json")) or {},
+                    read_head(os.path.join(run, "새소식.txt"))))
     return out[:KEEP]
 
 
@@ -145,33 +192,121 @@ def article(idx, item, titles):
                e(item.get("source")), e(item.get("date_kst"))))
 
 
-def render(label, items, digest, first=False):
-    """회차 하나. 맨 위(가장 최근) 회차는 펼쳐서 내보낸다."""
+def head_block(head, report):
+    """머리말. 무엇을 얼마나 추렸는지 한눈에 보이게 한다."""
+    rows = []
+    if head.get("range"):
+        rows.append(("확인 범위", e(head["range"])))
+    if report:
+        c = report.get("counts") or {}
+        rest = max(c.get("kept", 0) - c.get("picked", 0), 0)
+        rows.append(("추린 과정", "수집 %d건 → 기기 소식 %d건 → 주요 %d건 + 한줄 %d건"
+                     % (c.get("collected", 0), c.get("kept", 0),
+                        c.get("picked", 0), rest)))
+        dropped = report.get("dropped") or []
+        if dropped:
+            rows.append(("거른 것", e(" · ".join("%s %d건" % (k, n)
+                                                for k, n in dropped))))
+    if not rows and not head.get("notes"):
+        return ""
+    notes = "".join('<p class="warn">%s</p>' % e(n) for n in head.get("notes") or [])
+    return ('<div class="head">%s%s</div>'
+            % ("".join('<div class="kv"><span class="k">%s</span>'
+                       '<span class="v">%s</span></div>' % (k, v) for k, v in rows),
+               notes))
+
+
+def pick_block(no, item, titles, pick):
+    """주요 소식 한 꼭지. PC 보고서의 한 꼭지와 같은 차례로 놓는다."""
+    ko = titles.get(str(no)) or item.get("title")
+    tags = ['<span class="tag">%s</span>' % e(item.get("category"))]
+    if pick.get("verdict"):
+        tags.append('<span class="tag">%s</span>' % e(pick["verdict"]))
+    read = pick.get("read") or ""
+    if read and not read.startswith("원문"):
+        # 원문을 못 읽었으면 숨기지 않는다. 그래야 내용이 얇은 이유를 안다.
+        tags.append('<span class="tag fed">%s</span>' % e(read))
+
+    out = ['<div class="pk">', "".join(tags),
+           '<a class="t" href="%s" target="_blank" rel="noopener">%s</a>'
+           % (e(item.get("link")), e(ko))]
+    if ko != item.get("title"):
+        out.append('<span class="o">%s</span>' % e(item.get("title")))
+    out.append('<span class="s">%s · %s</span>'
+               % (e(item.get("source")), e(item.get("date_kst"))))
+    if pick.get("body"):
+        out.append('<p class="b">%s</p>' % e(pick["body"]))
+    line = pick.get("blog_line") or pick.get("why")
+    if line:
+        out.append('<p class="line">📝 %s</p>' % e(line))
+    for n, idea in enumerate(pick.get("title_ideas") or [], 1):
+        out.append('<p class="idea"><b>✏️ 제목 후보 %d</b> %s</p>' % (n, e(idea)))
+    out.append("</div>")
+    return "".join(out)
+
+
+def rest_block(n, item, line):
+    return ('<div class="rest"><span class="n">%d.</span>'
+            '<a href="%s" target="_blank" rel="noopener">[%s] %s</a>'
+            '<span class="s">%s · %s</span></div>'
+            % (n, e(item.get("link")), e(item.get("category")), e(line),
+               e(item.get("source")), e(item.get("date_kst"))))
+
+
+def report_body(items, digest, head):
+    """보고서 모양. 요약.json 에 'report' 칸이 있을 때만 쓴다."""
+    report = digest["report"]
     titles = digest.get("titles") or {}
+    picks = [p for p in report.get("picks") or []
+             if isinstance(p.get("no"), int) and 0 <= p["no"] < len(items)]
+    rest = [r for r in report.get("rest") or []
+            if isinstance(r.get("no"), int) and 0 <= r["no"] < len(items)]
+
+    out = [head_block(head, report)]
+    if picks:
+        out.append('<div class="cat pick">주요 소식 %d건</div>' % len(picks))
+        out.extend(pick_block(p["no"], items[p["no"]], titles, p) for p in picks)
+    if rest:
+        out.append('<div class="rule"></div>')
+        out.append('<div class="cat">나머지 소식 %d건</div>' % len(rest))
+        out.extend(rest_block(len(picks) + n, items[r["no"]], r.get("line"))
+                   for n, r in enumerate(rest, 1))
+    if not picks and not rest:
+        out.append('<p class="empty">기기 소식으로 남은 기사가 없습니다.</p>')
+    return "".join(out)
+
+
+def list_body(items, digest, head):
+    """보고서가 없을 때. 예전 회차와 번역이 안 붙은 회차가 여기로 온다."""
+    titles = digest.get("titles") or {}
+    out = [head_block(head, None)]
+    picks = [h for h in digest.get("highlights") or []
+             if isinstance(h.get("no"), int) and 0 <= h["no"] < len(items)]
+    if picks:
+        out.append('<div class="cat pick">주요 이슈</div>')
+        for h in picks:
+            out.append(article(h["no"], items[h["no"]], titles))
+            out.append('<p class="why">%s</p>' % e(h.get("why")))
+        out.append('<div class="rule"></div>')
+    for cat in CATEGORY_ORDER:
+        group = [(i, it) for i, it in enumerate(items) if it.get("category") == cat]
+        if not group:
+            continue
+        out.append('<div class="cat">%s</div>' % e(cat))
+        out.extend(article(i, it, titles) for i, it in group)
+    return "".join(out)
+
+
+def render(label, items, digest, head, first=False):
+    """회차 하나. 맨 위(가장 최근) 회차는 펼쳐서 내보낸다."""
     if not items:
-        inner = '<p class="empty">새 소식이 없었습니다.</p>'
+        inner, meta = '<p class="empty">새 소식이 없었습니다.</p>', "0건"
+    elif digest.get("report"):
+        inner = report_body(items, digest, head)
+        meta = "%d건 · 보고서" % len(items)
     else:
-        blocks = []
-        picks = [h for h in digest.get("highlights") or []
-                 if isinstance(h.get("no"), int) and 0 <= h["no"] < len(items)]
-        if picks:
-            blocks.append('<div class="cat pick">주요 이슈</div>')
-            for h in picks:
-                blocks.append(article(h["no"], items[h["no"]], titles))
-                blocks.append('<p class="why">%s</p>' % e(h.get("why")))
-            blocks.append('<div class="rule"></div>')
-        for cat in CATEGORY_ORDER:
-            group = [(i, it) for i, it in enumerate(items)
-                     if it.get("category") == cat]
-            if not group:
-                continue
-            blocks.append('<div class="cat">%s</div>' % e(cat))
-            for i, it in group:
-                blocks.append(article(i, it, titles))
-        inner = "".join(blocks)
-    meta = "%d건" % len(items)
-    if titles:
-        meta = "%d건 · 번역됨" % len(items)
+        inner = list_body(items, digest, head)
+        meta = "%d건%s" % (len(items), " · 번역됨" if digest.get("titles") else "")
     return ('<details%s><summary><span>%s</span>'
             '<span class="meta">%s</span></summary>'
             '<div class="body">%s</div></details>'
@@ -180,8 +315,8 @@ def render(label, items, digest, first=False):
 
 def main():
     rs = runs()
-    body = ("".join(render(l, i, d, first=(n == 0))
-                for n, (l, i, d) in enumerate(rs)) or
+    body = ("".join(render(l, i, d, h, first=(n == 0))
+                    for n, (l, i, d, h) in enumerate(rs)) or
             '<p class="empty">아직 휴대폰에서 돌린 기록이 없습니다.</p>')
     page = PAGE % (HEAD_JS, CSS,
                    datetime.now(KST).strftime("%Y-%m-%d %H:%M"), len(rs), body)
