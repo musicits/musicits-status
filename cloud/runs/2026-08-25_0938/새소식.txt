@@ -1,0 +1,44 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-25 09:38 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-25 07:49 (KST) 이후 기사
+새 기사: 7건
+
+■ [IT 루머] 6건
+----------------------------------------
+· Siri AI Will Have a Waitlist When iOS 27 Launches
+  출처: MacRumors / 2026-08-25 08:37
+  링크: https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/
+  피드 요약: iOS 27 , iPadOS 27 , and macOS Golden Gate include Siri AI, Apple's much more capable version of ‌Siri‌. When the new updates launch, it appears Apple will use a waitlist and limit initial access. On the MacRumors forums, Mactracker found that the seventh betas of ‌iOS 27‌, ‌iPadOS 27‌, and ‌macOS G
+
+· Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas
+  출처: MacRumors / 2026-08-25 07:51
+  링크: https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/
+  피드 요약: Apple today released the fifth public betas of iOS 27 , iPadOS 27 , tvOS 27, and macOS Golden Gate , allowing anyone with a compatible device to download and test the new software. The fifth betas come a week after Apple seeded the fourth betas and a few hours after the seventh developer betas. You 
+
+· Nuki Smart Lock & Keypad 2 NFC review: A low-profile lock with Apple Home Key support
+  출처: AppleInsider / 2026-08-25 09:05
+  링크: https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss
+  피드 요약: If you're looking for a simple way to access your home, the Nuki Smart Lock and Keypad 2 NFC combo is perfect for renters while supporting in-demand features like Apple Home Key . Nuki Smart Lock & Keypad 2 NFC review I never want to own another smart lock without Apple Home Key support. Retrofit sm
+
+· Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story
+  출처: AppleInsider / 2026-08-25 09:04
+  링크: https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss
+  피드 요약: Hopes were high for Apple TV and F1 streaming in early 2026, but a recent set of data suggests that things fell off sharply in May and viewership has been down double digits since. Apple TV and F1 partnership may have declining viewership numbers Statistical analysis of viewership numbers is a trick
+
+· 갤럭시S27 후면 카메라 디자인, 모델별 차별화 (*비용 이슈)
+  출처: 란즈크 블로그 / 2026-08-25 08:01
+  링크: https://blog.naver.com/yeux1122/224389274240?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 시리즈 후면 카메라 디자인에 대한 내용을 다시 정리해 드립니다. (*웨이보 등 국내소스 종합) 현재 디자인은 기존 설계를 최소하면서 물리적 센서 변경을 반영한 나름 자체 최선의 디자인으로 자평... 비용 효율화를 위해서 모델별 차별화 디자인 적용 울트라 프로는 변경된 디자인 기본 플러스는 기존ㅋ 디자인
+
+· 샤오미 X03 칩, 업계 최초 LPDDR6 메모리 탑재 지원 (*창신 메모리 탑재)
+  출처: 란즈크 블로그 / 2026-08-25 07:54
+  링크: https://blog.naver.com/yeux1122/224389270150?fromRss=true&trackingCode=rss
+  피드 요약: 샤오미 X03칩 메모리에 대한 내용이 나왔습니다. (*중국 CLS) 샤오미 O3 탑재되는 스마트폰 최초 LPDDR6 메모리는 창신 메모리 10667Mbps, 4x24비트 폭, 그리고 113.8GB/s 대역폭을 제공함 (*이전세대 대비 48% 향상된 수치임) 이와는 별도로 *어제 기커완 벤치를 보면 애플 실리콘에 아주 근접한 커브를 보여주고 있습니다. (전성비면 전성비, 성능이면 성능...엑시......) ** 또한 샤오미 개발 담당 임원은 해당 칩은 향후 10년을 위한 티켓을 사는것과 같다면서 전폭적인 투자와 중국내 뛰어난 인력으로
+
+■ [카메라] 1건
+----------------------------------------
+· Nikon received four EISA photography awards
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-25 08:31
+  링크: https://nikonrumors.com/2026/08/24/nikon-received-four-eisa-photography-awards.aspx/
+  피드 요약: Nikon has officially announced only two new lenses this year, but they somehow managed to receive four EISA photography awards for 2026-2027 – not sure how all this works, but here is the full list of “winners”: Award Category Winner (B&H link) EISA Camera of the Year Sony Alpha 7 V EISA Best […] Th
