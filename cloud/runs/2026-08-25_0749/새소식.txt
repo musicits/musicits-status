@@ -1,0 +1,301 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-25 07:49 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-24 13:47 (KST) 이후 기사
+새 기사: 57건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 10건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 6건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 17건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 33건 생략)
+
+■ [IT 루머] 41건
+----------------------------------------
+· Home Hub Code Hints at Face-Based Profile Switching
+  출처: MacRumors / 2026-08-25 05:53
+  링크: https://www.macrumors.com/2026/08/24/home-hub-ambient-sending/
+  피드 요약: Apple's upcoming home hub will support multiple profiles and will include "ambient sensing" for identity verification, according to code we found in the macOS Tahoe 26.7 update. The accessory will show Personal Content for different users in the home, with options to select a profile via Control Cen
+
+· Apple Won't Change Hide My Email Domain After Backlash
+  출처: MacRumors / 2026-08-25 05:17
+  링크: https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/
+  피드 요약: Apple today said it is reversing its decision and will not change the email domain used for the iCloud + Hide My Email feature. Emails sent using Hide My Email will continue to use the same icloud.com domain that Apple uses for standard ‌iCloud‌ emails. In June, Apple said it would unify the email d
+
+· Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over
+  출처: MacRumors / 2026-08-25 04:58
+  링크: https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/
+  피드 요약: Tim Cook will step down as Apple's CEO on Tuesday, September 1, and ahead of that date, Apple hosted a farewell party for him. According to The Information , the party took place on August 23, just a day before Cook celebrated his 15th anniversary as Apple CEO. Approximately 200 people celebrated Co
+
+· Apple Releases macOS Golden Gate Beta 7
+  출처: MacRumors / 2026-08-25 02:35
+  링크: https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/
+  피드 요약: Apple today provided developers with the seventh beta of macOS Golden Gate , with the update coming a week after Apple seeded the sixth beta. Developers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free develope
+
+· Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers
+  출처: MacRumors / 2026-08-25 02:34
+  링크: https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/
+  피드 요약: Apple today seeded the seventh betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the sixth betas. Registered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selectin
+
+· Apple Seeds watchOS 27 Beta 7 to Developers
+  출처: MacRumors / 2026-08-25 02:30
+  링크: https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/
+  피드 요약: Apple today seeded the seventh beta of watchOS 27 to developers, with the update coming a week after the launch of the sixth beta. The beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and hav
+
+· Apple Seeds Seventh visionOS 27 Beta to Developers
+  출처: MacRumors / 2026-08-25 02:29
+  링크: https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/
+  피드 요약: Apple today provided developers with the seventh beta of an upcoming visionOS 27 update for testing purposes. The beta comes a week after Apple released the fifth beta. visionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates. visionOS 27 intr
+
+· Apple Seeds tvOS 27 Beta 7 to Developers
+  출처: MacRumors / 2026-08-25 02:27
+  링크: https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/
+  피드 요약: Apple today seeded the seventh beta of tvOS 27 to developers for testing purposes, with the update coming a week after Apple released the sixth beta. The beta can be downloaded and installed through the Settings app on the Apple TV . A free developer account is required. tvOS 27 has few new features
+
+· Dear Samsung, it’s time to reclaim your iconic camera island
+  출처: SamMobile / 2026-08-25 06:22
+  링크: https://www.sammobile.com/opinion/dear-samsung-time-to-reclaim-your-iconic-camera-island/
+  피드 요약: Samsung made some bold design choices back in the day. There was a time when you could identify a Samsung flagship from across the room, not by looking at its display, but by looking at its back. The centered camera module had become a thing of beauty. It sat in the middle of the device […]
+
+· Galaxy S27 series design gets way more interesting in new leaked renders
+  출처: SamMobile / 2026-08-25 03:09
+  링크: https://www.sammobile.com/news/galaxy-s27-series-design-gets-way-more-interesting-in-new-leaked-renders/
+  피드 요약: A few more design cues for the entire Galaxy S27 series have just been revealed through a series of fan-made CAD renders. According to leaks, next year's Galaxy S27 series might finally introduce a fourth main-series model and a new aesthetic for at least the Ultra. In fact, apart from the redesigne
+
+· Here’s Samsung One UI 9’s powerful iPhone to Galaxy Smart Switch app
+  출처: SamMobile / 2026-08-25 02:22
+  링크: https://www.sammobile.com/news/samsung-one-ui-9-powerful-iphone-galaxy-smart-switch-app/
+  피드 요약: Over the past year, Samsung and Google have successfully narrowed the gap between Android and iOS through innovative cross-platform capabilities. For example, Google found a workaround to make Quick Share compatible with AirDrop. In a similar vein, the latest Galaxy foldable phones, announced at Unp
+
+· Samsung spent $19.7 billion on R&D this year, has nearly 300,000 patents
+  출처: SamMobile / 2026-08-25 02:06
+  링크: https://www.sammobile.com/news/samsung-spend-usd-27-billion-research-development-h1-2026-300000-patents/
+  피드 요약: Samsung is among the most aggressive spenders globally when it comes to research and development (R&D). The South Korean firm has already spent over KRW 27.36 trillion (around $19.7 billion) in the first half of this year as it nears the 300,000 patent milestone globally. According to a report from 
+
+· Galaxy A57 could soon get the One UI 9.0 beta update
+  출처: SamMobile / 2026-08-25 01:07
+  링크: https://www.sammobile.com/news/galaxy-a57-could-soon-get-one-ui-9-0-beta-update/
+  피드 요약: Back in June, we learned that Samsung had started developing One UI 9.0 (Android 17) for the Galaxy A57. Now, it looks like the brand will open the beta program for its latest custom Android interface for the phone before rolling out its stable version. Samsung, on its Community forum, has created a
+
+· Galaxy S26 Ultra is now available at a new record-low price in India
+  출처: SamMobile / 2026-08-24 23:57
+  링크: https://www.sammobile.com/news/galaxy-s26-ultra-now-available-new-record-low-price-india/
+  피드 요약: Last week, Samsung’s latest flagship non-foldable phone, the Galaxy S26 Ultra, was available in India at its lowest-ever price in the country since launch. Now, the device is available for an even lower price in the country. Samsung launched the Galaxy S26 Ultra’s base variant, which has 12GB RAM + 
+
+· Samsung TV Plus gets more channels and sports content in India and Brazil
+  출처: SamMobile / 2026-08-24 23:05
+  링크: https://www.sammobile.com/news/samsung-tv-plus-gets-more-channels-and-sports-content-in-india-and-brazil/
+  피드 요약: Samsung recently announced more movies and series for its TV Plus FAST (Free Ad-Supported Streaming Television) platform, coming this September. However, that wave of new content is just one part of the recent TV Plus expansion. In other news from Samsung India and Brazil, Samsung TV Plus in these r
+
+· Samsung Galaxy S27 Ultra to be offered in two sizes, really?!
+  출처: SamMobile / 2026-08-24 22:27
+  링크: https://www.sammobile.com/news/samsung-galaxy-s27-ultra-to-be-offered-in-two-sizes-really/
+  피드 요약: A purported CAD render leak of the Galaxy S27 Ultra has caused some ripples in the echo chamber today. It's claimed that this render shows the design of the device's camera bar which looks remarkably similar to the iPhone 17 Pro Max. One assumption, as unlikely as it seems, that has also been drawn 
+
+· Ambient sensing and cameras to power Apple Home Hub personalization
+  출처: AppleInsider / 2026-08-25 06:55
+  링크: https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss
+  피드 요약: According to strings accidentally left in a macOS Tahoe update, Apple's Home Hub will offer user profiles, with identity verification provided by ambient sensing and built-in cameras. Apple's Home Hub will seemingly support user accounts. With the macOS 26.7 release candidate build, Apple inadverten
+
+· OneRepublic headlines Tim Cook's going away party as he prepares to step down as CEO
+  출처: AppleInsider / 2026-08-25 06:29
+  링크: https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss
+  피드 요약: Tim Cook has been CEO for 15 years and is about to step down on September 1, so Apple threw a little party in his honor on August 23 with 200 people in attendance. Apple CEO Tim Cook gets one last little celebration before stepping down September 1 Apple likes to throw a party on occasion, and the l
+
+· This is the first look at the inside of Apple's AI servers
+  출처: AppleInsider / 2026-08-25 05:30
+  링크: https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss
+  피드 요약: Photographs showing the inside of an Apple Silicon AI server have surfaced online, giving a glimpse of how Apple designed its Private Cloud Compute hardware. Inside an Apple server - Image Credit: @hsuchingpo/X Apple's efforts to catch up in the field of AI have already led to the creation of Privat
+
+· Handy disk image tool is getting removed from macOS
+  출처: AppleInsider / 2026-08-25 05:30
+  링크: https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss
+  피드 요약: In future releases of macOS, Mac users will no longer be able to format or eject disk images using the very long-standing Terminal command, hdiutil . It won't affect many users directly, but it could well break disk repair utility apps. The new deprecation notice in Terminal for the command hdiutil.
+
+· Hide My Email no longer changing domains, will keep iCloud.com
+  출처: AppleInsider / 2026-08-25 05:29
+  링크: https://appleinsider.com/articles/26/08/24/hide-my-email-no-longer-changing-domains-will-keep-icloudcom?utm_source=rss
+  피드 요약: Apple says while Sign in with Apple addresses will still move to a new domain, Hide My Email will stay on iCloud.com after community pushback. Hide My Email will be sticking with the original iCloud domain Changing email domains can create chaos for website and email client administrators. After con
+
+· Apple gearing up to start filming 'Ted Lasso' season 5 in January
+  출처: AppleInsider / 2026-08-25 04:06
+  링크: https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss
+  피드 요약: Apple is wasting little time following the recent record-breaking "Ted Lasso" season premiere, with production on a fifth season to begin in early 2027. Image credit: Apple TV "Ted Lasso" recently had its fourth season premiere, which drew nearly 300 million U.S. viewing minutes across its first two
+
+· Seventh developer betas of iOS 27, macOS 27 land as releases loom
+  출처: AppleInsider / 2026-08-25 02:39
+  링크: https://appleinsider.com/articles/26/08/24/seventh-developer-betas-of-ios-27-macos-27-land-as-releases-loom?utm_source=rss
+  피드 요약: As the eventual release of the 27-generation gets ever nearer, Apple has introduced its seventh developer betas for iOS 27 , iPadOS 27, tvOS 27, watchOS 27, visionOS 27, and macOS 27. An earlier iOS 27 beta screen The Apple Developer Beta program has reached the seventh round for the upcoming iOS 27
+
+· Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider
+  출처: AppleInsider / 2026-08-25 01:45
+  링크: https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss
+  피드 요약: On this week's episode of the Smart Home Insider podcast, we round up the latest rumors surrounding Apple's smart home display, as well as cover the news. Smart Home Insider Podcast Leading off the news portion of the episode were a pair of stories on Sonos. We saw a new product hit the FCC, as well
+
+· New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more
+  출처: 9to5Mac / 2026-08-25 07:45
+  링크: https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/
+  피드 요약: Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details.
+
+· ChatGPT now lets users create custom iMessage and WhatsApp stickers
+  출처: 9to5Mac / 2026-08-25 07:15
+  링크: https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/
+  피드 요약: Users can turn any photo into an iMessage or WhatsApp sticker, or use images as inspiration to create custom packs. Here are the details.
+
+· Apple reverses planned Hide My Email domain change after user pushback
+  출처: 9to5Mac / 2026-08-25 06:05
+  링크: https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/
+  피드 요약: Apple today announced that it will no longer move iCloud+ Hide My Email addresses to a new domain, reversing course on a change announced just two months ago. Here are the details.
+
+· Apple’s Emergency SOS Live Video is now available in Brazil
+  출처: 9to5Mac / 2026-08-25 05:28
+  링크: https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/
+  피드 요약: Thanks to a new partnership with RapidSOS, emergency services in Brazil can now request live video from iPhone users. Here are the details.
+
+· Apple official refurb store: This week’s top picks at up to $500 off
+  출처: 9to5Mac / 2026-08-25 05:04
+  링크: https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/
+  피드 요약: It’s official Apple Certified Refurbished Store time again, and we are back again with a closer look at the gear we have our eyes on. This is not a bunch of Macs covered in scratches that fell off a truck somewhere and shilled on eBay at a discount, we are talking about Apple’s “rigorous refurbishme
+
+· Epic fights Apple’s bid to seal key data behind proposed fees on linked-out purchases
+  출처: 9to5Mac / 2026-08-25 04:49
+  링크: https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/
+  피드 요약: Epic says Apple is making overly broad requests to seal information it says is central to determining what the company can charge developers for linked-out purchases. Here are the details.
+
+· iOS 27 adds three new iPhone features I’ve been really loving
+  출처: 9to5Mac / 2026-08-25 04:23
+  링크: https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/
+  피드 요약: iOS 27 is packed with new features across Messages , Notes , Apple Wallet , CarPlay , and more. Here are three of my favorite new iOS 27 features so far.
+
+· Here’s everything new Apple TV has coming in September
+  출처: 9to5Mac / 2026-08-25 04:12
+  링크: https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/
+  피드 요약: Apple TV kicks off fall with several high-profile premieres in September, including a Ryan Reynolds film, the return of Slow Horses, a Matthew McConaughey comedy series, and more. Here’s what’s new on Apple TV this September.
+
+· Forget iPhones — this hack brings Quick Share to Kindles
+  출처: Android Authority / 2026-08-25 06:42
+  링크: https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/
+  피드 요약: An unofficial project called Kindshare adds Quick Share to jailbroken Kindles, with a few key limitations.
+
+· Gemini is working on a ton of useful UI changes: filters, notifications, and more
+  출처: Android Authority / 2026-08-25 05:58
+  링크: https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/
+  피드 요약: Several practical changes could soon make their way out.
+
+· Spotify bug leaves Android Auto drivers staring at error message
+  출처: Android Authority / 2026-08-25 05:51
+  링크: https://www.androidauthority.com/android-auto-spotify-error-message-3702461/
+  피드 요약: Spotify not working for you on Android Auto? You're not alone.
+
+· The Pixel 11 Pro XL is built to last and easy to fix, teardown finds
+  출처: Android Authority / 2026-08-25 05:12
+  링크: https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/
+  피드 요약: It's pricey, but at least you'll be able to hold onto it a few years.
+
+· Netflix is reportedly in talks to add rival streamers like Peacock
+  출처: Android Authority / 2026-08-25 04:39
+  링크: https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/
+  피드 요약: Netflix could soon open up its service to other streamers.
+
+· The Galaxy S27 Ultra may debut with self-healing glass
+  출처: Android Authority / 2026-08-25 04:18
+  링크: https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/
+  피드 요약: Android Authority remembers the LG G Flex 2.
+
+· Apple’s 20th anniversary iPhone could take some inspiration from Android phones
+  출처: Android Authority / 2026-08-25 03:13
+  링크: https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/
+  피드 요약: A leaked render of the 20th anniversary iPhone reveals a radical new redesign, with some familiar elements.
+
+· ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay
+  출처: Android Authority / 2026-08-25 03:09
+  링크: https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/
+  피드 요약: Bundles including Disney Plus and Hulu are also affected.
+
+· 샤오미 신형 폴드폰, 샤오미 18 폴드로 네이밍 변경
+  출처: 란즈크 블로그 / 2026-08-24 21:27
+  링크: https://blog.naver.com/yeux1122/224388922046?fromRss=true&trackingCode=rss
+  피드 요약: 샤오미가 자사가 개발중인 폴드 모델 네이밍을 변경했습니다. (*XRING03 발표회, Noah) 기존 : 샤오미 믹스 폴드 변경 : 샤오미 18 폴드 로 변경 P.S 개인적으로 저는 그냥 아이폰 폴드로 네이밍 할 것 같은데 아마도 애플이 자사 제품을 아이폰 18 폴드라고 부를 것을 예상하고 있다는 내용이 있습니다.
+
+■ [오디오] 10건
+----------------------------------------
+· Pining for The Odyssey on 4K Blu-ray? We have some very good (and slightly bad) news
+  출처: What Hi-Fi? / 2026-08-24 23:03
+  링크: https://www.whathifi.com/streaming-entertainment/pining-for-the-odyssey-on-4k-blu-ray-we-have-some-very-good-and-slightly-bad-news-for-you
+  피드 요약: A refreshing take on Nolan's epic release
+
+· iFi iDSD GR 2
+  출처: What Hi-Fi? / 2026-08-24 22:19
+  링크: https://www.whathifi.com/hi-fi/dacs/ifi-idsd-gr-2
+  피드 요약: The portable and premium iDSD GR 2 DAC promises to give your music listening a boost at home or on the go, boasting plenty of connections.
+
+· Fiio unveils its latest retro-inspired portable cassette player – but there's a catch
+  출처: What Hi-Fi? / 2026-08-24 19:25
+  링크: https://www.whathifi.com/hi-fi/portable-music-players/fiio-unveils-its-latest-retro-inspired-portable-cassette-player-but-theres-a-catch
+  피드 요약: Fiio has a change of plans
+
+· All evidence suggests new Beats headphones are on the way – and an official launch could be imminent
+  출처: What Hi-Fi? / 2026-08-24 17:39
+  링크: https://www.whathifi.com/headphones/wireless-headphones/all-evidence-suggests-new-beats-headphones-are-on-the-way-and-an-official-launch-could-be-imminent
+  피드 요약: The Beats 360 have leaked...again
+
+· Bogus vinyl, “talented and adaptable speakers”, a special-edition Technics turntable and more
+  출처: What Hi-Fi? / 2026-08-24 16:00
+  링크: https://www.whathifi.com/av/bogus-vinyl-talented-and-adaptable-speakers-a-special-edition-technics-turntable-and-more
+  피드 요약: All the top hi-fi and home cinema stories explained by our experts
+
+· This AirFly Pro deal drops the Bluetooth Wireless Audio Transmitter to just $40
+  출처: SoundGuys / 2026-08-25 01:12
+  링크: https://www.soundguys.com/airfly-pro-deal-161950/
+  피드 요약: Get 27% off the Twelve South AirFly Pro, a Bluetooth adapter for flights, gym gear, and sharing audio with two headphones.
+
+· Shokz’s new OpenFit Air 2 open-ear earbuds might finally solve fit fatigue
+  출처: SoundGuys / 2026-08-25 00:30
+  링크: https://www.soundguys.com/shokz-openfit-air-2-launch-161931/
+  피드 요약: A light 7.2g design with a nickel-titanium frame promise to deliver comfort without ear canal fatigue.
+
+· The highly rated Sonos Era 300 gets a $100 discount at Amazon
+  출처: SoundGuys / 2026-08-25 00:27
+  링크: https://www.soundguys.com/sonos-era-300-deal-161941/
+  피드 요약: Save $100 on the Sonos Era 300 at Amazon and get a premium speaker with six drivers, spatial audio, and Sonos room tuning.
+
+· Runner-favorite Shokz just updated its popular bone-conduction headset
+  출처: SoundGuys / 2026-08-24 23:24
+  링크: https://www.soundguys.com/shokz-openrun-air-2-launch-161790/
+  피드 요약: The new OpenRun Air 2 brings USB-C charging, upgraded bass, and a lighter fit to outdoor athletes for $129.95.
+
+· 'I'm embracing it’: Dr Dre defends AI music and compares it to synths, despite most streaming services ousting slop from their libraries
+  출처: TechRadar 오디오 / 2026-08-24 22:52
+  링크: https://www.techradar.com/ai-platforms-assistants/im-embracing-it-dr-dre-defends-ai-music-and-compares-it-to-synths-despite-most-streaming-services-ousting-slop-from-their-libraries
+  피드 요약: Dr. Dre has admitted he uses AI in his music producing, despite most music streaming services trying to ban the stuff.
+
+■ [카메라] 6건
+----------------------------------------
+· Sigma is rumored to soon announced up to three new E-mount lenses!
+  출처: Sony Alpha Rumors / 2026-08-24 22:50
+  링크: https://www.sonyalpharumors.com/sigma-is-rumored-to-soon-announced-up-to-three-new-e-mount-lenses/
+  피드 요약: Rumors has it that Sigma will soon have a major product announcement event. Of course we will likely get the already pre-announced new 85mm f/1.2. But according to my sources we should get one more zoom and also maybe the world’s fastest 65mm lens! Stay tuned! The post Sigma is rumored to soon annou
+
+· Alex Barrera: Why I Still Shoot Sony as a Leica User
+  출처: Sony Alpha Rumors / 2026-08-24 19:41
+  링크: https://www.sonyalpharumors.com/alex-barrera-why-i-still-shoot-sony-as-a-leica-user/
+  피드 요약: Alex writes: I absolutely love shooting Leica, but Sony still has a permanent place in my camera bag. In this video, I explain why I continue to rely on Sony for professional work, where Leica shines, and why I don’t believe you have to choose one system over the other. If you’ve been debating Sony…
+
+· The Canon EOS R8 Mark II is Coming on September 15
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-25 00:56
+  링크: https://www.canonrumors.com/the-canon-eos-r8-mark-ii-is-coming-on-september-15/
+  피드 요약: Disclosure August 24, 2026 The header image of the EOS R8 Mark II was sent to us and was likely done using AI. We have posted these header images in the past and they have turned out to be very accurate. We have not seen the camera, so cannot verify the accuracy of this one. […]
+
+· What We Know About the Coming Entry-Level PowerShot Camera
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-24 23:45
+  링크: https://www.canonrumors.com/what-we-know-about-the-entry-level-powershot-camera/
+  피드 요약: It's no secret that Canon is going to bring us some new PowerShot cameras in the next 6 months. We expect a follow-up of some kind for the PowerShot G7 X Mark III. That's the compact camera Canon ethusiasts are most excited about. We don't know anything about the higher-end PowerShot camera at the m
+
+· New Canon Registrations Show 5 Upcoming Cameras, Including new PowerShots
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-24 16:25
+  링크: https://www.canonrumors.com/new-canon-registrations-shows-5-upcoming-cameras-including-new-powershots/
+  피드 요약: Update August 24, 2026 DS126991 is an inexpensive PowerShot — An announcement will happen no later than January 18, 2027. DS126986 is an ILC/EOS R Camera – An announcement will happen no later than January 4, 2027. Since April of this year, we have seen a fair number of camera registrations with the
+
+· EISA Awards: Fujifilm X-E5 and X-T30 III Win — But What’s the Fundamental Problem?
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-24 22:08
+  링크: https://www.fujirumors.com/eisa-awards-fujifilm-x-e5-and-x-t30-iii-win-but-whats-the-fundamental-problem/
+  피드 요약: Fujifilm Wins EISA EISA has assigned their latest awards. It was a really tough selection, as because among all camera brands, only Fujifilm, Sony, Nikon, Canon, Panasonic, OM System, Sigma and Tamron were able to grab an award. Apparently Leica does not like to pay for the bragging rights. But what
