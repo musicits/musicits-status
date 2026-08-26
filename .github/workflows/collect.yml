@@ -49,6 +49,21 @@ jobs:
           pip install --quiet --upgrade google-genai
           python tools/translate.py
 
+      # 보고서. 집에서는 Claude Code CLI 가 쓰고, 여기서는 Gemini 가 같은 양식으로
+      # 쓴다. 번역과 **다른 키**를 쓰는 이유는 보고서가 기사 본문까지 넘겨 훨씬
+      # 크기 때문이다 — 한 열쇠에 묶어두면 보고서가 번역 한도를 잡아먹는다.
+      # 키가 없으면 스스로 건너뛴다.
+      - name: 보고서 쓰기
+        env:
+          GEMINI_REPORT_KEY: ${{ secrets.GEMINI_REPORT_KEY }}
+        run: |
+          if [ -z "$GEMINI_REPORT_KEY" ]; then
+            echo "GEMINI_REPORT_KEY 가 없어 보고서를 건너뜁니다."
+            exit 0
+          fi
+          pip install --quiet --upgrade google-genai
+          python tools/report.py
+
       - name: 결과 페이지 만들기
         run: python tools/cloud_page.py
 

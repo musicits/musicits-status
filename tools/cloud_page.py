@@ -74,6 +74,14 @@ summary .meta{font-weight:400;font-size:12px;color:var(--mut);white-space:nowrap
 .why{margin:-8px 0 14px;font-size:13px;padding-left:9px;
  border-left:2px solid var(--acc);color:var(--fg)}
 .empty{color:var(--mut);font-size:13.5px}
+.rep{background:var(--card);border:1px solid var(--line);border-radius:10px;
+ padding:12px 13px;margin:0 0 16px}
+.rep>summary{cursor:pointer;font-weight:600;font-size:14px;color:var(--acc);
+ list-style:none;display:flex;justify-content:space-between;gap:10px}
+.rep>summary::-webkit-details-marker{display:none}
+.rep pre{margin:12px 0 0;white-space:pre-wrap;word-break:break-word;
+ font:13px/1.75 -apple-system,'Malgun Gothic',sans-serif}
+.rep a{color:var(--acc);word-break:break-all}
 .note{font-size:12.5px;color:var(--mut);background:var(--card);border:1px solid var(--line);
  border-radius:9px;padding:11px 13px;margin:0 0 16px}
 """.replace("__DARK__", DARK_CSS)
@@ -93,9 +101,9 @@ PAGE = """<!doctype html>
 <a class="back" href="../">← 전체 현황으로</a>
 <h1>휴대폰 수집 결과</h1>
 <p class="sub">%s 기준 · 회차 %d개</p>
-<p class="note">여기는 <b>새 기사 목록</b>만 나옵니다. 요약·제목 후보가 들어간 정식 보고서는
-PC 에서 Claude 가 씁니다. 이 목록은 PC 쪽 확인 기록과 따로 관리되므로, 여기서 본 기사도
-PC 에서 보고서를 만들 때 다시 나옵니다.</p>
+<p class="note">보고서는 여기서 <b>Gemini</b> 가 씁니다. 집에서 도는 PC 보고서는 Claude 가
+쓰는 별개의 것이고, 확인 기록도 따로라 여기서 본 기사가 PC 보고서에 다시 나올 수 있습니다.
+보고서 칸이 없는 회차는 새 기사가 없었거나 그날 한도를 넘긴 것입니다 — 기사 목록은 그대로입니다.</p>
 %s</div></body></html>
 """
 
@@ -107,6 +115,24 @@ def read_json(path):
             return json.load(f)
     except (OSError, ValueError):
         return None
+
+
+def read_text(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read().strip()
+    except OSError:
+        return ""
+
+
+URL_RE = re.compile(r"https?://[^\s<>\"')\]]+")
+
+
+def linkify(escaped):
+    """이스케이프가 끝난 글에서 주소만 링크로 바꾼다."""
+    return URL_RE.sub(
+        lambda m: '<a href="%s" target="_blank" rel="noopener">%s</a>'
+                  % (m.group(0), m.group(0)), escaped)
 
 
 def runs():
@@ -125,7 +151,8 @@ def runs():
         m = re.match(r"(\d{4}-\d{2}-\d{2})_(\d{2})(\d{2})$", name)
         label = "%s %s:%s" % m.groups() if m else name
         out.append((label, items if isinstance(items, list) else [],
-                    read_json(os.path.join(RUNS, name, "요약.json")) or {}))
+                    read_json(os.path.join(RUNS, name, "요약.json")) or {},
+                    read_text(os.path.join(RUNS, name, "보고서.md"))))
     return out[:KEEP]
 
 
@@ -145,7 +172,7 @@ def article(idx, item, titles):
                e(item.get("source")), e(item.get("date_kst"))))
 
 
-def render(label, items, digest, first=False):
+def render(label, items, digest, report="", first=False):
     """회차 하나. 맨 위(가장 최근) 회차는 펼쳐서 내보낸다."""
     titles = digest.get("titles") or {}
     if not items:
@@ -169,9 +196,16 @@ def render(label, items, digest, first=False):
             for i, it in group:
                 blocks.append(article(i, it, titles))
         inner = "".join(blocks)
+    if report:
+        # 목록보다 위에 둔다. 보러 오는 이유가 보고서 쪽이기 때문이다.
+        inner = ('<details class="rep" open><summary><span>보고서</span>'
+                 '<span class="meta">Gemini</span></summary>'
+                 '<pre>%s</pre></details>' % linkify(e(report))) + inner
     meta = "%d건" % len(items)
     if titles:
         meta = "%d건 · 번역됨" % len(items)
+    if report:
+        meta += " · 보고서"
     return ('<details%s><summary><span>%s</span>'
             '<span class="meta">%s</span></summary>'
             '<div class="body">%s</div></details>'
@@ -180,8 +214,8 @@ def render(label, items, digest, first=False):
 
 def main():
     rs = runs()
-    body = ("".join(render(l, i, d, first=(n == 0))
-                for n, (l, i, d) in enumerate(rs)) or
+    body = ("".join(render(l, i, d, r, first=(n == 0))
+                for n, (l, i, d, r) in enumerate(rs)) or
             '<p class="empty">아직 휴대폰에서 돌린 기록이 없습니다.</p>')
     page = PAGE % (HEAD_JS, CSS,
                    datetime.now(KST).strftime("%Y-%m-%d %H:%M"), len(rs), body)
