@@ -1,0 +1,292 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-26 23:40 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-26 07:55 (KST) 이후 기사
+새 기사: 55건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 1건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 14건 생략)
+
+■ [IT 공식발표] 1건
+----------------------------------------
+· 삼성전자, 차세대 포터블 SSD 2종 P9, P7 공개
+  출처: Samsung Newsroom Korea / 2026-08-27 01:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%b0%a8%ec%84%b8%eb%8c%80-%ed%8f%ac%ed%84%b0%eb%b8%94-ssd-2%ec%a2%85-p9-p7-%ea%b3%b5%ea%b0%9c
+  피드 요약: 삼성전자가 차세대 인터페이스 USB4를 탑재한 초고속 포터블 SSD(Solid State Drive) P시리즈(P9·P7) 2종을 공개했다. 삼성전자는 26일(현지 시간) 독일 쾰른에서 열린 세계 최대 게임쇼 ‘게임스컴 2026’에서 차세대 포터블 SSD 2종을 선보였다. 새로운 포터블 SSD P시리즈는 어떤 순간에도 믿고 안심할 수 있는 마음의 안정감, 즉 ‘Peace of Mind’를 비전으로 삼아 차별화된 제품 신뢰성과 혁신적인 포터블 스토리지 경험을 제공한다. […]
+
+■ [IT 루머] 43건
+----------------------------------------
+· Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy
+  출처: MacRumors / 2026-08-26 23:29
+  링크: https://www.macrumors.com/2026/08/26/best-buy-mac-mini-mac-studio/
+  피드 요약: Apple yesterday announced the new Mac mini and Mac Studio, and pre-orders have begun on each device ahead of their September 22 launch date. We aren't currently tracking any straight cash discounts on pre-orders, but Best Buy is offering some money back in the form of Best Buy rewards when ordering.
+
+· New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing
+  출처: MacRumors / 2026-08-26 23:25
+  링크: https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/
+  피드 요약: Apple's new Mac mini and Mac Studio feature genlock support over USB-C, allowing users to precisely synchronize a display with a camera such as the iPhone 17 Pro , without the need for additional equipment. It keeps multiple cameras and displays locked to the same timing signal, stopping footage fro
+
+· Concept Video Imagines Apple's Foldable iPhone Ultra Reveal
+  출처: MacRumors / 2026-08-26 23:06
+  링크: https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/
+  피드 요약: A new fan-made concept video imagining Apple's rumored foldable iPhone is circulating online, weeks before the company is expected to unveil the device at its annual fall keynote. The video was created by designer Gunhoo Lee to provide a realistic look at what a brief " iPhone Ultra " reveal could l
+
+· iOS 27 Tweaks Apple Wallet's U.S. Passport Feature
+  출처: MacRumors / 2026-08-26 22:46
+  링크: https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/
+  피드 요약: iOS 27 tweaks some of the information and menus shown alongside the Digital ID passport feature in the Apple Wallet app. As a result of these changes and/or a related bug, some iPhone users have seen their Digital ID deactivated on recent iOS 27 beta versions. Apple says affected users must remove t
+
+· Apple Giving Some Mac Mini Customers a Free Upgrade
+  출처: MacRumors / 2026-08-26 22:10
+  링크: https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/
+  피드 요약: Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to ship that it will be upgrading their order to an equivalent version of the new Mac mini with an M6 chip at no additional cost. Apple's email to customers: Thank you for your recent Mac order. We know yo
+
+· New Mac Studio Can Be Clustered Together for Faster AI Performance
+  출처: MacRumors / 2026-08-26 21:56
+  링크: https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/
+  피드 요약: Multiple new Mac Studio units can be clustered together over Thunderbolt 5 and RDMA (remote direct memory access), creating a shared memory pool for running larger AI models. If four Mac Studio systems are clustered together, Apple says they can deliver 3x faster AI inference than running the same t
+
+· 75% of US Adults Aren't Interested in a Foldable iPhone
+  출처: MacRumors / 2026-08-26 21:53
+  링크: https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/
+  피드 요약: Three out of four U.S. adults say they have no interest in buying a foldable iPhone, according to a new survey from CNET . CNET 's survey was conducted online by YouGov between August 13 and 17, polling 2,605 U.S. adults. It found that 75% are not interested in an Apple foldable device, and those wh
+
+· Apple's New Polishing Cloth Is Softer, Not Smaller Than Original
+  출처: MacRumors / 2026-08-26 21:02
+  링크: https://www.macrumors.com/2026/08/26/new-apple-polishing-cloth-softer/
+  피드 요약: Apple's new $9 Polishing Cloth , whose changes beyond pricing were unclear yesterday, is close in size to the original but noticeably less stiff, according to a comparison posted on X. The user says the new material feels closer to the cloth included with Apple's nano-texture displays or the Vision 
+
+· Galaxy S27 leak reveals an uninspired design with minimal changes
+  출처: SamMobile / 2026-08-26 23:04
+  링크: https://www.sammobile.com/news/galaxy-s27-leak-reveals-an-uninspired-design-with-minimal-changes/
+  피드 요약: Samsung may release not three, but four mainline Galaxy S27 models next year. Unofficial renders recently revealed what the Galaxy S27 Ultra might look like, and now, a new collection of CAD renders shared by Android Headlines is giving the base S27 model the same treatment. Unfortunately, they're n
+
+· One UI 9 Watch beta program debuts on the Galaxy Watch 8 in Korea
+  출처: SamMobile / 2026-08-26 20:36
+  링크: https://www.sammobile.com/news/one-ui-9-watch-beta-program-debuts-on-the-galaxy-watch-8-in-korea/
+  피드 요약: The first signs of a One UI 9 Watch beta program emerged a couple of weeks ago, when beta firmware was spotted on Samsung's servers. Today, the beta program for One UI 9 Watch went live (via Tarun Vats). It is open for Galaxy Watch 8 series users in Korea. Where will the beta program […]
+
+· Galaxy S24 series gets August 2026 security update
+  출처: SamMobile / 2026-08-26 19:40
+  링크: https://www.sammobile.com/news/galaxy-s24-series-gets-august-2026-security-update/
+  피드 요약: Samsung, after rolling out the August 2026 security patch to the Galaxy S26 and the Galaxy S25 series, is now rolling it out to the Galaxy S24 lineup. The update is live in the brand’s home country, South Korea. It is 416.16MB in size and carries firmware version S928NKSS6DZH2 (via Samsung Community
+
+· New Galaxy S25 update brings August 2026 security patch
+  출처: SamMobile / 2026-08-26 19:13
+  링크: https://www.sammobile.com/news/new-galaxy-s25-update-brings-august-2026-security-patch/
+  피드 요약: After a slow start to the August 2026 security patch rollout, Samsung is finally picking up the pace. Earlier today, the brand released the update for the Galaxy S26 lineup, and now the company has started rolling it out to the Galaxy S25 series as well. Samsung is rolling out the update first in it
+
+· New Galaxy S25 FE update brings August 2026 security patch
+  출처: SamMobile / 2026-08-26 18:46
+  링크: https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-august-2026-security-patch/
+  피드 요약: Samsung has started rolling out a new software update to the Galaxy S25 FE. It brings the August 2026 security patch, which fixes 56 security issues. As usual, the brand is offering it first in its home country, South Korea. The update for the region is 311.62MB in size and carries firmware version 
+
+· Samsung appears to have fixed Galaxy S26 Ultra’s display red tint issue
+  출처: SamMobile / 2026-08-26 18:40
+  링크: https://www.sammobile.com/news/samsung-may-have-fixed-galaxy-s26-ultra-display-red-tint-issue/
+  피드 요약: Last month, the users of the Galaxy S26 Ultra started complaining that a red tint had appeared on the displays of their phones. Samsung acknowledged the problem and said it would fix it with a software update this month. Now, the brand appears to have finally addressed the issue. A few moments ago, 
+
+· Samsung closes One UI 9.0 beta recruitment for Galaxy S26 series
+  출처: SamMobile / 2026-08-26 18:13
+  링크: https://www.sammobile.com/news/samsung-closes-one-ui-9-0-beta-recruitment-galaxy-s26-series/
+  피드 요약: Samsung revealed its latest custom Android interface, One UI 9.0 (Android 17), by releasing its beta version for the Galaxy S26 lineup in May. Now, after almost three months, the brand appears to have stopped accepting new participants in it, strongly suggesting that it may release the stable versio
+
+· Galaxy S26, S26+, S26 Ultra get August 2026 security update
+  출처: SamMobile / 2026-08-26 18:12
+  링크: https://www.sammobile.com/news/galaxy-s26-s26-s26-ultra-get-august-2026-security-update/
+  피드 요약: Samsung started rolling out this month’s security patch to Galaxy smartphones later than usual. On top of that, the brand has been rolling out the update rather slowly, with many new and high-end devices, including the Galaxy S26 series, still awaiting it. That’s finally changing. Samsung has releas
+
+· Meta agrees $18B settlement to end teen social hygiene lawsuit
+  출처: AppleInsider / 2026-08-26 23:19
+  링크: https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss
+  피드 요약: Meta has agreed to pay up to $18 billion and to make changes to Facebook and other online services, all to settle a federal lawsuit alleging teenagers are being harmed by social media. Instagram, one of Meta's online social properties Mark Zuckerberg's Meta has been dealing with a trial concerning t
+
+· World's best selling smartphone is the iPhone 17 - again
+  출처: AppleInsider / 2026-08-26 23:00
+  링크: https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss
+  피드 요약: Figures for the second quarter of 2026 show that the iPhone 17 is once more the biggest selling smartphone around the globe, and that Apple takes the next two spots as well. The iPhone 17 is the world's best-selling smartphone According to previous figures from Counterpoint Research, the iPhone 17 w
+
+· iPhone Ultra motherboard may just have leaked
+  출처: AppleInsider / 2026-08-26 21:34
+  링크: https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss
+  피드 요약: Apple has kept iPhone Ultra production details under lock and key better than it did with the iPhone Air, but at last there's a component leak. Or an over-detailed hoax. AppleInsider has long argued that if the much-rumored folding iPhone were to be launched in September, that we should be seeing le
+
+· M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive
+  출처: AppleInsider / 2026-08-26 20:38
+  링크: https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss
+  피드 요약: Apple's Mac Studio just got updated with M5 Max chip. Unlike the Mac mini, there's a strong argument to get or keep the prior model instead. M5 Max Mac Studio vs. M4 Max Mac Studio: Specs, hardware, price. After debuting in the MacBook Pro in March 2026, the M5 Max chip has made its way to Apple's t
+
+· OpenAI's lawsuit delays cause more harm every day, says Apple
+  출처: AppleInsider / 2026-08-26 20:19
+  링크: https://appleinsider.com/articles/26/08/26/openais-lawsuit-delays-cause-more-harm-every-day-says-apple?utm_source=rss
+  피드 요약: Apple has pushed back against OpenAI's trying to delay the trade theft lawsuit while the AI company continues to profit from allegedly stolen information. Apple continues to press for expedited discovery in its case against OpenAI. Apple first filed suit against OpenAI over alleged mass IP theft in 
+
+· Asus ROG Kithara headset review: Audiophile gaming
+  출처: AppleInsider / 2026-08-26 09:29
+  링크: https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss
+  피드 요약: The Asus ROG Kithara brings Hifiman's planar-magnetic drivers and signature design to the Mac gaming world with aplomb that's sometimes undermined by unfortunate complexities. ROG Kithara review: Few headsets are quite so big In a world that's full to the brim with mediocre gaming headsets, this Asu
+
+· iOS 27 reveals Apple TV 4K, HomePod may get powerful new features
+  출처: 9to5Mac / 2026-08-26 23:27
+  링크: https://9to5mac.com/2026/08/26/ios-27-reveals-apple-tv-4k-homepod-may-get-powerful-new-features/
+  피드 요약: iOS 27 is launching very soon , and the beta reveals Apple may have some powerful new AI features coming for Apple TV 4K and HomePod devices.
+
+· Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]
+  출처: 9to5Mac / 2026-08-26 23:06
+  링크: https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/
+  피드 요약: The Sonnet Echo 21 Thunderbolt 5 SuperDock , the follow-up to the similarly named Echo 20 Thunderbolt 4 SuperDock ( review ), lets you add tons of I/O to your Mac via a single Thunderbolt cable, and brings several noteworthy improvements for those looking to upgrade or future-proof their Mac setups.
+
+· Apple upgrading recent Mac mini orders to M6, M5 Pro models for free
+  출처: 9to5Mac / 2026-08-26 22:39
+  링크: https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/
+  피드 요약: Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model.
+
+· Ads have landed in Apple Maps, and they are as bad as expected
+  출처: 9to5Mac / 2026-08-26 21:31
+  링크: https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/
+  피드 요약: When we ran a poll last month, the overwhelming majority of 9to5Mac readers agreed that Apple should exit the ad business. Ads have now landed in Apple Maps in the US and Canada, and my view is that they are every bit as bad as expected …
+
+· Instagram can now create Reels automatically – but Meta doesn’t want to upset creators
+  출처: 9to5Mac / 2026-08-26 20:43
+  링크: https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/
+  피드 요약: Instagram now has a new iPhone-exclusive feature that can create reels automatically. You just select your video clips and it creates an edit with a single tap. However, Meta is being extremely careful not to upset creators by implying that the app can replace their manual editing skills …
+
+· 25% of US adults are interested in the iPhone Ultra – but won’t pay for it
+  출처: 9to5Mac / 2026-08-26 20:23
+  링크: https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/
+  피드 요약: Sometimes a headline is the complete inverse of the real news in the story, and that’s the case with a new survey measuring interest in the upcoming iPhone Ultra . The headline says 75% of US adults aren’t interested in a folding iPhone, while the real surprise is that as many as 25% are. Apple shou
+
+· There’s a $300 gotcha in an M5 Max Mac Studio upgrade
+  출처: 9to5Mac / 2026-08-26 19:56
+  링크: https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/
+  피드 요약: There was a pleasant surprise in yesterday’s announcement of the Mac Studio with M5 Max chip : the starting price is unchanged from that of the M4 Max Mac Studio, at $2,499. However, if you want to upgrade the GPU, there is a gotcha in the cost of doing so – it will cost you $300 more than Apple’s w
+
+· Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit
+  출처: 9to5Mac / 2026-08-26 11:58
+  링크: https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/
+  피드 요약: Apple has submitted its response to OpenAI’s attempt to block expedited discovery in its ongoing trade secret lawsuit . Here are the details.
+
+· This Android TV launcher just gave users much more control over their home screen
+  출처: Android Authority / 2026-08-26 23:10
+  링크: https://www.androidauthority.com/atv-launcher-pro-0-1-40-update-3703254/
+  피드 요약: The launcher now lets you build an Android TV home screen that actually feels like yours.
+
+· The fix for the Galaxy S26 Ultra’s red tint bug is rolling out
+  출처: Android Authority / 2026-08-26 23:04
+  링크: https://www.androidauthority.com/samsung-galaxy-s26-ultra-red-tint-fix-update-3703275/
+  피드 요약: The August 2026 security update could likely include a fix for this annoying display glitch.
+
+· Wallpaper Wednesday: More great phone wallpapers for all to share (August 26)
+  출처: Android Authority / 2026-08-26 23:00
+  링크: https://www.androidauthority.com/wallpaper-wednesday-august-26-2026-3702951/
+  피드 요약: Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
+
+· Galaxy S27 breaks cover in new renders, and it’s both good news and bad news
+  출처: Android Authority / 2026-08-26 22:56
+  링크: https://www.androidauthority.com/galaxy-s27-cad-renders-leak-3703360/
+  피드 요약: The unchanged design may be disappointing, but not as much as an iPhone-lookalike would be.
+
+· Motorola shares all the new features coming with its Android 17 update
+  출처: Android Authority / 2026-08-26 22:37
+  링크: https://www.androidauthority.com/motorola-android-17-update-official-changelog-3703287/
+  피드 요약: The stable rollout brings redesigned Quick Settings, stackable widgets, anti-scam tools, and cross-platform sharing.
+
+· Can’t play those old 32-bit Android games on your new phone? This app can help.
+  출처: Android Authority / 2026-08-26 22:25
+  링크: https://www.androidauthority.com/play-32-bit-games-new-android-phone-3703230/
+  피드 요약: Want to revisit the era of Real Racing, Dungeon Hunter, and Mass Effect: Infiltrator? This app is for you.
+
+· Samsung begins testing Wear OS 7-based One UI 9 Watch on Galaxy Watch 8
+  출처: Android Authority / 2026-08-26 20:55
+  링크: https://www.androidauthority.com/samsung-galaxy-watch-8-one-ui-9-watch-beta-3703271/
+  피드 요약: We expect the beta program to expand to more regions soon.
+
+· Google is preparing a Liquid Glass redesign for YouTube and YouTube Music
+  출처: Android Authority / 2026-08-26 20:13
+  링크: https://www.androidauthority.com/google-youtube-music-liquid-glass-live-activity-3703202/
+  피드 요약: YouTube users on iOS may not have to wait long for Liquid Glass, with Live Activities also on the horizon.
+
+· 갤럭시S26울트라 디스플레이 관련 SW 업데이트 공식 발표
+  출처: 란즈크 블로그 / 2026-08-26 18:31
+  링크: https://blog.naver.com/yeux1122/224391132490?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S26 울트라 디스플레이 관련 SW 업데이트 공지가 나왔습니다.
+
+· 갤럭시S27 울트라, 목업 모델 이미지 유출
+  출처: 란즈크 블로그 / 2026-08-26 18:14
+  링크: https://blog.naver.com/yeux1122/224391116103?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 울트라 모델 목업 이미지가 나왔습니다. (*wallee)
+
+· 갤럭시S27 울트라 후면 카메라 배치 구도, 아이소셀 티징 이미지로 활용된 적 있어
+  출처: 란즈크 블로그 / 2026-08-26 17:52
+  링크: https://blog.naver.com/yeux1122/224391094434?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 울트라 모델의 후면 카메라 디자인이 2023년 부터 일부 배치는 고려가 되고 있었던 정황이 있습니다.(*MMps) 아이소셀 줌 렌즈 티징 이미지에 지금 카메라 배치와 유사한 구조를 이미 티징한 적이 있었습니다.
+
+· 샤오미 18 폴드, 실기 모델 유출
+  출처: 란즈크 블로그 / 2026-08-26 15:34
+  링크: https://blog.naver.com/yeux1122/224390928212?fromRss=true&trackingCode=rss
+  피드 요약: 샤오미 18 폴드 실기가 유출이 되었습니다. (*techhome) 얼마전 샤오미 임원이 들고 있던 모델 색상과 동일합니다.
+
+· 애플 아이폰 18 폴드, 루머 기반 홍보 영상 (*컨셉)
+  출처: 란즈크 블로그 / 2026-08-26 14:26
+  링크: https://blog.naver.com/yeux1122/224390843152?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 폴드 루머 기반 컨셉 소개영상 입니다.
+
+■ [오디오] 8건
+----------------------------------------
+· Sony’s latest budget smartphone claims to double the brightness of its predecessor – but there’s a catch
+  출처: What Hi-Fi? / 2026-08-26 22:34
+  링크: https://www.whathifi.com/smartphones-tablets/smartphones/sonys-latest-budget-smartphone-claims-to-double-the-brightness-of-its-predecessor-but-theres-a-catch
+  피드 요약: Is the Xperia 10 VIII worth the higher price tag?
+
+· How to watch UCI Mountain Bike World Championships 2026 online from anywhere: free live streams of every event
+  출처: What Hi-Fi? / 2026-08-26 22:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-mountain-bike-world-championships-2026
+  피드 요약: Here's how to watch free 2026 UCI Mountain Bike World Championships live streams online wherever you are as the planet's best riders gather in Italy.
+
+· We tested Samsung's immersive iPad Pro rival - and this superb portable cinema is already tempting us with an awesome deal
+  출처: What Hi-Fi? / 2026-08-26 21:06
+  링크: https://www.whathifi.com/smartphones-tablets/tablets/we-tested-samsungs-immersive-ipad-pro-rival-and-this-superb-portable-cinema-is-already-tempting-us-with-an-awesome-deal
+  피드 요약: Huge screen, huge performance
+
+· Xgimi Titan
+  출처: What Hi-Fi? / 2026-08-26 20:54
+  링크: https://www.whathifi.com/tv-home-cinema/projectors/xgimi-titan
+  피드 요약: With specifications to die for and bold claims of true home cinema in any living room, Xgimi’s Titan oozes potential.
+
+· Apple might be about to launch new AirPods 5, but will they feature substantial improvements?
+  출처: What Hi-Fi? / 2026-08-26 18:01
+  링크: https://www.whathifi.com/headphones/wireless-earbuds/apple-might-be-about-to-launch-new-airpods-5-but-will-they-feature-substantial-improvements
+  피드 요약: Could we expect the AirPods 5 as soon as this September?
+
+· The Sennheiser HD 620S is getting a Mercedes-AMG special edition, because why not
+  출처: SoundGuys / 2026-08-26 19:00
+  링크: https://www.soundguys.com/sennheiser-hd-620s-mercedes-amg-special-edition-162037/
+  피드 요약: Sennheiser and Mercedes-Benz chose the weirdest headphones for their first special edition product.
+
+· Should you upgrade to the Skullcandy Crusher 1080 ANC or 720? I compared them to the old Crusher ANC2 and Evo
+  출처: SoundGuys / 2026-08-26 18:00
+  링크: https://www.soundguys.com/skullcandy-crusher-1080-anc-vs-720-anc2-evo-161938/
+  피드 요약: What are the best bass headphones to rattle your skull?
+
+· The Beats 360 fix the one thing AirPods Max owners can’t replace
+  출처: SoundGuys / 2026-08-26 17:00
+  링크: https://www.soundguys.com/the-beats-360-fix-the-one-thing-airpods-max-owners-cant-replace-162026/
+  피드 요약: The Beats 360 leak is packed with specs, but one detail stands out to anyone whose AirPods Max headband has worn out.
+
+■ [카메라] 3건
+----------------------------------------
+· New Sony 100-400mm f/4.5 GM and f/5.6-8 OSS reviews
+  출처: Sony Alpha Rumors / 2026-08-26 19:11
+  링크: https://www.sonyalpharumors.com/new-sony-100-400mm-f-4-5-gm-and-f-5-6-8-oss-reviews/
+  피드 요약: Preorders: Sony 100-400mm f/5.6-8.0 at BHphoto, Adorama, Amazon, Fotokoch, Fotoerhardt, Calumet, WexUK. Sony 100-400mm f/4.5 GM at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK The post New Sony 100-400mm f/4.5 GM and f/5.6-8 OSS reviews first appeared on sonyalpharumors .
+
+· Save Big on the EOS R5 Mark II, RF 70-200mm f/2.8L IS USM Z and more!
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-26 15:21
+  링크: https://www.canonrumors.com/save-big-on-the-eos-r5-mark-ii-rf-70-200mm-f-2-8l-is-usm-z-and-more/
+  피드 요약: Canon USA has restocked some items in their refurbished store and they now on sale. You can get the EOS R5 Mark II body for only $3499, plus big savings on the RF 15-35mm f/2.8L IS USM, RF 28-70mm f/2L USM and the RF 70-200mm f/2.8L IS USM Z. There is also a great deal […]
+
+· Fujifilm X-T6 Was Set for September 4 — So What Happens to the XF400mmF4.5 and XF50-140mm MKII?
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-26 23:29
+  링크: https://www.fujirumors.com/fujifilm-x-t6-was-set-for-september-4-so-what-happens-to-the-xf400mmf4-5-and-xf50-140mm-mkii/
+  피드 요약: Everything Was Ready On August 7 I published the rumor about the Fujifilm X-T6 announcement delay. But it was a last second change, because what I actually wanted to publish in early August was the precise announcement date of the X-T6. In fact, I even had the video ready to go online. And the preci

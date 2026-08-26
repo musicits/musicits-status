@@ -1,0 +1,552 @@
+[
+ {
+  "category": "IT 공식발표",
+  "source": "Samsung Newsroom Korea",
+  "official": true,
+  "major_only": false,
+  "title": "삼성전자, 차세대 포터블 SSD 2종 P9, P7 공개",
+  "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%b0%a8%ec%84%b8%eb%8c%80-%ed%8f%ac%ed%84%b0%eb%b8%94-ssd-2%ec%a2%85-p9-p7-%ea%b3%b5%ea%b0%9c",
+  "date_kst": "2026-08-27 01:00",
+  "summary": "삼성전자가 차세대 인터페이스 USB4를 탑재한 초고속 포터블 SSD(Solid State Drive) P시리즈(P9·P7) 2종을 공개했다. 삼성전자는 26일(현지 시간) 독일 쾰른에서 열린 세계 최대 게임쇼 ‘게임스컴 2026’에서 차세대 포터블 SSD 2종을 선보였다. 새로운 포터블 SSD P시리즈는 어떤 순간에도 믿고 안심할 수 있는 마음의 안정감, 즉 ‘Peace of Mind’를 비전으로 삼아 차별화된 제품 신뢰성과 혁신적인 포터블 스토리지 경험을 제공한다. […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy",
+  "link": "https://www.macrumors.com/2026/08/26/best-buy-mac-mini-mac-studio/",
+  "date_kst": "2026-08-26 23:29",
+  "summary": "Apple yesterday announced the new Mac mini and Mac Studio, and pre-orders have begun on each device ahead of their September 22 launch date. We aren't currently tracking any straight cash discounts on pre-orders, but Best Buy is offering some money back in the form of Best Buy rewards when ordering. Note: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Specifically, My Best Buy Plus and Total members will get 2% back in the form of Best Buy rewards with the pre-order of a new Mac m"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing",
+  "link": "https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/",
+  "date_kst": "2026-08-26 23:25",
+  "summary": "Apple's new Mac mini and Mac Studio feature genlock support over USB-C, allowing users to precisely synchronize a display with a camera such as the iPhone 17 Pro , without the need for additional equipment. It keeps multiple cameras and displays locked to the same timing signal, stopping footage from drifting out of sync during a multi-camera shoot. Related Roundups: Mac Studio , Mac mini Buyer's Guide: Mac Studio (Buy Now) , Mac Mini (Buy Now) Related Forums: Mac Studio , Mac mini This article, \" New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing \" first appeared on MacRumors."
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
+  "link": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
+  "date_kst": "2026-08-26 23:06",
+  "summary": "A new fan-made concept video imagining Apple's rumored foldable iPhone is circulating online, weeks before the company is expected to unveil the device at its annual fall keynote. The video was created by designer Gunhoo Lee to provide a realistic look at what a brief \" iPhone Ultra \" reveal could look like, showcasing its 7.8-inch inner display, Touch ID authentication, mechanical hinge, dual battery system, and A20 chip. The features and specifications it depicts track closely with months of corroborated rumors. Apple's foldable iPhone is widely expected to be announced alongside the iPhone "
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
+  "link": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
+  "date_kst": "2026-08-26 22:46",
+  "summary": "iOS 27 tweaks some of the information and menus shown alongside the Digital ID passport feature in the Apple Wallet app. As a result of these changes and/or a related bug, some iPhone users have seen their Digital ID deactivated on recent iOS 27 beta versions. Apple says affected users must remove the card and re-add it to the Apple Wallet app in order to use it again. Related Roundups: iOS 27 , iPadOS 27 Tag: Apple Wallet This article, \" iOS 27 Tweaks Apple Wallet's U.S. Passport Feature \" first appeared on MacRumors.com Discuss this article in our forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple Giving Some Mac Mini Customers a Free Upgrade",
+  "link": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
+  "date_kst": "2026-08-26 22:10",
+  "summary": "Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to ship that it will be upgrading their order to an equivalent version of the new Mac mini with an M6 chip at no additional cost. Apple's email to customers: Thank you for your recent Mac order. We know you're looking forward to receiving your purchase. As you may know, Apple recently announced the new Mac mini. Since your order has yet to ship, we automatically upgraded you to the new Mac mini at no additional cost. Given the Mac mini now starts at $899 instead of $799 in the U.S., some customers ar"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
+  "link": "https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/",
+  "date_kst": "2026-08-26 21:56",
+  "summary": "Multiple new Mac Studio units can be clustered together over Thunderbolt 5 and RDMA (remote direct memory access), creating a shared memory pool for running larger AI models. If four Mac Studio systems are clustered together, Apple says they can deliver 3x faster AI inference than running the same task on a single system, with the shared memory pool helping to load the largest and most demanding frontier-class open-weight models available today. Related Roundup: Mac Studio Buyer's Guide: Mac Studio (Buy Now) Related Forum: Mac Studio This article, \" New Mac Studio Can Be Clustered Together for"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "75% of US Adults Aren't Interested in a Foldable iPhone",
+  "link": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
+  "date_kst": "2026-08-26 21:53",
+  "summary": "Three out of four U.S. adults say they have no interest in buying a foldable iPhone, according to a new survey from CNET . CNET 's survey was conducted online by YouGov between August 13 and 17, polling 2,605 U.S. adults. It found that 75% are not interested in an Apple foldable device, and those who are would not pay anywhere near the rumored $2,000+ price. Interest is low across every generation surveyed. Boomers (1946–1964) and Gen Xers (1965–1980) are the least interested, at 83% and 77% respectively, while 69% of Gen Z (1997–2012) and 68% of millennials (1981–1996) also said they would pa"
+ },
+ {
+  "category": "IT 루머",
+  "source": "MacRumors",
+  "official": false,
+  "major_only": false,
+  "title": "Apple's New Polishing Cloth Is Softer, Not Smaller Than Original",
+  "link": "https://www.macrumors.com/2026/08/26/new-apple-polishing-cloth-softer/",
+  "date_kst": "2026-08-26 21:02",
+  "summary": "Apple's new $9 Polishing Cloth , whose changes beyond pricing were unclear yesterday, is close in size to the original but noticeably less stiff, according to a comparison posted on X. The user says the new material feels closer to the cloth included with Apple's nano-texture displays or the Vision Pro. Tag: Polishing Cloth This article, \" Apple's New Polishing Cloth Is Softer, Not Smaller Than Original \" first appeared on MacRumors.com Discuss this article in our forums"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S27 leak reveals an uninspired design with minimal changes",
+  "link": "https://www.sammobile.com/news/galaxy-s27-leak-reveals-an-uninspired-design-with-minimal-changes/",
+  "date_kst": "2026-08-26 23:04",
+  "summary": "Samsung may release not three, but four mainline Galaxy S27 models next year. Unofficial renders recently revealed what the Galaxy S27 Ultra might look like, and now, a new collection of CAD renders shared by Android Headlines is giving the base S27 model the same treatment. Unfortunately, they're not all that exciting. Or, more specifically, […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "One UI 9 Watch beta program debuts on the Galaxy Watch 8 in Korea",
+  "link": "https://www.sammobile.com/news/one-ui-9-watch-beta-program-debuts-on-the-galaxy-watch-8-in-korea/",
+  "date_kst": "2026-08-26 20:36",
+  "summary": "The first signs of a One UI 9 Watch beta program emerged a couple of weeks ago, when beta firmware was spotted on Samsung's servers. Today, the beta program for One UI 9 Watch went live (via Tarun Vats). It is open for Galaxy Watch 8 series users in Korea. Where will the beta program […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S24 series gets August 2026 security update",
+  "link": "https://www.sammobile.com/news/galaxy-s24-series-gets-august-2026-security-update/",
+  "date_kst": "2026-08-26 19:40",
+  "summary": "Samsung, after rolling out the August 2026 security patch to the Galaxy S26 and the Galaxy S25 series, is now rolling it out to the Galaxy S24 lineup. The update is live in the brand’s home country, South Korea. It is 416.16MB in size and carries firmware version S928NKSS6DZH2 (via Samsung Community). The August 2026 […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "New Galaxy S25 update brings August 2026 security patch",
+  "link": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-august-2026-security-patch/",
+  "date_kst": "2026-08-26 19:13",
+  "summary": "After a slow start to the August 2026 security patch rollout, Samsung is finally picking up the pace. Earlier today, the brand released the update for the Galaxy S26 lineup, and now the company has started rolling it out to the Galaxy S25 series as well. Samsung is rolling out the update first in its […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "New Galaxy S25 FE update brings August 2026 security patch",
+  "link": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-august-2026-security-patch/",
+  "date_kst": "2026-08-26 18:46",
+  "summary": "Samsung has started rolling out a new software update to the Galaxy S25 FE. It brings the August 2026 security patch, which fixes 56 security issues. As usual, the brand is offering it first in its home country, South Korea. The update for the region is 311.62MB in size and carries firmware version S731NKSS9BZH2 (via […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung appears to have fixed Galaxy S26 Ultra’s display red tint issue",
+  "link": "https://www.sammobile.com/news/samsung-may-have-fixed-galaxy-s26-ultra-display-red-tint-issue/",
+  "date_kst": "2026-08-26 18:40",
+  "summary": "Last month, the users of the Galaxy S26 Ultra started complaining that a red tint had appeared on the displays of their phones. Samsung acknowledged the problem and said it would fix it with a software update this month. Now, the brand appears to have finally addressed the issue. A few moments ago, Samsung released […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung closes One UI 9.0 beta recruitment for Galaxy S26 series",
+  "link": "https://www.sammobile.com/news/samsung-closes-one-ui-9-0-beta-recruitment-galaxy-s26-series/",
+  "date_kst": "2026-08-26 18:13",
+  "summary": "Samsung revealed its latest custom Android interface, One UI 9.0 (Android 17), by releasing its beta version for the Galaxy S26 lineup in May. Now, after almost three months, the brand appears to have stopped accepting new participants in it, strongly suggesting that it may release the stable version soon. Samsung has posted a notice […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "SamMobile",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S26, S26+, S26 Ultra get August 2026 security update",
+  "link": "https://www.sammobile.com/news/galaxy-s26-s26-s26-ultra-get-august-2026-security-update/",
+  "date_kst": "2026-08-26 18:12",
+  "summary": "Samsung started rolling out this month’s security patch to Galaxy smartphones later than usual. On top of that, the brand has been rolling out the update rather slowly, with many new and high-end devices, including the Galaxy S26 series, still awaiting it. That’s finally changing. Samsung has released a new software update for the Galaxy […]"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Meta agrees $18B settlement to end teen social hygiene lawsuit",
+  "link": "https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss",
+  "date_kst": "2026-08-26 23:19",
+  "summary": "Meta has agreed to pay up to $18 billion and to make changes to Facebook and other online services, all to settle a federal lawsuit alleging teenagers are being harmed by social media. Instagram, one of Meta's online social properties Mark Zuckerberg's Meta has been dealing with a trial concerning the mental and social effects of social media for a while, but it's seemingly no longer a problem. The social giant has managed to hammer out a settlement with some functional concessions as well as a hefty fine. The settlement is with 48 state attorneys general across the entire United States, inclu"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "World's best selling smartphone is the iPhone 17 - again",
+  "link": "https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss",
+  "date_kst": "2026-08-26 23:00",
+  "summary": "Figures for the second quarter of 2026 show that the iPhone 17 is once more the biggest selling smartphone around the globe, and that Apple takes the next two spots as well. The iPhone 17 is the world's best-selling smartphone According to previous figures from Counterpoint Research, the iPhone 17 was the best-selling smartphone in Q1 2026. But that was predicted, since in the months after launch, the trend in iPhone sales is to see an increase in the non-Pro models. Now the research firm says that the iPhone 17 has continued to be as successful. For Q2 2026, it again took the lead in a top te"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "iPhone Ultra motherboard may just have leaked",
+  "link": "https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss",
+  "date_kst": "2026-08-26 21:34",
+  "summary": "Apple has kept iPhone Ultra production details under lock and key better than it did with the iPhone Air, but at last there's a component leak. Or an over-detailed hoax. AppleInsider has long argued that if the much-rumored folding iPhone were to be launched in September, that we should be seeing leaked components. There's now been so much other evidence that it seems inevitable, but finally there has been a component leak. Allegedly. We won't know if these shots are really of the iPhone Ultra's motherboard until someone buys the costly device just to strip it apart. But now two seemingly sepa"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive",
+  "link": "https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss",
+  "date_kst": "2026-08-26 20:38",
+  "summary": "Apple's Mac Studio just got updated with M5 Max chip. Unlike the Mac mini, there's a strong argument to get or keep the prior model instead. M5 Max Mac Studio vs. M4 Max Mac Studio: Specs, hardware, price. After debuting in the MacBook Pro in March 2026, the M5 Max chip has made its way to Apple's top-of-the-line desktop, the Mac Studio. Though the Mac Studio hasn't undergone any visual changes, the M5 Max introduces significant under-the-hood enhancements. With Neural Accelerators in each GPU core and new \"super cores\" in the CPU, the M5 Max Mac Studio delivers impressive performance. Continu"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "OpenAI's lawsuit delays cause more harm every day, says Apple",
+  "link": "https://appleinsider.com/articles/26/08/26/openais-lawsuit-delays-cause-more-harm-every-day-says-apple?utm_source=rss",
+  "date_kst": "2026-08-26 20:19",
+  "summary": "Apple has pushed back against OpenAI's trying to delay the trade theft lawsuit while the AI company continues to profit from allegedly stolen information. Apple continues to press for expedited discovery in its case against OpenAI. Apple first filed suit against OpenAI over alleged mass IP theft in July 2026 . Since then, Apple has pressed for a faster start to the proceedings, and OpenAI has basically claimed that Apple is only suing because it can't compete . OpenAI has argued that Apple's asking for expedited discovery was simply unnecessary. Now Apple has responded to what it categorizes a"
+ },
+ {
+  "category": "IT 루머",
+  "source": "AppleInsider",
+  "official": false,
+  "major_only": false,
+  "title": "Asus ROG Kithara headset review: Audiophile gaming",
+  "link": "https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss",
+  "date_kst": "2026-08-26 09:29",
+  "summary": "The Asus ROG Kithara brings Hifiman's planar-magnetic drivers and signature design to the Mac gaming world with aplomb that's sometimes undermined by unfortunate complexities. ROG Kithara review: Few headsets are quite so big In a world that's full to the brim with mediocre gaming headsets, this Asus ROG and Hifiman collaboration is certainly different. Hifiman is known for its premium headphones aimed squarely at audiophiles with plenty of money to spend on their hobby. By contrast, gamers aren't known for their willingness to part with their hard-earned cash. Unless it warrants it, that is. "
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "iOS 27 reveals Apple TV 4K, HomePod may get powerful new features",
+  "link": "https://9to5mac.com/2026/08/26/ios-27-reveals-apple-tv-4k-homepod-may-get-powerful-new-features/",
+  "date_kst": "2026-08-26 23:27",
+  "summary": "iOS 27 is launching very soon , and the beta reveals Apple may have some powerful new AI features coming for Apple TV 4K and HomePod devices."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]",
+  "link": "https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/",
+  "date_kst": "2026-08-26 23:06",
+  "summary": "The Sonnet Echo 21 Thunderbolt 5 SuperDock , the follow-up to the similarly named Echo 20 Thunderbolt 4 SuperDock ( review ), lets you add tons of I/O to your Mac via a single Thunderbolt cable, and brings several noteworthy improvements for those looking to upgrade or future-proof their Mac setups. Perfect for both laptops like the MacBook Pro, and desktop machines like the just-announced M5 Pro Mac mini , the Echo 21 SuperDock adds a vast array of I/O to these machines. Watch our full hands-on video walkthrough for the details, and be sure to subscribe to 9to5mac on YouTube for more ."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
+  "link": "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/",
+  "date_kst": "2026-08-26 22:39",
+  "summary": "Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model."
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Ads have landed in Apple Maps, and they are as bad as expected",
+  "link": "https://9to5mac.com/2026/08/26/ads-have-landed-in-apple-maps-and-they-are-as-bad-as-expected/",
+  "date_kst": "2026-08-26 21:31",
+  "summary": "When we ran a poll last month, the overwhelming majority of 9to5Mac readers agreed that Apple should exit the ad business. Ads have now landed in Apple Maps in the US and Canada, and my view is that they are every bit as bad as expected …"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
+  "link": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
+  "date_kst": "2026-08-26 20:43",
+  "summary": "Instagram now has a new iPhone-exclusive feature that can create reels automatically. You just select your video clips and it creates an edit with a single tap. However, Meta is being extremely careful not to upset creators by implying that the app can replace their manual editing skills …"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
+  "link": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
+  "date_kst": "2026-08-26 20:23",
+  "summary": "Sometimes a headline is the complete inverse of the real news in the story, and that’s the case with a new survey measuring interest in the upcoming iPhone Ultra . The headline says 75% of US adults aren’t interested in a folding iPhone, while the real surprise is that as many as 25% are. Apple shouldn’t get too excited by the results, however, as willingness to pay was way, way less than the price we’re expecting the company to announce …"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "There’s a $300 gotcha in an M5 Max Mac Studio upgrade",
+  "link": "https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/",
+  "date_kst": "2026-08-26 19:56",
+  "summary": "There was a pleasant surprise in yesterday’s announcement of the Mac Studio with M5 Max chip : the starting price is unchanged from that of the M4 Max Mac Studio, at $2,499. However, if you want to upgrade the GPU, there is a gotcha in the cost of doing so – it will cost you $300 more than Apple’s website initially indicates …"
+ },
+ {
+  "category": "IT 루머",
+  "source": "9to5Mac",
+  "official": false,
+  "major_only": false,
+  "title": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+  "link": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
+  "date_kst": "2026-08-26 11:58",
+  "summary": "Apple has submitted its response to OpenAI’s attempt to block expedited discovery in its ongoing trade secret lawsuit . Here are the details."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "This Android TV launcher just gave users much more control over their home screen",
+  "link": "https://www.androidauthority.com/atv-launcher-pro-0-1-40-update-3703254/",
+  "date_kst": "2026-08-26 23:10",
+  "summary": "The launcher now lets you build an Android TV home screen that actually feels like yours."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "The fix for the Galaxy S26 Ultra’s red tint bug is rolling out",
+  "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-red-tint-fix-update-3703275/",
+  "date_kst": "2026-08-26 23:04",
+  "summary": "The August 2026 security update could likely include a fix for this annoying display glitch."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Wallpaper Wednesday: More great phone wallpapers for all to share (August 26)",
+  "link": "https://www.androidauthority.com/wallpaper-wednesday-august-26-2026-3702951/",
+  "date_kst": "2026-08-26 23:00",
+  "summary": "Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!"
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Galaxy S27 breaks cover in new renders, and it’s both good news and bad news",
+  "link": "https://www.androidauthority.com/galaxy-s27-cad-renders-leak-3703360/",
+  "date_kst": "2026-08-26 22:56",
+  "summary": "The unchanged design may be disappointing, but not as much as an iPhone-lookalike would be."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Motorola shares all the new features coming with its Android 17 update",
+  "link": "https://www.androidauthority.com/motorola-android-17-update-official-changelog-3703287/",
+  "date_kst": "2026-08-26 22:37",
+  "summary": "The stable rollout brings redesigned Quick Settings, stackable widgets, anti-scam tools, and cross-platform sharing."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Can’t play those old 32-bit Android games on your new phone? This app can help.",
+  "link": "https://www.androidauthority.com/play-32-bit-games-new-android-phone-3703230/",
+  "date_kst": "2026-08-26 22:25",
+  "summary": "Want to revisit the era of Real Racing, Dungeon Hunter, and Mass Effect: Infiltrator? This app is for you."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Samsung begins testing Wear OS 7-based One UI 9 Watch on Galaxy Watch 8",
+  "link": "https://www.androidauthority.com/samsung-galaxy-watch-8-one-ui-9-watch-beta-3703271/",
+  "date_kst": "2026-08-26 20:55",
+  "summary": "We expect the beta program to expand to more regions soon."
+ },
+ {
+  "category": "IT 루머",
+  "source": "Android Authority",
+  "official": false,
+  "major_only": false,
+  "title": "Google is preparing a Liquid Glass redesign for YouTube and YouTube Music",
+  "link": "https://www.androidauthority.com/google-youtube-music-liquid-glass-live-activity-3703202/",
+  "date_kst": "2026-08-26 20:13",
+  "summary": "YouTube users on iOS may not have to wait long for Liquid Glass, with Live Activities also on the horizon."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "갤럭시S26울트라 디스플레이 관련 SW 업데이트 공식 발표",
+  "link": "https://blog.naver.com/yeux1122/224391132490?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 18:31",
+  "summary": "갤럭시S26 울트라 디스플레이 관련 SW 업데이트 공지가 나왔습니다."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "갤럭시S27 울트라, 목업 모델 이미지 유출",
+  "link": "https://blog.naver.com/yeux1122/224391116103?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 18:14",
+  "summary": "갤럭시S27 울트라 모델 목업 이미지가 나왔습니다. (*wallee)"
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "갤럭시S27 울트라 후면 카메라 배치 구도, 아이소셀 티징 이미지로 활용된 적 있어",
+  "link": "https://blog.naver.com/yeux1122/224391094434?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 17:52",
+  "summary": "갤럭시S27 울트라 모델의 후면 카메라 디자인이 2023년 부터 일부 배치는 고려가 되고 있었던 정황이 있습니다.(*MMps) 아이소셀 줌 렌즈 티징 이미지에 지금 카메라 배치와 유사한 구조를 이미 티징한 적이 있었습니다."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "샤오미 18 폴드, 실기 모델 유출",
+  "link": "https://blog.naver.com/yeux1122/224390928212?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 15:34",
+  "summary": "샤오미 18 폴드 실기가 유출이 되었습니다. (*techhome) 얼마전 샤오미 임원이 들고 있던 모델 색상과 동일합니다."
+ },
+ {
+  "category": "IT 루머",
+  "source": "란즈크 블로그",
+  "official": false,
+  "major_only": false,
+  "title": "애플 아이폰 18 폴드, 루머 기반 홍보 영상 (*컨셉)",
+  "link": "https://blog.naver.com/yeux1122/224390843152?fromRss=true&trackingCode=rss",
+  "date_kst": "2026-08-26 14:26",
+  "summary": "애플 아이폰 폴드 루머 기반 컨셉 소개영상 입니다."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Sony’s latest budget smartphone claims to double the brightness of its predecessor – but there’s a catch",
+  "link": "https://www.whathifi.com/smartphones-tablets/smartphones/sonys-latest-budget-smartphone-claims-to-double-the-brightness-of-its-predecessor-but-theres-a-catch",
+  "date_kst": "2026-08-26 22:34",
+  "summary": "Is the Xperia 10 VIII worth the higher price tag?"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "How to watch UCI Mountain Bike World Championships 2026 online from anywhere: free live streams of every event",
+  "link": "https://www.whathifi.com/streaming-entertainment/how-to-watch/uci-mountain-bike-world-championships-2026",
+  "date_kst": "2026-08-26 22:00",
+  "summary": "Here's how to watch free 2026 UCI Mountain Bike World Championships live streams online wherever you are as the planet's best riders gather in Italy."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "We tested Samsung's immersive iPad Pro rival - and this superb portable cinema is already tempting us with an awesome deal",
+  "link": "https://www.whathifi.com/smartphones-tablets/tablets/we-tested-samsungs-immersive-ipad-pro-rival-and-this-superb-portable-cinema-is-already-tempting-us-with-an-awesome-deal",
+  "date_kst": "2026-08-26 21:06",
+  "summary": "Huge screen, huge performance"
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Xgimi Titan",
+  "link": "https://www.whathifi.com/tv-home-cinema/projectors/xgimi-titan",
+  "date_kst": "2026-08-26 20:54",
+  "summary": "With specifications to die for and bold claims of true home cinema in any living room, Xgimi’s Titan oozes potential."
+ },
+ {
+  "category": "오디오",
+  "source": "What Hi-Fi?",
+  "official": false,
+  "major_only": false,
+  "title": "Apple might be about to launch new AirPods 5, but will they feature substantial improvements?",
+  "link": "https://www.whathifi.com/headphones/wireless-earbuds/apple-might-be-about-to-launch-new-airpods-5-but-will-they-feature-substantial-improvements",
+  "date_kst": "2026-08-26 18:01",
+  "summary": "Could we expect the AirPods 5 as soon as this September?"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "The Sennheiser HD 620S is getting a Mercedes-AMG special edition, because why not",
+  "link": "https://www.soundguys.com/sennheiser-hd-620s-mercedes-amg-special-edition-162037/",
+  "date_kst": "2026-08-26 19:00",
+  "summary": "Sennheiser and Mercedes-Benz chose the weirdest headphones for their first special edition product."
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "Should you upgrade to the Skullcandy Crusher 1080 ANC or 720? I compared them to the old Crusher ANC2 and Evo",
+  "link": "https://www.soundguys.com/skullcandy-crusher-1080-anc-vs-720-anc2-evo-161938/",
+  "date_kst": "2026-08-26 18:00",
+  "summary": "What are the best bass headphones to rattle your skull?"
+ },
+ {
+  "category": "오디오",
+  "source": "SoundGuys",
+  "official": false,
+  "major_only": false,
+  "title": "The Beats 360 fix the one thing AirPods Max owners can’t replace",
+  "link": "https://www.soundguys.com/the-beats-360-fix-the-one-thing-airpods-max-owners-cant-replace-162026/",
+  "date_kst": "2026-08-26 17:00",
+  "summary": "The Beats 360 leak is packed with specs, but one detail stands out to anyone whose AirPods Max headband has worn out."
+ },
+ {
+  "category": "카메라",
+  "source": "Sony Alpha Rumors",
+  "official": false,
+  "major_only": false,
+  "title": "New Sony 100-400mm f/4.5 GM and f/5.6-8 OSS reviews",
+  "link": "https://www.sonyalpharumors.com/new-sony-100-400mm-f-4-5-gm-and-f-5-6-8-oss-reviews/",
+  "date_kst": "2026-08-26 19:11",
+  "summary": "Preorders: Sony 100-400mm f/5.6-8.0 at BHphoto, Adorama, Amazon, Fotokoch, Fotoerhardt, Calumet, WexUK. Sony 100-400mm f/4.5 GM at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK The post New Sony 100-400mm f/4.5 GM and f/5.6-8 OSS reviews first appeared on sonyalpharumors ."
+ },
+ {
+  "category": "카메라",
+  "source": "Canon Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Save Big on the EOS R5 Mark II, RF 70-200mm f/2.8L IS USM Z and more!",
+  "link": "https://www.canonrumors.com/save-big-on-the-eos-r5-mark-ii-rf-70-200mm-f-2-8l-is-usm-z-and-more/",
+  "date_kst": "2026-08-26 15:21",
+  "summary": "Canon USA has restocked some items in their refurbished store and they now on sale. You can get the EOS R5 Mark II body for only $3499, plus big savings on the RF 15-35mm f/2.8L IS USM, RF 28-70mm f/2L USM and the RF 70-200mm f/2.8L IS USM Z. There is also a great deal […]"
+ },
+ {
+  "category": "카메라",
+  "source": "Fuji Rumors",
+  "official": false,
+  "major_only": true,
+  "title": "Fujifilm X-T6 Was Set for September 4 — So What Happens to the XF400mmF4.5 and XF50-140mm MKII?",
+  "link": "https://www.fujirumors.com/fujifilm-x-t6-was-set-for-september-4-so-what-happens-to-the-xf400mmf4-5-and-xf50-140mm-mkii/",
+  "date_kst": "2026-08-26 23:29",
+  "summary": "Everything Was Ready On August 7 I published the rumor about the Fujifilm X-T6 announcement delay. But it was a last second change, because what I actually wanted to publish in early August was the precise announcement date of the X-T6. In fact, I even had the video ready to go online. And the precise… The post Fujifilm X-T6 Was Set for September 4 — So What Happens to the XF400mmF4.5 and XF50-140mm MKII? appeared first on Fuji Rumors ."
+ }
+]
