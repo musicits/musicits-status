@@ -41,24 +41,29 @@ jobs:
       - name: 한국어로 옮기기
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_REPORT_KEY: ${{ secrets.GEMINI_REPORT_KEY }}
         run: |
-          if [ -z "$GEMINI_API_KEY" ]; then
-            echo "GEMINI_API_KEY 가 없어 번역을 건너뜁니다."
+          if [ -z "$GEMINI_API_KEY" ] && [ -z "$GEMINI_REPORT_KEY" ]; then
+            echo "번역·보고서 키가 둘 다 없어 번역을 건너뜁니다."
             exit 0
           fi
           pip install --quiet --upgrade google-genai
           python tools/translate.py
 
       # 보고서. 집에서는 Claude Code CLI 가 쓰고, 여기서는 Gemini 가 같은 양식으로
-      # 쓴다. 번역과 **다른 키**를 쓰는 이유는 보고서가 기사 본문까지 넘겨 훨씬
-      # 크기 때문이다 — 한 열쇠에 묶어두면 보고서가 번역 한도를 잡아먹는다.
-      # 키가 없으면 스스로 건너뛴다.
+      # 쓴다.
+      #
+      # 키는 하나여도 되고 둘이어도 된다. 둘(GEMINI_API_KEY / GEMINI_REPORT_KEY)
+      # 이면 번역과 보고서가 한도를 갈라 쓴다 — 보고서가 기사 본문까지 넘겨
+      # 훨씬 크기 때문에 그편이 안전하다. 하나뿐이면 그 하나로 둘 다 돈다.
+      # 아무것도 없으면 스스로 건너뛴다.
       - name: 보고서 쓰기
         env:
           GEMINI_REPORT_KEY: ${{ secrets.GEMINI_REPORT_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          if [ -z "$GEMINI_REPORT_KEY" ]; then
-            echo "GEMINI_REPORT_KEY 가 없어 보고서를 건너뜁니다."
+          if [ -z "$GEMINI_REPORT_KEY" ] && [ -z "$GEMINI_API_KEY" ]; then
+            echo "보고서·번역 키가 둘 다 없어 보고서를 건너뜁니다."
             exit 0
           fi
           pip install --quiet --upgrade google-genai

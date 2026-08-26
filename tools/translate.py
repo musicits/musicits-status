@@ -111,11 +111,21 @@ def build_prompt(items):
             % (len(items), len(items), min(HIGHLIGHTS, len(items)), "\n".join(lines)))
 
 
+def api_key():
+    """번역에 쓸 키. 없으면 보고서 키라도 쓴다.
+
+    한도를 나누려고 키를 둘로 두는 것이 원래 설계지만(README 6·7번), 하나만
+    넣어둔 상태에서 번역이 통째로 빠지는 편이 더 나쁘다. 둘 다 있으면 지금처럼
+    갈라 쓰고, 하나뿐이면 그 하나로 둘 다 돈다.
+    """
+    return os.environ.get("GEMINI_API_KEY") or os.environ.get("GEMINI_REPORT_KEY")
+
+
 def ask(items):
     """기사 목록을 넘겨 번역과 주요 이슈를 받는다."""
     from google import genai
 
-    client = genai.Client()          # GEMINI_API_KEY 환경변수를 읽는다
+    client = genai.Client(api_key=api_key())
     interaction = client.interactions.create(
         model=MODEL,
         system_instruction=SYSTEM,
@@ -129,9 +139,11 @@ def ask(items):
 
 
 def main():
-    if not os.environ.get("GEMINI_API_KEY"):
-        print("GEMINI_API_KEY 가 없어 번역을 건너뜁니다.")
+    if not api_key():
+        print("GEMINI_API_KEY 도 GEMINI_REPORT_KEY 도 없어 번역을 건너뜁니다.")
         return 0
+    if not os.environ.get("GEMINI_API_KEY"):
+        print("GEMINI_API_KEY 가 없어 보고서 키를 같이 씁니다(한도를 나눠 쓰게 됩니다).")
 
     run_dir = latest_run()
     if not run_dir:

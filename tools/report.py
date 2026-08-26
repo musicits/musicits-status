@@ -76,7 +76,10 @@ SYSTEM = """당신은 IT 블로그 '뮤직잇츠(music ITs)'의 뉴스 모니터
 
 지침에 나오는 도구 이야기(WebFetch, curl, 파일 저장, 채팅 출력)는 무시하세요.
 기사 본문은 이미 아래에 붙여 드렸고, 당신은 보고서 본문만 쓰면 됩니다.
-설명이나 머리말 없이 보고서 그 자체로 시작하세요."""
+설명이나 머리말 없이 보고서 그 자체로 시작하세요.
+
+**주요 소식 5건의 블록만 쓰세요.** 지침 뒤쪽의 '나머지 소식 한줄 목록'은
+쓰지 마세요 — 그건 제목과 주소를 그대로 옮기는 일이라 프로그램이 붙입니다."""
 
 
 # ------------------------------------------------------------------ 수집 결과
@@ -309,10 +312,13 @@ def ask(spec, prompt, key):
 # ------------------------------------------------------------------ 진행
 
 def main():
-    key = os.environ.get("GEMINI_REPORT_KEY")
+    # 보고서 키가 없으면 번역 키라도 쓴다(translate.api_key 와 같은 이유).
+    key = os.environ.get("GEMINI_REPORT_KEY") or os.environ.get("GEMINI_API_KEY")
     if not key:
-        print("GEMINI_REPORT_KEY 가 없어 보고서를 건너뜁니다.")
+        print("GEMINI_REPORT_KEY 도 GEMINI_API_KEY 도 없어 보고서를 건너뜁니다.")
         return 0
+    if not os.environ.get("GEMINI_REPORT_KEY"):
+        print("GEMINI_REPORT_KEY 가 없어 번역 키를 같이 씁니다(한도를 나눠 쓰게 됩니다).")
 
     run_dir = latest_run()
     if not run_dir:
