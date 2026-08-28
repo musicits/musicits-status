@@ -1,0 +1,312 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-29 07:00 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-28 13:27 (KST) 이후 기사
+새 기사: 59건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 6건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 8건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 25건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+
+■ [IT 루머] 42건
+----------------------------------------
+· Steve Jobs' 8th Grade Science Project Sells for $34,375
+  출처: MacRumors / 2026-08-29 04:24
+  링크: https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/
+  피드 요약: A science project that Apple co-founder Steve Jobs built for his 8th-grade science fair sold at auction for $34,375. Jobs was attending Cupertino Jr. High when he designed the project, which is titled "What is the SCR?" The lot includes a display board built from plywood with three explanatory panel
+
+· Which Macs Will Get an M6 Chip and Which Won't?
+  출처: MacRumors / 2026-08-29 03:11
+  링크: https://www.macrumors.com/2026/08/28/m6-chip-macs/
+  피드 요약: Apple announced new Mac mini machines this week, and the lower-end models include the first M6 chip. The M6 era will be a little complicated, because few Macs are going to get it. We won't have M6 Pro or M6 Max chips, which shakes up the Mac lineup for the next couple of years. Subscribe to the MacR
+
+· Apple's Siri Settlement: Here's When iPhone Owners Can Submit Claims
+  출처: MacRumors / 2026-08-29 03:01
+  링크: https://www.macrumors.com/2026/08/28/apple-siri-ai-settlement-claims-timing/
+  피드 요약: In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Today, a new court document revealed when customers will likely be able to begin submitting claims. If the dates proposed by Apple
+
+· This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS
+  출처: MacRumors / 2026-08-29 01:16
+  링크: https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/
+  피드 요약: As noted by Daring Fireball 's John Gruber , developer Jeff Halter has released a new Afterglow app that allows you to run classic After Dark screen savers on modern macOS versions. "Afterglow is an emulator built specifically for running After Dark modules -- the original 68k module code, not a rem
+
+· The MacRumors Show: Apple's Surprisingly Big Week of Announcements
+  출처: MacRumors / 2026-08-29 01:12
+  링크: https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/
+  피드 요약: It's been an unusually big week for Apple announcements. On this week's episode of The MacRumors Show , we discuss the new Mac mini and Mac Studio , the M6 and M5 Ultra chips, and invites to Apple's September event. Subscribe to The MacRumors Show YouTube channel for more videos Apple confirmed on W
+
+· Apple TV Buys an Existing Hit for the First Time Ever
+  출처: MacRumors / 2026-08-29 00:52
+  링크: https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/
+  피드 요약: Apple TV has bought the worldwide rights to "Small Prophets," breaking with how it normally operates in acquiring an existing English-language hit rather than commissioning a show of its own from the start. ‌Apple TV‌ has typically developed or, at the very least, commissioned shows in-house and giv
+
+· iPhone 18 Pro Pre-Orders May Start at an Unusual Time
+  출처: MacRumors / 2026-08-29 00:17
+  링크: https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/
+  피드 요약: Pre-orders of Apple's iPhone 18 Pro may not open until Saturday, September 12, a day later than the company's usual schedule, according to a new report. Apple is set to hold its annual iPhone event on Wednesday, September 9, where the ‌iPhone 18 Pro‌ models, its first-ever foldable iPhone, and the A
+
+· What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event
+  출처: MacRumors / 2026-08-28 23:54
+  링크: https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/
+  피드 요약: Apple's annual fall event takes place on Wednesday, September 9, when it is expected to unveil new iPhone 18 Pro models, the first foldable iPhone, an Apple Watch Series 12, a fourth-generation Apple Watch Ultra, and potentially AirPods 5. Apple may also make some additional new products available a
+
+· Galaxy S26 Ultra was the world’s best-selling Android phone in Q2 2026
+  출처: SamMobile / 2026-08-29 03:15
+  링크: https://www.sammobile.com/news/galaxy-s26-ultra-best-selling-android-phone-q2-2026/
+  피드 요약: Counterpoint Research has published a report on the best-selling smartphones globally in Q2 2026. According to it, Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, was the best-selling Android smartphone during the quarter. However, the Galaxy S26 Ultra wasn’t the best-sellin
+
+· Galaxy A35 users may get to try One UI 9.0 before its stable release
+  출처: SamMobile / 2026-08-29 00:43
+  링크: https://www.sammobile.com/news/galaxy-a35-users-may-get-try-one-ui-9-0-before-stable-release/
+  피드 요약: Before rolling out the stable version of its latest custom Android interface, One UI 9.0 (Android 17), to Galaxy smartphones and tablets, Samsung is expected to release its beta version for several devices. The Galaxy A35 is one of them. However, there had been no concrete evidence to confirm that—u
+
+· Samsung’s August 2026 security update starts reaching Galaxy Tab S9 series
+  출처: SamMobile / 2026-08-29 00:01
+  링크: https://www.sammobile.com/news/samsungs-august-2026-security-update-starts-reaching-galaxy-tab-s9-series/
+  피드 요약: Samsung has started rolling out the August 2026 security patch to its tablets, and the first models to receive it aren’t its latest flagship tablets, the Galaxy Tab S11 series, or the 2024 flagship tablets, the Galaxy Tab S10 series. Instead, the update has arrived first for the 2023 flagship tablet
+
+· Galaxy S27 Ultra frame design tweak could make it more comfortable to hold
+  출처: SamMobile / 2026-08-28 23:50
+  링크: https://www.sammobile.com/news/galaxy-s27-ultra-frame-design-tweak-could-make-it-more-comfortable-to-hold/
+  피드 요약: If the recent leaks prove accurate next year, the upcoming Galaxy S27 Ultra will redefine Samsung's design language with a new camera housing. That's the most significant rumored design change, but there are a few other ones that aren't as impactful to the visual sense. A more comfortable design Lea
+
+· Samsung may open One UI 9.0 beta program for Galaxy A56
+  출처: SamMobile / 2026-08-28 23:22
+  링크: https://www.sammobile.com/news/samsung-may-open-one-ui-9-0-beta-program-galaxy-a56/
+  피드 요약: Samsung started developing its latest custom Android interface, One UI 9.0 (Android 17), for the Galaxy A56 in June. With the brand preparing to open the new software’s beta program for the Galaxy A55, it was reasonable to expect the company to do the same for the Galaxy A56. However, there had been
+
+· A brief look at how fashion color trends could influence Samsung’s 2027 phone lineup
+  출처: SamMobile / 2026-08-28 21:54
+  링크: https://www.sammobile.com/opinion/a-brief-look-at-how-fashion-color-trends-could-influence-samsung-2027-phone-lineup/
+  피드 요약: It's Friday, and the Galaxy S26 FE launch is wrapped. Let's do something different for a change and talk a little about fashion color trends and how they could influence Samsung's Galaxy phone lineup in 2027. The following isn't confirmed or rumored. It is an observation of current color trends in f
+
+· Star Trek celebrates its 60th anniversary at Samsung’s biggest London store
+  출처: SamMobile / 2026-08-28 20:25
+  링크: https://www.sammobile.com/news/star-trek-celebrates-60th-anniversary-at-samsung-biggest-london-store/
+  피드 요약: The beloved Star Trek franchise turns 60 next month, and Samsung UK has announced plans to transform its flagship King's Cross store into a point of interest for Star Trek fans. Numerous Star Trek-themed events will take place all over the world throughout the next few weeks and months. Star Trek is
+
+· My FanCam is now available on Galaxy S26 series with One UI 9 beta
+  출처: SamMobile / 2026-08-28 19:20
+  링크: https://www.sammobile.com/news/my-fancam-galaxy-s26-plus-ultra-one-ui-9-beta/
+  피드 요약: Samsung released two One UI 9 beta updates for the Galaxy S26 series in quick succession, and the second brings one of the most interesting Galaxy AI features the company introduced with its new foldables. My FanCam is now available on the Galaxy S26, S26+, and S26 Ultra on the latest One UI 9 beta.
+
+· Apple's Kentucky iPhone glass plant will add 200 permanent jobs
+  출처: AppleInsider / 2026-08-29 06:10
+  링크: https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss
+  피드 요약: A Kentucky-based glass plant is poised to become a much bigger piece of the iPhone supply chain, with hundreds of both long-term and temporary jobs expected as production ramps up. Apple wants the glass for every iPhone to be made in Kentucky Apple has been getting glass for iPhone for 20 years from
+
+· Steve Jobs' 8th-grade science fair project sold for over $34,000
+  출처: AppleInsider / 2026-08-29 01:28
+  링크: https://appleinsider.com/articles/26/08/28/steve-jobs-8th-grade-science-fair-project-sold-for-over-34000?utm_source=rss
+  피드 요약: Someone did, in fact, buy the Steve Jobs 8th-grade science fair project for roughly the same price as a brand-new midsize sedan. Steve Jobs' 8th-grade science project sells for $34,375 Earlier in August , I'd reported on yet another Steve Jobs-based auction. These seem to be happening with increased
+
+· Amazon launches first M6 Mac mini deals, grab prices from $879
+  출처: AppleInsider / 2026-08-29 01:20
+  링크: https://appleinsider.com/articles/26/08/28/amazon-launches-first-m6-mac-mini-deals-grab-prices-from-879?utm_source=rss
+  피드 요약: Preorder deals are in effect on the just-announced M6 Mac mini at Amazon. Pick up the 2026 desktop for as low as $879.99. Grab preorder deals on Apple's brand-new M6 Mac mini. Save $20 on Apple's brand-new M6 Mac mini that was announced this week, bringing the price of the standard model down to $87
+
+· New Macs, iPhone launch date, AI Music, & Tim Cook on the AppleInsider Podcast
+  출처: AppleInsider / 2026-08-29 00:51
+  링크: https://appleinsider.com/articles/26/08/28/new-macs-iphone-launch-date-ai-music-tim-cook-on-the-appleinsider-podcast?utm_source=rss
+  피드 요약: Apple announced the iPhone launch date, plus the M6 processor for an updated Mac mini right alongside the M5 Ultra in a Mac Studio , plus more layoffs impact the Vision Products Group and AI teams, all on the AppleInsider Podcast. Tim Cook and the new Mac mini, one of the last Apple products to laun
+
+· It's not clear when iPhone 18 Pro and folding iPhone preorders will start
+  출처: AppleInsider / 2026-08-29 00:19
+  링크: https://appleinsider.com/articles/26/08/28/its-not-clear-when-iphone-18-pro-and-folding-iphone-preorders-will-start?utm_source=rss
+  피드 요약: Apple will reportedly sidestep a September 11 preorder date by moving sales to Saturday, only to burden buyers with a significantly less convenient start time. Concept for the iPhone Ultra Typically Apple holds its yearly iPhone launch on or around the second Tuesday. This hasn't always been the cas
+
+· Apple Watch 44mm plunges to $199.99 on Amazon
+  출처: AppleInsider / 2026-08-29 00:04
+  링크: https://appleinsider.com/articles/26/08/28/apple-watch-44mm-plunges-to-19999-on-amazon?utm_source=rss
+  피드 요약: The 44mm Apple Watch SE 3 has dropped to a record-low $199.99 at Amazon heading into the weekend. Grab the Apple Watch SE 3 with 44mm case for just $199.99 - Image credit: Apple Update at 11:43 a.m. ET: The $199 deal has sold out. We'll be monitoring it to see if Amazon replenishes inventory. You ca
+
+· Sam Altman needs to put up or shut up about AI hacking
+  출처: AppleInsider / 2026-08-28 23:25
+  링크: https://appleinsider.com/articles/26/08/28/sam-altman-needs-to-put-up-or-shut-up-about-ai-hacking?utm_source=rss
+  피드 요약: In what is likely the most tone-deaf response by companies that have created a massive problem, Sam Altman and other AI companies are crying out for a public effort to solve AI hacking that they all enabled. Jony Ive & Sam Altman | Image Credit: OpenAI What an absolute crock of self-serving nonsense
+
+· Best Retina-class displays to pair with Mac mini or Mac studio
+  출처: AppleInsider / 2026-08-28 23:17
+  링크: https://appleinsider.com/inside/mac/best/best-retina-class-displays-to-pair-with-mac-mini-or-mac-studio?utm_source=rss
+  피드 요약: There are thousands of external displays, but only a small fraction fit the criteria of being a Retina display. From smaller 4K options to Apple's high-end Studio Display XDR, you have plenty of displays to choose from at nearly every price point. Best monitors for Mac mini and Mac Studio If you're 
+
+· Steve Jobs’ 1968 science fair project fetches $34,375 at auction
+  출처: 9to5Mac / 2026-08-29 06:35
+  링크: https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/
+  피드 요약: RR Auction’s bidding for Steve Jobs’ 1968 science fair project has now closed, with the hand-built exhibit selling for $34,375. Here are the details.
+
+· 9to5Mac Overtime 079: The $899 Mac mini
+  출처: 9to5Mac / 2026-08-29 05:00
+  링크: https://9to5mac.com/2026/08/28/9to5mac-overtime-079-the-899-mac-mini/
+  피드 요약: Jeff and Fernando delve into the $899 Mac mini, comparing the outgoing M4 model and the new M6 Mac mini . They also discuss the new M5 Pro Mac mini and Apple’s new Mac Studio desktops equipped with M5 Max and M5 Ultra SoCs. Finally, the duo previews Apple’s upcoming ‘Surprise and Shine’ iPhone event
+
+· Apple Photos in iOS 27 upgrades one of my favorite features in a big way
+  출처: 9to5Mac / 2026-08-29 04:26
+  링크: https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/
+  피드 요약: Apple Photos is full of exciting updates in iOS 27 , including for one of my favorite features in the app: iCloud Shared Albums.
+
+· HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support
+  출처: 9to5Mac / 2026-08-29 03:49
+  링크: https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/
+  피드 요약: “Flame effects” is not something I’d used before in a smart bulb, so this was a super interesting concept to me. Linkind’s Smart Light Stick aims to bring the idea of a “live flame” to a smart bulb, and it works with Apple Home out of the box thanks to Matter.
+
+· Here’s how Apple Watch Ultra 4 will differentiate itself from prior models
+  출처: 9to5Mac / 2026-08-29 03:09
+  링크: https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/
+  피드 요약: Apple Watch Ultra 4 is coming on September 9 , here are the key ways it’s rumored to differentiate itself from prior models.
+
+· ChatGPT and Codex now support multiple Gmail and Google Calendar accounts
+  출처: 9to5Mac / 2026-08-29 03:01
+  링크: https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/
+  피드 요약: OpenAI confirmed today that ChatGPT and Codex users can now add multiple Gmail and Google Cal accounts. Here are the details.
+
+· WhatsApp rolls out new chat themes on iOS, including animated wallpapers
+  출처: 9to5Mac / 2026-08-29 01:30
+  링크: https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/
+  피드 요약: Following the recent discovery that WhatsApp was working on new chat themes, the feature is now rolling out to iPhone users. Here are the details.
+
+· iPhone 18 Pro: Two new features I’m excited to upgrade for
+  출처: 9to5Mac / 2026-08-29 01:14
+  링크: https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/
+  피드 요약: Apple will unveil the iPhone 18 Pro on September 9 , but rumors have already leaked a lot of what to expect. And there are two standout features that I’m excited to upgrade for.
+
+· Google rounds the week out with Android 17 QPR2 Beta 4 for Pixel testers
+  출처: Android Authority / 2026-08-29 06:19
+  링크: https://www.androidauthority.com/android-17-qpr2-beta-4-3704596/
+  피드 요약: Two weeks after the last release, just like clockwork!
+
+· Google is finally fixing one of Calendar’s most annoying meeting features
+  출처: Android Authority / 2026-08-29 05:42
+  링크: https://www.androidauthority.com/google-calendar-lets-you-avoid-rsvps-3704581/
+  피드 요약: Google Calendar is finally solving the RSVP email spam nightmare.
+
+· Forget screenless: Fitbit Air users have started going bandless
+  출처: Android Authority / 2026-08-29 05:41
+  링크: https://www.androidauthority.com/fitbit-air-taped-3704588/
+  피드 요약: And apparently it still works just fine.
+
+· Spotify could soon let you host a Jam without Premium
+  출처: Android Authority / 2026-08-29 04:46
+  링크: https://www.androidauthority.com/spotify-jam-free-users-host-without-premium-3704548/
+  피드 요약: With strings attached, of course.
+
+· Now Brief can now tell you what movies you should watch next
+  출처: Android Authority / 2026-08-29 04:30
+  링크: https://www.androidauthority.com/now-brief-netflix-recommendations-3704543/
+  피드 요약: One UI 9 Beta 7 brings Netflix recommendations to Now Brief.
+
+· Haven’t ordered your Pixel 11 yet? Here’s what your trade-in delay is costing you
+  출처: Android Authority / 2026-08-29 04:26
+  링크: https://www.androidauthority.com/pixel-11-trade-values-3704519/
+  피드 요약: You should've ordered yesterday!
+
+· Google confirms: Keep lists on Home devices are working again
+  출처: Android Authority / 2026-08-29 04:22
+  링크: https://www.androidauthority.com/google-home-keep-lists-glitch-3704554/
+  피드 요약: Google Home users can once again add items to their Keep lists.
+
+· Garmin’s Fitbit Air rival is having major issues with one of its most popular features
+  출처: Android Authority / 2026-08-29 03:11
+  링크: https://www.androidauthority.com/garmin-cirqa-bluetooth-heart-rate-broadcasting-issues-3704483/
+  피드 요약: You may want to avoid updating your CIRQA band for now.
+
+· 애플, 애플 TV와 애플 원 구독 서비스 가격을 최대 20.2%까지 인상
+  출처: 란즈크 블로그 / 2026-08-28 22:41
+  링크: https://blog.naver.com/yeux1122/224393647337?fromRss=true&trackingCode=rss
+  피드 요약: 애플은 조금전 애플 TV 가격을 월 12.99달러에서 14.99달러로 인상했으며, 연간 구독료는 99달러에서 119달러로 올린다고 공식 발표 했습니다. 또한 애플 원(Apple One)도 마찬가지로 개인 구독료는 월 19.95달러에서 21.95달러로 인상됩니다. P.S 개인적으로 아이폰 18 프로 가격 동결이나 최소인상에 따른 수익 감소를 상쇄하기 위해 서비스 부분에서 인상을 할 것이라고 계속 말씀 드렸습니다.
+
+· 갤럭시S26 FE, 피스타치오 색상 실기 영상
+  출처: 란즈크 블로그 / 2026-08-28 15:37
+  링크: https://blog.naver.com/yeux1122/224393266290?fromRss=true&trackingCode=rss
+  피드 요약: 삼성 갤럭시 S26FE 피스타치오 색상 실기 모델 영상 입니다. (*adamj)
+
+■ [오디오] 12건
+----------------------------------------
+· Australian Hi-Fi and Sound+Image announce the EISA Award winners 2026-2027
+  출처: What Hi-Fi? / 2026-08-29 06:08
+  링크: https://www.whathifi.com/hi-fi/australian-hi-fi-and-sound-image-announce-the-eisa-award-winners-2026-2027
+  피드 요약: See the hi-fi winners from EISA's global awards, as chosen by 54 technology magazines, websites and social media commentators from 27 countries.
+
+· New issue of Sound+Image: EISA Awards, valves vs solid-state, reviews galore
+  출처: What Hi-Fi? / 2026-08-29 05:55
+  링크: https://www.whathifi.com/av/new-issue-of-sound-image-eisa-awards-valves-vs-solid-state-reviews-galore
+  피드 요약: Sound+Image #368
+
+· “Uniti Star Lite is not simply the original Uniti Star without a CD drive” – Naim says its new streaming amp sounds better, too
+  출처: What Hi-Fi? / 2026-08-29 01:03
+  링크: https://www.whathifi.com/hi-fi/music-streamers/uniti-star-lite-is-not-simply-the-original-uniti-star-without-a-cd-drive-naim-says-its-new-streaming-amp-sounds-better-too
+  피드 요약: Naim has confirmed that the Star Lite will offer "better audio performance"
+
+· Our experts have found the best Bank Holiday deals on Sony's anniversary headphones, five-star cinematic tablets and vibrant RGB Mini LED TVs
+  출처: What Hi-Fi? / 2026-08-29 00:58
+  링크: https://www.whathifi.com/av/our-experts-have-found-the-best-bank-holiday-deals-on-sonys-anniversary-headphones-five-star-cinematic-tablets-and-vibrant-rgb-mini-led-tvs
+  피드 요약: Immersive entertainment, both at home and on the go
+
+· Quiz! Can you name the first film in these home cinema formats?
+  출처: What Hi-Fi? / 2026-08-29 00:12
+  링크: https://www.whathifi.com/tv-home-cinema/quiz-can-you-name-the-first-film-in-these-home-cinema-formats
+  피드 요약: So many formats, but they all started somewhere...
+
+· Apple iPhone 17 Pro
+  출처: What Hi-Fi? / 2026-08-29 00:05
+  링크: https://www.whathifi.com/smartphones-tablets/smartphones/apple-iphone-17-pro
+  피드 요약: Is this the best iPhone ever for watching movies?
+
+· The big TV tech of 2026 is now a lot more affordable – Sony's vibrant, four-star RGB Mini LED set is £720 off
+  출처: What Hi-Fi? / 2026-08-28 22:52
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/the-big-tv-tech-of-2026-is-now-a-lot-more-affordable-sonys-vibrant-four-star-rgb-mini-led-set-is-gbp720-off
+  피드 요약: The OLED rival is becoming much more competitive in price
+
+· Naim's Uniti Star Lite streaming amplifier launches with extensive features – but it is missing one key ingredient
+  출처: What Hi-Fi? / 2026-08-28 21:42
+  링크: https://www.whathifi.com/streaming-entertainment/music-streaming/naims-uniti-star-lite-streaming-amplifier-launches-with-extensive-features-but-it-is-missing-one-key-ingredient
+  피드 요약: The CD player and ripper from the original Star is now gone, due to supply issues
+
+· Amazon drops the Sony BRAVIA Theater System 6 to its lowest price since Prime Day
+  출처: SoundGuys / 2026-08-29 01:58
+  링크: https://www.soundguys.com/sony-bravia-theater-system-6-deal-162138/
+  피드 요약: Save 25% on the Sony BRAVIA Theater System 6 and get a 5.1 setup with subwoofer, rear speakers, and Dolby Atmos support.
+
+· Amazon slashes Bose QuietComfort Ultra Earbuds by $130, hitting a record-low price
+  출처: SoundGuys / 2026-08-29 00:35
+  링크: https://www.soundguys.com/bose-quietcomfort-ultra-earbuds-deal-162132/
+  피드 요약: Bose QuietComfort Ultra Earbuds drop to $169 on Amazon, a new lowest price ever for Bose’s noise-canceling buds.
+
+· MUSIC ALERTS: ELP, CANDI STATON & MORE – 28 AUGUST 2026
+  출처: The Audiophile Man / 2026-08-28 18:51
+  링크: https://theaudiophileman.com/music-alerts-elp-candi-staton-more-28-august-2026-updated/
+  피드 요약: New vinyl releases and reissues from George Clinton, Candi Staton, Emerson, Lake & Palmer, Space Debris and more feature in the latest Music Alerts Also included: jazz, soul, ambient, indie and two collectable 7-inch singles. Watch now: The post MUSIC ALERTS: ELP, CANDI STATON & MORE – 28 AUGUST 202
+
+· 7 of the coolest turntables of 2026 — including a superbly tacky anniversary edition, and an ode to Rammstein
+  출처: TechRadar 오디오 / 2026-08-29 04:00
+  링크: https://www.techradar.com/audio/turntables/7-of-the-coolest-turntables-of-2026-including-a-superbly-tacky-anniversary-edition-and-an-ode-to-rammstein
+  피드 요약: Plus, a "detailed, rhythmically adept" player that was two decades in the making.
+
+■ [카메라] 5건
+----------------------------------------
+· Super deal on Amazon: Samyang 135mm f/1.8 for $509
+  출처: Sony Alpha Rumors / 2026-08-29 00:24
+  링크: https://www.sonyalpharumors.com/super-deal-on-amazon-samyang-135mm-f-1-8-for-509/
+  피드 요약: You save nearly $300 over the regular price on the Samyang 135mm f/1.8 FE sold by Amazon (Click here). More new deals: Up to 30% off on reconditioned gear at Amazon Save big on Vanguard BackPack at BHphoto 72h left to lock your 50% savings on the new Luminar software that is coming this fall (Click…
+
+· EU stores now claim Sony FX5 shipment start is September 28
+  출처: Sony Alpha Rumors / 2026-08-28 21:46
+  링크: https://www.sonyalpharumors.com/eu-stores-now-claim-sony-fx5-shipment-start-is-september-28/
+  피드 요약: We have a small update in our quest to determine when the Sony FX5 will begin shipping. Foto Erhardt now claims that the camera will start shipping on September 28. Adorama still lists September 15 as the shipping date, but I suspect we’ll see further delays. :( Meantime, while you are waiting to re
+
+· Yodobashi and Mapcamera rankings: Sony A7V is selling hot!
+  출처: Sony Alpha Rumors / 2026-08-28 20:00
+  링크: https://www.sonyalpharumors.com/yodobashi-and-mapcamera-rankings-sony-a7v-is-selling-hot/
+  피드 요약: Mapcamera top 10 best selling cameras in July: SONY A7V FUJIFILM X100VI SONY A7C II Nikon Z5II RICOH GR IV Canon PowerShot SX740 HS SONY A6700 Canon EOS R5 Mark II Canon EOS R6 Mark II FUJIFILM X-E5 Yodobashi top 10 best selling cameras first half of August: Sony A7 V Body Sony A7C II… The post Yodo
+
+· Meike AF 85mm f/1.8 for GFX Available for Order at Amazon and BHphoto
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-29 03:08
+  링크: https://www.fujirumors.com/meike-af-85mm-f-1-8-for-gfx-available-for-order-at-amazon-and-bhphoto/
+  피드 요약: The Meike AF 85mm f/1.8 for Fujifilm GFX is now available for order also at BHphoto here, at Amazon USA and your local Amazon here. This is the second autofocus lens for Fujifilm GFX after this one. Meike AF 85mm f/1.8 for GFX BHphoto / Amazon US / Meike Global / Your Local Amazon The post Meike AF 
+
+· This Lens Changed Everything for Fujifilm X
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-29 01:08
+  링크: https://www.fujirumors.com/this-lens-changed-everything-for-fujifilm-x/
+  피드 요약: ﻿ Mitch Lally was switching between Full Frame and APS-C, depending on the situation. But then he got a lens changed everything for him and it solved some of the reasons why he kept going back to Full Frame. It’s versatile and flexible midrange zoom no matter at which lighting conditions you shoot a
