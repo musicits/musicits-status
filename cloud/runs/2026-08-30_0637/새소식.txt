@@ -1,0 +1,182 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-30 06:37 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-29 07:00 (KST) 이후 기사
+새 기사: 34건
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 1건 생략)
+
+■ [IT 루머] 24건
+----------------------------------------
+· Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio
+  출처: MacRumors / 2026-08-29 22:00
+  링크: https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/
+  피드 요약: It turned out to be a big week for Apple news this week, as we not only got an official announcement about the upcoming iPhone event but also several hardware announcements including updated Mac mini and Mac Studio models. Anticipation continues to build for Apple's first foldable iPhone coming at n
+
+· Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2
+  출처: MacRumors / 2026-08-29 21:31
+  링크: https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/
+  피드 요약: Apple introduced the M6 and M5 Pro Mac mini this week, and Amazon currently has the first pre-order discounts on these models ahead of their September launch. Below, we're also tracking a new record low price on the AirTag 2 during Amazon's Labor Day event. Note: MacRumors is an affiliate partner wi
+
+· Samsung’s smartglasses promise privacy, but won’t escape this legal minefield
+  출처: SamMobile / 2026-08-29 22:10
+  링크: https://www.sammobile.com/opinion/samsung-smartglasses-promise-privacy-wont-escape-this-legal-minefield/
+  피드 요약: Samsung is set to invigorate the smartglasses segment with several products. It has collaborated with Qualcomm, Google, Gentle Monster, and Warby Parker on intelligent eyewear, and the company is also working on Galaxy Glasses. Privacy has become a sticking point for these products, as they allow fo
+
+· Save up to $200 on Sonos speakers, subs, soundbars this weekend
+  출처: AppleInsider / 2026-08-30 01:48
+  링크: https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss
+  피드 요약: Sonos wireless speakers and Dolby Atmos soundbars are up to 20% off this weekend with limited-time deals at Amazon. Save up to $200 on Sonos speakers, subs, and soundbars. A wide range of Sonos speakers, subwoofers, and soundbars are discounted this weekend, with Amazon knocking up to $200 off the q
+
+· Asahi Linux nears M3 support release, M4 and M5 are on the way
+  출처: AppleInsider / 2026-08-29 21:19
+  링크: https://appleinsider.com/articles/26/08/29/asahi-linux-nears-m3-support-release-m4-and-m5-are-on-the-way?utm_source=rss
+  피드 요약: The Asahi Linux project is very close to finally releasing a version with support for M3 Apple Silicon. However, M4 and M5 support is still in development. Asahi Linux works on earlier Macs. Support for newer models is being worked on. Asahi Linux is a project to bring Linux to Apple Silicon, so it 
+
+· Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later
+  출처: 9to5Mac / 2026-08-30 04:30
+  링크: https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/
+  피드 요약: Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All o
+
+· As a relatively new Apple Vision Pro user, this is my favorite way to use it
+  출처: 9to5Mac / 2026-08-30 02:50
+  링크: https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/
+  피드 요약: Apple Vision Pro is one of Apple’s most interesting hardware releases yet. It’s technically very impressive, yet it seems almost certain that this form factor won’t last – and is instead just a temporary platform to introduce visionOS to the world before we eventually get glasses. I did buy one late
+
+· Apple CarPlay gaining a new AI chatbot app before Siri AI arrives
+  출처: 9to5Mac / 2026-08-30 02:13
+  링크: https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/
+  피드 요약: Since iOS 26.4, Apple has supported conversational apps on CarPlay. This category includes AI chatbot apps. Siri AI joins the CarPlay party starting with iOS 27. The iPhone software update is currently in beta ahead of the official launch in September. Meanwhile, the fourth third-party AI chatbot ha
+
+· Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]
+  출처: 9to5Mac / 2026-08-30 00:51
+  링크: https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/
+  피드 요약: Not all power banks are made equal. Some feature one of the most impressive designs I have ever seen with an onboard display, the ability to charge two MacBooks at once, RGB lighting, and a a pair of window cutouts in the solid metal housing to put the internal tech on display – Sharge’s new Shargee
+
+· Apple will be launching its first pair of smart glasses next year: Here’s what’s coming
+  출처: 9to5Mac / 2026-08-29 23:48
+  링크: https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/
+  피드 요약: As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence and bring Siri to the real world. Here’s what we’re expecting.
+
+· Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more
+  출처: 9to5Mac / 2026-08-29 21:13
+  링크: https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/
+  피드 요약: Update: The official Apple MagSafe Battery back down to the lowest price ever in brand new condition at 40% off . Or you can land one via Amazon Resale down at just $39 (60% off). We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongsi
+
+· Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon
+  출처: 9to5Mac / 2026-08-29 21:00
+  링크: https://9to5mac.com/2026/08/29/parallels-desktop-27/
+  피드 요약: Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ
+
+· 9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more
+  출처: 9to5Mac / 2026-08-29 10:02
+  링크: https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/
+  피드 요약: Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co
+
+· Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better
+  출처: Android Authority / 2026-08-29 21:00
+  링크: https://www.androidauthority.com/gemini-spark-vs-perplexity-computer-3703364/
+  피드 요약: Using Perplexity Computer extensively revealed exactly how limited Gemini Spark is.
+
+· The Pixel 11 Pro’s HiLight feature looks cool, but it’s missing 5 big features
+  출처: Android Authority / 2026-08-29 20:00
+  링크: https://www.androidauthority.com/pixel-11-pro-hilight-missing-features-3701835/
+  피드 요약: The glow-up isn't finished yet.
+
+· I need to stop using the Galaxy Z Fold 8, but I can’t
+  출처: Android Authority / 2026-08-29 19:30
+  링크: https://www.androidauthority.com/cant-stop-using-galaxy-z-fold-8-3702806/
+  피드 요약: It really is a hard phone to put down.
+
+· Google Messages just got a customization setting I’ve wanted for years — how to use it
+  출처: Android Authority / 2026-08-29 19:00
+  링크: https://www.androidauthority.com/google-messages-chat-themes-how-use-3704381/
+  피드 요약: It's about time, Google.
+
+· Vloggers will love this phone and rear screen add-on, but will anyone else?
+  출처: Android Authority / 2026-08-29 18:45
+  링크: https://www.androidauthority.com/oppo-reno-16-pro-hands-on-3698232/
+  피드 요약: The OPPO Reno 16 Pro is a solid Android phone with a quirky accessory, but the price tag is a stretch to get it all.
+
+· I rely on Google Maps every day, but these 4 missing features still hold it back
+  출처: Android Authority / 2026-08-29 18:30
+  링크: https://www.androidauthority.com/google-maps-missing-features-2026-3701802/
+  피드 요약: Google Maps is my go-to travel app, but these missing features drive me crazy.
+
+· ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them
+  출처: Android Authority / 2026-08-29 18:00
+  링크: https://www.androidauthority.com/chatgpt-gemini-claude-memory-cleanup-how-3701167/
+  피드 요약: Your favorite AI chatbot might be remembering a little too much.
+
+· CXMT, 샤오미 18 폴드 LPDDR6 공식 양산 발표 (*스마트폰 최초 적용)
+  출처: 란즈크 블로그 / 2026-08-29 13:44
+  링크: https://blog.naver.com/yeux1122/224394138306?fromRss=true&trackingCode=rss
+  피드 요약: 이전 중국 공급망 루머대로 나왔습니다. 창신 메모리 스마트폰 최초 LPDDR6 메모리 탑재 공식 발표 샤오미 18 폴드 첫 적용 이에 창신은 LPDDR6 메모리 공식 양산도 개시를 발표
+
+· 갤럭시Z폴드8 와이드, 너무 잘 팔려서 핵심 부품 부족 (*개발중인 타 라인 물량 배치에도 딸림)
+  출처: 란즈크 블로그 / 2026-08-29 09:20
+  링크: https://blog.naver.com/yeux1122/224393953178?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시Z폴드8 와이드 모델이 예상보다 너무 잘 팔리고 있어 핵심 부품이 부족해서 개발중인 타 라인업 제품 물량까지 긴급하게 대체를 하고 있습니다. (*AA) 1. 갤럭시Z폴드8 와이드 모델 너무 잘 팔리고 있음 2. 공급망 문제 발생할 정도 수요 폭발 3. 특히 디스플레이 모듈 DDI 공급부족이 심각 4. 대만 업체 물량최대한 공급해도 딸림 5. 삼성은 최우선 공급 요청 6. 그래도 부족해서 삼성은 기존 라인업과 신규 개발중인 라인업의 부품까지 Z폴드8 와이드 양산에 투입할정도로 이례적인 상황 만약 이런 이슈가 지속된다면 S27부터
+
+· 갤럭시S26FE 실기 모델 색감 비교
+  출처: 란즈크 블로그 / 2026-08-29 09:13
+  링크: https://blog.naver.com/yeux1122/224393948802?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S26FE 모델 3가지 출시 색상 실기 색감 입니다.
+
+· 갤럭시S27 프로 Vs. 아이폰 18 프로 & 픽셀 11 프로 후면 디자인 비교 이미지
+  출처: 란즈크 블로그 / 2026-08-29 09:09
+  링크: https://blog.naver.com/yeux1122/224393946163?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 프로 모델이 신규로 투입이 되면서 애플 아이폰 18 프로 구글 픽셀 11프로와 좋은 경쟁 프레임이 생겨 났습니다. 일단 후면 카메라 이미지 비교 입니다.
+
+■ [오디오] 8건
+----------------------------------------
+· How to watch Argentina vs Australia online from anywhere: free live streams for rugby Test match
+  출처: What Hi-Fi? / 2026-08-29 19:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/argentina-vs-australia-rugby-test-match-free
+  피드 요약: How to watch Argentina vs Australia online for free from anywhere in the world. Find TV channels, broadcast details, kick-off times.
+
+· How to watch South Africa vs New Zealand online from anywhere: free live streams for Rugby's Greatest Rivalry 2026 2nd Test
+  출처: What Hi-Fi? / 2026-08-29 17:31
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/south-africa-vs-new-zealand-rugby-2nd-test-match-free
+  피드 요약: How to watch South Africa vs New Zealand 2nd Test live streams around the world. Free coverage, TV channels, broadcast details from Cape Town Stadium.
+
+· Adventures in AV: I've convinced my friends that OLED is king, and now I have a secret weapon to encourage them to upgrade
+  출처: What Hi-Fi? / 2026-08-29 17:00
+  링크: https://www.whathifi.com/tv-home-cinema/adventures-in-av-ive-convinced-my-friends-that-oled-is-king-and-now-i-have-a-secret-weapon-to-encourage-them-to-upgrade
+  피드 요약: OLED is an essential upgrade for this upcomming video game
+
+· Now Showing: discover the top home cinema testers for picture and sound this month
+  출처: What Hi-Fi? / 2026-08-29 16:00
+  링크: https://www.whathifi.com/av/now-showing-discover-the-top-home-cinema-testers-for-picture-and-sound-this-month
+  피드 요약: From Hammer Horror to Nolan's latest
+
+· Yamaha NX-70A
+  출처: What Hi-Fi? / 2026-08-29 07:30
+  링크: https://www.whathifi.com/speakers/wireless-speakers/yamaha-nx-70a
+  피드 요약: A big secret at the Australian Hi-fi Show in Sydney, then revealed at HIGH END Vienna, and now released to the world: meet Yamaha’s active streaming NX-70A speakers
+
+· 6 months later, the Galaxy Buds 4 Pro are the only earbuds I want to use
+  출처: SoundGuys / 2026-08-29 18:00
+  링크: https://www.soundguys.com/6-months-later-the-galaxy-buds-4-pro-are-my-favorite-earbuds-162150/
+  피드 요약: I've used the Samsung Galaxy Buds 4 Pro nearly every day since they released with little regret.
+
+· LAUNCHING A NEW VIDEO CHANNEL ON SPOTIFY!
+  출처: The Audiophile Man / 2026-08-29 21:04
+  링크: https://theaudiophileman.com/launching-a-new-video-channel-on-spotify/
+  피드 요약: I have a quick channel announcement: I’m launching a new video channel on Spotify The Spotify channel is a companion to YouTube, offering another way to watch or listen to my content. Follow m on Spotify here: https://shorturl.at/tOSwP To see the video, click below: The post LAUNCHING A NEW VIDEO CH
+
+· Noble’s Vanguard audiophile wired earbuds deliver a tightly arranged wall of sound that hits like an advancing army, but there’s one gap in their armor
+  출처: TechRadar 오디오 / 2026-08-30 02:00
+  링크: https://www.techradar.com/audio/earbuds-airpods/noble-audio-vanguard-review
+  피드 요약: The Noble Audio Vanguard supply impeccably detailed and well-balanced sound at a relatively modest price-point.
+
+■ [카메라] 2건
+----------------------------------------
+· Alex Barrera compares Sigma 35mm f/1.2 vs f/1.4: Is there really a visible difference?
+  출처: Sony Alpha Rumors / 2026-08-29 20:27
+  링크: https://www.sonyalpharumors.com/alex-barrera-compares-sigma-35mm-f-1-2-vs-f-1-4-is-there-really-a-visible-difference/
+  피드 요약: Alex Barrera conducted a very useful comparison of these two excellent lenses. As expected, the differences in image quality are minimal, making it difficult to justify spending an extra $500 on the f/1.2—especially since it is also considerably larger and heavier. Sigma 35mm f/1.4 at BHphoto, Amazo
+
+· New: Nikon F-mount lenses + FTZ adapter decorative covers
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-30 01:18
+  링크: https://nikonrumors.com/2026/08/29/new-nikon-f-mount-lenses-ftz-decorative-adapter-covers.aspx/
+  피드 요약: A new Chinese company for photography equipment called 云朵工坊 (translated as “Cloud Workshop”) announed new decorative covers for Nikon F-mount lenses mounted on an FTZ adapter: Nikon’s F-mount lenses have a smaller diameter, making the combo weird-looking when attached to mirrorless cameras. To addre
