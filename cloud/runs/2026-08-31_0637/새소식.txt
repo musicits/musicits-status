@@ -1,0 +1,213 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-08-31 06:37 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-30 06:37 (KST) 이후 기사
+새 기사: 40건
+
+■ [IT 공식발표] 1건
+----------------------------------------
+· 삼성전자, 게임스컴 2026서 ‘플레이갤럭시 컵 월드 파이널’ 개최
+  출처: Samsung Newsroom Korea / 2026-08-30 17:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b2%8c%ec%9e%84%ec%8a%a4%ec%bb%b4-2026%ec%84%9c-%ed%94%8c%eb%a0%88%ec%9d%b4%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ec%bb%b5-%ec%9b%94%eb%93%9c-%ed%8c%8c%ec%9d%b4
+  피드 요약: 삼성전자가 독일 쾰른메쎄(Koelnmesse)에서 열린 ‘게임스컴(gamescom) 2026’에 마련된 삼성전자 전시 부스에서 플레이갤럭시 컵(#PlayGalaxy Cup) 월드 파이널(World Final)’을 개최했다. 이번에 6회째를 맞은 ‘플레이갤럭시 컵’은 갤럭시 스마트폰을 활용해 모바일 게임 실력을 겨루는 글로벌 토너먼트 대회로, 올해 처음으로 지역 예선과 월드 파이널로 이어지는 정규 리그 방식으로 진행됐다. 이번 대회는 2월부터 북미·서남아·동남아·중남미·유럽 등 총 5개 권역에서 지역 예선을 진행했다. 예선에는 […]
+
+■ [IT 루머] 27건
+----------------------------------------
+· Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
+  출처: MacRumors / 2026-08-31 00:52
+  링크: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+  피드 요약: Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information . Apple normally releases new Mac models in the autumn, closer to October or November, making this week's announcem
+
+· New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed
+  출처: MacRumors / 2026-08-30 23:54
+  링크: https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/
+  피드 요약: Bloomberg 's Mark Gurman today further outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 set to be unveiled on September 9 . While it was initially rumored that Touch ID may be coming to the Apple Watch this year, Gurman reiterated that he does not expect the Series 12 o
+
+· Apple Pencil for iPhone Ultra Was Tested
+  출처: MacRumors / 2026-08-30 23:27
+  링크: https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/
+  피드 요약: Apple has internally prototyped, tested, and considered launching an Apple Pencil for the upcoming foldable iPhone, according to Bloomberg 's Mark Gurman . However, he said it is unlikely that the accessory will be released. In his Power On newsletter today, Gurman said the Apple Pencil tested for t
+
+· Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October
+  출처: MacRumors / 2026-08-30 23:25
+  링크: https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/
+  피드 요약: In his newsletter today, Bloomberg 's Mark Gurman reiterated that AirPods 5 will be released as early as this September , alongside the iPhone 18 Pro, iPhone 18 Pro Max, a foldable iPhone, the Apple Watch Series 12, and the Apple Watch Ultra 4. Apple is holding an event on Wednesday, September 9 at 
+
+· Sunday Reboot: Mac scheduling and the Ternus Cook-out
+  출처: AppleInsider / 2026-08-31 05:13
+  링크: https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss
+  피드 요약: In this week's Sunday Reboot, Apple's inconvenient Mac launch timing and the transition from Cook to Ternus nears its conclusion. John Ternus on a fake train at an earlier Apple event - Image Credit: Apple Sunday Reboot is a weekly column covering some of the lighter stories within the Apple reality
+
+· California court revives lawsuit accusing Apple of blocking independent repairs
+  출처: AppleInsider / 2026-08-31 05:10
+  링크: https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss
+  피드 요약: An appeals court in California has resurrected a 2022 lawsuit over claims Apple convinced them not to use a third-party repair service to fix cracked iPhone screens. An iPhone being repaired - Image Credit: Apple In the last few years, Apple has been more open to enabling repairs of its hardware per
+
+· Apple's 1TB M5 MacBook Air plunges to $1,399, save $200
+  출처: AppleInsider / 2026-08-31 02:11
+  링크: https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss
+  피드 요약: Apple's 1TB M5 13-inch MacBook Air is down to $1,399 at Amazon thanks to a $200 month-end discount. Save $200 on Apple's 1TB 13-inch MacBook Air - Image credit: Apple The lowest price since Prime Day is available now on Apple's M5 13-inch MacBook Air with an upgrade to a 1TB SSD. The $200 discount i
+
+· iPhone, Home, iPad mini : Apple's launches for September and October
+  출처: AppleInsider / 2026-08-31 02:10
+  링크: https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss
+  피드 요약: Apple has a busy fall schedule ahead of it for 2026, beyond the usual iPhone launches. Here's what to expect in September and October. John Ternus, the incoming Apple CEO, will be fronting the September event Historically, the fall is Apple's biggest quarter when it comes to launches. Regular as clo
+
+· Ternus takeover won't mean a mass Apple exec exodus
+  출처: AppleInsider / 2026-08-31 00:17
+  링크: https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss
+  피드 요약: An overblown new report claims that Apple has been carefully orchestrating executive retirements for years to not spook shareholders. There is absolutely nothing to support the premise. The sun is not setting on every current Apple executive - image credit: Apple. According to Bloomberg , Cook's ret
+
+· Apple Watch Series 12 ceramic case rumors continue with new color claims
+  출처: AppleInsider / 2026-08-30 23:53
+  링크: https://appleinsider.com/articles/26/08/30/apple-watch-series-12-ceramic-case-rumors-continue-with-new-color-claims?utm_source=rss
+  피드 요약: The 2026 Apple Watch refresh is, once again, speculated to ship with not one, but two premium ceramic options. That's assuming you can afford them. Apple Watch Series 5, in Ceramic The rumor mill has repeatedly brought up potential changes to the Apple Watch lineup, as well as how it apparently won'
+
+· Don't expect an Apple Pencil for the folding iPhone
+  출처: AppleInsider / 2026-08-30 23:32
+  링크: https://appleinsider.com/articles/26/08/30/dont-expect-an-apple-pencil-for-the-folding-iphone?utm_source=rss
+  피드 요약: "If you see a stylus, they blew it," was a Steve Jobs position on why fingers are the input choice on iPhone. While iPad has Apple Pencil , Apple isn't looking to make one for the iPhone Ultra. iPhone Fold won't ship with a stylus Even though Steve Jobs might have made a point to avoid styluses in 2
+
+· Apple CarPlay just added a major weather app
+  출처: 9to5Mac / 2026-08-31 04:57
+  링크: https://9to5mac.com/2026/08/30/apple-carplay-just-added-a-major-weather-app/
+  피드 요약: While CarPlay supports hundreds of apps , Apple Weather isn’t one of them. The good news is that starting today, The Weather Channel’s Storm Radar app for iPhone now works with CarPlay.
+
+· Apple’s next iPad mini is almost ready, here’s what to expect
+  출처: 9to5Mac / 2026-08-31 01:54
+  링크: https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/
+  피드 요약: Apple has a lot in store for this fall, headlined by the iPhone Ultra and iPhone 18 Pro launching next month. Apple is also working on a new iPad mini, and a new report today suggests it’s coming in October.
+
+· Apple reportedly considered launching a new Apple Pencil for iPhone Ultra
+  출처: 9to5Mac / 2026-08-30 23:38
+  링크: https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/
+  피드 요약: Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to use alongside the iPhone Ultra – though it probably won’t make it to market.
+
+· Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app
+  출처: 9to5Mac / 2026-08-30 23:27
+  링크: https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/
+  피드 요약: According to Bloomberg’s Mark Gurman , Apple has a couple new features in the pipeline for Apple Watch Series 12 and Ultra 4 that’ll make it much more appealing for health-conscious users. The company is also testing two finishes for the rumored ceramic version.
+
+· Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]
+  출처: 9to5Mac / 2026-08-30 21:15
+  링크: https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/
+  피드 요약: We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other hi
+
+· Apple Card keeps getting better, here’s everything new
+  출처: 9to5Mac / 2026-08-30 08:18
+  링크: https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/
+  피드 요약: Apple Card launched seven years ago this month, and it keeps getting better. There are new features, perks, rewards, and more. Plus, there’s one major change looming. Here’s everything new with Apple Card lately.
+
+· Will Apple’s ‘revamped’ Health app with AI health coach debut next month?
+  출처: 9to5Mac / 2026-08-30 06:38
+  링크: https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/
+  피드 요약: Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive. With the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alo
+
+· I took my Android phone off silent mode and started using AI ringtones — and I love it
+  출처: Android Authority / 2026-08-30 21:00
+  링크: https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/
+  피드 요약: Some imagination and an AI tool is all you need.
+
+· Just get a Pixel 11? Here are the first 10 settings you need to change
+  출처: Android Authority / 2026-08-30 20:00
+  링크: https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/
+  피드 요약: Set up your new Pixel 11 properly with these 10 essential tweaks.
+
+· 5 Android phones you should buy instead of the Google Pixel 11 Pro Fold
+  출처: Android Authority / 2026-08-30 19:30
+  링크: https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/
+  피드 요약: These five phones are the Pixel 11 Pro Fold's fiercest competitors.
+
+· Google made Android 17’s best feature a Pixel 11-exclusive. This free app does it better
+  출처: Android Authority / 2026-08-30 19:00
+  링크: https://www.androidauthority.com/best-digital-wellbeing-pixel-11-exclusive-i-found-better-app-3679013/
+  피드 요약: Stroll lets me earn time on social media by walking first.
+
+· One of Google’s weirdest Pixel features is finally dead, and I’m going to seriously miss it
+  출처: Android Authority / 2026-08-30 18:30
+  링크: https://www.androidauthority.com/google-pixel-thermometer-dead-miss-3701785/
+  피드 요약: Weird hardware still matters.
+
+· I use Google Chrome every day, and these are my 10 favorite tips and tricks
+  출처: Android Authority / 2026-08-30 18:00
+  링크: https://www.androidauthority.com/google-chrome-tips-tricks-2026-3703259/
+  피드 요약: You’ll wish you knew some of them earlier.
+
+· There’s no GrapheneOS for Pixel 11 phones because Google cut a key security feature
+  출처: Android Authority / 2026-08-30 16:05
+  링크: https://www.androidauthority.com/no-grapheneos-google-pixel-11-3704622/
+  피드 요약: The GrapheneOS team suggests Google may have dropped this key security feature to 'save money'
+
+· 갤럭시S27 시리즈 공식 코드네임 트리니티 확인 (*카메라 스펙 일부 유출)
+  출처: 란즈크 블로그 / 2026-08-30 10:07
+  링크: https://blog.naver.com/yeux1122/224394800122?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 시리즈 정식 국내 프로젝트 코드명이 나왔습니다. (*galaxyclub) 갤럭시S27 시리즈 이전 코드네임 NM1 NM2 NM3 NM4 현재 국내 기준 코드네임 프로젝트 트리니티 트리니티1 TN1 기본 트리니티2 TN2 플러스 트리니티3 TN3 프로 트리니티4 TN4 울트라 • S27 울트라의 간소화된 카메라 모듈(카메라 3개)을 암시 카메라 스펙도 일부 포착 TN1 TN2 드디어 새로운 메인카메라 센서 (*소니 5000만 화소 테스트중) 초광곽은 구형 센서 12MP TN3 TN4 전면 카메라 센서 변경 확인 1600만
+
+· Huawei Mate XT2 트라이 폴드, 공식 홍보 영상 및 이미지
+  출처: 란즈크 블로그 / 2026-08-30 09:57
+  링크: https://blog.naver.com/yeux1122/224394794543?fromRss=true&trackingCode=rss
+  피드 요약: 화웨이 Huawei Mate XT2 트라이 폴드 공식 티징 및 이미지가 나왔습니다. 과거 방식을 버리고 특정사 제품처럼 인폴딩형태로 변경이 되었습니다.
+
+■ [오디오] 7건
+----------------------------------------
+· How to watch US Open 2026 online from anywhere: free live streams for every match, Day 1 (Sunday)
+  출처: What Hi-Fi? / 2026-08-30 17:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/how-to-watch-us-open-2026-online-from-anywhere-free-live-streams-for-every-match
+  피드 요약: All the ways to watch US Open 2026 live streams online and from anywhere in the world, including FREE options.
+
+· Where to watch The Traitors Ireland season 2 online – stream return of dastardly gameshow
+  출처: What Hi-Fi? / 2026-08-30 16:00
+  링크: https://www.whathifi.com/streaming-entertainment/how-to-watch/where-to-watch-traitors-season-2
+  피드 요약: Siobhán McSweeney presides over another game of dastardly deception as the players compete for a potential €50,000 prize. Read our guide for where to watch The Traitors Ireland season 2 online now – from wherever you are.
+
+· Sennheiser HD 480 Pro
+  출처: What Hi-Fi? / 2026-08-30 08:28
+  링크: https://www.whathifi.com/headphones/wired-headphones/sennheiser-hd-480-pro
+  피드 요약: We sometimes find bargains in the pro and semi-pro headphones market, yet these Sennheiser ‘Pro’s are pushing into higher territory. So how do they perform?
+
+· A10 APEX FROM ADVANCE PARIS (REVIEW)
+  출처: The Audiophile Man / 2026-08-30 19:54
+  링크: https://theaudiophileman.com/a10-apex-from-advance-paris-review/
+  피드 요약: The Advance Paris A10 Apex is big, powerful and packed with features—but does this hybrid integrated amplifier deliver the sound quality to match its imposing specification? Click below to see the video: The post A10 APEX FROM ADVANCE PARIS (REVIEW) appeared first on The Audiophile Man .
+
+· 'Unarguably one of the very best wireless stereo speaker systems you can currently buy': KEF's LS Luxe is the real deal, if you can accept the placement fussiness and 'visual drama'
+  출처: TechRadar 오디오 / 2026-08-31 04:00
+  링크: https://www.techradar.com/audio/speakers/kefs-ls-luxe-review
+  피드 요약: In which KEF moves its established wireless stereo speaker system excellence further upmarket…
+
+· Spotify, I owe you an apology — my smart TV finally got Spotify after years of waiting, and now I love its roster of music videos
+  출처: TechRadar 오디오 / 2026-08-30 23:00
+  링크: https://www.techradar.com/audio/spotify/spotify-i-owe-you-an-apology-my-smart-tv-finally-got-spotify-after-years-of-waiting-and-now-i-suddenly-love-its-roster-of-music-videos
+  피드 요약: I haven't stopped watching music videos on Spotify since the app came to my smart TV.
+
+· I tested 3 of the best-selling cheap open earbuds on Amazon, from Belkin, Anker and Tozo — and there’s a clear winner for me
+  출처: TechRadar 오디오 / 2026-08-30 21:00
+  링크: https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me
+  피드 요약: Open earbuds are tricky to get right, so are Amazon's super bargain buds really worth your time?
+
+■ [카메라] 5건
+----------------------------------------
+· Sony 28-70mm f/2.0 GM in depth review by Math Photographer: The very best standard zoom!
+  출처: Sony Alpha Rumors / 2026-08-30 20:26
+  링크: https://www.sonyalpharumors.com/sony-28-70mm-f-2-0-gm-in-depth-review-by-math-photographer-the-very-best-standard-zoom/
+  피드 요약: One of my favorite youtubers and reviewers shared his view on the 28-70mm f/2.0 GM lens. He claims this is the best standard zoom to get in the E-mount range. Sony 28-70mm f/2.0 GM at BHphoto, Amazon, Adorama, BestBuy, FotoErhardt, Fotokoch, Calumet, WexUK. The post Sony 28-70mm f/2.0 GM in depth re
+
+· What Is the Best Camera for Backpacking and Hiking in 2026?
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-30 18:59
+  링크: https://www.canonrumors.com/what-is-the-best-camera-for-backpacking-and-hiking-in-2026/
+  피드 요약: When you're hiking for several hours—or carrying everything you need for several days—the camera you bring needs to earn its place in your backpack. A large professional camera may produce beautiful images, but that doesn't mean it's the best choice for a steep trail. Weight, battery life, weather r
+
+· New Nikon savings launched in Europe
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-30 13:39
+  링크: https://nikonrumors.com/2026/08/30/new-nikon-savings-launched-in-europe.aspx/
+  피드 요약: Nikon launched new savings in Europe: Nikon Germany Nikon UK The Nikon US and Nikon Canada rebates are ending soon: Nikon Canada – ending September 10th Nikon USA rebates – ending tomorrow: The post New Nikon savings launched in Europe appeared first on Nikon Rumors . Related posts: Nikon USA increa
+
+· One Pancake Battle After Another: Testing Fujifilm’s Smallest Lenses
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-31 02:29
+  링크: https://www.fujirumors.com/one-pancake-battle-after-another-testing-fujifilms-smallest-lenses/
+  피드 요약: The Pancake Battle My love for pancake lenses started many years ago, when I was still a very early adopter of the mirrorless system and after my switch from Olympus EP-1 to the Panasonic GF3 I got myself the lovely Panasonic 14-42 OIS pancake. Olympus – Farewell to My First Mirrorless Love I didn’t
+
+· IN 2 DAYS: Fujifilm Prices Go Up — 10% Lens Rebate Ends!
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-08-30 07:11
+  링크: https://www.fujirumors.com/in-2-days-fujifilm-prices-go-up-10-lens-rebate-ends/
+  피드 요약: Back in July, German retailer Fuji-Store briefly published a list of Fujifilm cameras set to receive a price increase on September 1. So here we are, 2 days before the price increase goes into effect. It’s pretty much a worldwide price increase, although it’s still unclear if the US will be affected
