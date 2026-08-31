@@ -1,0 +1,310 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-09-01 06:37 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-08-31 06:37 (KST) 이후 기사
+새 기사: 59건
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 6건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 13건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 19건 생략)
+
+■ [IT 루머] 43건
+----------------------------------------
+· Apple's Phil Schiller Scales Back Role as John Ternus Era Begins
+  출처: MacRumors / 2026-09-01 01:54
+  링크: https://www.macrumors.com/2026/08/31/phil-schiller-stepping-down-app-store/
+  피드 요약: Apple's Phil Schiller is no longer going to run the App Store or oversee product events, reports Bloomberg . Schiller isn't leaving Apple, but he is narrowing his responsibilities and working on unspecified projects. Employees at Apple told Bloomberg that 66-year-old Schiller appears to be taking an
+
+· Tim Cook Comments on His Final Day as Apple CEO
+  출처: MacRumors / 2026-09-01 00:39
+  링크: https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/
+  피드 요약: Tim Cook will be stepping down as Apple's CEO on September 1, with the company's hardware engineering John Ternus set to take over. With the transition set to take place tomorrow, there have been quite a few headlines about Cook lately. The latest story comes from 9to5Mac , which said it has obtaine
+
+· MapQuest Tops App Store Charts After Refusing 'Lake America' Change
+  출처: MacRumors / 2026-08-31 23:49
+  링크: https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/
+  피드 요약: MapQuest is in the spotlight this week after refusing to change "Lake Ontario" to "Lake America" on its map following an executive order issued by U.S. President Donald Trump last week. As of Monday morning, the MapQuest app is the top free iPhone app on Apple's App Store charts in Canada and fourth
+
+· Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads
+  출처: MacRumors / 2026-08-31 23:06
+  링크: https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/
+  피드 요약: The One Club for Creativity, a U.S. non-profit organization that promotes excellence in advertising and design, today announced that Apple has been selected as the first brand to be inducted into its newly established "Brand Hall of Fame." Apple's most famous ads include its iconic "1984" Super Bowl
+
+· Google Maps Showing 'Lake America' in U.S., Apple Maps Yet to Follow
+  출처: MacRumors / 2026-08-31 22:33
+  링크: https://www.macrumors.com/2026/08/31/google-maps-lake-america/
+  피드 요약: Google Maps users in the U.S. will now see the name "Lake America" instead of "Lake Ontario" for the Great Lake that straddles the New York—Ontario border. Google said it made this change in response to the U.S. Geographic Names Information System (GNIS) updating the name for "Lake Ontario" to "Lake
+
+· Tim Cook Steps Down as Apple CEO Tomorrow
+  출처: MacRumors / 2026-08-31 21:42
+  링크: https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/
+  피드 요약: The end of an era is upon us, as Tim Cook will be stepping down as Apple's CEO on September 1, after 15 years of leading the company. Cook has been Apple's CEO since 2011 Tomorrow, Apple's hardware engineering chief John Ternus will become the company's next CEO. Cook will remain at Apple as the exe
+
+· Here’s another sign the Galaxy SmartTag 3 is coming soon
+  출처: SamMobile / 2026-09-01 00:06
+  링크: https://www.sammobile.com/news/heres-another-sign-the-galaxy-smarttag-3-is-coming-soon/
+  피드 요약: We exclusively reported last month that Samsung is working on the next-generation of its Galaxy SmartTag, which will ostensibly be launched as the Galaxy SmartTag 3. Some new information has now surfaced which suggests that the company is well on its way to launching the Galaxy SmartTag 3 in the nea
+
+· Galaxy S27 Scam Detection feature may arrive on older phones too
+  출처: SamMobile / 2026-08-31 23:50
+  링크: https://www.sammobile.com/news/galaxy-s27-scam-detection-feature-may-arrive-on-older-phones-too/
+  피드 요약: Google launched the Scam Detection feature as a Pixel 9 series exclusive before bringing it to the Galaxy S26 series and the latest Galaxy foldable phones. Hints have been spotted in One UI 9.0 beta 7 that show this feature will be available on the Galaxy S27 as well as some older Galaxy devices. At
+
+· Qatar’s Himyan payment system now integrated with Samsung Wallet
+  출처: SamMobile / 2026-08-31 23:36
+  링크: https://www.sammobile.com/news/qatars-himyan-payment-system-now-integrated-with-samsung-wallet/
+  피드 요약: Samsung Wallet has integrations with the national payment systems of many countries, and it has now added another one to the list. The Qatar Central Bank has announced the integration of the country's Himyan payment system with Samsung Wallet. Adding a new card is as easy as ever The Samsung Wallet 
+
+· Got a Galaxy Z Fold 8 or Fold 8 Ultra? These multitasking gestures are a must-try
+  출처: SamMobile / 2026-08-31 23:30
+  링크: https://www.sammobile.com/news/must-try-multitasking-gestures-galaxy-z-fold-8-ultra/
+  피드 요약: If the Galaxy Z Fold 8 or Galaxy Z Fold 8 Ultra is your very first foldable phone, you may have noticed that some One UI features we usually take for granted and often praise aren't enabled by default. And if the Fold 8/8 Ultra is your first Android phone, first of all, congratulations. Second […]
+
+· Samsung locks up to 70% of memory chip supply for long-term agreements until 2031
+  출처: SamMobile / 2026-08-31 23:28
+  링크: https://www.sammobile.com/news/samsung-locks-up-to-70-of-memory-chip-supply-for-long-term-agreements-until-2031/
+  피드 요약: The memory chip market shows no signs of cooling down any time soon. Samsung is among the three top global players in the market, and all of them have pivoted to long-term agreements in order to sustain higher margins over the coming years. A new report out of South Korea claims that Samsung has loc
+
+· One of my favorite Galaxy Z Fold 8 features reminds me of old folding clocks
+  출처: SamMobile / 2026-08-31 22:00
+  링크: https://www.sammobile.com/opinion/one-favorite-galaxy-z-fold-8-feature-reminds-me-old-folding-clocks/
+  피드 요약: If you ask me, the best thing about convertible 2-in-1 laptops that feature 360-degree hinges is the ability to use them in different, unconventional ways, such as tent and stand modes. Interestingly enough, one of the things I love most about Samsung's new Galaxy Z Fold 8 is that it borrows a littl
+
+· Samsung One UI 9.0 beta program: Supported Galaxy devices
+  출처: SamMobile / 2026-08-31 21:00
+  링크: https://www.sammobile.com/news/samsung-one-ui-9-0-beta-program-supported-galaxy-devices/
+  피드 요약: Samsung announced One UI 9.0, its next major Android customization for Galaxy smartphones and tablets, on May 12. Based on Android 17, the new software brings a refreshed user interface along with a wide range of new features and improvements. Alongside it, the company also revealed that it will ope
+
+· Galaxy A57 and M56 score new updates to improve security
+  출처: SamMobile / 2026-08-31 20:02
+  링크: https://www.sammobile.com/news/galaxy-a57-m56-score-august-2026-updates/
+  피드 요약: Today, Samsung released a new software update for multiple Galaxy phones and tablets, including the Galaxy A57 and the Galaxy M56. Both mid-range smartphones are receiving the latest security patch as part of this new release. The update is now available for the Galaxy A57 in Europe, carrying firmwa
+
+· Apple ends hardware support for three Intel MacBook models
+  출처: AppleInsider / 2026-09-01 05:30
+  링크: https://appleinsider.com/articles/26/08/31/apple-ends-hardware-support-for-three-intel-macbook-models?utm_source=rss
+  피드 요약: Apple has ended official hardware support for three Intel MacBook models from 2017 and 2018, leaving owners to turn to third-party repair options. Apple's MacBook lineup continues to evolve, and some are aging out as Apple Silicon takes over The first is the 13-inch 2017 MacBook Pro with two Thunder
+
+· New evidence shows OpenAI's trade secret theft & destruction of evidence, says Apple
+  출처: AppleInsider / 2026-09-01 05:24
+  링크: https://appleinsider.com/articles/26/08/31/new-evidence-shows-openais-trade-secret-theft-destruction-of-evidence-says-apple?utm_source=rss
+  피드 요약: Apple has been urging the court to require expedited discovery, and information discovered on Chang Liu's work MacBook suggests OpenAI is actively destroying evidence. Apple has sued OpenAI over alleged trade secret theft OpenAI poached over 400 employees from Apple to work on AI projects, and two w
+
+· AI needs more Macs, but not for the reason you might assume
+  출처: AppleInsider / 2026-09-01 03:39
+  링크: https://appleinsider.com/articles/26/08/31/ai-needs-more-macs-but-not-for-the-reason-you-might-assume?utm_source=rss
+  피드 요약: The Mac isn't selling as fast as Apple can make them because of artificial intelligence needs as some would have you believe, but AI is giving businesses plenty of reasons to buy more of them. Why AI is increasing, not driving, demand for Mac mini and Mac Studio You may have noticed that the lead ti
+
+· Eighth iOS 27, macOS 27 developer betas arrive for testing
+  출처: AppleInsider / 2026-09-01 02:20
+  링크: https://appleinsider.com/articles/26/08/31/eighth-ios-27-macos-27-developer-betas-arrive-for-testing?utm_source=rss
+  피드 요약: Apple has moved on to its eighth round of developer betas for iOS 27 , iPadOS 27, tvOS 27, watchOS 27, visionOS 27, and macOS 27, as the September special event gets ever closer. An earlier iOS 27 beta screen The eighth round of the Apple Developer Beta program has arrived for the upcoming iOS 27, i
+
+· Apple Fellow Phil Schiller no longer working on App Store or events
+  출처: AppleInsider / 2026-09-01 02:07
+  링크: https://appleinsider.com/articles/26/08/31/apple-fellow-phil-schiller-no-longer-working-on-app-store-or-events?utm_source=rss
+  피드 요약: Apple Fellow Phil Schiller is reducing his workload at Apple, with the long-time executive no longer in charge of the App Store and managing product events. Apple Fellow Phil Schiller Phil Schiller became an "Apple Fellow" in 2020 but still led Apple's App Store and Apple Events in the specially-cre
+
+· Tim Cook signs off as CEO with thanks to staff and a tribute to John Ternus
+  출처: AppleInsider / 2026-09-01 00:49
+  링크: https://appleinsider.com/articles/26/08/31/tim-cook-signs-off-as-ceo-with-thanks-to-staff-and-a-tribute-to-john-ternus?utm_source=rss
+  피드 요약: On his last day as CEO of Apple, Tim Cook has sent a memo to every employee thanking them for what the company has achieved. Here's what he said. Tim Cook - image credit: Apple. Tim Cook had his going away party back on August 24, 2026, and in truth he's been steadily stepping back from his CEO role
+
+· Save $500 on Apple's M5 Max 16-inch MacBook Pro during early Labor Day Sale
+  출처: AppleInsider / 2026-09-01 00:49
+  링크: https://appleinsider.com/articles/26/08/31/save-500-on-apples-m5-max-16-inch-macbook-pro-during-early-labor-day-sale?utm_source=rss
+  피드 요약: Amazon's early Labor Day sales are heating up on MacBook Pros, with a variety of configurations, including M5 Max models, up to $500 off. Save $500 on Apple's M5 Max MacBook Pro - Image credit: Apple Amazon's MacBook Pro sale includes discounts on a number of configurations from Apple's current line
+
+· White House really wants Apple to change 'Lake Ontario' to 'Lake America' now
+  출처: AppleInsider / 2026-09-01 00:41
+  링크: https://appleinsider.com/articles/26/08/31/white-house-really-wants-apple-to-change-lake-ontario-to-lake-america-now?utm_source=rss
+  피드 요약: The Trump administration has reached out to Apple directly to get Apple Maps changed now from Lake Ontario to "Lake America." It's going to happen, just on Apple's schedule. Apple Maps showing Lake Ontario, before the name changed. The battle for Lake Ontario has taken another step in President Trum
+
+· iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro
+  출처: 9to5Mac / 2026-09-01 05:21
+  링크: https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/
+  피드 요약: iPhone 18 Pro will be unveiled next week , and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to motivate them. more…
+
+· Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit
+  출처: 9to5Mac / 2026-09-01 05:20
+  링크: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/
+  피드 요약: Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery. In today’s filing, Apple says that it has new “shocking evidence” based on early forensic inspection of a laptop used by former engineer Chang Liu. more…
+
+· How to run Mario Kart 64 with native Metal rendering, high frame rate, and HD textures on iPhone [Video]
+  출처: 9to5Mac / 2026-09-01 04:50
+  링크: https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video/
+  피드 요약: Love Mario Kart 64 and want to play it on iPhone? You may have tried Delta or another N64 emulator in the past to make that happen. And while that works, it’s now possible to run the classic cart racer with native Metal rendering on iPhone. As we’ll discuss in this video and post, running Mario Kart
+
+· iPhone Ultra release timing: Here’s what the latest reporting says
+  출처: 9to5Mac / 2026-09-01 03:55
+  링크: https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/
+  피드 요약: Apple will unveil its foldable iPhone Ultra next week at the September event , but it’s unclear exactly when the new model will ship to users. Here’s what to expect per the latest reporting. more…
+
+· MagSafe Monday: Anker’s foldable 3-in-1 charger brings 25-watt Qi2 charging into something pocket-sized
+  출처: 9to5Mac / 2026-09-01 03:30
+  링크: https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/
+  피드 요약: The dream for your Apple gear while traveling is one thing, not a collection of cables and wall adapters. There are plenty of options for that, but often they are bulky. Anker’s Prime Qi2 25W Foldable 3-in-1 Wireless Charger aims to address that. It folds flat, weighs about as much as an iPhone 17 P
+
+· Apple releases beta 8 for iPadOS 27, watchOS 27, and more
+  출처: 9to5Mac / 2026-09-01 02:16
+  링크: https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more/
+  피드 요약: Apple has just released a new round of beta software for testing. Beta 8 is here for iPadOS 27, tvOS 27, and more. Here’s what to expect. Update 5:04 p.m. ET : iPadOS 27 and tvOS 27 are now available for public beta testers as well. more…
+
+· macOS 27 developer beta 8 now available, here’s what’s coming
+  출처: 9to5Mac / 2026-09-01 02:16
+  링크: https://9to5mac.com/2026/08/31/macos-27-developer-beta-8-now-available-heres-whats-coming/
+  피드 요약: Continuing Apple’s weekly test releases ahead of the official launch of macOS 27 Golden Gate, the company is now rolling out beta 8 for developers. Here’s what to expect. Update 5:04 p.m. ET : Now available for public beta testers as well. more…
+
+· iOS 27 beta 8 now available as Apple tests major Siri AI upgrade
+  출처: 9to5Mac / 2026-09-01 02:12
+  링크: https://9to5mac.com/2026/08/31/ios-27-beta-8/
+  피드 요약: Apple has released the eighth iOS 27 beta for developer testing. iOS 27 beta 8 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover. Update 5:04 p.m. ET : Now available for public beta testers as well. more…
+
+· PSA: Gemini can adjust system settings on any Pixel running Android 17
+  출처: Android Authority / 2026-09-01 05:06
+  링크: https://www.androidauthority.com/device-help-android-17-3705148/
+  피드 요약: Hey Google, make my phone be quiet.
+
+· Pixel 11 owners say their phones are waking up without being touched
+  출처: Android Authority / 2026-09-01 04:58
+  링크: https://www.androidauthority.com/pixel-11-lift-to-check-phone-too-sensitive-3705133/
+  피드 요약: The reports on Reddit suggest one gesture is way too sensitive on the latest Pixels.
+
+· Google finds another way to push Search users to AI Mode
+  출처: Android Authority / 2026-09-01 04:00
+  링크: https://www.androidauthority.com/google-search-ai-mode-expanded-3705116/
+  피드 요약: AI Overviews are automatically expanding for some searches.
+
+· Satellite SOS just proved why it could be your phone’s most important feature
+  출처: Android Authority / 2026-09-01 02:43
+  링크: https://www.androidauthority.com/satellite-connectivity-saves-life-of-man-3705087/
+  피드 요약: Satellite connectivity reportedly helped one survivor reach rescuers during the deadly Nepal flooding disaster.
+
+· Amazon drops the SanDisk 256GB microSD Express card to $58.99
+  출처: Android Authority / 2026-09-01 01:07
+  링크: https://www.androidauthority.com/sandisk-256gb-microsd-express-card-deal-3705042/
+  피드 요약: Save 16% on the microSD Express card, built for faster game loading, 5.3K video capture, and older device support.
+
+· The 65-inch Hisense U7 returns to its Prime Day price with 43% off
+  출처: Android Authority / 2026-09-01 00:46
+  링크: https://www.androidauthority.com/hisense-u7-smart-tv-amazon-deal-3705037/
+  피드 요약: The Mini-LED Google TV is back at its all-time low price of $847.99, with 165Hz gaming and Dolby Vision IQ.
+
+· Reolink’s 2K wireless 4G LTE security camera gets its first big price drop!
+  출처: Android Authority / 2026-09-01 00:23
+  링크: https://www.androidauthority.com/reolink-2k-plus-security-camera-deal-3705029/
+  피드 요약: This Reolink 4G LTE outdoor camera is 19% off, with 2K video, night vision, and smart alerts for remote properties.
+
+· Galaxy Z Fold 8 is selling so well, Samsung is borrowing parts from the future
+  출처: Android Authority / 2026-09-01 00:18
+  링크: https://www.androidauthority.com/samsung-galaxy-z-fold-8-ddi-demand-ramp-up-3704985/
+  피드 요약: The company is reportedly using future component reserves to fill the gap.
+
+· 화웨이 메이트 XT2 트리플 모델, 폴드 최초로 프라이버시 디플 탑재
+  출처: 란즈크 블로그 / 2026-08-31 12:21
+  링크: https://blog.naver.com/yeux1122/224395900548?fromRss=true&trackingCode=rss
+  피드 요약: 화웨이 메이트 XT2 트리플 폴드 모델에 대한 색상과 옹량 구성 등의 내용이 나왔습니다. **웨이보 16램+512GB / 16램 + 1테라 / 16램 + 2테라 * 또한 프라이버시 디스플레이 옵션 모델이 존재
+
+· 애플 워치12시리즈, 세라믹 버전은 2색 출시 예정
+  출처: 란즈크 블로그 / 2026-08-31 11:46
+  링크: https://blog.naver.com/yeux1122/224395862317?fromRss=true&trackingCode=rss
+  피드 요약: 애플 워치 12시리즈 모델에 대한 내용이 추가로 나왔습니다 (*마크거먼 뉴스레터) 애플워치 시리즈12 세라믹 버전은 2색 출시 화이트, 다크그레이 신규 밴드와 새로운 색상 추가로 출시 내년에 전면적인 디자인 변화를 목표로 하고 있으나 2028년까지 실현되지 못할 가능성도 있음.
+
+· 갤럭시S27 울트라 Vs. 아이폰 17 프맥 렌더링 이미지 비교
+  출처: 란즈크 블로그 / 2026-08-31 11:45
+  링크: https://blog.naver.com/yeux1122/224395860155?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27울트라 모델(*루머기반)과 아이폰 17 프맥 비교 이미지 입니다. (*techdroider)
+
+· 애플 아이폰 18프로 탑재, A20 프로 주요 성능 요약
+  출처: 란즈크 블로그 / 2026-08-31 08:29
+  링크: https://blog.naver.com/yeux1122/224395656726?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 18프로에 탑재가 되는 A20 프로 칩셋에 대한 내용이 나왔습니다. (*웨이보, 등 종합) TSMC N2(2nm) 공정 싱글 코어 성능 9~11% 향상, 멀티 코어 성능 18 % 향상, 효율성 25%~ 최대 30% 향상. (*특히 전성비 개선 클 것 예측) 긱벤치6 점수 기준 싱글 코어 4090~4,180 ±, 멀티 코어 11350 ~ 11880 ±, 전체 성능 20~30% 향상(GPU AI 컴퓨팅 성능 포함). 레이 트레이싱 성능 향상 예상.
+
+· 애플 높은 AI수요로 고사양 믹미니, 맥 스튜디오 수개월 품절
+  출처: 란즈크 블로그 / 2026-08-31 08:02
+  링크: https://blog.naver.com/yeux1122/224395639728?fromRss=true&trackingCode=rss
+  피드 요약: 애플이 높은 AI 수요로 인해서 고사양 맥미니와 맥 스튜디오 모델이 수개월치 물량이 품절인 상황이라고 합니다. (TI) 이번에 맥미니와 맥스튜디오를 급하게 출시한것도 높은 시장 수요에 의한것 특히 여러대의 맥미니와 맥스튜디오를 묶어서 로컬 LLM 모델로의 활용이 너무나 강력 (전성비와 병렬연결시 장점) 특히 고사양의 램을 탑재한 모델의 경우 올해 10월~11월 물량이 이후에도 확보가 어려운 상황에서 내년에도 공급 가능여부가 어려운 상황
+
+■ [오디오] 7건
+----------------------------------------
+· Hisense PT1
+  출처: What Hi-Fi? / 2026-08-31 15:00
+  링크: https://www.whathifi.com/tv-home-cinema/projectors/hisense-pt1
+  피드 요약: The PT1 makes Hisense’s popular UST projector proposition even cheaper, but there is a performance cost to pay.
+
+· Bose’s disappointing Dolby Atmos soundbar, Naim drops a surprise, McIntosh’s glowing new preamplifier and more
+  출처: What Hi-Fi? / 2026-08-31 15:00
+  링크: https://www.whathifi.com/av/boses-disappointing-dolby-atmos-soundbar-naim-drops-a-surprise-mcintoshs-glowing-new-preamplifier-and-more
+  피드 요약: Another interesting week of hi-fi and home cinema news and reviews
+
+· Nothing Ear (3a) deal brings the transparent ANC earbuds to just $79
+  출처: SoundGuys / 2026-09-01 01:28
+  링크: https://www.soundguys.com/nothing-ear-3a-deal-162221/
+  피드 요약: Save $20 on the Nothing Ear (3a) at Amazon and get transparent-design earbuds with ANC, long battery life, and dual-device support.
+
+· Google will soon turn Pixel phones into personal PA systems using Auracast
+  출처: SoundGuys / 2026-09-01 00:04
+  링크: https://www.soundguys.com/android-17-qpr2-beta-4-pixel-voice-broadcast-162201/
+  피드 요약: Android 17 QPR2 Beta 4 introduces a dedicated Quick Settings tile to stream live microphone audio to nearby Auracast receivers.
+
+· Bose QuietComfort Ultra headphones hit a record-low $249, saving you 45%
+  출처: SoundGuys / 2026-08-31 23:39
+  링크: https://www.soundguys.com/bose-quietcomfort-ultra-headphones-deal-amazon-162205/
+  피드 요약: Save $200 on Bose QuietComfort Ultra headphones and get premium ANC, USB-C audio, and multipoint pairing for less.
+
+· I tested iFi’s new DAC/amp and it’s a masterpiece, with impressive portable power, stellar sound quality, a fountain of features, and an intuitive OLED display
+  출처: TechRadar 오디오 / 2026-09-01 06:00
+  링크: https://www.techradar.com/audio/dacs/ifi-idsd-gr-2-review
+  피드 요약: I tested iFi’s new iDSD GR 2 portable DAC/amp, and it's a phenomenal sequel, with more power, more intuitiveness, and more features.
+
+· I didn't know British speaker maker Castle, but its new 70s-inspired stereo speakers look really cool — and I'm intrigued by the unusual driver layout on one model
+  출처: TechRadar 오디오 / 2026-09-01 01:58
+  링크: https://www.techradar.com/audio/speakers/i-didnt-know-british-speaker-maker-castle-but-its-new-70s-inspired-stereo-speakers-look-really-cool-and-im-intrigued-by-the-unusual-driver-layout-on-one-model
+  피드 요약: Hi-fi company British Castle has four new loudspeakers, all inspired by English fortifications.
+
+■ [카메라] 9건
+----------------------------------------
+· Just Announced: Samsung P7 and P9 SSDs Bring USB4 Speed to Photographers
+  출처: Sony Alpha Rumors / 2026-09-01 03:07
+  링크: https://www.sonyalpharumors.com/just-announced-samsung-p7-and-p9-ssds-bring-usb4-speed-to-photographers/
+  피드 요약: Samsung just announced the new P7 and P9 portable SSD for creators. You can preorder it now at BHphoto (Click here). They do offer photographers fast USB4 performance, capacities from 1TB to 8TB, and durable, travel-friendly designs. The lightweight P7 is ideal for everyday shoots and can survive dr
+
+· Sony’s New 26MP fully Stacked Sensor: Coming to the FX30 II and A6900?
+  출처: Sony Alpha Rumors / 2026-08-31 22:20
+  링크: https://www.sonyalpharumors.com/sonys-new-26mp-fully-stacked-sensor-coming-to-the-fx30-ii-and-a6900/
+  피드 요약: Reliable sources shared the specs of a new fully stacked sensor with same Dual Gain tech of the new Sony A7V, Sony A7rVI and Sony FX5. 26MP APS-C Sensor specs: Resolution: 26 Megapixels Frame Rate: 124fps Pixel Size: 3.76μm Type: APS-C stacked Features: Voltage Domain GS, Pixel MEM in Logic-layer, D
+
+· Canon’s New Higher End PowerShot Will Be Different Than the PowerShot G7 X Mark III
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-31 23:50
+  링크: https://www.canonrumors.com/canons-new-higher-end-powershot-will-be-different-than-the-powershot-g7-x-mark-iii/
+  피드 요약: It's no secret that Canon is going to get back into compact cameras in a big way. They have kept producing small quantities of the PowerShot SX740 HS and PowerShot G7 X Mark III, along with the video focused PowerShot V1 and PowerShot ELPH 360 HS A, Canon's latest PowerShot, but based on an 8-year-o
+
+· Last Day: 10% Cashback on Select Canon Gear at Amazon
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-31 18:10
+  링크: https://www.canonrumors.com/last-day-10-cashback-on-select-canon-gear-at-amazon/
+  피드 요약: This is the last day to take advantage of the 10% Prime Card bashback offer at Amazon on select Canon EOS R cameras and RF lenses. The Amazon Prime Card Bonus on select Canon gear has returned. You can get 10% cashback on purchases made with your Amazon Prime credit card. This deal stacks on top of 
+
+· Tilta Price Increases are Coming on September 1
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-31 17:59
+  링크: https://www.canonrumors.com/tilta-increasing-prices-on-lots-of-products/
+  피드 요약: We're starting to see a lot of companies announcing or raising prices heading into Q4. We don't think this is going to stop any time soon, and it will likely happen across most of the camera industry. This update will primarily affect the Nucleus Auto Focus series, Boulder Cart, and Hydra Alien Mini
+
+· Which Camera Is Best for Shooting in Rain and Bad Weather?
+  출처: Canon Rumors (중요 소식만 선별) / 2026-08-31 16:50
+  링크: https://www.canonrumors.com/which-camera-is-best-for-shooting-in-rain-and-bad-weather/
+  피드 요약: Rain can turn an ordinary photography trip into something much more interesting. Wet streets create reflections, cloudy skies can produce soft light, and storms can add atmosphere to landscapes and outdoor scenes. But bad weather also creates a problem: your camera and lens need to cope with moistur
+
+· Weekly Nikon news flash #901
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-31 10:54
+  링크: https://nikonrumors.com/2026/08/30/weekly-nikon-news-flash-901.aspx/
+  피드 요약: → New SG-Image AF 15mm f/2.8 full-frame lens coming in 2027. → Coming soon for Nikon Z-mount: new 7artisans AF 18mm f/2 wide-angle APS-C lens. → Gura Gear camera back sale ends tomorrow. → Tilta will increase their prices on September 1st (check their products at B&H Photo and the official website).
+
+· An interview with the legendary Jay Maisel – a lifelong Nikon photographer (1931-2026)
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-08-31 08:41
+  링크: https://nikonrumors.com/2026/08/30/an-interview-with-the-legendary-jay-maisel-a-lifelong-nikon-photographer-1931-2026.aspx/
+  피드 요약: Here is an interview by Steve Simon from PhotoEducate with the legendary Jay Maisel – a lifelong Nikon photographer who passed away on August 24th at the age of 95: Jay Maisel was a lifelong Nikon photographer, although, as this interview makes clear, equipment was always secondary to what he saw an
+
+· NiSi 26mm f/0.7 and NiSi 50mm T/1 Coming for Fujifilm GFX
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-01 02:38
+  링크: https://www.fujirumors.com/nisi-26mm-f-0-7-and-nisi-50mm-t-1-coming-for-fujifilm-gfx/
+  피드 요약: ❤️ Join Now – the One&Only Fujifilm GFX Community NiSi is going to launch the following 2 lenses for Fujifilm GFX. The specs sheet show the Nikon and Arri mount version, but from the sheets below you can see they mention also it will cover the GFX sensor size. NiSi 26mm f/0.7 NiSi 50mm T/1… The post
