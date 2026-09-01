@@ -1,0 +1,409 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-09-02 06:40 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-09-01 06:37 (KST) 이후 기사
+새 기사: 78건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 7건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 9건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 21건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 32건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 3건 생략)
+
+■ [IT 공식발표] 3건
+----------------------------------------
+· 삼성전자, ‘디자인 마이애미 서울 2026’ 참가, ‘Design is an Act of Love’ 전시 선보여
+  출처: Samsung Newsroom Korea / 2026-09-01 19:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%94%94%ec%9e%90%ec%9d%b8-%eb%a7%88%ec%9d%b4%ec%95%a0%eb%af%b8-%ec%84%9c%ec%9a%b8-2026-%ec%b0%b8%ea%b0%80-design-is-an-act-of-love-%ec%a0%84%ec%8b%9c
+  피드 요약: 삼성전자가 1일부터 6일까지 서울 동대문 DDP에서 열리는 글로벌 디자인 행사 ‘디자인 마이애미 서울 2026(Design Miami Seoul 2026)’에 참가한다. 이번 전시의 주제는 ‘Design is an Act of Love(디자인은 사랑의 표현)’이며, 삼성전자는 전시를 통해 인간에 대한 이해와 배려에서 시작하는 ‘인간 중심’ 디자인 비전을 제시할 계획이다. 관람객들은 14팀의 한국 아티스트가 AI와 다양한 창작 방식을 활용해 삼성전자 제품을 각자의 […]
+
+· [인터뷰 | 갤럭시 Z 폴드8 카메라 혁신을 만든 사람들①] AI가 찾아주는 나만의 ‘최애’…’마이 팬캠’이 여는 새로운 영상 경험
+  출처: Samsung Newsroom Korea / 2026-09-01 18:00
+  링크: https://news.samsung.com/kr/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-z-%ed%8f%b4%eb%93%9c8-%ec%b9%b4%eb%a9%94%eb%9d%bc-%ed%98%81%ec%8b%a0%ec%9d%84-%eb%a7%8c%eb%93%a0-%ec%82%ac%eb%9e%8c%eb%93%a4%e2%91%a0-ai
+  피드 요약: 갤럭시 언팩 2026에서 공개된 ‘갤럭시 Z 폴드8’ 시리즈에는 영상 속 원하는 인물을 중심으로 편집할 수 있는 ‘마이 팬캠(My FanCam)’이 새롭게 적용됐다. 또한 전문 카메라의 렌즈 표현을 재현한 기술을 한층 고도화해 ’인물 동영상’ 기능도 강화했다. 두 기능은 서로 다른 카메라 경험을 제공하지만, 모두 기반 기술 연구와 기능 구현, 사용자 경험 설계 등 여러 분야의 전문성이 모여 […]
+
+· 삼성전자, ‘New 갤럭시 북6’ 국내 출시
+  출처: Samsung Newsroom Korea / 2026-09-01 17:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-new-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%b6%816-%ea%b5%ad%eb%82%b4-%ec%b6%9c%ec%8b%9c
+  피드 요약: 삼성전자가 일상 속 필요한 기능과 성능을 갖춘 ‘New 갤럭시 북6’를 1일 국내 출시한다. 삼성전자는 올해 1월 ‘갤럭시 북6 울트라’, ‘갤럭시 북6 프로’에 이어 4월 ‘갤럭시 북6’를 출시하며 ‘갤럭시 북6 시리즈’ 라인업을 확장한 바 있다. 이에 더해 합리적인 사양과 가격으로 소비자 구매 부담을 낮춘 ‘New 갤럭시 북6’ 모델을 추가로 선보이며 제품 선택 폭을 확대했다. 가격은 CPU, […]
+
+■ [IT 루머] 47건
+----------------------------------------
+· Apple Maps Renames Lake Ontario 'Lake America'
+  출처: MacRumors / 2026-09-02 05:58
+  링크: https://www.macrumors.com/2026/09/01/apple-maps-lake-america/
+  피드 요약: Apple Maps users in the United States will now see "Lake America" instead of "Lake Ontario" for the Great Lake on the border of Ontario and New York. The updated name is currently rolling out to iPhone, iPad , and Mac users. The Maps app still has the Lake Ontario label for the body of water, but ta
+
+· macOS Golden Gate Seems to Hint at MacBook Pro With OLED Display
+  출처: MacRumors / 2026-09-02 04:34
+  링크: https://www.macrumors.com/2026/09/01/macos-golden-gate-hdr-liquid-glass/
+  피드 요약: As noted by Broadcasts developer Steven Troughton-Smith, many Liquid Glass interface elements on the macOS Golden Gate beta have an even glassier appearance on certain high-end OLED displays with HDR support than they do on ordinary displays. Apple reportedly plans to release new MacBook Pro or "Mac
+
+· Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives
+  출처: MacRumors / 2026-09-02 04:15
+  링크: https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1/
+  피드 요약: Anthropic today introduced Claude Fable 5.1 and Claude Mythos 5.1, which the company says are the "world's most advanced models for coding and knowledge work." According to Anthropic, Claude Fable 5.1 sets a new standard for coding, knowledge work, and long-running problem-solving tasks. It achieves
+
+· Foldable iPhone Ultra Likely Has MagSafe Charging
+  출처: MacRumors / 2026-09-02 04:05
+  링크: https://www.macrumors.com/2026/09/01/foldable-iphone-ultra-magsafe/
+  피드 요약: Apple's foldable " iPhone Ultra " will likely support MagSafe charging, Bloomberg 's Mark Gurman said in an interview with Tom's Guide . ‌iPhone Ultra‌ dummy models that surfaced in April didn't include a ‌MagSafe‌ ring, while dummies of the iPhone 18 Pro did. Leaked cases for the device did have a 
+
+· Read John Ternus' First Memo to Apple Employees as CEO
+  출처: MacRumors / 2026-09-02 03:47
+  링크: https://www.macrumors.com/2026/09/01/john-ternus-first-memo/
+  피드 요약: John Ternus officially became Apple's CEO today, with Tim Cook transitioning to a new role as Executive Chair. Ternus sent his first memo as CEO to employees this morning, praising Cook and sharing his excitement for Apple's future. MacRumors obtained a copy of the memo, which you can read in full b
+
+· Ex-Apple CFO Luca Maestri Winding Down His Time at the Company
+  출처: MacRumors / 2026-09-02 03:17
+  링크: https://www.macrumors.com/2026/09/01/luca-maestri-apple-winding-down/
+  피드 요약: Former Apple CFO Luca Maestri is taking another step back from the company, reports Bloomberg . Maestri left his role as CFO in January 2025, but stayed at Apple to run the company's Corporate Services teams. Maestri stepped down from that position in recent weeks, and Bloomberg says he is still at 
+
+· Apple Teases 'Huge Launch' Next Week
+  출처: MacRumors / 2026-09-02 03:03
+  링크: https://www.macrumors.com/2026/09/01/apple-teases-huge-launch-next-week/
+  피드 요약: In his first memo to Apple employees as CEO today, John Ternus teased a "huge launch next week that's going to be phenomenal." In a social media post today, Apple's marketing chief Greg Joswiak teased that Apple has "more to say" on Wednesday, September 9, which is when the company will be holding i
+
+· Apple's M4 iPad Air Gets Best Discounts Since Summer Price Hikes
+  출처: MacRumors / 2026-09-02 01:44
+  링크: https://www.macrumors.com/2026/09/01/m4-ipad-air-best-discounts/
+  피드 요약: Amazon and Best Buy this week have multiple discounts on the M4 iPad Air , providing up to $149 off these 2026 models. These are the best prices we've seen in the wake of Apple's summer price hikes. Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we ma
+
+· Getting ads on your phone when visiting Samsung stores? You can stop them
+  출처: SamMobile / 2026-09-02 02:34
+  링크: https://www.sammobile.com/news/getting-ads-galaxy-phone-when-visiting-samsung-stores-how-to-stop-them/
+  피드 요약: Have you ever walked by or into a Samsung physical store only for your Galaxy phone to coincidentally send you a notification about one of the latest Samsung deals? Well, it was probably no coincidence. One of the Samsung services preloaded on your Galaxy device enables that functionality. It's call
+
+· The two problems Samsung’s FE branding causes for both average consumers and fans
+  출처: SamMobile / 2026-09-01 23:57
+  링크: https://www.sammobile.com/opinion/two-problems-samsung-fe-branding-causes-average-consumers-fans/
+  피드 요약: As many of you know, the Galaxy S26 FE is official and almost ready to go on sale globally. The phone itself seems decent for what it is, but right now I'm more concerned about the FE branding than the product itself. A couple of things about the FE line have been bugging me for […]
+
+· Galaxy Z Fold 8 is selling too fast for Samsung to keep up
+  출처: SamMobile / 2026-09-01 21:51
+  링크: https://www.sammobile.com/news/galaxy-z-fold-8-selling-success-too-fast-samsung-keep-up/
+  피드 요약: The Galaxy Z Fold 8 has been a surprising hit, and Samsung was not fully prepared for its success. The phone helped break pre-order records in several countries and regions, even shattering the all-time high previously held by the Galaxy Note 10. Because Samsung could not accurately gauge the initia
+
+· New Galaxy Tab S10 FE series update makes it more secure
+  출처: SamMobile / 2026-09-01 21:45
+  링크: https://www.sammobile.com/news/new-galaxy-tab-s10-fe-series-update-august-2026-security-patch/
+  피드 요약: Yesterday, Samsung released the August 2026 security patch for the Galaxy Tab S10 series. However, the brand offered it only to the Plus and Ultra models, and not the Fan Edition ones. That’s changing today. Samsung has released new software updates for the Galaxy Tab S10 FE and the Galaxy Tab S10 F
+
+· Samsung updates Galaxy S22 with August 2026 security patch
+  출처: SamMobile / 2026-09-01 21:12
+  링크: https://www.sammobile.com/news/samsung-updates-galaxy-s22-with-august-2026-security-patch/
+  피드 요약: Samsung is making its flagship non-foldable smartphones from 2022, the Galaxy S22 series, more secure with a new software update. It brings the August 2026 security patch, which fixes 56 security issues present in the previous firmware. So far, the brand seems to have released the latest updates for
+
+· One UI 9 beta for Samsung’s 2025 flagships available in these countries
+  출처: SamMobile / 2026-09-01 21:00
+  링크: https://www.sammobile.com/news/one-ui-9-beta-samsung-2025-flagships-countries/
+  피드 요약: On September 1, Samsung announced it is expanding the reach of the One UI 9.0 beta program to even more high-end phones, specifically those launched in 2025. These include the Galaxy S25 series, Galaxy Z Flip 7, and Galaxy Z Fold 7. The beta program for these devices will be available in the countri
+
+· Samsung announces One UI 9 beta program for Galaxy S25, Flip 7, and Fold 7
+  출처: SamMobile / 2026-09-01 21:00
+  링크: https://www.sammobile.com/news/galaxy-s25-flip-fold-7-one-ui-9-beta-program-announced/
+  피드 요약: While Samsung appears close to rolling out the stable One UI 9 update for the Galaxy S26 series, the company is expanding its One UI 9 beta program to more Galaxy devices, including the Galaxy S25 series, Galaxy Z Flip 7, and Galaxy Z Fold 7. The One UI 9 beta program will open this […]
+
+· Galaxy A56, A55, A54 get August 2026 security update
+  출처: SamMobile / 2026-09-01 20:46
+  링크: https://www.sammobile.com/news/galaxy-a56-a55-a54-get-august-2026-security-update/
+  피드 요약: Samsung, after updating the Galaxy A57 with the August 2026 security patch, has now released the latest security update for three of its predecessors, the Galaxy A56, Galaxy A55, and the Galaxy A54. The brand seems to be rolling out the latest updates for the three phones currently only in its home 
+
+· Apple CEO John Ternus won't be making as much as Cook did in the role for fiscal 2027
+  출처: AppleInsider / 2026-09-02 06:38
+  링크: https://appleinsider.com/articles/26/09/01/apple-ceo-john-ternus-wont-be-making-as-much-as-cook-did-in-the-role-for-fiscal-2027?utm_source=rss
+  피드 요약: Tim Cook was paid approximately $74.3 million through 2025 with his salary and stock grants, while new CEO John Ternus will make about $58 million across fiscal 2027. John Ternus isn't making quite as much as Tim Cook in the new CEO role The Apple CEO transition has finally occurred with Tim Cook st
+
+· Apple Maps bring up Lake Ontario if you search for 'Lake America'
+  출처: AppleInsider / 2026-09-02 04:58
+  링크: https://appleinsider.com/articles/26/09/01/apple-maps-bring-up-lake-ontario-if-you-search-for-lake-america?utm_source=rss
+  피드 요약: Apple has started to make changes to the Lake Ontario listing in Apple Maps , with searches for "Lake America" coming up with the Great Lake. Lake America searches come up with Lake Ontario in Apple Maps in the US The ongoing political tiff between the United States and Canada over the identity of a
+
+· Surgeons keep finding reasons to use the Apple Vision Pro
+  출처: AppleInsider / 2026-09-02 04:34
+  링크: https://appleinsider.com/articles/26/09/01/surgeons-keep-finding-reasons-to-use-the-apple-vision-pro?utm_source=rss
+  피드 요약: The first surgery using Stryker's SportSuite Vision app on Apple Vision Pro has been completed at Duke Health, demonstrating its potential in the operating room. What surgeons see while using the Apple Vision Pro with SportSuite Vision | Image credit: Stryker On Tuesday, medical technology company S
+
+· New Beam Ultra & Ace Ultra arrive with AI-powered Sonos 27
+  출처: AppleInsider / 2026-09-02 02:55
+  링크: https://appleinsider.com/articles/26/09/01/new-beam-ultra-ace-ultra-arrive-with-ai-powered-sonos-27?utm_source=rss
+  피드 요약: Sonos has introduced the Beam Ultra soundbar and Ace Ultra headphones alongside Sonos 27, a rebranding of its audio platform that adds AI assistants and ChatGPT music control. New Sonos Ace Ultra headphones The $699 Beam Ultra and $449 Ace Ultra launch alongside the rebranded Sonos 27 audio platform
+
+· Luca Maestri isn't running Apple's Corporate Services anymore
+  출처: AppleInsider / 2026-09-02 02:50
+  링크: https://appleinsider.com/articles/26/09/01/luca-maestri-isnt-running-apples-corporate-services-anymore?utm_source=rss
+  피드 요약: More executive changes are happening at Apple as Ternus takes over, with former CFO Luca Maestri moving on from managing the company's Corporate Services. Luca Maestri - Image Credit: Apple Luca Maestri was the chief financial officer at Apple under Tim Cook , but switched roles at the end of 2024 t
+
+· John Ternus addresses staff as he takes over as Apple CEO
+  출처: AppleInsider / 2026-09-02 02:43
+  링크: https://appleinsider.com/articles/26/09/01/john-ternus-addresses-staff-as-he-takes-over-as-apple-ceo?utm_source=rss
+  피드 요약: New Apple CEO John Ternus has emailed all staff with a memo thanking them for making the company what it is today, and giving a first hint at his plans for the future. John Ternus has been addressing Apple staff as he starts his tenure as CEO - image credit: Apple. Following Tim Cook 's farewell ema
+
+· It might be trivial to make custom-fit AirPods in the future
+  출처: AppleInsider / 2026-09-02 02:06
+  링크: https://appleinsider.com/articles/26/09/01/it-might-be-trivial-to-make-custom-fit-airpods-in-the-future?utm_source=rss
+  피드 요약: Apple has been continuing to research AirPod design in the hunt for the best fit for most users, but now it may have a way to personalize the earbuds for every individual wearer. The question is how to get precise ear measurements for millions of users. Detail from the patent showing that fabric Air
+
+· John Ternus says 'hello' in his X account's first post
+  출처: AppleInsider / 2026-09-02 01:34
+  링크: https://appleinsider.com/articles/26/09/01/john-ternus-says-hello-in-his-x-accounts-first-post?utm_source=rss
+  피드 요약: Apple CEO John Ternus has joined X, with his first tweet of "hello" inevitably becoming a very popular post as he makes a rare social move. @JohnTernus on X. The CEOs of Apple tend to be social people, and in modern times that means having social media accounts. As such, that means new CEO John Tern
+
+· Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order
+  출처: 9to5Mac / 2026-09-02 05:49
+  링크: https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/
+  피드 요약: If you head to Apple Maps today, you’ll notice that Apple has started renaming Lake Ontario to “Lake America.” The move follows Trump’s order last week to change the name as part of an ongoing trade dispute with Canada. more…
+
+· New iPhone Ultra details arrive for specs, multitasking, launch timing, more
+  출처: 9to5Mac / 2026-09-02 05:25
+  링크: https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/
+  피드 요약: Next week, the iPhone Ultra will be unveiled at Apple’s September event , and today a new Tom’s Guide interview with Mark Gurman reveals several fresh details on what to expect from specs, software, launch timing, and more. more…
+
+· Apple Watch Series 12: Three new features coming next week
+  출처: 9to5Mac / 2026-09-02 04:18
+  링크: https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/
+  피드 요약: Apple Watch Series 12 is coming next week , launching at the September event alongside Apple Watch Ultra 4 . Here are three new features rumored for Apple Watch Series 12. more…
+
+· Anthropic upgrades Claude with new Fable 5.1 model, details here
+  출처: 9to5Mac / 2026-09-02 03:10
+  링크: https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/
+  피드 요약: In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade. more…
+
+· Read John Ternus’s full memo to Apple employees on his first day as CEO
+  출처: 9to5Mac / 2026-09-02 02:26
+  링크: https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/
+  피드 요약: New Apple CEO John Ternus has just sent his first company-wide memo. In it, Ternus thanks Tim Cook and recognizes that Apple is “so lucky to have had a CEO who led with his values and with such decency and humanity.” “We have a huge launch next week that’s going to be phenomenal,” Ternus also says, 
+
+· Steve Jobs in 1996: ‘I still think Apple has a future’
+  출처: 9to5Mac / 2026-09-02 02:24
+  링크: https://9to5mac.com/2026/09/01/steve-jobs-in-1996-i-still-think-apple-has-a-future/
+  피드 요약: Apple has a new CEO today. Meanwhile, a vintage video of Steve Jobs from 1996 has resurfaced. It adds some incredible perspective. more…
+
+· John Ternus’s first day as Apple CEO: Here’s the latest
+  출처: 9to5Mac / 2026-09-02 02:18
+  링크: https://9to5mac.com/2026/09/01/john-ternuss-first-day-as-apple-ceo-heres-the-latest/
+  피드 요약: Today is John Ternus’s first day as Apple CEO. A new Bloomberg report has more details on other executive changes, plus tidbits on changes Ternus might make. more…
+
+· Meta launches Muse Voice Transcribe for real-time voice dictation on Mac
+  출처: 9to5Mac / 2026-09-02 02:00
+  링크: https://9to5mac.com/2026/09/01/meta-launches-muse-voice-transcribe-for-real-time-voice-dictation-on-mac/
+  피드 요약: Meta is launching Muse Voice Transcribe, its first real-time audio perception model. It brings multilingual, streaming transcription to Meta AI for Mac, Muse Code, and developers through the Meta Model API. more…
+
+· ECOVACS Deebot X9 Pro Omni deal cuts 44% off the $799.99 RRP
+  출처: Android Authority / 2026-09-02 06:15
+  링크: https://www.androidauthority.com/ecovacs-deebot-x9-pro-omni-deal-3705622/
+  피드 요약: ECOVACS Deebot X9 Pro Omni drops to $449 at Amazon, its lowest price yet for a flagship robot vacuum and mop combo.
+
+· YouTube TV just finished rolling out one of its biggest new perks
+  출처: Android Authority / 2026-09-02 05:47
+  링크: https://www.androidauthority.com/espn-unlimited-available-on-youtube-tv-3705825/
+  피드 요약: The ESPN Unlimited upgrade is now complete.
+
+· Google Clock’s new timer UI is here, and your muscle memory won’t like it
+  출처: Android Authority / 2026-09-02 04:11
+  링크: https://www.androidauthority.com/google-clock-app-new-timer-ui-3705710/
+  피드 요약: Google Clock's Timers tab just got a big makeover.
+
+· Galaxy S25 gets one of the S26’s coolest camera tricks with One UI 9 Beta 1
+  출처: Android Authority / 2026-09-02 03:20
+  링크: https://www.androidauthority.com/galaxy-s25-one-ui-9-beta-horizontal-camera-lock-3705704/
+  피드 요약: Horizontal Lock makes the jump from the Galaxy S26.
+
+· Gemini and Find Hub are teaming up to remember where you put your passport
+  출처: Android Authority / 2026-09-02 03:14
+  링크: https://www.androidauthority.com/gemini-find-hub-item-locations-3705589/
+  피드 요약: Or your spare key, or your birth certificate, or whatever else.
+
+· 5 new features coming to your phone with the September 2026 Android Drop
+  출처: Android Authority / 2026-09-02 03:00
+  링크: https://www.androidauthority.com/september-2026-android-drop-3705528/
+  피드 요약: From remembering items in Find Hub to using Google Keep straight within Google Messages, here's what's coming this month.
+
+· Google’s Guided Vision turns Gemini Live into a real-world visual guide
+  출처: Android Authority / 2026-09-02 03:00
+  링크: https://www.androidauthority.com/gemini-live-guided-vision-2-3705480/
+  피드 요약: Gemini Live will soon be able to help you find what you can’t.
+
+· The latest Android Drop brings an unexpected crossover between Google Messages and Keep
+  출처: Android Authority / 2026-09-02 03:00
+  링크: https://www.androidauthority.com/google-messages-keep-notes-checklist-september-android-drop-3705193/
+  피드 요약: The update brings Keep-powered checklists to Google Messages, and everyone in the thread can make changes to them.
+
+· 갤럭시S27 시리즈, 엑시노스 탑재 진행 현황 (*업데이트)
+  출처: 란즈크 블로그 / 2026-09-01 21:27
+  링크: https://blog.naver.com/yeux1122/224397749976?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27울트라 엑시노스 탑재 관련 국내 기사가 나왔습니다. (*국내 기준) 현재 8월말 바로 직전 기준으로만 말씀 드리겠습니다. 아직 결정된것 없음 삼파 2나노 수율 좋은거 사실 (*강한 자신감 수율 잘 나오고 있음) ** 이번엔 진짜 다르다! 진짜? 진짜!?! 국내 기준 프로 엑시 플러스 엑시 바닐라 엑시 울트라 스냅 이렇게 개발중인 상황 울트라 엑시 탑재는 아직 결정된 사항 없고 변동 가능성은 아직은 부족.
+
+· 갤럭시S25시리즈, OneUI 9.0 베타 프로그램 오픈
+  출처: 란즈크 블로그 / 2026-09-01 21:08
+  링크: https://blog.naver.com/yeux1122/224397732668?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S25 시리즈 One UI 9.0 베타 프로그램이 시작되었습니다.
+
+· 갤럭시Z폴드8 울트라 그린 Vs. 갤럭시Z폴드7 민트 비교
+  출처: 란즈크 블로그 / 2026-09-01 17:58
+  링크: https://blog.naver.com/yeux1122/224397567614?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시Z폴드8 울트라 그린이랑 갤럭시Z폴드7 민트 닙니다. 좀 써보니 확실히 내부 디플이 더 탄탄한 느낌이네요. 해상도 체감되고 배터리도 다만 색감은 민트가 더 이쁜것 같습니다. 그런데 어찌 하다 보니 갤럭시는 이제 다 폴드만 실사 하네요. 이전엔 진짜 다 좋네요.
+
+· 애플 맥 스튜디오, 업계 첫 PCIe Gen 6 SSD 지원은 단순 오기로 수정됨
+  출처: 란즈크 블로그 / 2026-09-01 14:15
+  링크: https://blog.naver.com/yeux1122/224397287798?fromRss=true&trackingCode=rss
+  피드 요약: Apple의 M5 Max 및 M5 Ultra 칩을 탑재한 신형 Mac Studio 의 발표시의 보도 자료에 오기가 있었으며 슬쩍 수정이 되었습니다 (*애플 스토어) 신형 맥스튜디오에 관한 애플 뉴스 자료에는 PCIe Gen 6 차세대의 SSD 아키텍쳐에 의해, 스토리지 퍼포먼스가 최대 2배 라고 기재되어 있었지만, 최근 여러 내용으로 실제 아닌것 같다는 소스들이 나오면서인지 PCIe Gen 6에 관한 기술은 삭제되었습니다. 즉 최초 PCIe Gen 6기술 탑재는 아닌것으로 판명되었습니다.
+
+· 애플 아이폰20주년 모델, 루머기반 렌더링 이미지
+  출처: 란즈크 블로그 / 2026-09-01 08:21
+  링크: https://blog.naver.com/yeux1122/224396904915?fromRss=true&trackingCode=rss
+  피드 요약: 애플 20주년 모델 루머기반 렌더링 이미지가 나왔습다 (@ftp) 아이폰X처럼 대대적인 디자인 개편 곡선 측면 디자인으로 회귀 이전 아이폰의 디자인 컨셉 새로운 CEO 터너는 애플 에어의 열렬한 지지자 에어의 여러모로 개선판이 될 것 후면 카메라 배치는 구글 픽셀의 구성과 비슷해질 것
+
+· 갤럭시S27울트라, 카메라 모듈은 통 유리
+  출처: 란즈크 블로그 / 2026-09-01 08:07
+  링크: https://blog.naver.com/yeux1122/224396895340?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27울트라 모델의 카메라 모듈에 대한 내용이 나왔습니다. (*웨이보, walle) 특정사 카메라 모듈처럼 알루미늄 아님 울트라는 카메라 모듈은 과거 일부 모델처럼 전체가 유리로 구성됨 (* 지금 루머처럼 편편하고 텅 빈 공간 있는게 맞음)
+
+· 퀄컴 차세대 칩, 주요 업체에게 9월에 두 자릿수 인상 통보
+  출처: 란즈크 블로그 / 2026-09-01 07:54
+  링크: https://blog.naver.com/yeux1122/224396887019?fromRss=true&trackingCode=rss
+  피드 요약: 퀄컴이 다시 한번 9월달에 자사의 차세대 칩셋의 가격인상에 대한 내용을 공지했다고 합니다. (* 관련업체 소스) 9월에 본격적인 가격인상 통보 (*현재 3-4개 라인업 모두 2자리 수 이상 통보 완료) 사유는 램 메모리 등 관련 여러가지 사유 비용 단가 상승 P.S 참고로 9월1일부터 중국 핵심 3대 브랜드는 모든 제품의 라인업을 일률적으로 다음과 같이 가격을 전격적으로 인상했습니다. 화웨이 중급기 500위안 내외 약 10만원 플래그쉽 1000안 내외 인상 약 20만원 아너 중급기 300위안 6만원 플래그쉽 400-500 위안 인상
+
+■ [오디오] 20건
+----------------------------------------
+· As someone who lives with both previous Sonos Beam models, here are the 5 Beam Ultra things I’m most excited about – and my 3 disappointments
+  출처: What Hi-Fi? / 2026-09-02 04:07
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/as-someone-who-lives-with-both-previous-sonos-beam-models-here-are-the-5-beam-ultra-things-im-most-excited-about-and-my-3-disappointments
+  피드 요약: Let’s face it, a Beam with dedicated up-firing drivers is cause for celebration, but it's not automatically perfect
+
+· New issue of What Hi-Fi? out now: vinyl made easy with simple yet sensational turntables
+  출처: What Hi-Fi? / 2026-09-02 02:15
+  링크: https://www.whathifi.com/hi-fi/new-issue-of-what-hi-fi-out-now-vinyl-made-easy-with-simple-yet-sensational-turntables
+  피드 요약: Top decks that make enjoying your records as simple as possible
+
+· Samsung is supercharging the sound quality of its S99H flagship OLED TV with a serious HiFi add-on
+  출처: What Hi-Fi? / 2026-09-02 01:14
+  링크: https://www.whathifi.com/tv-home-cinema/samsung-is-supercharging-the-sound-quality-of-its-s99h-flagship-oled-tv-with-a-serious-hifi-add-on
+  피드 요약: When a TV's built-in speakers simply won't do
+
+· I'm excited by the Sonos Beam Ultra’s Dolby Atmos upgrade, but gutted it didn't borrow this feature from the Arc Ultra
+  출처: What Hi-Fi? / 2026-09-02 00:24
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/im-excited-by-the-sonos-beam-ultras-dolby-atmos-upgrade-but-gutted-it-didnt-borrow-this-feature-from-the-arc-ultra
+  피드 요약: I've been waiting for this one...
+
+· “We know the home, we know audio, we know music” – we speak to Sonos about its operating system rebrand, its "customer-led" focus and app updates
+  출처: What Hi-Fi? / 2026-09-01 23:52
+  링크: https://www.whathifi.com/streaming-entertainment/music-streaming/we-know-the-home-we-know-audio-we-know-music-we-speak-to-sonos-about-its-operating-system-rebrand-its-customer-led-focus-and-app-updates
+  피드 요약: Diving into the details and thinking behind the Sonos 27 ecosystem rebrand
+
+· Could Sonos one day support DTS:X? “The door isn’t closed”
+  출처: What Hi-Fi? / 2026-09-01 23:51
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/could-sonos-one-day-support-dts-x-the-door-isnt-closed
+  피드 요약: But it isn’t built into the new Beam Ultra “at this time”
+
+· Sonos' new Beam soundbar is finally here with a big Dolby Atmos upgrade – but there’s still something missing
+  출처: What Hi-Fi? / 2026-09-01 23:40
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/sonos-new-beam-soundbar-is-finally-here-with-a-big-dolby-atmos-upgrade-but-theres-still-something-missing
+  피드 요약: Have our home cinema prayers been answered?
+
+· Sonos Ace Ultra feature all-new drivers, updated ANC, and a "direct connection" to the current Sonos ecosystem
+  출처: What Hi-Fi? / 2026-09-01 23:40
+  링크: https://www.whathifi.com/headphones/wireless-headphones/sonos-ace-ultra-feature-all-new-drivers-updated-anc-and-a-direct-connection-to-the-current-sonos-ecosystem
+  피드 요약: The Ace Ultra wireless headphones will cost £399 / $449
+
+· These highly rated AOC wireless earbuds are 50% off at Amazon for the first time
+  출처: SoundGuys / 2026-09-02 01:46
+  링크: https://www.soundguys.com/aoc-wireless-earbuds-deal-162299/
+  피드 요약: Save $35 on AOC Noise Cancelling Wireless Earbuds and get up to 39 dB ANC, 13 mm drivers, and a 4.8 rating.
+
+· Sony’s ULT Power Sound lineup gets its 2026 refresh with three new tower speakers
+  출처: SoundGuys / 2026-09-02 01:00
+  링크: https://www.soundguys.com/sony-ult-power-sound-wireless-speakers-2026-162263/
+  피드 요약: Sony's new speakers are for party lovers.
+
+· Amazon slashes the Dreame Aqua Plus to a record low for swimmers, runners, and gym use
+  출처: SoundGuys / 2026-09-02 00:58
+  링크: https://www.soundguys.com/dreame-aqua-plus-deal-162293/
+  피드 요약: Save 24% on the Dreame Aqua Plus with open-ear bone conduction, IP68 waterproofing, 32GB storage, and MP3 playback.
+
+· Sonos wants you to forget its app disaster with its biggest update yet
+  출처: SoundGuys / 2026-09-01 23:40
+  링크: https://www.soundguys.com/sonos-27-app-162275/
+  피드 요약: Sonos 27 is pressing play on a much-needed second chance.
+
+· Sonos Beam Ultra and Ace Ultra are here, and they’re more connected than ever
+  출처: SoundGuys / 2026-09-01 23:40
+  링크: https://www.soundguys.com/sonos-beam-ultra-ace-ultra-launch-availability-features-specs-price-162253/
+  피드 요약: Sonos has also announced the new Sonos27 operating system and an updated app with improved navigation.
+
+· I went hands-on with JBL’s new Cove speakers, and one really stands out
+  출처: SoundGuys / 2026-09-01 13:02
+  링크: https://www.soundguys.com/jbl-cove-speakers-hands-on-162151/
+  피드 요약: More JBL speakers? Here’s the lowdown on the new Cove lineup.
+
+· I think Sonos just fully solved home audio, mostly by doing exactly what we want — even with AI
+  출처: TechRadar 오디오 / 2026-09-02 05:56
+  링크: https://www.techradar.com/audio/speakers/i-think-sonos-just-fully-solved-home-audio-mostly-by-doing-exactly-what-we-want-even-with-ai
+  피드 요약: Sonos unveiled a new platform and "Fabric" to weave together Sonos hardware (old and new) and software in a way that not only works, but could finally make home audio the experience of our dreams.
+
+· I've found 12 of the best Labor Day headphone deals — Sony, Bose, Shokz, and more from $38
+  출처: TechRadar 오디오 / 2026-09-02 05:25
+  링크: https://www.techradar.com/collection/audio/headphones/ive-found-12-of-the-best-labor-day-headphone-deals-sony-bose-shokz-and-more-from-usd38
+  피드 요약: I've searched through this year's early Labor Day sales and picked out the 12 best headphone deals available now, including the Bose QuietComfort Headphones, Shokz OpenRun Pro 2, and Sony WH-1000XM6.
+
+· I tried Sony's new ULT Tower party speakers, and they shook me to my core — here's everything you need to know about the striking new models
+  출처: TechRadar 오디오 / 2026-09-02 01:00
+  링크: https://www.techradar.com/audio/wireless-bluetooth-speakers/sony-ult-towers-preview
+  피드 요약: The new Sony ULT Tower models offer devastating power, flashy looks, and broad connectivity options.
+
+· Exclusive: Sonos CEO Tom Conrad explains why the new Sonos Ace Ultra headphones can achieve what fans wanted the first Ace to do, why its new Ultra soundbar is small, and the AI features of the company's new 'operating system'
+  출처: TechRadar 오디오 / 2026-09-01 23:15
+  링크: https://www.techradar.com/audio/multi-room/exclusive-sonos-ceo-tom-conrad-talks-ace-ultra-beam-ultra-sonos-27-ai-features
+  피드 요약: Sonos is turning its software into an 'OS', and the CEO explains what that means for updates — and talks about how the new features offer something for AI fans and skeptics.
+
+· JBL wants you to bring its wireless speakers indoors, with three new wi-fi enabled home options that'll have you overlooking its portable Bluetooth set
+  출처: TechRadar 오디오 / 2026-09-01 20:11
+  링크: https://www.techradar.com/audio/wireless-bluetooth-speakers/jbl-wants-you-to-bring-its-wireless-speakers-indoors-with-three-new-wi-fi-enabled-home-options-thatll-have-you-overlooking-its-portable-bluetooth-set
+  피드 요약: JBL's new Cove line of indoor speakers swap out its cheap-and-cheerful party speakers for feature-rich options.
+
+· Dali's colorful new subwoofer is designed to make its affordable 5-star stereo speakers sound even bigger and better — or to be part of a great-value, stylish home theater setup
+  출처: TechRadar 오디오 / 2026-09-01 17:00
+  링크: https://www.techradar.com/audio/speakers/dalis-colorful-new-subwoofer-is-designed-to-make-its-affordable-5-star-stereo-speakers-sound-even-bigger-and-better-or-to-be-part-of-a-great-value-stylish-home-theater-setup
+  피드 요약: Dali's colorful compact subwoofer is the perfect partner for its Kupid and Sonik speakers.
+
+■ [카메라] 8건
+----------------------------------------
+· Overview of all current E-mount deals
+  출처: Sony Alpha Rumors / 2026-09-02 05:42
+  링크: https://www.sonyalpharumors.com/overview-of-all-current-e-mount-deals/
+  피드 요약: E-mount camera and lens deals: Save big on Sony cameras/lenses at BHphoto, Amazon, Adorama. Save big on Sigma lenses at BHphoto, Amazon. Adorama. Save big on Tamron lenses at BHphoto, Amazon, Adorama. Save big on Viltrox lenses at BHphoto, Amazon, Adorama. Save big on Zeiss lenses at BHphoto, Amazon
+
+· Sony will announce two new portable monitors in September!
+  출처: Sony Alpha Rumors / 2026-09-01 22:51
+  링크: https://www.sonyalpharumors.com/sony-will-announce-two-new-portable-monitors-in-september/
+  피드 요약: Image on top shows the discontinued CLM-FHD5 Clip-On LCD Monitor Last week I told you Sony would have at least one “minor” product announcement event. One source told me this: two Sony portable monitor (7″ and 5″) are coming in September with some interesting unique features For now, I haven’t heard
+
+· New Sony RX10V reviews
+  출처: Sony Alpha Rumors / 2026-09-01 19:26
+  링크: https://www.sonyalpharumors.com/new-sony-rx10v-reviews/
+  피드 요약: Sony RX10V at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Leistenscheider, Clifton, WexUK The post New Sony RX10V reviews first appeared on sonyalpharumors .
+
+· Nikon is still at the #3 spot (2025 mirrorless camera production volume ranking)
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-09-02 06:18
+  링크: https://nikonrumors.com/2026/09/01/nikon-is-still-at-the-3-spot-2025-mirrorless-camera-production-volume-ranking.aspx/
+  피드 요약: I already reported on the 2025 digital camera shipment market share from the latest Nikkei Industry Report: 2025 digital camera shipment market share Fujifilm’s surge is attributed to strong demand for compact cameras. The 2025 numbers for Fujifilm provided in the report also include the Fujifilm X-
+
+· DxO PhotoLab 10 launched (coupon code included)
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-09-02 04:17
+  링크: https://nikonrumors.com/2026/09/01/dxo-photolab-10-launched-coupon-code-included.aspx/
+  피드 요약: DxO released PhotoLab 10. Here is what’s new: Next-Generation Masking: The introduction of Depth Masks, allowing adjustments based on distance from the camera, and enhanced AI subject detection capable of recognizing fine facial details like eyebrows and mouths. Expanded U Point™ Technology: A major
+
+· Godox released a new MA2 flexible macro twin light
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-09-02 02:05
+  링크: https://nikonrumors.com/2026/09/01/godox-released-a-new-ma2-flexible-macro-twin-light.aspx/
+  피드 요약: Godox released a new MA2 flexible macro twin light: Godox also has the MF-T76N macro twin flash for Nikon cameras. Godox announced a new MF-T76 macro twin flash for Nikon, Canon, and Sony cameras And if you have a sense of humor, here is the new Godox LT1 Creative Pixel LED Light: The post Godox rel
+
+· Fujifilm Outgrows the Giants: +97% Mirrorless Production vs Canon’s +17% and Sony’s +18% — Now Coming for Nikon?
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-02 02:38
+  링크: https://www.fujirumors.com/fujifilm-outgrows-the-giants-97-mirrorless-production-vs-canons-17-and-sonys-18-now-coming-for-nikon/
+  피드 요약: The Rise of Fujifilm? Last month we reported how, according to data provided by Nikkei, Fujifilm has shipped more cameras than Nikon, hence overtaking Nikon as the third best selling digital camera brand. Fujifilm Dethrones Nikon, Claims #3 Worldwide — Despite a Brutal Shortage Year However, now new
+
+· DxO PhotoLab 10 Launched with Depth Masks, Advanced Color Grading, and Expanded AI-powered Tools
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-01 22:01
+  링크: https://www.fujirumors.com/dxo-photolab-10-launched-with-depth-masks-advanced-color-grading-and-expanded-ai-powered-tools/
+  피드 요약: DxO PhotoLab 10 has just been announced. It comes packed with great new features and new AI masks. DxO PhotoLab 10 DXO Film Pack 8* *needed in have access to Fujifilm film simulations profiles in DxO PhotoLab DxO PureRAW 6 DxO Viewpoint 5 Nik Collection 9 ﻿ Press Release DxO PhotoLab 10 delivers a n
