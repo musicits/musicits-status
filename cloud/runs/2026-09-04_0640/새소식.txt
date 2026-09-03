@@ -1,0 +1,384 @@
+뮤직잇츠 IT 뉴스 수집 결과
+========================================
+확인 시각: 2026-09-04 06:40 (KST)
+확인 범위: 지난 확인 시점 이후 → 2026-09-03 06:41 (KST) 이후 기사
+새 기사: 73건
+※ MacRumors: 새 글이 많아 최신 8건만 수집 (외 5건 생략)
+※ SamMobile: 새 글이 많아 최신 8건만 수집 (외 2건 생략)
+※ AppleInsider: 새 글이 많아 최신 8건만 수집 (외 8건 생략)
+※ 9to5Mac: 새 글이 많아 최신 8건만 수집 (외 14건 생략)
+※ Android Authority: 새 글이 많아 최신 8건만 수집 (외 56건 생략)
+※ What Hi-Fi?: 새 글이 많아 최신 8건만 수집 (외 4건 생략)
+
+■ [IT 공식발표] 2건
+----------------------------------------
+· 獨 ‘IFA 2026’ 삼성전자 전시관 이모저모
+  출처: Samsung Newsroom Korea / 2026-09-03 17:00
+  링크: https://news.samsung.com/kr/%e7%8d%a8-ifa-2026-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%a0%84%ec%8b%9c%ea%b4%80-%ec%9d%b4%eb%aa%a8%ec%a0%80%eb%aa%a8
+  피드 요약: 삼성전자가 독일 베를린에서 열리는 유럽 최대 가전 전시회 IFA 2026 개막에 앞서 2일부터 6일까지 ‘당신의 AI 일상 동반자(Your companion to AI Living)’라는 주제로 전시관을 ‘훔볼트 카레(Humboldt Carré)’에 운영한다. 삼성전자는 이번 전시에서 기술의 편의성을 넘어 사람의 일상과 필요를 세심하게 배려하는, 따뜻하고 인간 중심적인 AI 라이프를 제시한다.
+
+· 삼성전자, ‘갤럭시 S26 FE’ 국내 출시
+  출처: Samsung Newsroom Korea / 2026-09-03 17:00
+  링크: https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-s26-fe-%ea%b5%ad%eb%82%b4-%ec%b6%9c%ec%8b%9c
+  피드 요약: 삼성전자가 4일 ‘갤럭시 S26 FE’를 국내 출시한다. ‘갤럭시 S26 FE’는 256GB 스토리지 제품으로 ▲블루베리 ▲그라파이트 ▲피스타치오 3가지 색상으로 출시되며, 가격은 104만 5,000원이다. 전국 삼성스토어와 삼성닷컴, 이동통신사 온·오프라인 매장 등에서 구매할 수 있다. ‘갤럭시 S26 FE’는 최신 카메라 기능과 갤럭시 AI를 통해 플래그십 제품 경험을 제공한다. 사용자는 영상 속 원하는 사람의 움직임을 따라가는 ‘마이 팬캠(My FanCam)’ […]
+
+■ [IT 루머] 45건
+----------------------------------------
+· Foldable iPhone Ultra: The Latest Rumors Before Apple's Event
+  출처: MacRumors / 2026-09-04 05:10
+  링크: https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/
+  피드 요약: We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches. Here's the latest. Subscribe to the MacRumors YouTube channel for more videos. MagSafe - Even though foldable iPhone dummies we saw earlier this year didn't have
+
+· Apple Hit With $2.7 Billion Lawsuit Over App Tracking Rules
+  출처: MacRumors / 2026-09-03 23:46
+  링크: https://www.macrumors.com/2026/09/03/apple-hit-with-lawsuit-over-app-tracking/
+  피드 요약: Apple is facing a £2 billion ($2.7 billion) lawsuit in London accusing it of imposing stricter App Tracking Transparency rules on third party developers than on its own advertising services (via Reuters ). The case, filed at London's Competition Appeal Tribunal, follows a similar suit in which the t
+
+· Apple's 2026 Studio Display Gets Steep $214 Discount on Amazon
+  출처: MacRumors / 2026-09-03 23:38
+  링크: https://www.macrumors.com/2026/09/03/studio-display-214-discount/
+  피드 요약: Amazon today has introduced a big discount on the Apple Studio Display with Nano-Texture Glass and Tilt-Adjustable Stand, available for $1,684.88 with an on-page coupon, down from $1,899.00. This is the first time in nearly three months we've seen any notable discounts on the 2026 Studio Display lin
+
+· iPhone Ultra's Very High Price and Features Revealed in New Report
+  출처: MacRumors / 2026-09-03 23:33
+  링크: https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/
+  피드 요약: Ahead of Apple's event on Wednesday, September 9 , where it is expected to unveil its first-ever foldable iPhone, Taiwanese research firm TrendForce today outlined the device's estimated price range, features, and some other key details. In the U.S., TrendForce estimated that the foldable iPhone wil
+
+· Apple Apparently Cancels Plans for Two New MacBooks
+  출처: MacRumors / 2026-09-03 23:12
+  링크: https://www.macrumors.com/2026/09/03/apple-cancels-plans-for-two-new-macbooks/
+  피드 요약: Apple has canceled plans for a foldable MacBook and a larger OLED MacBook Pro model, according to research firm Omdia . In a new research note, Omdia said Apple has scrapped development of a large foldable MacBook that would have measured between 16.1 and 18 inches when unfolded. It was previously r
+
+· Mini-LED MacBook Pro Models Could Stick Around Until 2028
+  출처: MacRumors / 2026-09-03 23:08
+  링크: https://www.macrumors.com/2026/09/03/mini-led-macbook-pro-models-until-2028/
+  피드 요약: Apple has reportedly revised its plans for adopting OLED displays across its MacBook lineup, and its existing LCD-based MacBook Pro models with mini-LED backlighting are now expected to remain available for longer than anticipated. According to a new OLED adoption roadmap published by research firm 
+
+· 'MacBook Ultra' Rumored to Have M5 Ultra Chip Option
+  출처: MacRumors / 2026-09-03 22:56
+  링크: https://www.macrumors.com/2026/09/03/macbook-ultra-m5-ultra-chip-rumor/
+  피드 요약: Apple reportedly plans to release MacBook Pro models with OLED displays by early 2027, and Omdia analyst David Hsieh has predicted that the laptops will have an M5 Ultra chip option. Given that these MacBook Pro models might actually be branded as "MacBook Ultra" models , it would be fitting if ther
+
+· Apple Reportedly Planning All-New MacBook Model Between Air and Pro
+  출처: MacRumors / 2026-09-03 22:50
+  링크: https://www.macrumors.com/2026/09/03/apple-new-oled-macbook-between-air-pro/
+  피드 요약: Apple may introduce an entirely new 13.8-inch OLED MacBook model in 2029, potentially creating a new product tier between the MacBook Air and MacBook Pro, according to an updated product roadmap from research firm Omdia . The firm's latest roadmap sandwiches a new 13.8-inch MacBook between the proje
+
+· Apple sets the pace, but Samsung drives the heartbeat
+  출처: SamMobile / 2026-09-03 23:02
+  링크: https://www.sammobile.com/opinion/apple-sets-pace-samsung-drives-heartbeat/
+  피드 요약: With less than a week to go until Apple's big iPhone event, there aren't many surprises left. It’s a poorly kept secret that Apple is expected to finally launch its first foldable phone. Apple might have a few other tricks up its sleeve (including new AirPods with cameras?), but those aren't getting
+
+· Samsung strengthens its position in the HBM market in Q2 2026
+  출처: SamMobile / 2026-09-03 22:11
+  링크: https://www.sammobile.com/news/samsung-strengthens-position-hbm-market-q2-2026/
+  피드 요약: Counterpoint Research has published an analysis of the global high-bandwidth memory (HBM) market for Q2 2026. According to the report, Samsung held a 33% share, securing the second spot on the chart for the third consecutive quarter. In comparison, the South Korean tech giant had a 21% share in Q1 2
+
+· Surprise! Samsung opens One UI 9.0 beta program for Galaxy A36
+  출처: SamMobile / 2026-09-03 21:17
+  링크: https://www.sammobile.com/news/samsung-opens-one-ui-9-0-beta-program-galaxy-a36/
+  피드 요약: In July, we learned that Samsung was developing One UI 9.0 (Android 17) for the Galaxy A36. Unlike some other phones from the brand, which were expected to get the beta program for the new software, the Galaxy A36 wasn’t expected to get access to the beta. Well, the South Korean tech giant has surpr
+
+· Samsung’s OLED TVs face challenge from Roku in the US
+  출처: SamMobile / 2026-09-03 20:41
+  링크: https://www.sammobile.com/news/samsungs-oled-tvs-face-challenge-from-roku-in-the-us/
+  피드 요약: Samsung, which makes some of the world's best OLED TVs, has a new rival: Roku. Unlike LG, Hisense, Samsung, Sony, and TCL, Roku isn't a traditional TV maker. It has been one of the biggest smart TV platforms in the US, and it sells several TV streamers. It entered the TV segment in 2023 with […]
+
+· Galaxy S24 FE One UI 9.0 beta update goes live
+  출처: SamMobile / 2026-09-03 19:56
+  링크: https://www.sammobile.com/news/galaxy-s24-fe-one-ui-9-0-beta-update-goes-live/
+  피드 요약: Yesterday, Samsung opened the One UI 9.0 (Android 17) beta program for the Galaxy S24 FE. However, the brand had made it available only in its home country, South Korea. Now, the company has expanded its availability to India. The first beta version of One UI 9.0 for the Galaxy S24 FE in India has [
+
+· Samsung releases a new software update for the Galaxy Z Flip 8
+  출처: SamMobile / 2026-09-03 19:34
+  링크: https://www.sammobile.com/news/samsung-releases-new-software-update-galaxy-z-flip-8/
+  피드 요약: Samsung has released a new software update for its latest smartphone with a clamshell-style foldable display, the Galaxy Z Flip 8. According to the changelog, it improves the phone’s security. However, if you are thinking that since the update came out in September, it may have brought this month’s 
+
+· Galaxy A56 gets One UI 9.0 beta update
+  출처: SamMobile / 2026-09-03 19:00
+  링크: https://www.sammobile.com/news/galaxy-a56-gets-one-ui-9-0-beta-update/
+  피드 요약: The day that many Galaxy A56 users have been waiting for is finally here. Samsung has opened the One UI 9.0 beta program for the phone. It allows users of the device to try the new software before the brand releases its stable version. Samsung has made the One UI 9.0 beta program for the […]
+
+· Galaxy S23, S23+, S23 Ultra get One UI 9.0 beta update
+  출처: SamMobile / 2026-09-03 17:08
+  링크: https://www.sammobile.com/news/galaxy-s23-s23-s23-ultra-get-one-ui-9-0-beta-update/
+  피드 요약: In June, we learned that Samsung was developing One UI 9.0 for the Galaxy S23 series. Now, after almost three months, the company has released its beta version to users, allowing Galaxy S23 owners to experience the new software before it releases the stable build. Samsung has released the first One 
+
+· Global chemical giant BASF sues Apple over Face ID tech
+  출처: AppleInsider / 2026-09-04 05:39
+  링크: https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss
+  피드 요약: Nearly a decade after Face ID debuted in the iPhone X, BASF is bringing a lawsuit against Apple for violating face authentication technology patents it holds. Apple must face yet another patent infringement lawsuit Many versions of the iPad and nearly every iPhone since the iPhone X has used Face ID
+
+· Apple TV picks up sci-fi thriller 'Waffle House Index' in seven-figure deal
+  출처: AppleInsider / 2026-09-04 03:43
+  링크: https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss
+  피드 요약: Apple TV is betting on the Waffle House Index for a sci-fi disaster flick that takes the restaurant's reputation for staying open to its logical extreme. Apple lands disaster film 'Waffle House Index' "Waffle House Index" follows a Waffle House waitress as a series of mounting disasters unfold durin
+
+· M4 Macs can share local AI work with PCs using Nvidia PAIR
+  출처: AppleInsider / 2026-09-04 03:35
+  링크: https://appleinsider.com/articles/26/09/03/m4-macs-can-share-local-ai-work-with-pcs-using-nvidia-pair?utm_source=rss
+  피드 요약: Got an M4 Mac ? Nvidia's new free tool lets it offload local AI tasks to your PC, turning your home network into a shared supercomputer. M5 MacBook Pro The Personal AI Router (PAIR) isn't hardware. Instead, it's software that connects supported Apple Silicon Macs, Nvidia RTX PCs, and DGX Spark syste
+
+· Apple Studio Display drops to $1,499 with Labor Day deals
+  출처: AppleInsider / 2026-09-04 02:56
+  링크: https://appleinsider.com/articles/26/09/03/apple-studio-display-drops-to-1499-with-labor-day-deals?utm_source=rss
+  피드 요약: Labor Day monitor sales at B&H and Amazon include discounts on the 2026 Apple Studio Display, with prices falling to as low as $1,499. Grab the lowest prices of the season on the Apple Studio Display. The Labor Day deals at Amazon and B&H deliver the lowest prices of the season on the Apple Studio D
+
+· Maxed-out iPhone Ultra likely to break the $3,000 mark
+  출처: AppleInsider / 2026-09-04 02:06
+  링크: https://appleinsider.com/articles/26/09/03/maxed-out-iphone-ultra-likely-to-break-the-3000-mark?utm_source=rss
+  피드 요약: A new report claims that Apple is launching a costly new iPhone Ultra at the same time that shortages are driving all prices up, and the result is that the new foldable may start at $2,099. iPhone Ultra will be the most costly iPhone ever made The first iPhone to cost more than $1,000 was the iPhone
+
+· Pfizer launches immersive Apple Vision Pro experience to explain cancer research
+  출처: AppleInsider / 2026-09-04 02:05
+  링크: https://appleinsider.com/articles/26/09/03/pfizer-launches-immersive-apple-vision-pro-experience-to-explain-cancer-research?utm_source=rss
+  피드 요약: Pharmaceutical firm Pfizer has turned to Apple Vision Pro to make an experience that's meant to help cancer patients understand how the company conducts its research into the disease, but looks more like an infomercial. The captions explaining how drug research works are interesting, but this is an 
+
+· Apple AirPods Pro 3 are down to $199 during Amazon's Labor Day Sale
+  출처: AppleInsider / 2026-09-04 00:28
+  링크: https://appleinsider.com/articles/26/09/03/apple-airpods-pro-3-are-down-to-199-during-amazons-labor-day-sale?utm_source=rss
+  피드 요약: September Apple sales are heating up, and AirPods Pro 3 have returned to $199 at Amazon after a $50 discount. Amazon's $199 AirPods Pro 3 deal returns for September. Amazon has dropped AirPods Pro 3 back down to $199 for September, marking the lowest post-Prime Day price on Apple's flagship earbuds.
+
+· Apple sued over App Tracking Transparency in $2.7 billion class action
+  출처: AppleInsider / 2026-09-04 00:17
+  링크: https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action?utm_source=rss
+  피드 요약: A former UK antitrust director has filed a $2.7 billion class action suit claiming that Apple launched its App Tracking Transparency privacy feature to disadvantage developers and benefit itself. App Tracking Transparency The new suit has been filed with the UK's Competition Appeal Tribunal (CAT), w
+
+· MacBook Neo 2: Here’s everything we know so far
+  출처: 9to5Mac / 2026-09-04 06:00
+  링크: https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/
+  피드 요약: Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop … more…
+
+· iPhone 18 Pro and Pro Max: Two new display upgrades coming next week
+  출처: 9to5Mac / 2026-09-04 05:29
+  링크: https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/
+  피드 요약: iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming. more…
+
+· John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase
+  출처: 9to5Mac / 2026-09-04 05:00
+  링크: https://9to5mac.com/2026/09/03/happy-hour-606/
+  피드 요약: Benjamin and Chance talk about John Ternus’s first week in the job as Apple CEO, and how much Tim Cook will still be involved. Also, it’s the last chance for iPhone event rumors, with details about some health updates for the Apple Watch Series 12 coming to the fore. And there was an Apple TV subscr
+
+· Apple’s Calendar app in iOS 27 has brand new design for key features
+  출처: 9to5Mac / 2026-09-04 04:02
+  링크: https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/
+  피드 요약: iOS 27 adds a variety of new features for popular apps like Notes , Reminders , and Calendar —and the Calendar app gets some notable design changes too. Here’s what’s new. more…
+
+· OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here
+  출처: 9to5Mac / 2026-09-04 03:48
+  링크: https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/
+  피드 요약: It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below. more…
+
+· Three advantages iPhone Ultra will have over iPhone 18 Pro
+  출처: 9to5Mac / 2026-09-04 03:17
+  링크: https://9to5mac.com/2026/09/03/three-advantages-iphone-ultra-will-have-over-iphone-18-pro/
+  피드 요약: Apple has three new flagship iPhones launching next week: iPhone 18 Pro and Pro Max and iPhone Ultra . Apple’s Pro models will have several advantages over the Ultra, but here are three ways the high-end Ultra will come out on top. more…
+
+· Apple Vision Pro was just used in a first-of-its-kind surgery
+  출처: 9to5Mac / 2026-09-04 02:59
+  링크: https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/
+  피드 요약: We’ve seen several stories about Apple Vision Pro being used in healthcare settings. This week, Stryker announced the completion of the first surgical procedure using an innovative new app on Vision Pro. more…
+
+· Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing
+  출처: 9to5Mac / 2026-09-04 02:44
+  링크: https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/
+  피드 요약: I mentioned today in my Siri AI Apple Watch piece that there’s one change I still hope Apple makes to watchOS 27 before it ships this month. It’s one of those common muscle-memory features that have existed for years, and I’ve been missing it all summer. more…
+
+· Digital Wellbeing could get multi-app timers, a new dashboard, Bedtime mode tweaks, and more
+  출처: Android Authority / 2026-09-04 06:39
+  링크: https://www.androidauthority.com/google-digital-wellbeing-redesign-app-timers-bedtime-mode-3707329/
+  피드 요약: You might soon be able to set multiple timers at once.
+
+· AWOL LuxVision brings 4K 120Hz and optical shift to UST projection
+  출처: Android Authority / 2026-09-04 05:54
+  링크: https://www.androidauthority.com/awol-luxvision-4k-120hz-ust-projector-ifa-3707311/
+  피드 요약: High-refresh 4K gets a much more living-room-friendly setup.
+
+· Nanoleaf wall panels now work in the Philips Hue app
+  출처: Android Authority / 2026-09-04 05:53
+  링크: https://www.androidauthority.com/philips-hue-wall-light-integration-3707261/
+  피드 요약: Philips Hue finally gets wall panels thanks to Nanoleaf.
+
+· Digital Wellbeing could soon give you a weekly reality check
+  출처: Android Authority / 2026-09-04 04:50
+  링크: https://www.androidauthority.com/google-digital-wellbeing-weekly-wrap-3707169/
+  피드 요약: Google wants Gemini to make sense of your weekly screen time.
+
+· Govee’s new ceiling light is like a mood ring for your room
+  출처: Android Authority / 2026-09-04 03:26
+  링크: https://www.androidauthority.com/govee-launches-four-new-lights-3707125/
+  피드 요약: These new Govee lights will let you personalize your entire home.
+
+· Google weather forecasts are getting more local and more accurate
+  출처: Android Authority / 2026-09-04 03:01
+  링크: https://www.androidauthority.com/google-weathernext-3-weather-forecasts-3707156/
+  피드 요약: The company's new WeatherNext 3 model includes hourly updates and up to 50% better precipitation forecasts.
+
+· Smartphone prices may be soaring, but Americans are getting off easy
+  출처: Android Authority / 2026-09-04 02:53
+  링크: https://www.androidauthority.com/smartphone-price-hikes-us-global-2026-3707111/
+  피드 요약: US shoppers have less to worry about than most smartphone buyers.
+
+· Philips Hue is giving Bridge and Bridge Pro users a feature they’ve wanted for years
+  출처: Android Authority / 2026-09-04 01:18
+  링크: https://www.androidauthority.com/philips-hue-backup-and-restore-3707014/
+  피드 요약: The company also launched several new smart lights to illuminate your home.
+
+· 샤오미 18 폴드, 독일 IFA에서 실기 공개
+  출처: 란즈크 블로그 / 2026-09-03 18:05
+  링크: https://blog.naver.com/yeux1122/224399968162?fromRss=true&trackingCode=rss
+  피드 요약: 샤오미 18 폴드 실기 모델이 독일 IFA에서 공개가 되었습니다.
+
+· 갤럭시S27시리즈, 개발 진행 사항 정리 (*엑시노스&실리콘 배터리 등)
+  출처: 란즈크 블로그 / 2026-09-03 08:18
+  링크: https://blog.naver.com/yeux1122/224399290640?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 주요 개선 요소를 정리해 드립니다. (*관련업체 및 국내 공급망 소스) 1. 개발현황 일단 지금 상황이 과거 어느때랑 달리 모든것이 일어날 수 있는 상황임, (단 한번도 경험해 보지 못한 상황) S27 기획이 많이 흔들리고 있는 상황 맞음 2. 엑시노스 탑재 확대 관련 그리고 엑시노스 탑재 관련은 아직 확정된 것 없음 특히 일부가 간과하는 점이 있음 삼파 2나노는 모바일 외 다른 곳에서 수요가 높아짐 모바일쪽으로 엑시물량을 더 늘리고 싶어도 못하고 있는 상황에 처함 (처음 겪는 상황) 게.다.가 늘 덧글로 이야기 드렸지
+
+· 갤럭시S27 시리즈, 유 무선 충전 속도 확인 (*기본모델 25w 유지)
+  출처: 란즈크 블로그 / 2026-09-03 08:02
+  링크: https://blog.naver.com/yeux1122/224399279687?fromRss=true&trackingCode=rss
+  피드 요약: 갤럭시S27 시리즈의 유/무선 충전 속도가 확인되었습니다. (중국 3C 인증) 유선 기본 25w 플러스 45w 무선 기본 15w 플러스 20w 프로 25w 울트라 25w
+
+· 아이폰 18프로 A20 프로, 다이샷 유출 (*GPU 성능 M4 아이패드 능가)
+  출처: 란즈크 블로그 / 2026-09-03 07:55
+  링크: https://blog.naver.com/yeux1122/224399274907?fromRss=true&trackingCode=rss
+  피드 요약: 아이폰 18프로 A20 프로 다이샷이 유출이 되었습니다. (*웨이보) 주요 내용입니다. A20 Pro 칩이 상당한 GPU 업그레이드를 받을 것으로 예상(*루머 스펙대로 25%~30% 향상 가능 M4 아이패드 보다 최소 비슷하거나 약간 높은 GPU 성능 긱벤치 7 메탈 그래픽 성능 결과 아이폰 17프로 42,693 아이폰 18프로 54,455 M4 아이패드 프로 53,427 A19 Pro 6코어에서 7코어로 증가한 GPU 2개의 고성능 CPU 코어와 4개의 효율 CPU 코어 효율 코어용 8MB L2 캐시(A19 Pro는 6MB) A1
+
+· 애플 아이폰 폴드, 업계 첫 듀얼 UTG 구조 채용 확인 (*내구성/주름 대폭 향상)
+  출처: 란즈크 블로그 / 2026-09-03 07:47
+  링크: https://blog.naver.com/yeux1122/224399269747?fromRss=true&trackingCode=rss
+  피드 요약: 애플 아이폰 폴드 모델의 UTG에 대한 내용이 다시 나왔습니다. (*국내 기사 & 해외 종합) 애플 아이폰 폴드는 폴더블 최초로 듀얼 UTG 구조를 채용 OLED 상하부에 1장씩 배치 가장큰 이유 내구성, 물성 조정, 화면 주름부 반복 접힘 변형을 억제가 가능 출시된 모든 폴더블 제품중에 가장 높은 내구성 확보 (단 기술적 난이도, 수율, 비용이 급격하게 상승) 삼성이 듀얼TUG를 채택하지 않은 이유는 높은 단가, 공정 복잡, 특히 수율 부담때문에 티타늄 합금과 상화 티탄 플레이트를 적용 특히 기존 양산라인을 활용하는데 듀얼보다는 
+
+■ [오디오] 18건
+----------------------------------------
+· These multi-Award-winning Sony wireless headphones are officially half price in the Labor Day sales
+  출처: What Hi-Fi? / 2026-09-04 01:32
+  링크: https://www.whathifi.com/headphones/wireless-headphones/these-multi-award-winning-sony-wireless-headphones-are-officially-half-price-in-the-labor-day-sales
+  피드 요약: Five-star headphones with 50 per cent off
+
+· Xgimi just announced a world projector first, and gamers (and 3D fans!) will want to pay attention
+  출처: What Hi-Fi? / 2026-09-04 01:27
+  링크: https://www.whathifi.com/tv-home-cinema/projectors/xgimi-just-announced-a-world-projector-first-and-gamers-and-3d-fans-will-want-to-pay-attention
+  피드 요약: Xgimi wants to turn your living room into a giant, silky smooth gaming screen
+
+· Yamaha NX-70A
+  출처: What Hi-Fi? / 2026-09-04 00:13
+  링크: https://www.whathifi.com/speakers/hi-fi-speakers/yamaha-nx-70a
+  피드 요약: Yamaha’s new wireless all-in-one speaker system is sonically talented and highly adaptable.
+
+· I just listened to the new Sonos Beam Ultra, and the upgraded Dolby Atmos soundbar made a great first impression
+  출처: What Hi-Fi? / 2026-09-03 23:22
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/i-just-listened-to-the-new-sonos-beam-ultra-and-the-upgraded-dolby-atmos-soundbar-made-a-great-first-impression
+  피드 요약: A promising first listen to Sonos’s upgraded Beam soundbar
+
+· Has Sonos done enough to win back serious music and movie fans' trust? We want to know your thoughts!
+  출처: What Hi-Fi? / 2026-09-03 22:53
+  링크: https://www.whathifi.com/speakers/wireless-speakers/has-sonos-done-enough-to-win-back-serious-music-and-movie-fans-trust-we-want-to-know-your-thoughts
+  피드 요약: Time for a fresh start?
+
+· Roku is launching its own OLED TVs – and we're shocked by the price
+  출처: What Hi-Fi? / 2026-09-03 22:40
+  링크: https://www.whathifi.com/tv-home-cinema/televisions/roku-is-launching-its-own-oled-tvs-and-were-shocked-by-the-price
+  피드 요약: Roku could be the answer for budget-conscious OLED buyers
+
+· Beyerdynamic’s affordable wireless ANC headphones boast 90 hours of battery life and are built to last
+  출처: What Hi-Fi? / 2026-09-03 22:00
+  링크: https://www.whathifi.com/headphones/wireless-headphones/beyerdynamics-affordable-wireless-anc-headphones-boast-90-hours-of-battery-life-and-are-built-to-last
+  피드 요약: The Aventho Y promise “long term ownership” at a reasonable price
+
+· Hisense is taking on the mighty Samsung HW-Q990H with a new Dolby Atmos soundbar system – here are 3 reasons I think it could be great
+  출처: What Hi-Fi? / 2026-09-03 20:46
+  링크: https://www.whathifi.com/tv-home-cinema/soundbars/hisense-is-taking-on-the-mighty-samsung-hw-q990h-with-a-new-dolby-atmos-soundbar-system-here-are-3-reasons-i-think-it-could-be-great
+  피드 요약: Let the wireless soundbar system battle commence
+
+· Amazon drops Bose QuietComfort Headphones 45% down to $199
+  출처: SoundGuys / 2026-09-04 01:34
+  링크: https://www.soundguys.com/bose-quietcomfort-headphones-deal-amazon-162438/
+  피드 요약: Save $160 on Bose QuietComfort Headphones at Amazon and get foldable design, multipoint Bluetooth, and 24-hour battery.
+
+· This palm-sized Skullcandy speaker is down to $39.99 with 20-hour battery life
+  출처: SoundGuys / 2026-09-04 00:29
+  링크: https://www.soundguys.com/skullcandy-session-360-portable-speaker-deal-162433/
+  피드 요약: Save 20% on the Skullcandy Session 360, a palm-sized Bluetooth speaker with magnetic mount, fast charging, and IP67 durability.
+
+· EarFun Wave Pro X headphones launch with Dual-Coaxial drivers and 90-hour battery life for only $129
+  출처: SoundGuys / 2026-09-03 21:00
+  링크: https://www.soundguys.com/earfun-wave-pro-x-launch-162337/
+  피드 요약: EarFun has new flagship headphones that aim to compete with the best for a fraction of the cost.
+
+· The Sennheiser MOMENTUM True Wireless 5 is the antidote to earbud e-waste
+  출처: SoundGuys / 2026-09-03 19:00
+  링크: https://www.soundguys.com/sennheiser-momentum-true-wireless-5-review-161261/
+  피드 요약: Sennheiser proves replaceable batteries can be done.
+
+· Big sound, small price tag: Belkin unveils its new earbuds and headphones
+  출처: SoundGuys / 2026-09-03 17:00
+  링크: https://www.soundguys.com/belkin-soundform-isolate-dot-play-162357/
+  피드 요약: Belkin is launching a trio of new SoundForm audio products.
+
+· Anker’s new audio lineup has something for work, sleep, and everything between
+  출처: SoundGuys / 2026-09-03 16:30
+  링크: https://www.soundguys.com/anker-earbuds-at-ifa-2026-162403/
+  피드 요약: Music is apparently just one job for Anker's new earbuds.
+
+· Beyerdynamic is back with affordable Aventho Y wireless headphones — and the 90-hour stamina alone can be my 'why'
+  출처: TechRadar 오디오 / 2026-09-03 23:55
+  링크: https://www.techradar.com/audio/earbuds-airpods/beyerdynamic-is-back-with-affordable-aventho-y-wireless-headphones-and-the-90-hour-stamina-alone-can-be-my-why
+  피드 요약: Beyerdynamic's new Aventho Y headphones look far pricier than they are, and the stamina is top-tier — catch them now at IFA
+
+· Sony WH-1000XM5 tumble to record-low price at Amazon — here's why our experts recommend these 'class-leading' headphones
+  출처: TechRadar 오디오 / 2026-09-03 19:40
+  링크: https://www.techradar.com/audio/wireless-headphones/sony-wh-1000xm5-tumble-to-record-low-price-at-amazon-heres-why-our-experts-recommend-these-class-leading-headphones
+  피드 요약: Looking for your next pair of headphones? The Sony WH-1000XM5 are easily some of the best on the market — especially at this price.
+
+· One of our favorite power bank makers just unveiled super-cheap ANC earbuds — and after an early listen, we like 'em
+  출처: TechRadar 오디오 / 2026-09-03 19:13
+  링크: https://www.techradar.com/audio/earbuds-airpods/one-of-our-favorite-power-bank-makers-just-unveiled-super-cheap-anc-earbuds-and-after-an-early-listen-we-like-em
+  피드 요약: The new Belkin SoundForm Isolate and Dots buds offer ANC, some noteworthy features and tongue-twister names at a super-low price.
+
+· My favorite earbuds of the year just got an open-ear makeover, as this top cheap headphone brand debuts 7 new models
+  출처: TechRadar 오디오 / 2026-09-03 16:30
+  링크: https://www.techradar.com/audio/earbuds-airpods/my-favorite-earbuds-of-the-year-just-got-an-open-ear-makeover-as-this-top-cheap-headphone-brand-debuts-7-new-models
+  피드 요약: At IFA 2026, Anker's Soundcore unveiled 7 new audio products, including open earbuds which take features from my favorite pair of buds so far this year.
+
+■ [카메라] 8건
+----------------------------------------
+· New Labour Day Deals launched at BHphoto and Adorama
+  출처: Sony Alpha Rumors / 2026-09-04 05:12
+  링크: https://www.sonyalpharumors.com/new-labour-day-deals-launched-at-bhphoto-and-adorama/
+  피드 요약: All major stores like BHphoto (Click here), Amazon (Click here) and Adorama (Click here) launched their new Labor Day Deals. E-mount camera and lens deals: Save big on Sony cameras/lenses at BHphoto, Amazon, Adorama. Save big on Sigma lenses at BHphoto, Amazon. Adorama. Save big on Tamron lenses at 
+
+· Sigma 85mm f/1.2 to Start Shipping September 30, Priced at €1,600
+  출처: Sony Alpha Rumors / 2026-09-03 22:24
+  링크: https://www.sonyalpharumors.com/sigma-85mm-f-1-2-to-start-shipping-september-30-priced-at-e1600/
+  피드 요약: On September 8 Sigma will announce those two lenses: 85mm f/1.2 FE (already listed at B&H Photo). 20-60mm f/2.8-4.0 (a direct competitor to this best-selling Sony lens). A source now told me this: The Sigma 85/1.2 will start shipping out on Sep 30 on and will cost 1600€ This means the lens is less e
+
+· Sony FX5 shipment date keeps being postponed
+  출처: Sony Alpha Rumors / 2026-09-03 18:30
+  링크: https://www.sonyalpharumors.com/sony-fx5-shipment-date-keeps-being-postponed/
+  피드 요약: While Adorama still says shipping will begin on September 15, I think dates like these are purely speculative. SAR readers keep messaging me whenever their estimated preorder shipping dates are postponed. Source 1: Now SONY WEBSITE in Europe says delivery oct. 16th for the FX5…. Source 2: Just wante
+
+· Canon’s New PTZ Firmware Update Adds Internal Recording and Face-Tracking AF
+  출처: Canon Rumors (중요 소식만 선별) / 2026-09-03 18:44
+  링크: https://www.canonrumors.com/canons-new-ptz-firmware-update-adds-internal-recording-and-face-tracking-af/
+  피드 요약: Canon U.S.A. announced firmware updates rolling out across its Pan-Tilt-Zoom (PTZ) camera lineup, aimed at improving performance and adding new features for live events, news production, reality TV, houses of worship, and other production settings. New & Key Features: Canon PTZ Cameras Canon CR-N100
+
+· Nikon released a new firmware update v1.1 for the Coolpix P1100 125x-super-zoom camera
+  출처: Nikon Rumors (중요 소식만 선별) / 2026-09-03 11:32
+  링크: https://nikonrumors.com/2026/09/02/nikon-released-a-new-firmware-update-v1-1-for-the-coolpix-p1100-125x-super-zoom-camera.aspx/
+  피드 요약: Nikon released a new firmware update version 1.1 for the Coolpix P1100 super-zoom camera with two fixes (see previous coverage): In rare circumstances, the camera would stop responding when adjusting zoom during burst photography. Some timestamps in the metadata of video files would differ from the 
+
+· Fujinon XF400mm f/4.5 Could Drop Around Midnight–1 AM New York Time — Says Fujifilm’s Past Announcement Pattern
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-04 01:34
+  링크: https://www.fujirumors.com/fujinon-xf400mm-f-4-5-could-drop-around-midnight-1-am-new-york-time-says-fujifilms-past-announcement-pattern/
+  피드 요약: I have shared the rumor of the Fujinon XF 400mm f/4.5 R LM OIS WR coming September 4. And I got the question at what time exactly it will be announced. Well, I don’t have the time, but I’ve covered plenty of Fujifilm announcements over 15 years of covering Fujifilm, and almost always Fujifilm decide
+
+· Fujinon XF400mm f/4.5 vs XF500mm f/5.6 – Size Comparison
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-03 22:59
+  링크: https://www.fujirumors.com/fujinon-xf400mm-f-4-5-vs-xf500mm-f-5-6-size-comparison/
+  피드 요약: We have leaked the first image of the Fujinon XF400mm f/4.5 R LM OIS WR, and now we can make an accurate size comparison between the XF400mm f/4.5 and the XF500mm f/5.6. One note: the XF400mmF4.5 image I received came with the lens hood on, so I removed it and manually rebuilt the front section… The
+
+· BREAKING: Fujinon XF400mm f/4.5 Coming Tomorrow!!! – First Real Leaked Image
+  출처: Fuji Rumors (중요 소식만 선별) / 2026-09-03 19:59
+  링크: https://www.fujirumors.com/breaking-fujinon-xf400mm-f-4-5-coming-tomorrow-first-real-leaked-image/
+  피드 요약: ﻿ Subscribe to FujiRumors YouTube Channel As we told you back in July, Fujifilm’s original plan was to launch the Fujifilm X-T6 along with the Fujinon XF 50-140mm MKII and Fujinon XF 400mm f/4.5. Sadly the Fujifilm X-T6 has been delayed due to issues we reported about here. But what would happen to 
